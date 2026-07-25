@@ -1,0 +1,51 @@
+name: Update Crypto Data
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r scripts/requirements.txt
+
+      - name: Fetch Binance data
+        run: python scripts/fetch_binance.py
+        continue-on-error: true
+
+      - name: Fetch CoinGecko data
+        run: python scripts/fetch_coingecko.py
+        continue-on-error: true
+
+      - name: Fetch DexScreener data
+        run: python scripts/fetch_dexscreener.py
+        continue-on-error: true
+
+      - name: Fetch News data
+        run: python scripts/fetch_news.py
+        continue-on-error: true
+
+      - name: Update meta
+        run: python scripts/update_meta.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 Auto-update crypto data [skip ci]"
+          file_pattern: 'data/*.json'
+          commit_author: 'GitHub Actions <actions@github.com>'
