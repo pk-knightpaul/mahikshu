@@ -8,7 +8,8 @@ import json
 import os
 from datetime import datetime, timezone
 
-API_URL = "https://www.binance.com/bapi/composite/v1/public/cms/article/catalog/list/query?catalogId=48&pageNo=1&pageSize=50"
+# Updated API endpoint - catalogId=49 for Latest Binance News
+API_URL = "https://www.binance.com/bapi/composite/v1/public/cms/article/list/query?type=1&catalogId=49&pageNo=1&pageSize=50"
 OUTPUT_FILE = "data/binance.json"
 
 def fetch_binance():
@@ -16,42 +17,59 @@ def fetch_binance():
         response = requests.get(API_URL, timeout=30)
         response.raise_for_status()
         data = response.json()
-
-        articles = data.get("data", {}).get("articles", [])
+        
+        # New response structure: data -> catalogs -> articles
+        catalogs = data.get("data", {}).get("catalogs", [])
+        if not catalogs:
+            print("No catalogs found in response")
+            return []
+            
+        articles = catalogs[0].get("articles", [])
         results = []
-
+        
         for article in articles:
             title = article.get("title", "")
             code = article.get("code", "")
-            publish_date = article.get("publishDate", 0)
-
+            release_date = article.get("releaseDate", 0)
+            
             # Determine content type from title keywords
             content_type = "announcement"
             tags = ["binance"]
-
-            if "will list" in title.lower() or "lists" in title.lower():
+            
+            title_lower = title.lower()
+            if "will list" in title_lower or "lists" in title_lower:
                 content_type = "listing"
                 tags.append("listing")
-            elif "delist" in title.lower():
+            elif "delist" in title_lower:
                 content_type = "delisting"
                 tags.append("delisting")
-            elif "launchpool" in title.lower():
+            elif "launchpool" in title_lower:
                 content_type = "launchpool"
                 tags.append("launchpool")
-            elif "airdrop" in title.lower():
+            elif "airdrop" in title_lower:
                 content_type = "airdrop"
                 tags.append("airdrop")
-
+            elif "monitoring tag" in title_lower:
+                content_type = "monitoring"
+                tags.append("monitoring")
+            
             # Extract coin symbols from title
             words = title.split()
             for word in words:
                 clean = word.strip("()[]{}").upper()
-                if len(clean) <= 6 and clean.isalpha() and clean not in ["BINANCE", "WILL", "LIST", "TRADING", "PAIR"]:
-                    tags.append(clean.lower())
-                    break
-
-            published_at = datetime.fromtimestamp(publish_date / 1000, tz=timezone.utc).isoformat().replace("+00:00", "Z")
-
+                if 2 <= len(clean) <= 6 and clean.isalpha() and clean not in ["BINANCE", "WILL", "LIST", "TRADING", "PAIR", "THE", "AND", "FOR", "WITH", "FROM", "USD", "APR"]:
+                    if clean not in [t.upper() for t in tags]:
+                        tags.append(clean.lower())
+            
+            # Parse releaseDate (milliseconds timestamp)
+            if release_date:
+                try:
+                    published_at = datetime.fromtimestamp(release_date / 1000, tz=timezone.utc).isoformat().replace("+00:00", "Z")
+                except:
+                    published_at = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+            else:
+                published_at = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+            
             results.append({
                 "id": f"binance_{code}",
                 "title": title,
@@ -63,7 +81,7 @@ def fetch_binance():
                 "summary": f"Binance announcement: {title}",
                 "tags": list(set(tags))
             })
-
+        
         return results
     except Exception as e:
         print(f"Error fetching Binance: {e}")
