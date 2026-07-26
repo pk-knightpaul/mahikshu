@@ -1,76 +1,16 @@
 [
   {
-    "id": "coingecko_trending_bitmart-token",
-    "title": "🔥 Trending: BitMart (BMX)",
+    "id": "coingecko_trending_pudgy-penguins",
+    "title": "🔥 Trending: Pudgy Penguins (PENGU)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/bitmart-token",
-    "published_at": "2026-07-26T17:57:09.253359Z",
-    "engagement": 777,
-    "summary": "BitMart is currently trending on CoinGecko. Market cap rank: #777",
+    "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+    "published_at": "2026-07-26T19:08:21.574607Z",
+    "engagement": 111,
+    "summary": "Pudgy Penguins is currently trending on CoinGecko. Market cap rank: #111",
     "tags": [
       "trending",
-      "bmx",
-      "coingecko"
-    ]
-  },
-  {
-    "id": "coingecko_trending_ondo-finance",
-    "title": "🔥 Trending: Ondo (ONDO)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/ondo-finance",
-    "published_at": "2026-07-26T17:57:09.253383Z",
-    "engagement": 41,
-    "summary": "Ondo is currently trending on CoinGecko. Market cap rank: #41",
-    "tags": [
-      "trending",
-      "ondo",
-      "coingecko"
-    ]
-  },
-  {
-    "id": "coingecko_trending_shiba-inu",
-    "title": "🔥 Trending: Shiba Inu (SHIB)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/shiba-inu",
-    "published_at": "2026-07-26T17:57:09.253389Z",
-    "engagement": 29,
-    "summary": "Shiba Inu is currently trending on CoinGecko. Market cap rank: #29",
-    "tags": [
-      "trending",
-      "shib",
-      "coingecko"
-    ]
-  },
-  {
-    "id": "coingecko_trending_monad",
-    "title": "🔥 Trending: Monad (MON)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/monad",
-    "published_at": "2026-07-26T17:57:09.253393Z",
-    "engagement": 144,
-    "summary": "Monad is currently trending on CoinGecko. Market cap rank: #144",
-    "tags": [
-      "trending",
-      "mon",
-      "coingecko"
-    ]
-  },
-  {
-    "id": "coingecko_trending_cash-cat",
-    "title": "🔥 Trending: Cash Cat (CASHCAT)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/cash-cat",
-    "published_at": "2026-07-26T17:57:09.253397Z",
-    "engagement": 443,
-    "summary": "Cash Cat is currently trending on CoinGecko. Market cap rank: #443",
-    "tags": [
-      "trending",
-      "cashcat",
+      "pengu",
       "coingecko"
     ]
   },
@@ -80,12 +20,57 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/kaito",
-    "published_at": "2026-07-26T17:57:09.253401Z",
-    "engagement": 131,
-    "summary": "KAITO is currently trending on CoinGecko. Market cap rank: #131",
+    "published_at": "2026-07-26T19:08:21.574632Z",
+    "engagement": 132,
+    "summary": "KAITO is currently trending on CoinGecko. Market cap rank: #132",
     "tags": [
       "trending",
       "kaito",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_trending_ondo-finance",
+    "title": "🔥 Trending: Ondo (ONDO)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/ondo-finance",
+    "published_at": "2026-07-26T19:08:21.574638Z",
+    "engagement": 41,
+    "summary": "Ondo is currently trending on CoinGecko. Market cap rank: #41",
+    "tags": [
+      "trending",
+      "ondo",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_trending_bitmart-token",
+    "title": "🔥 Trending: BitMart (BMX)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/bitmart-token",
+    "published_at": "2026-07-26T19:08:21.574642Z",
+    "engagement": 779,
+    "summary": "BitMart is currently trending on CoinGecko. Market cap rank: #779",
+    "tags": [
+      "trending",
+      "bmx",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_trending_lorenzo-protocol",
+    "title": "🔥 Trending: Lorenzo Protocol (BANK)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/lorenzo-protocol",
+    "published_at": "2026-07-26T19:08:21.574647Z",
+    "engagement": 181,
+    "summary": "Lorenzo Protocol is currently trending on CoinGecko. Market cap rank: #181",
+    "tags": [
+      "trending",
+      "bank",
       "coingecko"
     ]
   },
@@ -95,9 +80,9 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/pons",
-    "published_at": "2026-07-26T17:57:09.253404Z",
-    "engagement": 504,
-    "summary": "Pons is currently trending on CoinGecko. Market cap rank: #504",
+    "published_at": "2026-07-26T19:08:21.574651Z",
+    "engagement": 517,
+    "summary": "Pons is currently trending on CoinGecko. Market cap rank: #517",
     "tags": [
       "trending",
       "pons",
@@ -105,17 +90,77 @@
     ]
   },
   {
-    "id": "coingecko_trending_zama",
-    "title": "🔥 Trending: Zama (ZAMA)",
+    "id": "coingecko_trending_shiba-inu",
+    "title": "🔥 Trending: Shiba Inu (SHIB)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/zama",
-    "published_at": "2026-07-26T17:57:09.253407Z",
-    "engagement": 226,
-    "summary": "Zama is currently trending on CoinGecko. Market cap rank: #226",
+    "url": "https://www.coingecko.com/en/coins/shiba-inu",
+    "published_at": "2026-07-26T19:08:21.574654Z",
+    "engagement": 29,
+    "summary": "Shiba Inu is currently trending on CoinGecko. Market cap rank: #29",
     "tags": [
       "trending",
-      "zama",
+      "shib",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_trending_pi-network",
+    "title": "🔥 Trending: Pi Network (PI)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/pi-network",
+    "published_at": "2026-07-26T19:08:21.574657Z",
+    "engagement": 71,
+    "summary": "Pi Network is currently trending on CoinGecko. Market cap rank: #71",
+    "tags": [
+      "trending",
+      "pi",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_trending_dexe",
+    "title": "🔥 Trending: DeXe (DEXE)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/dexe",
+    "published_at": "2026-07-26T19:08:21.574659Z",
+    "engagement": 183,
+    "summary": "DeXe is currently trending on CoinGecko. Market cap rank: #183",
+    "tags": [
+      "trending",
+      "dexe",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_trending_lighter",
+    "title": "🔥 Trending: Lighter (LIT)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/lighter",
+    "published_at": "2026-07-26T19:08:21.574662Z",
+    "engagement": 99,
+    "summary": "Lighter is currently trending on CoinGecko. Market cap rank: #99",
+    "tags": [
+      "trending",
+      "lit",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_trending_virtual-protocol",
+    "title": "🔥 Trending: Virtuals Protocol (VIRTUAL)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/virtual-protocol",
+    "published_at": "2026-07-26T19:08:21.574665Z",
+    "engagement": 113,
+    "summary": "Virtuals Protocol is currently trending on CoinGecko. Market cap rank: #113",
+    "tags": [
+      "trending",
+      "virtual",
       "coingecko"
     ]
   },
@@ -125,7 +170,7 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/the-black-bull",
-    "published_at": "2026-07-26T17:57:09.253409Z",
+    "published_at": "2026-07-26T19:08:21.574668Z",
     "engagement": 295,
     "summary": "The Black Bull is currently trending on CoinGecko. Market cap rank: #295",
     "tags": [
@@ -135,77 +180,32 @@
     ]
   },
   {
-    "id": "coingecko_trending_euler",
-    "title": "🔥 Trending: Euler (EUL)",
+    "id": "coingecko_trending_syrup",
+    "title": "🔥 Trending: Maple Finance (SYRUP)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/euler",
-    "published_at": "2026-07-26T17:57:09.253412Z",
-    "engagement": 388,
-    "summary": "Euler is currently trending on CoinGecko. Market cap rank: #388",
+    "url": "https://www.coingecko.com/en/coins/syrup",
+    "published_at": "2026-07-26T19:08:21.574671Z",
+    "engagement": 164,
+    "summary": "Maple Finance is currently trending on CoinGecko. Market cap rank: #164",
     "tags": [
       "trending",
-      "eul",
+      "syrup",
       "coingecko"
     ]
   },
   {
-    "id": "coingecko_trending_uniswap",
-    "title": "🔥 Trending: Uniswap (UNI)",
+    "id": "coingecko_trending_keeta",
+    "title": "🔥 Trending: Keeta (KTA)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/uniswap",
-    "published_at": "2026-07-26T17:57:09.253415Z",
-    "engagement": 38,
-    "summary": "Uniswap is currently trending on CoinGecko. Market cap rank: #38",
+    "url": "https://www.coingecko.com/en/coins/keeta",
+    "published_at": "2026-07-26T19:08:21.574674Z",
+    "engagement": 341,
+    "summary": "Keeta is currently trending on CoinGecko. Market cap rank: #341",
     "tags": [
       "trending",
-      "uni",
-      "coingecko"
-    ]
-  },
-  {
-    "id": "coingecko_trending_the-open-network",
-    "title": "🔥 Trending: Gram (prev. Toncoin) (GRAM)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/the-open-network",
-    "published_at": "2026-07-26T17:57:09.253418Z",
-    "engagement": 24,
-    "summary": "Gram (prev. Toncoin) is currently trending on CoinGecko. Market cap rank: #24",
-    "tags": [
-      "trending",
-      "gram",
-      "coingecko"
-    ]
-  },
-  {
-    "id": "coingecko_trending_venice-token",
-    "title": "🔥 Trending: Venice Token (VVV)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/venice-token",
-    "published_at": "2026-07-26T17:57:09.253442Z",
-    "engagement": 87,
-    "summary": "Venice Token is currently trending on CoinGecko. Market cap rank: #87",
-    "tags": [
-      "trending",
-      "vvv",
-      "coingecko"
-    ]
-  },
-  {
-    "id": "coingecko_trending_lab",
-    "title": "🔥 Trending: LAB (LAB)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/lab",
-    "published_at": "2026-07-26T17:57:09.253445Z",
-    "engagement": 407,
-    "summary": "LAB is currently trending on CoinGecko. Market cap rank: #407",
-    "tags": [
-      "trending",
-      "lab",
+      "kta",
       "coingecko"
     ]
   },
@@ -215,12 +215,172 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "published_at": "2026-07-26T17:57:09.253448Z",
+    "published_at": "2026-07-26T19:08:21.574677Z",
     "engagement": 1,
     "summary": "Bitcoin is currently trending on CoinGecko. Market cap rank: #1",
     "tags": [
       "trending",
       "btc",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_mover_uniswap",
+    "title": "📈 Uniswap (UNI): +5.50% in 24h",
+    "platform": "coingecko",
+    "content_type": "mover",
+    "url": "https://www.coingecko.com/en/coins/uniswap",
+    "published_at": "2026-07-26T19:08:21.612738Z",
+    "engagement": 5,
+    "summary": "Uniswap moved +5.50% in the last 24 hours. Current price: $3.89",
+    "tags": [
+      "mover",
+      "uni",
+      "24h-change",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_mover_memecore",
+    "title": "📈 MemeCore (M): +4.80% in 24h",
+    "platform": "coingecko",
+    "content_type": "mover",
+    "url": "https://www.coingecko.com/en/coins/memecore",
+    "published_at": "2026-07-26T19:08:21.612769Z",
+    "engagement": 4,
+    "summary": "MemeCore moved +4.80% in the last 24 hours. Current price: $1.22",
+    "tags": [
+      "mover",
+      "m",
+      "24h-change",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_mover_bitcoin-cash",
+    "title": "📈 Bitcoin Cash (BCH): +4.00% in 24h",
+    "platform": "coingecko",
+    "content_type": "mover",
+    "url": "https://www.coingecko.com/en/coins/bitcoin-cash",
+    "published_at": "2026-07-26T19:08:21.612777Z",
+    "engagement": 4,
+    "summary": "Bitcoin Cash moved +4.00% in the last 24 hours. Current price: $218.61",
+    "tags": [
+      "mover",
+      "bch",
+      "24h-change",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_mover_litecoin",
+    "title": "📈 Litecoin (LTC): +3.60% in 24h",
+    "platform": "coingecko",
+    "content_type": "mover",
+    "url": "https://www.coingecko.com/en/coins/litecoin",
+    "published_at": "2026-07-26T19:08:21.612790Z",
+    "engagement": 3,
+    "summary": "Litecoin moved +3.60% in the last 24 hours. Current price: $47.87",
+    "tags": [
+      "mover",
+      "ltc",
+      "24h-change",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_mover_shiba-inu",
+    "title": "📈 Shiba Inu (SHIB): +3.50% in 24h",
+    "platform": "coingecko",
+    "content_type": "mover",
+    "url": "https://www.coingecko.com/en/coins/shiba-inu",
+    "published_at": "2026-07-26T19:08:21.612798Z",
+    "engagement": 3,
+    "summary": "Shiba Inu moved +3.50% in the last 24 hours. Current price: $5.25e-06",
+    "tags": [
+      "mover",
+      "shib",
+      "24h-change",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_mover_ondo-finance",
+    "title": "📈 Ondo (ONDO): +3.10% in 24h",
+    "platform": "coingecko",
+    "content_type": "mover",
+    "url": "https://www.coingecko.com/en/coins/ondo-finance",
+    "published_at": "2026-07-26T19:08:21.612804Z",
+    "engagement": 3,
+    "summary": "Ondo moved +3.10% in the last 24 hours. Current price: $0.39802",
+    "tags": [
+      "mover",
+      "ondo",
+      "24h-change",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_mover_figure-heloc",
+    "title": "📈 Figure Heloc (FIGR_HELOC): +2.90% in 24h",
+    "platform": "coingecko",
+    "content_type": "mover",
+    "url": "https://www.coingecko.com/en/coins/figure-heloc",
+    "published_at": "2026-07-26T19:08:21.612810Z",
+    "engagement": 2,
+    "summary": "Figure Heloc moved +2.90% in the last 24 hours. Current price: $1.034",
+    "tags": [
+      "mover",
+      "figr_heloc",
+      "24h-change",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_mover_bittensor",
+    "title": "📈 Bittensor (TAO): +2.80% in 24h",
+    "platform": "coingecko",
+    "content_type": "mover",
+    "url": "https://www.coingecko.com/en/coins/bittensor",
+    "published_at": "2026-07-26T19:08:21.612814Z",
+    "engagement": 2,
+    "summary": "Bittensor moved +2.80% in the last 24 hours. Current price: $197.41",
+    "tags": [
+      "mover",
+      "tao",
+      "24h-change",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_mover_monero",
+    "title": "📉 Monero (XMR): -2.30% in 24h",
+    "platform": "coingecko",
+    "content_type": "mover",
+    "url": "https://www.coingecko.com/en/coins/monero",
+    "published_at": "2026-07-26T19:08:21.612819Z",
+    "engagement": 2,
+    "summary": "Monero moved -2.30% in the last 24 hours. Current price: $356.66",
+    "tags": [
+      "mover",
+      "xmr",
+      "24h-change",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_mover_world-liberty-financial",
+    "title": "📉 World Liberty Financial (WLFI): -2.30% in 24h",
+    "platform": "coingecko",
+    "content_type": "mover",
+    "url": "https://www.coingecko.com/en/coins/world-liberty-financial",
+    "published_at": "2026-07-26T19:08:21.612823Z",
+    "engagement": 2,
+    "summary": "World Liberty Financial moved -2.30% in the last 24 hours. Current price: $0.055013",
+    "tags": [
+      "mover",
+      "wlfi",
+      "24h-change",
       "coingecko"
     ]
   }
