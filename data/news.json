@@ -1,5 +1,34 @@
 [
   {
+    "id": "news_cointelegraph_brazilian-police-cracks-down-o",
+    "title": "Brazilian police bust cocaine traffickers in crypto-linked transnational probe",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/brazilian-police-cracks-down-on-crypto-fueled-international-drug-traffickers-suspected-of-moving-billions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-27T09:29:49Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Brazilian police bust cocaine traffickers in crypto-linked transnational probe\" class=\"type:primaryImage\" src=\"https://s3-images...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_coinbase-ceo-agentic-finance-b",
+    "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
+    "platform": "news",
+    "content_type": "listing_news",
+    "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-27T09:01:05Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase CEO touts agentic finance as Base tops 100M AI payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
+    "tags": [
+      "news",
+      "listing",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_cointelegraph_triple-a-treasury-wallet-breac",
     "title": "Triple-A confirms treasury-wallet breach after losses reach $11.8M",
     "platform": "news",
@@ -187,32 +216,74 @@
     ]
   },
   {
-    "id": "news_cointelegraph_robinhood-cryptocom-prediction",
-    "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
+    "id": "news_coindesk_crypto-steadies-as-iran-u-s-pa",
+    "title": "Crypto steadies as Iran-U.S. pause sends oil tumbling, lifts risk assets",
     "platform": "news",
     "content_type": "news",
-    "url": "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-25T21:05:00Z",
+    "url": "https://www.coindesk.com/markets/2026/07/27/crypto-steadies-as-iran-u-s-pause-sends-oil-tumbling-lifts-risk-assets",
+    "published_at": "2026-07-27T10:35:04Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood in talks with Crypto.com over prediction markets: WSJ\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
+    "summary": "",
     "tags": [
       "news",
-      "cointelegraph"
+      "coindesk"
     ]
   },
   {
-    "id": "news_cointelegraph_bitcoin-policy-institute-state",
-    "title": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
+    "id": "news_coindesk_interest-rates-in-u-s-u-k-japa",
+    "title": "Interest rates in U.S., U.K., Japan and Coinbase, Strategy earnings: Crypto Week Ahead",
     "platform": "news",
-    "content_type": "airdrop",
-    "url": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-25T18:19:00Z",
+    "content_type": "listing_news",
+    "url": "https://www.coindesk.com/markets/2026/07/27/interest-rates-in-u-s-u-k-japan-and-coinbase-strategy-earnings-crypto-week-ahead",
+    "published_at": "2026-07-27T09:43:58Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program\" class=\"type:primaryImage\" src=\"https://s3-images...",
+    "summary": "",
     "tags": [
       "news",
-      "airdrop",
-      "cointelegraph"
+      "listing",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_coindesk_cloud-data-firm-storj-files-fo",
+    "title": "Cloud data firm Storj files for Chapter 11, extending a week of crypto failures. Token slides 16%",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://www.coindesk.com/business/2026/07/27/cloud-data-firm-storj-files-for-chapter-11-extending-a-week-of-crypto-failures-token-slides-16",
+    "published_at": "2026-07-27T09:15:43Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_coindesk_live-updates-ether-leads-crypt",
+    "title": "Live updates: Ether leads crypto higher. China's gold imports surge",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
+    "published_at": "2026-07-27T06:43:34Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_coindesk_crypto-is-the-canary-in-the-co",
+    "title": "Crypto is the canary in the coal mine for the quantum computing threat, experts say",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://www.coindesk.com/markets/2026/07/27/crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-say",
+    "published_at": "2026-07-27T06:37:54Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
     ]
   },
   {
@@ -357,74 +428,32 @@
     ]
   },
   {
-    "id": "news_coindesk_robinhood-chain-s-real-world-a",
-    "title": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
+    "id": "news_decrypt_bitmart-becomes-latest-crypto-",
+    "title": "BitMart Becomes Latest Crypto Exchange to Shut Down",
     "platform": "news",
     "content_type": "news",
-    "url": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
-    "published_at": "2026-07-25T10:00:00Z",
+    "url": "https://decrypt.co/374346/bitmart-becomes-latest-crypto-exchange-to-shut-down",
+    "published_at": "2026-07-27T09:57:20Z",
     "engagement": 0,
-    "summary": "",
+    "summary": "BitMart’s closure, citing the market environment and “future strategic direction,” comes days after crypto perps exchange BitMEX shut down.",
     "tags": [
       "news",
-      "coindesk"
+      "decrypt"
     ]
   },
   {
-    "id": "news_coindesk_senate-dems-should-accept-the-",
-    "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
+    "id": "news_decrypt_thailands-sec-files-criminal-c",
+    "title": "Thailand's SEC Files Criminal Complaint Against Bitkub Over Undisclosed $47M Hack",
     "platform": "news",
-    "content_type": "news",
-    "url": "https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house",
-    "published_at": "2026-07-24T15:01:46Z",
+    "content_type": "security",
+    "url": "https://decrypt.co/374343/thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack",
+    "published_at": "2026-07-27T09:16:14Z",
     "engagement": 0,
-    "summary": "",
+    "summary": "The regulator says the exchange and two former directors left a $47 million theft out of its filings in 2021.",
     "tags": [
       "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_coindesk_sam-altman-backed-world-networ",
-    "title": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
-    "platform": "news",
-    "content_type": "regulation",
-    "url": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes",
-    "published_at": "2026-07-24T15:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "regulation",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_coindesk_institutional-crypto-trading-p",
-    "title": "Institutional crypto trading platform LMAX is exploring sale, IPO",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://www.coindesk.com/business/2026/05/22/institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo",
-    "published_at": "2026-07-24T14:36:16Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_coindesk_saylor-and-team-overhaul-strat",
-    "title": "Saylor and team overhaul Strategy's bitcoin metrics as bear market persists",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists",
-    "published_at": "2026-07-24T13:15:15Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
+      "security",
+      "decrypt"
     ]
   },
   {
@@ -605,34 +634,6 @@
     "published_at": "2026-07-24T12:29:34Z",
     "engagement": 0,
     "summary": "Plus, the Clarity Act is no longer expected to progress before the August recess. And Vlad Tenev's X was hacked to post a meme coin...",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_india-orders-github-to-take-do",
-    "title": "India Orders GitHub to Take Down Jack Dorsey's Bitchat Amid Protests",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/374239/india-orders-github-to-take-down-jack-dorseys-bitchat-amid-protests",
-    "published_at": "2026-07-24T12:20:01Z",
-    "engagement": 0,
-    "summary": "The order gave GitHub three hours to pull three code repositories, citing the messaging app's use during protest internet shutdowns.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_polymarket-account-in-farage-b",
-    "title": "Polymarket Account in Farage Backer's Name Took $9M in Crypto From Unknown Sources: FT",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/374212/polymarket-account-in-farage-backers-name-took-9m-in-crypto-from-unknown-sources-ft",
-    "published_at": "2026-07-24T09:40:50Z",
-    "engagement": 0,
-    "summary": "The \"GCottrell93\" account bet the funds on Trump's election win and cashed out the profit, though who paid in and who collected is unclear.",
     "tags": [
       "news",
       "decrypt"
