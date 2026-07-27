@@ -1,5 +1,48 @@
 [
   {
+    "id": "news_cointelegraph_garden-finance-app-offline-450",
+    "title": "Garden Finance disables app as Blockaid reports $450,000 exploit",
+    "platform": "news",
+    "content_type": "security",
+    "url": "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-27T01:58:54Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Garden Finance disables app as Blockaid reports $450,000 exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
+    "tags": [
+      "news",
+      "security",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_storj-chapter-11-bankruptcy-to",
+    "title": "Storj files for bankruptcy, explores equity path for tokenholders",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/storj-chapter-11-bankruptcy-tokenholder-equity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-27T01:01:43Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Storj files for bankruptcy, explores equity path for tokenholders \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_clarity-hopes-fade-bitmex-shut",
+    "title": "CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler’s Digest, July 26",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/magazine/clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-27?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-27T00:03:44Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler’s Digest, July 26\" class=\"type:primaryImage\" src=\"https://s3-images.ct...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_cointelegraph_wemix-attacker-moves-724k-cont",
     "title": "WEMIX says attacker moved about $724,000 after contract breach",
     "platform": "news",
@@ -173,46 +216,17 @@
     ]
   },
   {
-    "id": "news_cointelegraph_fidelity-push-senate-passage-o",
-    "title": "Fidelity joins push for Senate passage of CLARITY Act",
+    "id": "news_coindesk_south-korea-trading-giant-puts",
+    "title": "South Korea trading giant puts receivables onchain in tokenization test with LG CNS",
     "platform": "news",
     "content_type": "news",
-    "url": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-25T11:32:00Z",
+    "url": "https://www.coindesk.com/business/2026/07/26/south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-cns",
+    "published_at": "2026-07-27T00:00:00Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fidelity joins push for Senate passage of CLARITY Act\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article...",
+    "summary": "",
     "tags": [
       "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_cointelegraph_dangos-perp-dex-taps-nearly-mo",
-    "title": "Dango’s perp DEX taps out nearly 4 months after launch",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-25T10:05:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dango’s perp DEX taps out nearly 4 months after launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl...",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_cointelegraph_ethereum-etfs-week-red-end-inf",
-    "title": "Ethereum ETFs close week in red, end 5-day inflow streak",
-    "platform": "news",
-    "content_type": "regulation",
-    "url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-25T07:43:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum ETFs close week in red, end 5-day inflow streak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti...",
-    "tags": [
-      "news",
-      "regulation",
-      "cointelegraph"
+      "coindesk"
     ]
   },
   {
@@ -406,20 +420,6 @@
     "content_type": "news",
     "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
     "published_at": "2026-07-24T13:03:03Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_coindesk_eu-hits-russia-with-massive-21",
-    "title": "EU hits Russia with massive 21st sanctions package targeting $120B crypto network",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://www.coindesk.com/policy/2026/07/24/eu-hits-russia-with-massive-21st-sanctions-package-targeting-usd120b-crypto-network",
-    "published_at": "2026-07-24T11:58:06Z",
     "engagement": 0,
     "summary": "",
     "tags": [
