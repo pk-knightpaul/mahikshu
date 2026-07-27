@@ -1,5 +1,19 @@
 [
   {
+    "id": "news_cointelegraph_x-money-cross-river-embedded-b",
+    "title": "Cross River to enable P2P payments, banking services for X Money",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/x-money-cross-river-embedded-banking-p2p-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-27T21:05:05Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cross River to enable P2P payments, banking services for X Money\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_cointelegraph_bitmine-keeps-buying-ether-as-",
     "title": "Bitmine keeps buying Ether as ETH outperforms Bitcoin",
     "platform": "news",
@@ -195,21 +209,6 @@
     "tags": [
       "news",
       "listing",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_cointelegraph_triple-a-treasury-wallet-breac",
-    "title": "Triple-A confirms treasury-wallet breach after losses reach $11.8M",
-    "platform": "news",
-    "content_type": "security",
-    "url": "https://cointelegraph.com/news/triple-a-treasury-wallet-breach-11-8-million-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-27T05:15:54Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Triple-A confirms treasury-wallet breach after losses reach $11.8M \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
-    "tags": [
-      "news",
-      "security",
       "cointelegraph"
     ]
   },
@@ -428,6 +427,34 @@
     ]
   },
   {
+    "id": "news_decrypt_searchable-nyc-property-databa",
+    "title": "Searchable NYC Property Database Puts Wealthy Residents at Risk, Critics Warn",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://decrypt.co/374484/searchable-nyc-property-database-could-put-wealthy-residents-at-risk-crypto-execs-warn",
+    "published_at": "2026-07-27T21:05:05Z",
+    "engagement": 0,
+    "summary": "A searchable database built from New York City's public property assessment records has drawn backlash from critics who say it creates privacy and security risks.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_decrypt_prediction-market-traders-brac",
+    "title": "Prediction Market Traders Brace for Surprise Fed Rate Hike",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://decrypt.co/374453/prediction-market-traders-brace-for-surprise-fed-rate-hike",
+    "published_at": "2026-07-27T20:43:16Z",
+    "engagement": 0,
+    "summary": "Prediction market traders have pushed the odds of a July Fed rate hike to 27% on both Polymarket and Myriad, rising double digits in the last 24 hours.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_decrypt_sparkkitty-malware-mobile-apps",
     "title": "SparkKitty Malware Found in App Stores Targets Crypto Wallet Seed Phrases",
     "platform": "news",
@@ -608,35 +635,6 @@
     "published_at": "2026-07-27T09:57:20Z",
     "engagement": 0,
     "summary": "BitMart’s closure, citing the market environment and “future strategic direction,” comes days after crypto perps exchange BitMEX shut down.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_thailands-sec-files-criminal-c",
-    "title": "Thailand's SEC Files Criminal Complaint Against Bitkub Over Undisclosed $47M Hack",
-    "platform": "news",
-    "content_type": "security",
-    "url": "https://decrypt.co/374343/thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack",
-    "published_at": "2026-07-27T09:16:14Z",
-    "engagement": 0,
-    "summary": "The regulator says the exchange and two former directors left a $47 million theft out of its filings in 2021.",
-    "tags": [
-      "news",
-      "security",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_review-inkling-mira-murati-fir",
-    "title": "Mira Murati’s Inkling AI Model Review: Best Open-Weights Model in the West",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/373884/review-inkling-mira-murati-first-open-source-ai",
-    "published_at": "2026-07-26T14:01:03Z",
-    "engagement": 0,
-    "summary": "After two years of silence from Thinking Machines Lab, Murati's debut model is out and on OpenRouter. The MCP score is genuinely impressive. The price-to-performance math is more complicated.",
     "tags": [
       "news",
       "decrypt"
