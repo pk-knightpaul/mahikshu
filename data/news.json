@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_cointelegraph_imf-brazil-stablecoin-activity",
+    "title": "IMF warns Brazil’s stablecoin activity outpaces traditional capital flows",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/imf-brazil-stablecoin-activity-outpaces-traditional-capital-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T10:09:47Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"IMF warns Brazil’s stablecoin activity outpaces traditional capital flows\" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_lido-upgrade-ethereum-validato",
+    "title": "Lido upgrade aims to slash Ethereum’s validator count by one-third",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T09:14:45Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Lido upgrade aims to slash Ethereum’s validator count by one-third\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_ondo-shifts-from-layer-1-block",
+    "title": "Ondo shifts from layer-1 blockchain plan to offchain execution network",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T09:12:14Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ondo shifts from layer-1 blockchain plan to offchain execution network\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_cointelegraph_apple-lawsuit-alleged-1-8-mill",
     "title": "Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses",
     "platform": "news",
@@ -171,45 +213,59 @@
     ]
   },
   {
-    "id": "news_cointelegraph_kraken-parent-payward-acquires",
-    "title": "Kraken parent Payward acquires Magic Labs’ wallet business",
+    "id": "news_coindesk_bitcoin-drops-as-south-korean-",
+    "title": "Bitcoin drops as South Korean stocks tumble, Senate shelves crypto Clarity Act",
     "platform": "news",
     "content_type": "news",
-    "url": "https://cointelegraph.com/news/kraken-parent-payward-acquires-magic-labs-wallet-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-27T16:40:39Z",
+    "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-drops-as-south-korean-stocks-tumble-senate-shelves-crypto-clarity-act",
+    "published_at": "2026-07-28T11:09:16Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent Payward acquires Magic Labs’ wallet business\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar...",
+    "summary": "",
     "tags": [
       "news",
-      "cointelegraph"
+      "coindesk"
     ]
   },
   {
-    "id": "news_cointelegraph_bitcoin-price-eyes-66k-as-us-s",
-    "title": "Bitcoin price eyes $66K as US stocks rise on Iran-strike pause",
+    "id": "news_coindesk_1inch-opens-aqua-liquidity-pro",
+    "title": "1inch opens Aqua liquidity protocol across 13 chains",
     "platform": "news",
     "content_type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-66k-as-us-stocks-rise-on-iran-strike-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-27T14:51:26Z",
+    "url": "https://www.coindesk.com/web3/2026/07/27/1inch-opens-aqua-liquidity-protocol-across-13-chains",
+    "published_at": "2026-07-28T11:00:00Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price eyes $66K as US stocks rise on Iran-strike pause\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
+    "summary": "",
     "tags": [
       "news",
-      "cointelegraph"
+      "coindesk"
     ]
   },
   {
-    "id": "news_cointelegraph_hong-kong-crypto-giant-hashkey",
-    "title": "Hong Kong crypto giant HashKey merges regional exchange into one",
+    "id": "news_coindesk_perpetuals-tied-to-sk-hynix-su",
+    "title": "Perpetuals tied to SK Hynix hit by flash crash to $900 on Hyperliquid",
     "platform": "news",
     "content_type": "news",
-    "url": "https://cointelegraph.com/news/hong-kong-crypto-giant-hashkey-merges-its-exchanges-into-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-27T13:41:44Z",
+    "url": "https://www.coindesk.com/markets/2026/07/28/perpetuals-tied-to-sk-hynix-suffer-a-flash-crash-to-usd900-on-hyperliquid",
+    "published_at": "2026-07-28T10:05:43Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hong Kong crypto giant HashKey merges regional exchange into one\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
+    "summary": "",
     "tags": [
       "news",
-      "cointelegraph"
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_coindesk_bitmex-and-bitmart-may-be-firs",
+    "title": "BitMEX and BitMart may be first casualties of crypto trading slump",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://www.coindesk.com/business/2026/07/28/bitmex-and-bitmart-may-be-first-casualties-of-crypto-trading-slump",
+    "published_at": "2026-07-28T09:36:01Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
     ]
   },
   {
@@ -242,7 +298,7 @@
   },
   {
     "id": "news_coindesk_bitcoin-recovers-from-asian-se",
-    "title": "Bitcoin recovers from Asian session lows; Nasdaq futures remain under pressure",
+    "title": "Live updates: Bitcoin's next move hinges on breakeven wall at $68,500; Nasdaq futures wilt",
     "platform": "news",
     "content_type": "news",
     "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure",
@@ -367,62 +423,31 @@
     ]
   },
   {
-    "id": "news_coindesk_cantor-is-advising-crypto-bank",
-    "title": "Cantor is advising crypto bank AMINA on path to potential public listing",
-    "platform": "news",
-    "content_type": "listing_news",
-    "url": "https://www.coindesk.com/business/2026/07/27/cantor-is-advising-crypto-bank-amina-on-path-to-potential-public-listing",
-    "published_at": "2026-07-27T14:36:30Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "listing",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_coindesk_lido-begins-moving-usd16-5-bil",
-    "title": "Lido begins moving $16.5 billion in staked ether to cut validator count by a third",
+    "id": "news_decrypt_running-away-balloon-artist-su",
+    "title": "'Running Away Balloon' Artist Sues AI Meme Generator Over Ad Templates",
     "platform": "news",
     "content_type": "news",
-    "url": "https://www.coindesk.com/tech/2026/07/27/lido-begins-moving-usd16-5-billion-in-staked-ether-to-cut-validator-count-by-a-third",
-    "published_at": "2026-07-27T14:00:00Z",
+    "url": "https://decrypt.co/374501/running-away-balloon-artist-sues-ai-meme-generator-over-ad-templates",
+    "published_at": "2026-07-28T10:08:09Z",
     "engagement": 0,
-    "summary": "",
+    "summary": "The suit sidesteps the fight over AI training data, alleging the comic sits in a paywalled template catalogue, searchable by name.",
     "tags": [
       "news",
-      "coindesk"
+      "decrypt"
     ]
   },
   {
-    "id": "news_coindesk_thailand-s-sec-alleges-bitkub-",
-    "title": "Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack",
+    "id": "news_decrypt_kalshi-polymarket-score-win-as",
+    "title": "Kalshi, Polymarket Score Win as Judge Blocks Minnesota Prediction Market Ban—For Now",
     "platform": "news",
-    "content_type": "security",
-    "url": "https://www.coindesk.com/policy/2026/07/27/thailand-s-sec-alleges-bitkub-concealed-cyberattack-that-led-to-usd50-million-hack",
-    "published_at": "2026-07-27T13:32:16Z",
+    "content_type": "news",
+    "url": "https://decrypt.co/374498/kalshi-polymarket-score-win-as-judge-blocks-minnesota-prediction-market-ban-for-now",
+    "published_at": "2026-07-28T09:04:19Z",
     "engagement": 0,
-    "summary": "",
+    "summary": "The order turns on whether each contract counts as a swap under federal law, and the judge found that not every one does.",
     "tags": [
       "news",
-      "security",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_coindesk_nvidia-forms-37-member-ai-secu",
-    "title": "Nvidia forms 37-member AI security alliance without OpenAI, Anthropic or Google",
-    "platform": "news",
-    "content_type": "regulation",
-    "url": "https://www.coindesk.com/tech/2026/07/27/nvidia-forms-37-member-ai-security-alliance-without-openai-anthropic-or-google",
-    "published_at": "2026-07-27T13:25:58Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "regulation",
-      "coindesk"
+      "decrypt"
     ]
   },
   {
@@ -604,35 +629,6 @@
     "published_at": "2026-07-27T13:00:29Z",
     "engagement": 0,
     "summary": "The Bitcoin treasury firm also tapped its $1 billion preferred buyback for the first time, spending $25 million on STRC.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_crypto-firms-pivoting-to-ai-is",
-    "title": "Crypto Firms Pivoting to AI Is 'Zero-Sum' Thinking: Coinbase CEO",
-    "platform": "news",
-    "content_type": "listing_news",
-    "url": "https://decrypt.co/374366/crypto-firms-pivoting-to-ai-is-zero-sum-thinking-coinbase-ceo",
-    "published_at": "2026-07-27T12:27:47Z",
-    "engagement": 0,
-    "summary": "Brian Armstrong says crypto is infrastructure that underpins AI, and that AI agents will need it to transact on their own.",
-    "tags": [
-      "news",
-      "listing",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_morning-minute-tokenized-stock",
-    "title": "Morning Minute: Tokenized Stocks Jump 5x on Robinhood Chain",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/374357/morning-minute-tokenized-stocks-jump-5x-on-robinhood-chain",
-    "published_at": "2026-07-27T12:00:49Z",
-    "engagement": 0,
-    "summary": "Plus markets are green after oil fell 8%; ETH is greatly outpacing BTC in ETF inflows; and another major crypto exchange has shut down",
     "tags": [
       "news",
       "decrypt"
