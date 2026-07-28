@@ -1,5 +1,34 @@
 [
   {
+    "id": "news_cointelegraph_apple-lawsuit-alleged-1-8-mill",
+    "title": "Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/apple-lawsuit-alleged-1-8-million-loss-fake-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T07:40:40Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_binance-co-founder-cz-backs-cr",
+    "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
+    "platform": "news",
+    "content_type": "listing_news",
+    "url": "https://cointelegraph.com/news/binance-co-founder-cz-backs-crypto-license-passporting-across-asean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T06:00:54Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance co-founder CZ backs crypto license passporting across ASEAN \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
+    "tags": [
+      "news",
+      "listing",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_cointelegraph_us-judge-blocks-minnesota-pred",
     "title": "US judge temporarily blocks Minnesota prediction market ban",
     "platform": "news",
@@ -15,13 +44,13 @@
   },
   {
     "id": "news_cointelegraph_zimbabwe-seven-fintech-project",
-    "title": "Zimbabwe admits seven fintech projects to regulatory sandbox",
+    "title": "Zimbabwe admits 7 fintech projects to regulatory sandbox",
     "platform": "news",
     "content_type": "news",
     "url": "https://cointelegraph.com/news/zimbabwe-seven-fintech-projects-regulatory-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published_at": "2026-07-28T03:17:10Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zimbabwe admits seven fintech projects to regulatory sandbox\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/...",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zimbabwe admits 7 fintech projects to regulatory sandbox\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti...",
     "tags": [
       "news",
       "cointelegraph"
@@ -43,13 +72,13 @@
   },
   {
     "id": "news_cointelegraph_india-bans-bitchat-binance-phi",
-    "title": "Binance phishs its own staff monthly, India censors BitChat code: Asia Express",
+    "title": "Binance phishes its own staff monthly, India censors BitChat code: Asia Express",
     "platform": "news",
     "content_type": "listing_news",
     "url": "https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published_at": "2026-07-28T01:23:07Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance phishs its own staff monthly, India censors BitChat code: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images...",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance phishes its own staff monthly, India censors BitChat code: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-image...",
     "tags": [
       "news",
       "listing",
@@ -184,32 +213,45 @@
     ]
   },
   {
-    "id": "news_cointelegraph_rate-path-still-divides-invest",
-    "title": "Rate path still divides investors: Five things to know in Bitcoin this week",
+    "id": "news_coindesk_inside-the-cme-and-cftc-s-batt",
+    "title": "Inside the CME and CFTC’s battle over onchain perpetual futures",
     "platform": "news",
     "content_type": "news",
-    "url": "https://cointelegraph.com/markets/rate-path-still-divides-investors-five-things-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-27T13:31:07Z",
+    "url": "https://www.coindesk.com/policy/2026/07/28/inside-the-cme-and-cftc-s-battle-over-onchain-perpetual-futures",
+    "published_at": "2026-07-28T08:00:00Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Rate path still divides investors: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://s3-images.ct...",
+    "summary": "",
     "tags": [
       "news",
-      "cointelegraph"
+      "coindesk"
     ]
   },
   {
-    "id": "news_cointelegraph_binance-disappears-android-goo",
-    "title": "Binance disappears from Google Play in certain EU countries",
+    "id": "news_coindesk_hong-kong-s-central-bank-puts-",
+    "title": "Hong Kong’s central bank puts a number on lenders' quantum preparedness. It's very low.",
     "platform": "news",
-    "content_type": "listing_news",
-    "url": "https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-27T13:24:17Z",
+    "content_type": "news",
+    "url": "https://www.coindesk.com/markets/2026/07/28/hong-kong-s-central-bank-puts-a-number-on-lenders-quantum-preparedness-it-s-very-low",
+    "published_at": "2026-07-28T07:55:41Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance disappears from Google Play in certain EU countries\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a...",
+    "summary": "",
     "tags": [
       "news",
-      "listing",
-      "cointelegraph"
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_coindesk_bitcoin-recovers-from-asian-se",
+    "title": "Bitcoin recovers from Asian session lows; Nasdaq futures remain under pressure",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure",
+    "published_at": "2026-07-28T07:46:22Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
     ]
   },
   {
@@ -380,49 +422,6 @@
     "tags": [
       "news",
       "regulation",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_coindesk_securitize-builds-wall-street-",
-    "title": "Securitize builds Wall Street credentials with SEC adviser license as tokenization expands",
-    "platform": "news",
-    "content_type": "regulation",
-    "url": "https://www.coindesk.com/business/2026/07/27/securitize-builds-wall-street-credentials-with-sec-adviser-license-as-tokenization-expands",
-    "published_at": "2026-07-27T13:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "regulation",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_coindesk_crypto-is-rewriting-how-wall-s",
-    "title": "Crypto is rewriting how Wall Street traders spend their weekends",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://www.coindesk.com/markets/2026/07/27/crypto-is-rewriting-how-wall-street-traders-spend-their-weekends",
-    "published_at": "2026-07-27T13:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_coindesk_bitmine-buys-more-ether-as-tom",
-    "title": "Bitmine buys more ether as Tom Lee says rising ETH/BTC ratio points to stronger crypto prices",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://www.coindesk.com/business/2026/07/27/bitmine-buys-more-ether-as-tom-lee-says-rising-eth-btc-ratio-points-to-stronger-crypto-prices",
-    "published_at": "2026-07-27T12:55:57Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
       "coindesk"
     ]
   },
