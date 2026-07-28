@@ -1,5 +1,90 @@
 [
   {
+    "id": "news_cointelegraph_what-happened-in-crypto-today",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T13:42:17Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_the-2022-bear-market-didnt-kil",
+    "title": "The real reason DeFi projects that survived 2022 crash are shutting down now",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/magazine/the-2022-bear-market-didnt-kill-these-defi-projects-what-changed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T13:30:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The real reason DeFi projects that survived 2022 crash are shutting down now\" class=\"type:primaryImage\" src=\"https://s3-images.c...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_markets-eye-bank-of-japan-meet",
+    "title": "Markets eye Bank of Japan meeting on Friday as yen repeats 40-year US dollar lows",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/markets/markets-eye-bank-of-japan-meeting-on-friday-as-yen-repeats-40-year-us-dollar-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T13:11:28Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Markets eye Bank of Japan meeting on Friday as yen repeats 40-year US dollar lows\" class=\"type:primaryImage\" src=\"https://s3-ima...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_ethereum-solana-led-crypto-hac",
+    "title": "Ethereum, Solana led crypto hack losses in H1 2026: Blockaid",
+    "platform": "news",
+    "content_type": "security",
+    "url": "https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T13:00:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum, Solana led crypto hack losses in H1 2026: Blockaid\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/...",
+    "tags": [
+      "news",
+      "security",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_paypal-expands-stablecoin-push",
+    "title": "PayPal expands stablecoin push as crypto assets factor into Q2 results",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T12:07:51Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"PayPal expands stablecoin push as crypto assets factor into Q2 results\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_1inch-moves-to-unite-defi-liqu",
+    "title": "1Inch moves to unite DeFi liquidity across 11 chains with Aqua",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/1inch-moves-to-unite-defi-liquidity-across-11-chains-with-aqua?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T11:00:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"1Inch moves to unite DeFi liquidity across 11 chains with Aqua\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_cointelegraph_imf-brazil-stablecoin-activity",
     "title": "IMF warns Brazil’s stablecoin activity outpaces traditional capital flows",
     "platform": "news",
@@ -128,88 +213,60 @@
     ]
   },
   {
-    "id": "news_cointelegraph_new-york-ag-clarity-act-state-",
-    "title": "New York AG warns CLARITY Act could weaken state crypto enforcement",
+    "id": "news_coindesk_core-scientific-lands-amd-ai-d",
+    "title": "Core Scientific lands AMD AI deal as bitcoin mining operation winds down",
     "platform": "news",
     "content_type": "news",
-    "url": "https://cointelegraph.com/news/new-york-ag-clarity-act-state-crypto-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-27T22:55:44Z",
+    "url": "https://www.coindesk.com/business/2026/07/28/core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down",
+    "published_at": "2026-07-28T12:46:05Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New York AG warns CLARITY Act could weaken state crypto enforcement\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
+    "summary": "",
     "tags": [
       "news",
-      "cointelegraph"
+      "coindesk"
     ]
   },
   {
-    "id": "news_cointelegraph_x-money-cross-river-embedded-b",
-    "title": "Cross River to enable P2P payments, banking services for X Money",
+    "id": "news_coindesk_binance-makes-fighting-crypto-",
+    "title": "Binance makes fighting crypto crime more difficult, says new report",
     "platform": "news",
-    "content_type": "news",
-    "url": "https://cointelegraph.com/news/x-money-cross-river-embedded-banking-p2p-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-27T21:05:05Z",
+    "content_type": "listing_news",
+    "url": "https://www.coindesk.com/business/2026/07/28/binance-makes-fighting-crypto-crime-more-difficult-says-new-nyt-article",
+    "published_at": "2026-07-28T12:24:02Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cross River to enable P2P payments, banking services for X Money\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
+    "summary": "",
     "tags": [
       "news",
-      "cointelegraph"
+      "listing",
+      "coindesk"
     ]
   },
   {
-    "id": "news_cointelegraph_bitmine-keeps-buying-ether-as-",
-    "title": "Bitmine keeps buying Ether as ETH outperforms Bitcoin",
+    "id": "news_coindesk_apple-kept-fake-bitcoin-wallet",
+    "title": "Apple kept fake bitcoin wallet on App Store after $875,000 theft report, lawsuit alleges",
     "platform": "news",
     "content_type": "news",
-    "url": "https://cointelegraph.com/news/bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-27T19:22:59Z",
+    "url": "https://www.coindesk.com/business/2026/07/28/apple-kept-fake-bitcoin-wallet-on-app-store-after-usd875-000-theft-report-lawsuit-alleges",
+    "published_at": "2026-07-28T11:59:17Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine keeps buying Ether as ETH outperforms Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article...",
+    "summary": "",
     "tags": [
       "news",
-      "cointelegraph"
+      "coindesk"
     ]
   },
   {
-    "id": "news_cointelegraph_what-happened-in-crypto-today",
-    "title": "Here’s what happened in crypto today",
+    "id": "news_coindesk_bitcoin-s-recent-stability-has",
+    "title": "Bitcoin’s recent stability hasn't been enough to spark a broader altcoin rally",
     "platform": "news",
     "content_type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-27T18:51:58Z",
+    "url": "https://www.coindesk.com/daybook-us/2026/07/28/bitcoin-s-recent-stability-hasn-t-been-enough-to-spark-a-broader-altcoin-rally",
+    "published_at": "2026-07-28T11:37:31Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "summary": "",
     "tags": [
       "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_cointelegraph_securitize-becomes-sec-registe",
-    "title": "Securitize Capital becomes SEC-registered investment adviser",
-    "platform": "news",
-    "content_type": "regulation",
-    "url": "https://cointelegraph.com/news/securitize-becomes-sec-registered-investment-adviser-through-capital-unit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-27T18:41:30Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize Capital becomes SEC-registered investment adviser\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/...",
-    "tags": [
-      "news",
-      "regulation",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_cointelegraph_tether-xaut-gold-token-receive",
-    "title": "Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://cointelegraph.com/news/tether-xaut-gold-token-receives-shariah-certification-islamic-finance-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-27T16:44:03Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access\" class=\"type:primaryImage\" src=\"https:/...",
-    "tags": [
-      "news",
-      "cointelegraph"
+      "coindesk"
     ]
   },
   {
@@ -298,7 +355,7 @@
   },
   {
     "id": "news_coindesk_bitcoin-recovers-from-asian-se",
-    "title": "Live updates: Bitcoin's next move hinges on breakeven wall at $68,500; Nasdaq futures wilt",
+    "title": "Live updates: Bitcoin falls back to $63,000 as South Korea's Kospi crashes nearly 11%",
     "platform": "news",
     "content_type": "news",
     "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure",
@@ -367,59 +424,60 @@
     ]
   },
   {
-    "id": "news_coindesk_crypto-s-favorite-usd90-trilli",
-    "title": "Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow",
+    "id": "news_decrypt_morning-minute-strategy-choose",
+    "title": "Morning Minute: Strategy Chooses Cash, STRC Over BTC",
     "platform": "news",
     "content_type": "news",
-    "url": "https://www.coindesk.com/markets/2026/07/22/crypto-s-favorite-usd90-trillion-trading-product-is-coming-to-wall-street-but-big-banks-are-taking-it-slow",
-    "published_at": "2026-07-27T18:00:00Z",
+    "url": "https://decrypt.co/374535/morning-minute-strategy-chooses-cash-strc-over-btc",
+    "published_at": "2026-07-28T11:57:58Z",
     "engagement": 0,
-    "summary": "",
+    "summary": "Plus crypto broadly falls following memory stock slide, Coinbase leans into memes with new feature, and the Fomo app sets a new ATH.",
     "tags": [
       "news",
-      "coindesk"
+      "decrypt"
     ]
   },
   {
-    "id": "news_coindesk_digital-asset-trading-platform",
-    "title": "Digital asset trading platform Uphold cuts 17% of global headcount as crypto winter bites",
+    "id": "news_decrypt_1inchs-shared-liquidity-layer-",
+    "title": "1inch's Shared Liquidity Layer Aqua Goes Live",
     "platform": "news",
     "content_type": "news",
-    "url": "https://www.coindesk.com/business/2026/07/27/digital-asset-trading-platform-uphold-cuts-17-of-global-headcount-as-crypto-winter-bites",
-    "published_at": "2026-07-27T16:47:06Z",
+    "url": "https://decrypt.co/374533/1inchs-shared-liquidity-layer-aqua-goes-live",
+    "published_at": "2026-07-28T11:53:26Z",
     "engagement": 0,
-    "summary": "",
+    "summary": "The shared liquidity layer opens to all users on 13 chains, letting one wallet balance stand behind several positions at once.",
     "tags": [
       "news",
-      "coindesk"
+      "decrypt"
     ]
   },
   {
-    "id": "news_coindesk_what-are-perps-anyway-everythi",
-    "title": "What are perps, anyway? Everything you need to know about crypto’s hottest trading instrument",
+    "id": "news_decrypt_zcash-miner-fortitude-nebraska",
+    "title": "Zcash Miner Fortitude Powers Up Nebraska Facility as It Eyes Public Listing",
     "platform": "news",
-    "content_type": "news",
-    "url": "https://www.coindesk.com/business/2026/07/27/what-are-perps-anyway-everything-you-need-to-know-about-crypto-s-hottest-trading-instrument",
-    "published_at": "2026-07-27T15:00:00Z",
+    "content_type": "listing_news",
+    "url": "https://decrypt.co/374491/zcash-miner-fortitude-nebraska-mining-facility",
+    "published_at": "2026-07-28T11:31:03Z",
     "engagement": 0,
-    "summary": "",
+    "summary": "The Digital Currency Group-owned Zcash miner brought its first greenfield site online as it looks to lower mining costs and advance plans to become a public company.",
     "tags": [
       "news",
-      "coindesk"
+      "listing",
+      "decrypt"
     ]
   },
   {
-    "id": "news_coindesk_fanatics-buys-regulated-exchan",
-    "title": "Fanatics buys regulated exchange in bid to grow prediction markets business",
+    "id": "news_decrypt_myanmar-approves-death-penalty",
+    "title": "Myanmar Approves Death Penalty for Forced Scam Labor, Life for Crypto Fraud",
     "platform": "news",
     "content_type": "news",
-    "url": "https://www.coindesk.com/markets/2026/07/27/fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business",
-    "published_at": "2026-07-27T14:46:10Z",
+    "url": "https://decrypt.co/374519/myanmar-approves-death-penalty-for-forced-scam-labor-life-for-crypto-fraud",
+    "published_at": "2026-07-28T11:29:21Z",
     "engagement": 0,
-    "summary": "",
+    "summary": "Scam operations across the region drove up to $114 billion in losses in 2025, according to United Nations estimates.",
     "tags": [
       "news",
-      "coindesk"
+      "decrypt"
     ]
   },
   {
@@ -575,62 +633,6 @@
     "tags": [
       "news",
       "regulation",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_border-agents-phone-duress-pas",
-    "title": "A Man Gave Border Agents His Phone Passcode. It Wiped Everything. Now He's Facing Federal Charges",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/374394/border-agents-phone-duress-passcode-grapheneos",
-    "published_at": "2026-07-27T17:40:36Z",
-    "engagement": 0,
-    "summary": "Samuel Tunick allegedly triggered a GrapheneOS duress password during a warrantless airport search. Federal prosecutors call it destruction of property. His lawyers call it a digital right.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_bitmine-nears-5-percent-ethere",
-    "title": "Bitmine Nears Goal of Controlling 5% of Ethereum Supply With $11.8 Billion Treasury",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/374389/bitmine-nears-5-percent-ethereum-supply-with-11-8-billion-treasury",
-    "published_at": "2026-07-27T15:42:54Z",
-    "engagement": 0,
-    "summary": "The company says it now holds 5.79 million ETH, equal to 4.8% of the cryptocurrency's circulating supply, while expanding its staking operations and share buyback program.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_circle-ibm-blockchain-patent-e",
-    "title": "Circle Buys IBM Blockchain Patent Estate—And Becomes America's Biggest Holder",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/374388/circle-ibm-blockchain-patent-estate",
-    "published_at": "2026-07-27T15:35:25Z",
-    "engagement": 0,
-    "summary": "The USDC issuer acquired nearly 1,000 patents from IBM in a single deal, but IBM is still backing USDC's most dangerous rival.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_strategy-adds-525m-to-cash-res",
-    "title": "Strategy Adds $525M to Cash Reserve, Skips Bitcoin Buy for Fifth Week",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/374369/strategy-adds-525m-to-cash-reserve-skips-bitcoin-buy-for-fifth-week",
-    "published_at": "2026-07-27T13:00:29Z",
-    "engagement": 0,
-    "summary": "The Bitcoin treasury firm also tapped its $1 billion preferred buyback for the first time, spending $25 million on STRC.",
-    "tags": [
-      "news",
       "decrypt"
     ]
   }
