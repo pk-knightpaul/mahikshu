@@ -1,5 +1,19 @@
 [
   {
+    "id": "news_cointelegraph_visa-earnings-stablecoin-strat",
+    "title": "Visa outlines stablecoin strategy during Q3 earnings call",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T21:57:49Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Visa outlines stablecoin strategy during Q3 earnings call \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_cointelegraph_morgan-stanley-expands-crypto-",
     "title": "Morgan Stanley expands crypto lineup with Ether, Solana ETPs",
     "platform": "news",
@@ -191,20 +205,6 @@
     "published_at": "2026-07-28T09:14:45Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Lido upgrade aims to slash Ethereum’s validator count by one-third\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_cointelegraph_ondo-shifts-from-layer-1-block",
-    "title": "Ondo shifts from layer-1 blockchain plan to offchain execution network",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://cointelegraph.com/news/ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-28T09:12:14Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ondo shifts from layer-1 blockchain plan to offchain execution network\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
     "tags": [
       "news",
       "cointelegraph"
@@ -422,6 +422,34 @@
     ]
   },
   {
+    "id": "news_decrypt_us-iran-ceasefire-prediction-m",
+    "title": "Markets Don’t Buy the US Ceasefire Against Iran Will Last",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://decrypt.co/374611/us-iran-ceasefire-prediction-market-odds",
+    "published_at": "2026-07-28T22:46:03Z",
+    "engagement": 0,
+    "summary": "The odds that a ceasefire lasts at least 14 consecutive days dropped by 10% today on Polymarket, and traders on Myriad believe peace talks won't happen until next month.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_decrypt_apple-overtakes-nvidia-which-b",
+    "title": "Apple Overtakes Nvidia—Which Will Be Bigger by End of July?",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://decrypt.co/374604/apple-overtakes-nvidia-which-bigger-july",
+    "published_at": "2026-07-28T22:08:04Z",
+    "engagement": 0,
+    "summary": "Apple’s supposedly inadequate AI spending suddenly looks less like falling behind and more like avoiding a very expensive bill.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_decrypt_claude-mythos-cracked-post-qua",
     "title": "Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break",
     "platform": "news",
@@ -599,34 +627,6 @@
     "published_at": "2026-07-28T11:29:21Z",
     "engagement": 0,
     "summary": "Scam operations across the region drove up to $114 billion in losses in 2025, according to United Nations estimates.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_running-away-balloon-artist-su",
-    "title": "'Running Away Balloon' Artist Sues AI Meme Generator Over Ad Templates",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/374501/running-away-balloon-artist-sues-ai-meme-generator-over-ad-templates",
-    "published_at": "2026-07-28T10:08:09Z",
-    "engagement": 0,
-    "summary": "The suit sidesteps the fight over AI training data, alleging the comic sits in a paywalled template catalogue, searchable by name.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_kalshi-polymarket-score-win-as",
-    "title": "Kalshi, Polymarket Score Win as Judge Blocks Minnesota Prediction Market Ban—For Now",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/374498/kalshi-polymarket-score-win-as-judge-blocks-minnesota-prediction-market-ban-for-now",
-    "published_at": "2026-07-28T09:04:19Z",
-    "engagement": 0,
-    "summary": "The order turns on whether each contract counts as a swap under federal law, and the judge found that not every one does.",
     "tags": [
       "news",
       "decrypt"
