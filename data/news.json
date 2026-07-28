@@ -1,5 +1,19 @@
 [
   {
+    "id": "news_cointelegraph_morgan-stanley-expands-crypto-",
+    "title": "Morgan Stanley expands crypto lineup with Ether, Solana ETPs",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/morgan-stanley-expands-crypto-lineup-with-ether-solana-etps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T20:10:46Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Morgan Stanley expands crypto lineup with Ether, Solana ETPs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_cointelegraph_americanfortress-proposes-quan",
     "title": "AmericanFortress proposes quantum-safe crypto wallet protection without fund migration",
     "platform": "news",
@@ -197,17 +211,17 @@
     ]
   },
   {
-    "id": "news_cointelegraph_apple-lawsuit-alleged-1-8-mill",
-    "title": "Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses",
+    "id": "news_coindesk_remotely-dovish-fed-could-be-g",
+    "title": "'Anything remotely dovish' from Fed could be good for bitcoin, says analyst",
     "platform": "news",
     "content_type": "news",
-    "url": "https://cointelegraph.com/news/apple-lawsuit-alleged-1-8-million-loss-fake-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-28T07:40:40Z",
+    "url": "https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst",
+    "published_at": "2026-07-28T20:23:31Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
+    "summary": "",
     "tags": [
       "news",
-      "cointelegraph"
+      "coindesk"
     ]
   },
   {
@@ -408,17 +422,17 @@
     ]
   },
   {
-    "id": "news_coindesk_perpetuals-tied-to-sk-hynix-su",
-    "title": "Perpetuals tied to SK Hynix hit by flash crash to $900 on Hyperliquid",
+    "id": "news_decrypt_claude-mythos-cracked-post-qua",
+    "title": "Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break",
     "platform": "news",
     "content_type": "news",
-    "url": "https://www.coindesk.com/markets/2026/07/28/perpetuals-tied-to-sk-hynix-suffer-a-flash-crash-to-usd900-on-hyperliquid",
-    "published_at": "2026-07-28T10:05:43Z",
+    "url": "https://decrypt.co/374600/claude-mythos-cracked-post-quantum-cryptography",
+    "published_at": "2026-07-28T20:45:38Z",
     "engagement": 0,
-    "summary": "",
+    "summary": "Anthropic’s locked model found a new attack on a post-quantum signature scheme headed for U.S. federal standardization.",
     "tags": [
       "news",
-      "coindesk"
+      "decrypt"
     ]
   },
   {
@@ -613,20 +627,6 @@
     "published_at": "2026-07-28T09:04:19Z",
     "engagement": 0,
     "summary": "The order turns on whether each contract counts as a swap under federal law, and the judge found that not every one does.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_elon-musk-humans-lose-control-",
-    "title": "Elon Musk: Humans Will Lose Control of AI Within a Decade",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/374488/elon-musk-humans-lose-control-ai-decade",
-    "published_at": "2026-07-27T23:00:04Z",
-    "engagement": 0,
-    "summary": "The SpaceX founder says artificial intelligence is advancing too quickly to stop and is urging leading AI companies to coordinate on safety before releasing their most powerful models.",
     "tags": [
       "news",
       "decrypt"
