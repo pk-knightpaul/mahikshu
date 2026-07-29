@@ -1,5 +1,19 @@
 [
   {
+    "id": "news_cointelegraph_myanmar-parliament-crypto-scam",
+    "title": "Myanmar parliament passes crypto scam bill with penalties up to life",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/myanmar-parliament-crypto-scam-bill-life-sentences?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T23:27:28Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Myanmar parliament passes crypto scam bill with penalties up to life\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_cointelegraph_visa-earnings-stablecoin-strat",
     "title": "Visa outlines stablecoin strategy during Q3 earnings call",
     "platform": "news",
@@ -197,17 +211,18 @@
     ]
   },
   {
-    "id": "news_cointelegraph_lido-upgrade-ethereum-validato",
-    "title": "Lido upgrade aims to slash Ethereum’s validator count by one-third",
+    "id": "news_coindesk_coinbase-wants-to-be-canada-s-",
+    "title": "Coinbase wants to be Canada’s ‘everything exchange,’ but says clearer rules are needed first",
     "platform": "news",
-    "content_type": "news",
-    "url": "https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-28T09:14:45Z",
+    "content_type": "listing_news",
+    "url": "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first",
+    "published_at": "2026-07-28T23:50:38Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Lido upgrade aims to slash Ethereum’s validator count by one-third\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
+    "summary": "",
     "tags": [
       "news",
-      "cointelegraph"
+      "listing",
+      "coindesk"
     ]
   },
   {
@@ -400,20 +415,6 @@
     "content_type": "news",
     "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-drops-as-south-korean-stocks-tumble-senate-shelves-crypto-clarity-act",
     "published_at": "2026-07-28T11:09:16Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_coindesk_1inch-opens-aqua-liquidity-pro",
-    "title": "1inch opens Aqua liquidity protocol across 13 chains",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://www.coindesk.com/web3/2026/07/27/1inch-opens-aqua-liquidity-protocol-across-13-chains",
-    "published_at": "2026-07-28T11:00:00Z",
     "engagement": 0,
     "summary": "",
     "tags": [

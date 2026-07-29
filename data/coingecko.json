@@ -5,12 +5,27 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/casper-network",
-    "published_at": "2026-07-28T22:59:06.200177Z",
-    "engagement": 640,
-    "summary": "Casper Network is currently trending on CoinGecko. Market cap rank: #640",
+    "published_at": "2026-07-29T00:00:37.330830Z",
+    "engagement": 641,
+    "summary": "Casper Network is currently trending on CoinGecko. Market cap rank: #641",
     "tags": [
       "trending",
       "cspr",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_trending_ondo-finance",
+    "title": "🔥 Trending: Ondo (ONDO)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/ondo-finance",
+    "published_at": "2026-07-29T00:00:37.330848Z",
+    "engagement": 41,
+    "summary": "Ondo is currently trending on CoinGecko. Market cap rank: #41",
+    "tags": [
+      "trending",
+      "ondo",
       "coingecko"
     ]
   },
@@ -20,7 +35,7 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-    "published_at": "2026-07-28T22:59:06.200199Z",
+    "published_at": "2026-07-29T00:00:37.330854Z",
     "engagement": 111,
     "summary": "Pudgy Penguins is currently trending on CoinGecko. Market cap rank: #111",
     "tags": [
@@ -30,107 +45,17 @@
     ]
   },
   {
-    "id": "coingecko_trending_zama",
-    "title": "🔥 Trending: Zama (ZAMA)",
+    "id": "coingecko_trending_hyperliquid",
+    "title": "🔥 Trending: Hyperliquid (HYPE)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/zama",
-    "published_at": "2026-07-28T22:59:06.200206Z",
-    "engagement": 211,
-    "summary": "Zama is currently trending on CoinGecko. Market cap rank: #211",
+    "url": "https://www.coingecko.com/en/coins/hyperliquid",
+    "published_at": "2026-07-29T00:00:37.330857Z",
+    "engagement": 10,
+    "summary": "Hyperliquid is currently trending on CoinGecko. Market cap rank: #10",
     "tags": [
       "trending",
-      "zama",
-      "coingecko"
-    ]
-  },
-  {
-    "id": "coingecko_trending_grass",
-    "title": "🔥 Trending: Grass (GRASS)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/grass",
-    "published_at": "2026-07-28T22:59:06.200210Z",
-    "engagement": 157,
-    "summary": "Grass is currently trending on CoinGecko. Market cap rank: #157",
-    "tags": [
-      "trending",
-      "grass",
-      "coingecko"
-    ]
-  },
-  {
-    "id": "coingecko_trending_lighter",
-    "title": "🔥 Trending: Lighter (LIT)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/lighter",
-    "published_at": "2026-07-28T22:59:06.200213Z",
-    "engagement": 92,
-    "summary": "Lighter is currently trending on CoinGecko. Market cap rank: #92",
-    "tags": [
-      "trending",
-      "lit",
-      "coingecko"
-    ]
-  },
-  {
-    "id": "coingecko_trending_euler",
-    "title": "🔥 Trending: Euler (EUL)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/euler",
-    "published_at": "2026-07-28T22:59:06.200219Z",
-    "engagement": 525,
-    "summary": "Euler is currently trending on CoinGecko. Market cap rank: #525",
-    "tags": [
-      "trending",
-      "eul",
-      "coingecko"
-    ]
-  },
-  {
-    "id": "coingecko_trending_pump-fun",
-    "title": "🔥 Trending: Pump.fun (PUMP)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pump-fun",
-    "published_at": "2026-07-28T22:59:06.200222Z",
-    "engagement": 77,
-    "summary": "Pump.fun is currently trending on CoinGecko. Market cap rank: #77",
-    "tags": [
-      "trending",
-      "pump",
-      "coingecko"
-    ]
-  },
-  {
-    "id": "coingecko_trending_bittensor",
-    "title": "🔥 Trending: Bittensor (TAO)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/bittensor",
-    "published_at": "2026-07-28T22:59:06.200225Z",
-    "engagement": 42,
-    "summary": "Bittensor is currently trending on CoinGecko. Market cap rank: #42",
-    "tags": [
-      "trending",
-      "tao",
-      "coingecko"
-    ]
-  },
-  {
-    "id": "coingecko_trending_solana",
-    "title": "🔥 Trending: Solana (SOL)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/solana",
-    "published_at": "2026-07-28T22:59:06.200228Z",
-    "engagement": 7,
-    "summary": "Solana is currently trending on CoinGecko. Market cap rank: #7",
-    "tags": [
-      "trending",
-      "sol",
+      "hype",
       "coingecko"
     ]
   },
@@ -140,7 +65,7 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/plasma",
-    "published_at": "2026-07-28T22:59:06.200231Z",
+    "published_at": "2026-07-29T00:00:37.330860Z",
     "engagement": 148,
     "summary": "Plasma is currently trending on CoinGecko. Market cap rank: #148",
     "tags": [
@@ -150,47 +75,62 @@
     ]
   },
   {
-    "id": "coingecko_trending_canton-network",
-    "title": "🔥 Trending: Canton (CC)",
+    "id": "coingecko_trending_cash-cat",
+    "title": "🔥 Trending: Cash Cat (CASHCAT)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/canton-network",
-    "published_at": "2026-07-28T22:59:06.200233Z",
-    "engagement": 21,
-    "summary": "Canton is currently trending on CoinGecko. Market cap rank: #21",
+    "url": "https://www.coingecko.com/en/coins/cash-cat",
+    "published_at": "2026-07-29T00:00:37.330867Z",
+    "engagement": 412,
+    "summary": "Cash Cat is currently trending on CoinGecko. Market cap rank: #412",
     "tags": [
       "trending",
-      "cc",
+      "cashcat",
       "coingecko"
     ]
   },
   {
-    "id": "coingecko_trending_raydium",
-    "title": "🔥 Trending: Raydium (RAY)",
+    "id": "coingecko_trending_lighter",
+    "title": "🔥 Trending: Lighter (LIT)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/raydium",
-    "published_at": "2026-07-28T22:59:06.200236Z",
-    "engagement": 183,
-    "summary": "Raydium is currently trending on CoinGecko. Market cap rank: #183",
+    "url": "https://www.coingecko.com/en/coins/lighter",
+    "published_at": "2026-07-29T00:00:37.330870Z",
+    "engagement": 92,
+    "summary": "Lighter is currently trending on CoinGecko. Market cap rank: #92",
     "tags": [
       "trending",
-      "ray",
+      "lit",
       "coingecko"
     ]
   },
   {
-    "id": "coingecko_trending_pancakeswap-token",
-    "title": "🔥 Trending: PancakeSwap (CAKE)",
+    "id": "coingecko_trending_ripple",
+    "title": "🔥 Trending: XRP (XRP)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pancakeswap-token",
-    "published_at": "2026-07-28T22:59:06.200239Z",
-    "engagement": 104,
-    "summary": "PancakeSwap is currently trending on CoinGecko. Market cap rank: #104",
+    "url": "https://www.coingecko.com/en/coins/ripple",
+    "published_at": "2026-07-29T00:00:37.330873Z",
+    "engagement": 6,
+    "summary": "XRP is currently trending on CoinGecko. Market cap rank: #6",
     "tags": [
       "trending",
-      "cake",
+      "xrp",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_trending_bitway",
+    "title": "🔥 Trending: Bitway (BTW)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/bitway",
+    "published_at": "2026-07-29T00:00:37.330876Z",
+    "engagement": 163,
+    "summary": "Bitway is currently trending on CoinGecko. Market cap rank: #163",
+    "tags": [
+      "trending",
+      "btw",
       "coingecko"
     ]
   },
@@ -200,9 +140,9 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/dexe",
-    "published_at": "2026-07-28T22:59:06.200242Z",
-    "engagement": 207,
-    "summary": "DeXe is currently trending on CoinGecko. Market cap rank: #207",
+    "published_at": "2026-07-29T00:00:37.330878Z",
+    "engagement": 202,
+    "summary": "DeXe is currently trending on CoinGecko. Market cap rank: #202",
     "tags": [
       "trending",
       "dexe",
@@ -210,29 +150,89 @@
     ]
   },
   {
-    "id": "coingecko_trending_pharos-network",
-    "title": "🔥 Trending: Pharos (PROS)",
+    "id": "coingecko_trending_canton-network",
+    "title": "🔥 Trending: Canton (CC)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pharos-network",
-    "published_at": "2026-07-28T22:59:06.200245Z",
-    "engagement": 375,
-    "summary": "Pharos is currently trending on CoinGecko. Market cap rank: #375",
+    "url": "https://www.coingecko.com/en/coins/canton-network",
+    "published_at": "2026-07-29T00:00:37.330881Z",
+    "engagement": 21,
+    "summary": "Canton is currently trending on CoinGecko. Market cap rank: #21",
     "tags": [
       "trending",
-      "pros",
+      "cc",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_trending_bittensor",
+    "title": "🔥 Trending: Bittensor (TAO)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/bittensor",
+    "published_at": "2026-07-29T00:00:37.330884Z",
+    "engagement": 42,
+    "summary": "Bittensor is currently trending on CoinGecko. Market cap rank: #42",
+    "tags": [
+      "trending",
+      "tao",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_trending_zama",
+    "title": "🔥 Trending: Zama (ZAMA)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/zama",
+    "published_at": "2026-07-29T00:00:37.330887Z",
+    "engagement": 211,
+    "summary": "Zama is currently trending on CoinGecko. Market cap rank: #211",
+    "tags": [
+      "trending",
+      "zama",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_trending_lab",
+    "title": "🔥 Trending: LAB (LAB)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/lab",
+    "published_at": "2026-07-29T00:00:37.330889Z",
+    "engagement": 444,
+    "summary": "LAB is currently trending on CoinGecko. Market cap rank: #444",
+    "tags": [
+      "trending",
+      "lab",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_trending_akedo",
+    "title": "🔥 Trending: Akedo (AKE)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/akedo",
+    "published_at": "2026-07-29T00:00:37.330892Z",
+    "engagement": 264,
+    "summary": "Akedo is currently trending on CoinGecko. Market cap rank: #264",
+    "tags": [
+      "trending",
+      "ake",
       "coingecko"
     ]
   },
   {
     "id": "coingecko_mover_shiba-inu",
-    "title": "📉 Shiba Inu (SHIB): -7.40% in 24h",
+    "title": "📉 Shiba Inu (SHIB): -8.40% in 24h",
     "platform": "coingecko",
     "content_type": "mover",
     "url": "https://www.coingecko.com/en/coins/shiba-inu",
-    "published_at": "2026-07-28T22:59:06.247924Z",
-    "engagement": 7,
-    "summary": "Shiba Inu moved -7.40% in the last 24 hours. Current price: $4.61e-06",
+    "published_at": "2026-07-29T00:00:37.371216Z",
+    "engagement": 8,
+    "summary": "Shiba Inu moved -8.40% in the last 24 hours. Current price: $4.63e-06",
     "tags": [
       "mover",
       "shib",
@@ -242,13 +242,13 @@
   },
   {
     "id": "coingecko_mover_near",
-    "title": "📉 NEAR Protocol (NEAR): -4.70% in 24h",
+    "title": "📉 NEAR Protocol (NEAR): -4.60% in 24h",
     "platform": "coingecko",
     "content_type": "mover",
     "url": "https://www.coingecko.com/en/coins/near",
-    "published_at": "2026-07-28T22:59:06.247955Z",
+    "published_at": "2026-07-29T00:00:37.371238Z",
     "engagement": 4,
-    "summary": "NEAR Protocol moved -4.70% in the last 24 hours. Current price: $1.64",
+    "summary": "NEAR Protocol moved -4.60% in the last 24 hours. Current price: $1.65",
     "tags": [
       "mover",
       "near",
@@ -258,13 +258,13 @@
   },
   {
     "id": "coingecko_mover_zcash",
-    "title": "📉 Zcash (ZEC): -4.00% in 24h",
+    "title": "📉 Zcash (ZEC): -4.50% in 24h",
     "platform": "coingecko",
     "content_type": "mover",
     "url": "https://www.coingecko.com/en/coins/zcash",
-    "published_at": "2026-07-28T22:59:06.247964Z",
+    "published_at": "2026-07-29T00:00:37.371247Z",
     "engagement": 4,
-    "summary": "Zcash moved -4.00% in the last 24 hours. Current price: $462.38",
+    "summary": "Zcash moved -4.50% in the last 24 hours. Current price: $465.89",
     "tags": [
       "mover",
       "zec",
@@ -273,30 +273,14 @@
     ]
   },
   {
-    "id": "coingecko_mover_uniswap",
-    "title": "📈 Uniswap (UNI): +3.20% in 24h",
-    "platform": "coingecko",
-    "content_type": "mover",
-    "url": "https://www.coingecko.com/en/coins/uniswap",
-    "published_at": "2026-07-28T22:59:06.247971Z",
-    "engagement": 3,
-    "summary": "Uniswap moved +3.20% in the last 24 hours. Current price: $3.89",
-    "tags": [
-      "mover",
-      "uni",
-      "24h-change",
-      "coingecko"
-    ]
-  },
-  {
     "id": "coingecko_mover_figure-heloc",
-    "title": "📉 Figure Heloc (FIGR_HELOC): -2.90% in 24h",
+    "title": "📉 Figure Heloc (FIGR_HELOC): -3.20% in 24h",
     "platform": "coingecko",
     "content_type": "mover",
     "url": "https://www.coingecko.com/en/coins/figure-heloc",
-    "published_at": "2026-07-28T22:59:06.247976Z",
-    "engagement": 2,
-    "summary": "Figure Heloc moved -2.90% in the last 24 hours. Current price: $1.001",
+    "published_at": "2026-07-29T00:00:37.371253Z",
+    "engagement": 3,
+    "summary": "Figure Heloc moved -3.20% in the last 24 hours. Current price: $1.001",
     "tags": [
       "mover",
       "figr_heloc",
@@ -305,17 +289,49 @@
     ]
   },
   {
+    "id": "coingecko_mover_uniswap",
+    "title": "📈 Uniswap (UNI): +3.10% in 24h",
+    "platform": "coingecko",
+    "content_type": "mover",
+    "url": "https://www.coingecko.com/en/coins/uniswap",
+    "published_at": "2026-07-29T00:00:37.371258Z",
+    "engagement": 3,
+    "summary": "Uniswap moved +3.10% in the last 24 hours. Current price: $3.89",
+    "tags": [
+      "mover",
+      "uni",
+      "24h-change",
+      "coingecko"
+    ]
+  },
+  {
     "id": "coingecko_mover_hyperliquid",
-    "title": "📉 Hyperliquid (HYPE): -2.50% in 24h",
+    "title": "📉 Hyperliquid (HYPE): -2.90% in 24h",
     "platform": "coingecko",
     "content_type": "mover",
     "url": "https://www.coingecko.com/en/coins/hyperliquid",
-    "published_at": "2026-07-28T22:59:06.247981Z",
+    "published_at": "2026-07-29T00:00:37.371263Z",
     "engagement": 2,
-    "summary": "Hyperliquid moved -2.50% in the last 24 hours. Current price: $54.96",
+    "summary": "Hyperliquid moved -2.90% in the last 24 hours. Current price: $55.12",
     "tags": [
       "mover",
       "hype",
+      "24h-change",
+      "coingecko"
+    ]
+  },
+  {
+    "id": "coingecko_mover_solana",
+    "title": "📉 Solana (SOL): -2.60% in 24h",
+    "platform": "coingecko",
+    "content_type": "mover",
+    "url": "https://www.coingecko.com/en/coins/solana",
+    "published_at": "2026-07-29T00:00:37.371297Z",
+    "engagement": 2,
+    "summary": "Solana moved -2.60% in the last 24 hours. Current price: $73.73",
+    "tags": [
+      "mover",
+      "sol",
       "24h-change",
       "coingecko"
     ]
@@ -326,9 +342,9 @@
     "platform": "coingecko",
     "content_type": "mover",
     "url": "https://www.coingecko.com/en/coins/monero",
-    "published_at": "2026-07-28T22:59:06.247986Z",
+    "published_at": "2026-07-29T00:00:37.371315Z",
     "engagement": 2,
-    "summary": "Monero moved -2.40% in the last 24 hours. Current price: $340.26",
+    "summary": "Monero moved -2.40% in the last 24 hours. Current price: $341.8",
     "tags": [
       "mover",
       "xmr",
@@ -337,17 +353,17 @@
     ]
   },
   {
-    "id": "coingecko_mover_solana",
-    "title": "📉 Solana (SOL): -2.20% in 24h",
+    "id": "coingecko_mover_the-open-network",
+    "title": "📉 Gram (prev. Toncoin) (GRAM): -2.20% in 24h",
     "platform": "coingecko",
     "content_type": "mover",
-    "url": "https://www.coingecko.com/en/coins/solana",
-    "published_at": "2026-07-28T22:59:06.247990Z",
+    "url": "https://www.coingecko.com/en/coins/the-open-network",
+    "published_at": "2026-07-29T00:00:37.371324Z",
     "engagement": 2,
-    "summary": "Solana moved -2.20% in the last 24 hours. Current price: $73.41",
+    "summary": "Gram (prev. Toncoin) moved -2.20% in the last 24 hours. Current price: $1.45",
     "tags": [
       "mover",
-      "sol",
+      "gram",
       "24h-change",
       "coingecko"
     ]
@@ -358,28 +374,12 @@
     "platform": "coingecko",
     "content_type": "mover",
     "url": "https://www.coingecko.com/en/coins/chainlink",
-    "published_at": "2026-07-28T22:59:06.247997Z",
+    "published_at": "2026-07-29T00:00:37.371328Z",
     "engagement": 2,
-    "summary": "Chainlink moved -2.10% in the last 24 hours. Current price: $8.38",
+    "summary": "Chainlink moved -2.10% in the last 24 hours. Current price: $8.43",
     "tags": [
       "mover",
       "link",
-      "24h-change",
-      "coingecko"
-    ]
-  },
-  {
-    "id": "coingecko_mover_canton-network",
-    "title": "📉 Canton (CC): -2.10% in 24h",
-    "platform": "coingecko",
-    "content_type": "mover",
-    "url": "https://www.coingecko.com/en/coins/canton-network",
-    "published_at": "2026-07-28T22:59:06.248001Z",
-    "engagement": 2,
-    "summary": "Canton moved -2.10% in the last 24 hours. Current price: $0.118809",
-    "tags": [
-      "mover",
-      "cc",
       "24h-change",
       "coingecko"
     ]
