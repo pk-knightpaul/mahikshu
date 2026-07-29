@@ -425,6 +425,20 @@
     ]
   },
   {
+    "id": "news_decrypt_flock-cameras-backlash-privacy",
+    "title": "Flock Cameras Face Growing Backlash as Privacy Concerns Reach Capitol Hill",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://decrypt.co/374603/flock-cameras-backlash-privacy-concerns-capitol-hill",
+    "published_at": "2026-07-29T20:46:03Z",
+    "engagement": 0,
+    "summary": "Growing opposition across America to Flock cameras has reached Capitol Hill, where Rep. Thomas Massie plans legislation to block federal funding for the technology.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_decrypt_new-research-bitcoin-wallet-qu",
     "title": "There's a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say",
     "platform": "news",
@@ -617,20 +631,6 @@
     "published_at": "2026-07-28T22:08:04Z",
     "engagement": 0,
     "summary": "Apple’s supposedly inadequate AI spending suddenly looks less like falling behind and more like avoiding a very expensive bill.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_claude-mythos-cracked-post-qua",
-    "title": "Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/374600/claude-mythos-cracked-post-quantum-cryptography",
-    "published_at": "2026-07-28T20:45:38Z",
-    "engagement": 0,
-    "summary": "Anthropic’s locked model found a new attack on a post-quantum signature scheme headed for U.S. federal standardization.",
     "tags": [
       "news",
       "decrypt"
