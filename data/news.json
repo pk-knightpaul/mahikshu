@@ -1,5 +1,62 @@
 [
   {
+    "id": "news_cointelegraph_coinbase-q2-earnings-record-cr",
+    "title": "Coinbase Q2 profit misses estimates despite record crypto market share",
+    "platform": "news",
+    "content_type": "listing_news",
+    "url": "https://cointelegraph.com/markets/coinbase-q2-earnings-record-crypto-market-share?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-30T20:47:27Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase Q2 profit misses estimates despite record crypto market share\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
+    "tags": [
+      "news",
+      "listing",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_what-happened-in-crypto-today",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-30T20:10:16Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_pavel-durov-responds-russia-te",
+    "title": "Telegram’s Pavel Durov responds to Russia’s terrorism designation",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/pavel-durov-responds-russia-terrorism-designation-cites-mass-surveillance-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-30T19:54:06Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Telegram’s Pavel Durov responds to Russia’s terrorism designation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_senate-government-agency-donal",
+    "title": "Senator Schumer proposes agency to address corruption, including Trump’s crypto ventures",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/senate-government-agency-donald-trump-cryptocurrency-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-30T19:45:52Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Senator Schumer proposes agency to address corruption, including Trump’s crypto ventures\" class=\"type:primaryImage\" src=\"https:/...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_cointelegraph_aviva-investors-tokenized-fund",
     "title": "Aviva Investors launches tokenized fund after Central Bank of Ireland approval",
     "platform": "news",
@@ -85,20 +142,6 @@
     ]
   },
   {
-    "id": "news_cointelegraph_what-happened-in-crypto-today",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-30T13:50:34Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_cointelegraph_bitriver-founder-russia-charge",
     "title": "BitRiver founder charged in Russia over alleged $8M fraud",
     "platform": "news",
@@ -169,46 +212,32 @@
     ]
   },
   {
-    "id": "news_cointelegraph_bitcoin-etf-inflows-return-eth",
-    "title": "Bitcoin ETF inflows return as Ether funds slip into outflows",
+    "id": "news_coindesk_strategy-books-usd8-2-billion-",
+    "title": "Strategy books $8.2 billion Q2 loss on bitcoin price decline",
     "platform": "news",
-    "content_type": "regulation",
-    "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-return-ether-funds-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-30T07:05:23Z",
+    "content_type": "news",
+    "url": "https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline",
+    "published_at": "2026-07-30T20:32:13Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETF inflows return as Ether funds slip into outflows\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/...",
+    "summary": "",
     "tags": [
       "news",
-      "regulation",
-      "cointelegraph"
+      "coindesk"
     ]
   },
   {
-    "id": "news_cointelegraph_south-korea-report-stablecoin-",
-    "title": "South Korea report proposes stablecoin rules before crypto law",
+    "id": "news_coindesk_coinbase-sinks-5-after-missing",
+    "title": "Coinbase sinks 5% after missing second quarter revenue estimates",
     "platform": "news",
-    "content_type": "news",
-    "url": "https://cointelegraph.com/news/south-korea-report-stablecoin-rules-crypto-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-30T05:33:57Z",
+    "content_type": "listing_news",
+    "url": "https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates",
+    "published_at": "2026-07-30T20:18:33Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea report proposes stablecoin rules before crypto law\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
+    "summary": "",
     "tags": [
       "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_cointelegraph_us-sanctions-iran-hormuzsafe-b",
-    "title": "US sanctions Iranian maritime firm, says it accepted Bitcoin to evade restrictions",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://cointelegraph.com/news/us-sanctions-iran-hormuzsafe-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-30T05:23:59Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US sanctions Iranian maritime firm, says it accepted Bitcoin to evade restrictions\" class=\"type:primaryImage\" src=\"https://s3-im...",
-    "tags": [
-      "news",
-      "cointelegraph"
+      "listing",
+      "coindesk"
     ]
   },
   {
@@ -230,7 +259,7 @@
     "title": "Ondo Finance weighs acquisition worth up to $500 million",
     "platform": "news",
     "content_type": "news",
-    "url": "https://www.coindesk.com/business/2026/07/29/ondo-finance-weighs-acquisition-worth-up-to-usd500-million",
+    "url": "https://www.coindesk.com/business/2026/07/30/ondo-finance-weighs-acquisition-worth-up-to-usd500-million",
     "published_at": "2026-07-30T16:04:16Z",
     "engagement": 0,
     "summary": "",
@@ -396,31 +425,18 @@
     ]
   },
   {
-    "id": "news_coindesk_bitriver-founder-charged-in-ru",
-    "title": "BitRiver founder charged in Russia with $12.5 million fraud",
+    "id": "news_decrypt_treasury-secretary-bitcoin-sat",
+    "title": "Treasury Secretary Invokes Bitcoin Creator Satoshi Nakamoto in Plea for Clarity Act",
     "platform": "news",
-    "content_type": "news",
-    "url": "https://www.coindesk.com/policy/2026/07/30/bitriver-founder-charged-in-russia-with-usd12-5-million-fraud",
-    "published_at": "2026-07-30T10:02:33Z",
+    "content_type": "regulation",
+    "url": "https://decrypt.co/374758/treasury-secretary-bitcoin-satoshi-nakamoto-clarity-act",
+    "published_at": "2026-07-30T19:32:19Z",
     "engagement": 0,
-    "summary": "",
+    "summary": "Scott Bessent urged the Senate to immediately vote on the crypto market structure bill, accusing Democrats of delaying the legislation for political reasons.",
     "tags": [
       "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_coindesk_crypto-exchange-luno-cuts-20-o",
-    "title": "Crypto exchange Luno cuts 20% of staff amid automation push and retail trading slumps",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://www.coindesk.com/business/2026/07/30/crypto-exchange-luno-cuts-20-of-staff-amid-automation-push-and-retail-trading-slumps",
-    "published_at": "2026-07-30T09:54:18Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
+      "regulation",
+      "decrypt"
     ]
   },
   {
@@ -616,20 +632,6 @@
     "published_at": "2026-07-29T20:01:03Z",
     "engagement": 0,
     "summary": "New research outlines a cryptographic approach that could allow Bitcoin and other blockchain wallets to remain compatible with existing addresses in a post-quantum future.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_moonpays-paybox-crypto-wallet-",
-    "title": "MoonPay's PayBox Puts a Crypto Wallet Inside Claude and ChatGPT—And Lets It Pay for Things",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/374687/moonpays-paybox-crypto-wallet-claude-chatgpt",
-    "published_at": "2026-07-29T19:31:03Z",
-    "engagement": 0,
-    "summary": "The company wants your AI to move money autonomously while you stay in control. Here's how it actually works.",
     "tags": [
       "news",
       "decrypt"
