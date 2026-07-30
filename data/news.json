@@ -1,5 +1,20 @@
 [
   {
+    "id": "news_cointelegraph_aviva-investors-tokenized-fund",
+    "title": "Aviva Investors launches tokenized fund after Central Bank of Ireland approval",
+    "platform": "news",
+    "content_type": "regulation",
+    "url": "https://cointelegraph.com/news/aviva-investors-tokenized-fund-central-bank-ireland-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-30T17:38:13Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aviva Investors launches tokenized fund after Central Bank of Ireland approval\" class=\"type:primaryImage\" src=\"https://s3-images...",
+    "tags": [
+      "news",
+      "regulation",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_cointelegraph_canadians-ownership-crypto-osc",
     "title": "Canadian crypto ownership increases to 25%: Ontario survey",
     "platform": "news",
@@ -197,17 +212,17 @@
     ]
   },
   {
-    "id": "news_cointelegraph_luno-cuts-staff-crypto-layoffs",
-    "title": "Luno cuts 20% of staff as crypto layoffs spread across 12 firms in July",
+    "id": "news_coindesk_global-banks-test-tokenized-mo",
+    "title": "Global banks test tokenized money for cross-border payments in $1 million BIS pilot",
     "platform": "news",
     "content_type": "news",
-    "url": "https://cointelegraph.com/news/luno-cuts-staff-crypto-layoffs-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-30T04:13:34Z",
+    "url": "https://www.coindesk.com/business/2026/07/30/global-banks-test-tokenized-money-for-cross-border-payments-in-usd1-million-bis-pilot",
+    "published_at": "2026-07-30T17:34:03Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Luno cuts 20% of staff as crypto layoffs spread across 12 firms in July\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi...",
+    "summary": "",
     "tags": [
       "news",
-      "cointelegraph"
+      "coindesk"
     ]
   },
   {
@@ -409,17 +424,32 @@
     ]
   },
   {
-    "id": "news_coindesk_live-updates-bitcoin-holds-nea",
-    "title": "Live updates: Bitcoin rises above $64,000 as Microsoft's AI payoff lifts stocks",
+    "id": "news_decrypt_researchers-tried-letting-ai-d",
+    "title": "Researchers Tried Letting AI Do Science. It Failed",
     "platform": "news",
     "content_type": "news",
-    "url": "https://www.coindesk.com/tech/2026/07/30/live-updates-bitcoin-holds-near-usd64-000-as-microsoft-s-ai-payoff-lifts-stocks",
-    "published_at": "2026-07-30T09:01:13Z",
+    "url": "https://decrypt.co/374755/researchers-tried-letting-ai-do-science-it-failed",
+    "published_at": "2026-07-30T19:13:46Z",
     "engagement": 0,
-    "summary": "",
+    "summary": "A multi-institution study found that today's frontier AI agents could handle the mechanics of research but failed to produce original work worthy of acceptance at a top AI conference.",
     "tags": [
       "news",
-      "coindesk"
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_decrypt_bitcoin-quantum-threat-ibm-cla",
+    "title": "Bitcoin Quantum Threat Inches Closer as IBM Claims 'Trusted Quantum Advantage'",
+    "platform": "news",
+    "content_type": "airdrop",
+    "url": "https://decrypt.co/374753/bitcoin-quantum-threat-ibm-claims-trusted-quantum-advantage",
+    "published_at": "2026-07-30T17:36:03Z",
+    "engagement": 0,
+    "summary": "The advance reflects IBM’s continued progress toward machines powerful enough to challenge today's cryptography.",
+    "tags": [
+      "news",
+      "airdrop",
+      "decrypt"
     ]
   },
   {
@@ -600,34 +630,6 @@
     "published_at": "2026-07-29T19:31:03Z",
     "engagement": 0,
     "summary": "The company wants your AI to move money autonomously while you stay in control. Here's how it actually works.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_bitcoin-ethereum-price-fed-hol",
-    "title": "Bitcoin, Ethereum Wobble as Fed Holds Rates Steady",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/374672/bitcoin-ethereum-price-fed-holds-rates-steady",
-    "published_at": "2026-07-29T18:43:45Z",
-    "engagement": 0,
-    "summary": "Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_ethereum-price-stalls-fed-rate",
-    "title": "Ethereum Price Stalls as Fed Rate Decision Looms",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/374653/ethereum-price-stalls-fed-rate-decision",
-    "published_at": "2026-07-29T17:18:49Z",
-    "engagement": 0,
-    "summary": "Despite being down today, ETH has clawed back from the worst levels of the year. Now it's waiting on the Fed.",
     "tags": [
       "news",
       "decrypt"
