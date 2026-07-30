@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_cointelegraph_us-senators-revised-ethics-rul",
+    "title": "US Senators sent revised ethics rules to White House for CLARITY Act: Report",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/us-senators-revised-ethics-rules-white-house-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-30T21:54:38Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senators sent revised ethics rules to White House for CLARITY Act: Report\" class=\"type:primaryImage\" src=\"https://s3-images.c...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_strategy-reports-q2-2026-loss",
+    "title": "Strategy posts $8.2B Q2 loss as Bitcoin slump drives unrealized losses",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/strategy-reports-q2-2026-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-30T21:36:39Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy posts $8.2B Q2 loss as Bitcoin slump drives unrealized losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_world-cup-generated-20b-predic",
+    "title": "World Cup generated $20B in blockchain prediction market volume: Chainalysis",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/world-cup-generated-20b-prediction-market-volume-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-30T21:04:59Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"World Cup generated $20B in blockchain prediction market volume: Chainalysis\" class=\"type:primaryImage\" src=\"https://s3-images.c...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_cointelegraph_coinbase-q2-earnings-record-cr",
     "title": "Coinbase Q2 profit misses estimates despite record crypto market share",
     "platform": "news",
@@ -170,48 +212,6 @@
     ]
   },
   {
-    "id": "news_cointelegraph_hedge-fund-with-11b-in-bitcoin",
-    "title": "Hedge fund with $1.1B in Bitcoin miner stocks seeks capital after AI sell-off: FT",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://cointelegraph.com/markets/hedge-fund-with-11b-in-bitcoin-miner-stocks-seeks-capital-after-ai-sell-off-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-30T11:29:03Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hedge fund with $1.1B in Bitcoin miner stocks seeks capital after AI sell-off: FT\" class=\"type:primaryImage\" src=\"https://s3-ima...",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_cointelegraph_australia-telegram-alleged-fai",
-    "title": "Australia sues Telegram over alleged failures to remove terror content",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://cointelegraph.com/news/australia-telegram-alleged-failures-terror-content?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-30T08:49:40Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia sues Telegram over alleged failures to remove terror content\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_cointelegraph_chinese-newspaper-bitcoin-exto",
-    "title": "Chinese newspaper warns of Bitcoin extortion scam using its name",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://cointelegraph.com/news/chinese-newspaper-bitcoin-extortion-scam-name?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-30T07:28:57Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chinese newspaper warns of Bitcoin extortion scam using its name\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_coindesk_strategy-books-usd8-2-billion-",
     "title": "Strategy books $8.2 billion Q2 loss on bitcoin price decline",
     "platform": "news",
@@ -368,6 +368,20 @@
     ]
   },
   {
+    "id": "news_coindesk_everything-is-becoming-a-perp",
+    "title": "Everything is becoming a perp",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://www.coindesk.com/opinion/2026/07/28/everything-is-becoming-a-perp",
+    "published_at": "2026-07-30T13:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_coindesk_telegram-faces-terror-related-",
     "title": "Telegram faces terror-related legal action in Australia one day after founder is charged by Russia",
     "platform": "news",
@@ -411,17 +425,18 @@
     ]
   },
   {
-    "id": "news_coindesk_crypto-s-resilience-tested-as-",
-    "title": "Crypto's resilience tested as oil rises after Iran strikes, Fed signals rates could still rise",
+    "id": "news_decrypt_coinbase-misses-q2-earnings-cr",
+    "title": "Coinbase Misses on Q2 Earnings as Crypto Trading Activity Slows",
     "platform": "news",
-    "content_type": "news",
-    "url": "https://www.coindesk.com/markets/2026/07/30/crypto-s-resilience-tested-as-oil-rises-after-iran-strikes-fed-signals-rates-could-still-rise",
-    "published_at": "2026-07-30T10:56:24Z",
+    "content_type": "listing_news",
+    "url": "https://decrypt.co/374761/coinbase-misses-q2-earnings-crypto-trading-activity-slows",
+    "published_at": "2026-07-30T21:19:12Z",
     "engagement": 0,
-    "summary": "",
+    "summary": "The exchange reported lower quarterly revenue and a net loss as crypto trading activity declined, while subscription, stablecoin, and lending businesses continued to grow.",
     "tags": [
       "news",
-      "coindesk"
+      "listing",
+      "decrypt"
     ]
   },
   {
@@ -618,20 +633,6 @@
     "published_at": "2026-07-29T20:46:03Z",
     "engagement": 0,
     "summary": "Growing opposition across America to Flock cameras has reached Capitol Hill, where Rep. Thomas Massie plans legislation to block federal funding for the technology.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_new-research-bitcoin-wallet-qu",
-    "title": "There's a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/374651/new-research-bitcoin-wallet-quantum-attacks-safe",
-    "published_at": "2026-07-29T20:01:03Z",
-    "engagement": 0,
-    "summary": "New research outlines a cryptographic approach that could allow Bitcoin and other blockchain wallets to remain compatible with existing addresses in a post-quantum future.",
     "tags": [
       "news",
       "decrypt"
