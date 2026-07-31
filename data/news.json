@@ -1,5 +1,33 @@
 [
   {
+    "id": "news_cointelegraph_bank-of-italy-study-no-stablec",
+    "title": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-31T20:10:21Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bank of Italy finds no consistent cost advantage for stablecoin remittances\" class=\"type:primaryImage\" src=\"https://s3-images.ct...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_pump-fun-employees-fired-token",
+    "title": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-31T19:16:19Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pump.fun laid off workers before they received millions in PUMP tokens: Report\" class=\"type:primaryImage\" src=\"https://s3-images...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_cointelegraph_what-happened-in-crypto-today",
     "title": "Here’s what happened in crypto today",
     "platform": "news",
@@ -182,32 +210,17 @@
     ]
   },
   {
-    "id": "news_cointelegraph_aave-weighs-closing-6-v3-block",
-    "title": "Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves",
+    "id": "news_coindesk_bitcoin-holds-onto-july-gain-a",
+    "title": "Bitcoin holds July gain as 'forced-selling fuel was already spent,' analysts say",
     "platform": "news",
     "content_type": "news",
-    "url": "https://cointelegraph.com/news/aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-31T08:57:53Z",
+    "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
+    "published_at": "2026-07-31T20:50:58Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves\" class=\"type:primaryImage\" src=\"https://s3-images.c...",
+    "summary": "",
     "tags": [
       "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_cointelegraph_rwa-perpetual-futures-bitcoin-",
-    "title": "RWA perpetual futures volume nears Bitcoin on Hyperliquid, Binance",
-    "platform": "news",
-    "content_type": "listing_news",
-    "url": "https://cointelegraph.com/markets/rwa-perpetual-futures-bitcoin-hyperliquid-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-31T08:29:51Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"RWA perpetual futures volume nears Bitcoin on Hyperliquid, Binance\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
-    "tags": [
-      "news",
-      "listing",
-      "cointelegraph"
+      "coindesk"
     ]
   },
   {
@@ -410,17 +423,45 @@
     ]
   },
   {
-    "id": "news_coindesk_quantum-solutions-hyperscale-d",
-    "title": "Quantum Solutions, Hyperscale Data tap crypto treasuries to fund AI data centers",
+    "id": "news_decrypt_google-yanks-google-earth-ai-i",
+    "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
     "platform": "news",
     "content_type": "news",
-    "url": "https://www.coindesk.com/business/2026/07/31/quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers",
-    "published_at": "2026-07-31T08:57:02Z",
+    "url": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
+    "published_at": "2026-07-31T20:32:50Z",
     "engagement": 0,
-    "summary": "",
+    "summary": "The Nano Banana tool let users generate fake satellite scenes from a text prompt, alarming investigators who rely on Google Earth to verify breaking news and atrocities.",
     "tags": [
       "news",
-      "coindesk"
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_decrypt_suno-ai-music-copyright-case-g",
+    "title": "AI Music Company Suno Loses Copyright Case in Germany",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
+    "published_at": "2026-07-31T20:03:22Z",
+    "engagement": 0,
+    "summary": "The decision requires AI companies to license copyrighted music used to train models and generate songs, marking another legal win for music rights holders in Europe.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_decrypt_fcc-bans-foreign-humanoid-robo",
+    "title": "US Is Banning Foreign Robots—Even Roombas",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://decrypt.co/374799/fcc-bans-foreign-humanoid-robots-china-roombas",
+    "published_at": "2026-07-31T19:43:24Z",
+    "engagement": 0,
+    "summary": "New restrictions block future models of foreign-made robots and connected power inverters from receiving FCC approval after U.S. national security agencies warned they could pose cybersecurity and sup...",
+    "tags": [
+      "news",
+      "decrypt"
     ]
   },
   {
@@ -592,49 +633,6 @@
     "tags": [
       "news",
       "regulation",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_researchers-tried-letting-ai-d",
-    "title": "Researchers Tried Letting AI Do Science. It Failed",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/374755/researchers-tried-letting-ai-do-science-it-failed",
-    "published_at": "2026-07-30T19:13:46Z",
-    "engagement": 0,
-    "summary": "A multi-institution study found that today's frontier AI agents could handle the mechanics of research but failed to produce original work worthy of acceptance at a top AI conference.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_bitcoin-quantum-threat-ibm-cla",
-    "title": "Bitcoin Quantum Threat Inches Closer as IBM Claims 'Trusted Quantum Advantage'",
-    "platform": "news",
-    "content_type": "airdrop",
-    "url": "https://decrypt.co/374753/bitcoin-quantum-threat-ibm-claims-trusted-quantum-advantage",
-    "published_at": "2026-07-30T17:36:03Z",
-    "engagement": 0,
-    "summary": "The advance reflects IBM’s continued progress toward machines powerful enough to challenge today's cryptography.",
-    "tags": [
-      "news",
-      "airdrop",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_ftc-sues-hims-hers-sexual-well",
-    "title": "Your 'Sexual Wellness' Pills Order Info From Hims Got Shared With Meta, Says FTC",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/374736/ftc-sues-hims-hers-sexual-wellness-health-data-sharing-meta",
-    "published_at": "2026-07-30T16:44:11Z",
-    "engagement": 0,
-    "summary": "Regulators accuse the telehealth company of sharing sensitive health information with advertising platforms including Meta and Snap despite promising users privacy.",
-    "tags": [
-      "news",
       "decrypt"
     ]
   }
