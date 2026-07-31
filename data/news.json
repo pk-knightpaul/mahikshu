@@ -1,5 +1,75 @@
 [
   {
+    "id": "news_cointelegraph_ftx-users-funds-released-fifth",
+    "title": "Ex-FTX users report funds being released in $900M distribution round",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/ftx-users-funds-released-fifth-distribution-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-31T16:56:31Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ex-FTX users report funds being released in $900M distribution round\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_tether-q2-profit-us-treasury-h",
+    "title": "Tether earns $1.5B in Q2 as US Treasury holdings fuel profits",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/tether-q2-profit-us-treasury-holdings-usdt-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-31T16:25:47Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether earns $1.5B in Q2 as US Treasury holdings fuel profits\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_bybit-tokenized-stocks-collate",
+    "title": "Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/bybit-tokenized-stocks-collateral-margin-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-31T16:23:21Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_us-treasury-yields-rise-as-tip",
+    "title": "US Treasury yields rise as TIPS challenge the inflation narrative",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/markets/us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-31T16:14:19Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Treasury yields rise as TIPS challenge the inflation narrative\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_cointelegraph_bitcoin-two-week-lows-us-stock",
+    "title": "Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/markets/bitcoin-two-week-lows-us-stocks-fail-copy-asia-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-31T15:57:03Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound\" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_cointelegraph_ecb-digital-euros-accessibilit",
     "title": "ECB says digital euro app will exceed EU accessibility standards",
     "platform": "news",
@@ -141,74 +211,32 @@
     ]
   },
   {
-    "id": "news_cointelegraph_bitcoin-etfs-inflows-week-back",
-    "title": "Bitcoin ETFs post $233M inflows, pushing week back into the green",
+    "id": "news_coindesk_coldcard-s-usd38-million-so-fa",
+    "title": "Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs",
     "platform": "news",
-    "content_type": "regulation",
-    "url": "https://cointelegraph.com/markets/bitcoin-etfs-inflows-week-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-31T06:46:23Z",
+    "content_type": "security",
+    "url": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs",
+    "published_at": "2026-07-31T17:07:30Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs post $233M inflows, pushing week back into the green\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
+    "summary": "",
     "tags": [
       "news",
-      "regulation",
-      "cointelegraph"
+      "security",
+      "coindesk"
     ]
   },
   {
-    "id": "news_cointelegraph_crypto-next-altseason-fewer-wi",
-    "title": "Crypto’s next altseason may have fewer winners: Wintermute",
+    "id": "news_coindesk_quantum-computing-nears-commer",
+    "title": "Quantum computing nears commercial breakthrough, IBM CEO says",
     "platform": "news",
     "content_type": "news",
-    "url": "https://cointelegraph.com/news/crypto-next-altseason-fewer-winners-wintermute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-31T04:46:14Z",
+    "url": "https://www.coindesk.com/markets/2026/07/31/quantum-computing-nears-commercial-breakthrough-ibm-ceo-says",
+    "published_at": "2026-07-31T15:39:30Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto’s next altseason may have fewer winners: Wintermute\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar...",
+    "summary": "",
     "tags": [
       "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_cointelegraph_coldcard-mk3-warning-594-btc-s",
-    "title": "Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://cointelegraph.com/news/coldcard-mk3-warning-594-btc-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-31T02:38:09Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed...",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_cointelegraph_bhutan-gelephu-3iq-bitcoin-tre",
-    "title": "Bhutan’s Gelephu taps 3iQ to manage part of Bitcoin treasury",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://cointelegraph.com/news/bhutan-gelephu-3iq-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-31T00:31:21Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bhutan’s Gelephu taps 3iQ to manage part of Bitcoin treasury \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media...",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_cointelegraph_us-senators-revised-ethics-rul",
-    "title": "US senators sent revised ethics rules to White House for CLARITY Act: Report",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://cointelegraph.com/news/us-senators-revised-ethics-rules-white-house-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-30T21:54:38Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US senators sent revised ethics rules to White House for CLARITY Act: Report\" class=\"type:primaryImage\" src=\"https://s3-images.c...",
-    "tags": [
-      "news",
-      "cointelegraph"
+      "coindesk"
     ]
   },
   {
@@ -383,7 +411,7 @@
   },
   {
     "id": "news_coindesk_live-updates-bitcoin-steady-as",
-    "title": "Live updates: 'Worst hit in Bitcoin history' – longtime Bitcoiners react to Coincard flaw",
+    "title": "Live updates: 'Move your funds now,' says co-founder and CEO of Coldcard maker Coinkite",
     "platform": "news",
     "content_type": "news",
     "url": "https://www.coindesk.com/markets/2026/07/31/live-updates-bitcoin-steady-as-japan-holds-rates-at-1-keeping-the-yen-carry-trade-alive",
@@ -396,31 +424,31 @@
     ]
   },
   {
-    "id": "news_coindesk_bitcoin-flat-near-usd64-000-as",
-    "title": "Bitcoin flat near $64,000 as Kospi's record 17% surge leaves crypto untouched",
+    "id": "news_decrypt_tether-reports-1-5b-q2-profit-",
+    "title": "Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise",
     "platform": "news",
     "content_type": "news",
-    "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-flat-near-usd64-000-as-kospi-s-record-17-surge-leaves-crypto-untouched",
-    "published_at": "2026-07-31T05:43:39Z",
+    "url": "https://decrypt.co/374796/tether-reports-1-5b-q2-profit-usdt-supply-grows",
+    "published_at": "2026-07-31T17:10:49Z",
     "engagement": 0,
-    "summary": "",
+    "summary": "The latest attestation offers a snapshot of the assets backing the world's largest stablecoin, including U.S. Treasuries, repo agreements, and more than 146 metric tons of gold.",
     "tags": [
       "news",
-      "coindesk"
+      "decrypt"
     ]
   },
   {
-    "id": "news_coindesk_major-bitcoin-wallet-flaw-drai",
-    "title": "Major bitcoin wallet flaw drains $38 million worth of BTC in 25-minute sweep",
+    "id": "news_decrypt_circle-new-york-trust-charter-",
+    "title": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
     "platform": "news",
     "content_type": "news",
-    "url": "https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep",
-    "published_at": "2026-07-31T05:12:55Z",
+    "url": "https://decrypt.co/374791/circle-new-york-trust-charter-stablecoin-issuer",
+    "published_at": "2026-07-31T15:32:02Z",
     "engagement": 0,
-    "summary": "",
+    "summary": "The approval comes weeks after Circle won federal approval to establish a national trust bank, adding another license as the USDC issuer expands.",
     "tags": [
       "news",
-      "coindesk"
+      "decrypt"
     ]
   },
   {
@@ -605,35 +633,6 @@
     "published_at": "2026-07-30T16:44:11Z",
     "engagement": 0,
     "summary": "Regulators accuse the telehealth company of sharing sensitive health information with advertising platforms including Meta and Snap despite promising users privacy.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_cathie-wood-ark-invest-sells-b",
-    "title": "Cathie Wood's Ark Invest Sells Bitmine While Adding to Coinbase and Circle Holdings",
-    "platform": "news",
-    "content_type": "listing_news",
-    "url": "https://decrypt.co/374738/cathie-wood-ark-invest-sells-bitmine-adds-coinbase-circle",
-    "published_at": "2026-07-30T16:35:26Z",
-    "engagement": 0,
-    "summary": "Ark Invest sold shares of Bitmine, Robinhood, Bullish, and Block during Wednesday's pullback in crypto equities, while continuing to add to Coinbase and Circle.",
-    "tags": [
-      "news",
-      "listing",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_elon-musk-xai-sues-minnesota-a",
-    "title": "Elon Musk's xAI Sues Minnesota to Kill the US's First AI Nudification Law",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/374728/elon-musk-xai-sues-minnesota-ai-nudification-law",
-    "published_at": "2026-07-30T15:42:17Z",
-    "engagement": 0,
-    "summary": "The company argues the law's definition of \"nudification\" is so broad it would make shirtless men and swimwear photos illegal—and wants a federal court to stop it before Saturday.",
     "tags": [
       "news",
       "decrypt"
