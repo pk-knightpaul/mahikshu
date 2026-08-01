@@ -1,5 +1,19 @@
 [
   {
+    "id": "news_cointelegraph_on-chain-in-court-crypto-legal",
+    "title": "Onchain, in court: What happened in crypto legal news this week",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-01T21:14:39Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Onchain, in court: What happened in crypto legal news this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_cointelegraph_minnesota-crypto-atm-ban-losse",
     "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
     "platform": "news",
@@ -197,17 +211,17 @@
     ]
   },
   {
-    "id": "news_cointelegraph_crypto-forensics-firm-launches",
-    "title": "AMLBot launches AI Tracer for self-service blockchain investigations",
+    "id": "news_coindesk_strategy-holds-strc-dividend-a",
+    "title": "Strategy holds STRC dividend at 12%",
     "platform": "news",
     "content_type": "news",
-    "url": "https://cointelegraph.com/news/crypto-forensics-firm-launches-ai-tracing-service-track-your-stolen-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-31T13:59:56Z",
+    "url": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
+    "published_at": "2026-08-01T22:01:57Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AMLBot launches AI Tracer for self-service blockchain investigations\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
+    "summary": "",
     "tags": [
       "news",
-      "cointelegraph"
+      "coindesk"
     ]
   },
   {
@@ -406,20 +420,6 @@
     "tags": [
       "news",
       "security",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_coindesk_quantum-computing-nears-commer",
-    "title": "Quantum computing nears commercial breakthrough, IBM CEO says",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://www.coindesk.com/markets/2026/07/31/quantum-computing-nears-commercial-breakthrough-ibm-ceo-says",
-    "published_at": "2026-07-31T15:39:30Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
       "coindesk"
     ]
   },
