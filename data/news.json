@@ -211,6 +211,34 @@
     ]
   },
   {
+    "id": "news_coindesk_tokenized-stock-trading-surged",
+    "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
+    "published_at": "2026-08-01T16:51:35Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_coindesk_bank-of-italy-research-suggest",
+    "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
+    "published_at": "2026-08-01T16:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_coindesk_bitcoin-mining-difficulty-shri",
     "title": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
     "platform": "news",
@@ -396,33 +424,18 @@
     ]
   },
   {
-    "id": "news_coindesk_circle-secures-new-york-trust-",
-    "title": "Circle secures New York trust charter as crypto regulatory push accelerates",
+    "id": "news_decrypt_cz-warns-bitcoin-holders-70-mi",
+    "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
     "platform": "news",
-    "content_type": "regulation",
-    "url": "https://www.coindesk.com/policy/2026/07/31/circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates",
-    "published_at": "2026-07-31T13:35:17Z",
+    "content_type": "security",
+    "url": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
+    "published_at": "2026-08-01T16:01:17Z",
     "engagement": 0,
-    "summary": "",
+    "summary": "The Binance founder urged holders to spread funds across multiple wallets as Galaxy Research put the toll from the Coldcard exploit at roughly $70 million—nearly double the initial estimate.",
     "tags": [
       "news",
-      "regulation",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_coindesk_coinbase-s-weak-quarter-leaves",
-    "title": "Coinbase's weak quarter leaves Wall Street split on timing of a recovery",
-    "platform": "news",
-    "content_type": "listing_news",
-    "url": "https://www.coindesk.com/markets/2026/07/31/coinbase-s-weak-quarter-leaves-wall-street-split-on-timing-of-a-recovery",
-    "published_at": "2026-07-31T13:20:45Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "listing",
-      "coindesk"
+      "security",
+      "decrypt"
     ]
   },
   {
@@ -620,21 +633,6 @@
     "summary": "Coinkite said it’s likely that an attacker used AI to review previous versions of its open source firmware to uncover a vulnerability.",
     "tags": [
       "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_coinbase-misses-q2-earnings-cr",
-    "title": "Coinbase Misses on Q2 Earnings as Crypto Trading Activity Slows",
-    "platform": "news",
-    "content_type": "listing_news",
-    "url": "https://decrypt.co/374761/coinbase-misses-q2-earnings-crypto-trading-activity-slows",
-    "published_at": "2026-07-30T21:19:12Z",
-    "engagement": 0,
-    "summary": "The exchange reported lower quarterly revenue and a net loss as crypto trading activity declined, while subscription, stablecoin, and lending businesses continued to grow.",
-    "tags": [
-      "news",
-      "listing",
       "decrypt"
     ]
   }
