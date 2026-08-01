@@ -1,5 +1,19 @@
 [
   {
+    "id": "news_cointelegraph_crypto-pac-michigan-thanedar-m",
+    "title": "Crypto PAC pours another $1M into Michigan House race",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-01T15:44:02Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC pours another $1M into Michigan House race\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article...",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_cointelegraph_russia-expands-crypto-mining-b",
     "title": "Russia expands crypto mining ban to Moscow through 2032",
     "platform": "news",
@@ -197,17 +211,32 @@
     ]
   },
   {
-    "id": "news_cointelegraph_boj-intervenes-to-defend-yen-n",
-    "title": "BOJ intervenes to defend yen near 160, holds rates steady",
+    "id": "news_coindesk_bitcoin-mining-difficulty-shri",
+    "title": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
     "platform": "news",
     "content_type": "news",
-    "url": "https://cointelegraph.com/markets/boj-intervenes-to-defend-yen-near-160-holds-rates-steady?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-31T13:13:46Z",
+    "url": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
+    "published_at": "2026-08-01T15:51:10Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BOJ intervenes to defend yen near 160, holds rates steady\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/art...",
+    "summary": "",
     "tags": [
       "news",
-      "cointelegraph"
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_coindesk_sec-to-review-nasdaq-bitcoin-o",
+    "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
+    "platform": "news",
+    "content_type": "regulation",
+    "url": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
+    "published_at": "2026-08-01T15:48:27Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "regulation",
+      "coindesk"
     ]
   },
   {
@@ -397,31 +426,17 @@
     ]
   },
   {
-    "id": "news_coindesk_rwa-perps-will-outpace-tokeniz",
-    "title": "RWA perps will outpace tokenization",
+    "id": "news_decrypt_more-americans-know-about-ai-l",
+    "title": "The More Americans Know About AI, the Less They Like It: Gallup",
     "platform": "news",
     "content_type": "news",
-    "url": "https://www.coindesk.com/opinion/2026/07/31/rwa-perps-will-outpace-tokenization",
-    "published_at": "2026-07-31T13:00:00Z",
+    "url": "https://decrypt.co/374794/more-americans-know-about-ai-less-they-like-gallup",
+    "published_at": "2026-08-01T15:01:09Z",
     "engagement": 0,
-    "summary": "",
+    "summary": "Gallup says Americans are growing more skeptical of artificial intelligence, with rising concerns about job losses, businesses' use of the technology, and the technology’s growing impact.",
     "tags": [
       "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_coindesk_dubai-based-crypto-exchange-ti",
-    "title": "Dubai-based crypto exchange tied to $4 billion Iran sanctioned-evasion network",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters",
-    "published_at": "2026-07-31T12:28:02Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
+      "decrypt"
     ]
   },
   {
@@ -620,21 +635,6 @@
     "tags": [
       "news",
       "listing",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_decrypt_treasury-secretary-bitcoin-sat",
-    "title": "Treasury Secretary Invokes Bitcoin Creator Satoshi Nakamoto in Plea for Clarity Act",
-    "platform": "news",
-    "content_type": "regulation",
-    "url": "https://decrypt.co/374758/treasury-secretary-bitcoin-satoshi-nakamoto-clarity-act",
-    "published_at": "2026-07-30T19:32:19Z",
-    "engagement": 0,
-    "summary": "Scott Bessent urged the Senate to immediately vote on the crypto market structure bill, accusing Democrats of delaying the legislation for political reasons.",
-    "tags": [
-      "news",
-      "regulation",
       "decrypt"
     ]
   }
