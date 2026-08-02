@@ -85,7 +85,7 @@
     "platform": "news",
     "type": "news",
     "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-01T10:23:41Z",
+    "timestamp": "2026-08-01T10:30:00Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia expands crypto mining ban to Moscow through 2032\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/artic...",
     "source": "CoinTelegraph"
   },
@@ -98,6 +98,16 @@
     "timestamp": "2026-08-01T09:23:56Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
     "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_coindesk_54c6aa6a-b592-4a06-87a7-5a2e89",
+    "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+    "timestamp": "2026-08-02T17:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_27cbbc3d-7fc1-4566-93ce-aacf34",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_8cb08fa1-2334-47d4-b03d-e6432a",
-    "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
+    "id": "news_decrypt_https://decrypt.co/?p=374817",
+    "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
-    "timestamp": "2026-08-01T13:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
+    "timestamp": "2026-08-02T17:18:51Z",
+    "summary": "Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly 1,367 BTC across 4,585 addresses.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=374808",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/374789/us-treasury-sanctions-iranian-firms-taking-bitcoin-for-hormuz-passage",
     "timestamp": "2026-07-31T15:05:43Z",
     "summary": "OFAC sanctioned two Iranian firms including Hormuz Safe, which \u201caccepts payment in Bitcoin and other digital assets.\u201d",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374741",
-    "title": "XDC AI and the Rise of Agentic Finance: When AI Agents Learn to Pay",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374741/xdc-ai-and-the-rise-of-agentic-finance-when-ai-agents-learn-to-pay",
-    "timestamp": "2026-07-31T15:01:04Z",
-    "summary": "As AI agents move from giving advice to making transactions, a new layer of payment infrastructure is racing to catch up.",
     "source": "Decrypt"
   }
 ]
