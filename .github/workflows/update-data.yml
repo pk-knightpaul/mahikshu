@@ -1,0 +1,66 @@
+name: Update Crypto Data
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4.2.2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5.5.0
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml feedparser
+          pip install -r scripts/requirements.txt
+
+      - name: Fetch Binance data
+        run: python scripts/fetch_binance.py
+        continue-on-error: true
+
+      - name: Fetch CoinGecko data
+        run: python scripts/fetch_coingecko.py
+        continue-on-error: true
+
+      - name: Fetch DexScreener data
+        run: python scripts/fetch_dexscreener.py
+        continue-on-error: true
+
+      - name: Fetch News data
+        run: python scripts/fetch_news.py
+        continue-on-error: true
+
+      - name: Fetch DeFiLlama data
+        run: python scripts/fetch_defillama.py
+        continue-on-error: true
+
+      - name: Fetch Fear & Greed data
+        run: python scripts/fetch_fear_greed.py
+        continue-on-error: true
+
+      - name: Fetch Snapshot data
+        run: python scripts/fetch_snapshot.py
+        continue-on-error: true
+
+      - name: Update meta
+        run: python scripts/update_meta.py
+        continue-on-error: true
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5.2.0
+        with:
+          commit_message: "🤖 Auto-update crypto data v3.0 [skip ci]"
+          file_pattern: 'data/*.json'
+          commit_author: 'GitHub Actions <actions@github.com>'
