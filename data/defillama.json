@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": "defillama_43641cf5-a92e-416b-bce9-27113d",
+    "title": "High Yield: USDC on maple",
+    "platform": "defillama",
+    "type": "high_yield",
+    "url": "https://defillama.com/yields",
+    "timestamp": "2026-08-02T06:11:14.206840Z",
+    "summary": "APY: 5.15% | TVL: $2554.5M | Chain: Ethereum | Pool: 43641cf5-a92e-416b-bce9-27113d3c0db6...",
+    "source": "DeFiLlama",
+    "apy": 5.15,
+    "tvl": 2554487183,
+    "chain": "Ethereum"
+  },
+  {
+    "id": "defillama_370a27ed-7971-5a6d-9f9d-7f98ed",
+    "title": "High Yield: SKY on sky-lending",
+    "platform": "defillama",
+    "type": "high_yield",
+    "url": "https://defillama.com/yields",
+    "timestamp": "2026-08-02T06:11:14.206894Z",
+    "summary": "APY: 6.75% | TVL: $972.2M | Chain: Ethereum | Pool: 370a27ed-7971-5a6d-9f9d-7f98ed64d299...",
+    "source": "DeFiLlama",
+    "apy": 6.75,
+    "tvl": 972185788,
+    "chain": "Ethereum"
+  }
+]

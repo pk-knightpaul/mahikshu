@@ -1,1 +1,13 @@
-{"last_update": "2026-08-02T01:00:00Z", "version": "3.0.0"}
+{
+  "last_update": "2026-08-02T06:11:15.174755Z",
+  "version": "3.0.0",
+  "sources": [
+    "binance",
+    "coingecko",
+    "dexscreener",
+    "news",
+    "defillama",
+    "fear_greed",
+    "snapshot"
+  ]
+}
