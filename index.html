@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Mahikshu v3.0 — Futuristic Crypto Opportunity Dashboard">
+<title>Mahikshu v3.0</title>
+<link rel="icon" type="image/svg+xml" href="assets/logo.svg">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div class="app">
+  <!-- Animated Background -->
+  <div class="bg-gradient"></div>
+
+  <!-- Sidebar -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-brand">
+      <img src="assets/logo.svg" alt="M" class="brand-logo">
+      <div>
+        <h1 class="brand-title">Mahikshu</h1>
+        <span class="version-badge">v3.0</span>
+      </div>
+    </div>
+
+    <nav class="sidebar-nav">
+      <div class="nav-section">
+        <span class="nav-label">Discover</span>
+        <a class="nav-item active" href="#" onclick="filterByView('all'); return false;">
+          <span class="nav-icon">🔭</span><span class="nav-text">All Opportunities</span>
+        </a>
+        <a class="nav-item" href="#" onclick="filterByView('watchlist'); return false;">
+          <span class="nav-icon">⭐</span><span class="nav-text">My Watchlist</span>
+          <span class="nav-count" id="watchlist-count">0</span>
+        </a>
+        <a class="nav-item" href="#" onclick="filterByView('trending'); return false;">
+          <span class="nav-icon">🔥</span><span class="nav-text">Trending Now</span>
+        </a>
+      </div>
+
+      <div class="nav-section">
+        <span class="nav-label">Platforms</span>
+        <a class="nav-item" href="#" onclick="filterByPlatform('binance'); return false;">
+          <span class="nav-icon" style="color:#f0b90b">●</span><span class="nav-text">Binance</span>
+        </a>
+        <a class="nav-item" href="#" onclick="filterByPlatform('coingecko'); return false;">
+          <span class="nav-icon" style="color:#8dc647">●</span><span class="nav-text">CoinGecko</span>
+        </a>
+        <a class="nav-item" href="#" onclick="filterByPlatform('dexscreener'); return false;">
+          <span class="nav-icon" style="color:#4ecdc4">●</span><span class="nav-text">DexScreener</span>
+        </a>
+        <a class="nav-item" href="#" onclick="filterByPlatform('news'); return false;">
+          <span class="nav-icon" style="color:#ff6b6b">●</span><span class="nav-text">News</span>
+        </a>
+        <a class="nav-item" href="#" onclick="filterByPlatform('defillama'); return false;">
+          <span class="nav-icon" style="color:#4ade80">●</span><span class="nav-text">DeFiLlama</span>
+        </a>
+        <a class="nav-item" href="#" onclick="filterByPlatform('fear_greed'); return false;">
+          <span class="nav-icon" style="color:#f472b6">●</span><span class="nav-text">Fear & Greed</span>
+        </a>
+        <a class="nav-item" href="#" onclick="filterByPlatform('snapshot'); return false;">
+          <span class="nav-icon" style="color:#a78bfa">●</span><span class="nav-text">Snapshot</span>
+        </a>
+      </div>
+
+      <div class="nav-section">
+        <span class="nav-label">Tools</span>
+        <a class="nav-item" href="#" onclick="openLLMModal(); return false;">
+          <span class="nav-icon">🤖</span><span class="nav-text">AI Generator</span>
+        </a>
+        <a class="nav-item" href="#" onclick="exportCSV(); return false;">
+          <span class="nav-icon">📥</span><span class="nav-text">Export CSV</span>
+        </a>
+        <a class="nav-item" href="#" onclick="exportMD(); return false;">
+          <span class="nav-icon">📄</span><span class="nav-text">Export Markdown</span>
+        </a>
+      </div>
+    </nav>
+  </aside>
+
+  <!-- Sidebar Overlay (mobile) -->
+  <div class="sidebar-overlay" id="sidebar-overlay" onclick="closeSidebar()"></div>
+
+  <!-- Main Content -->
+  <main class="main">
+    <!-- Header -->
+    <header class="header">
+      <div class="header-left">
+        <button class="hamburger" id="hamburger" onclick="toggleSidebar()">☰</button>
+        <h2 id="page-title">All Opportunities</h2>
+      </div>
+      <div class="header-right">
+        <button class="theme-toggle" id="theme-toggle" onclick="toggleTheme()" title="Toggle theme (T)">🌙</button>
+        <button class="refresh-btn" onclick="refreshData()" title="Refresh data">🔄</button>
+        <div class="search-box">
+          <input type="text" id="search-input" placeholder="Search... (press /)" oninput="handleSearch(this.value)">
+        </div>
+      </div>
+    </header>
+
+    <!-- Filters Bar -->
+    <div class="filters-bar">
+      <div class="filter-group">
+        <label>Time</label>
+        <select id="time-filter" onchange="handleTimeFilter(this.value)">
+          <option value="all">All Time</option>
+          <option value="today" selected>Today</option>
+          <option value="yesterday">Yesterday</option>
+          <option value="last_hour">Last Hour</option>
+          <option value="last_6h">Last 6 Hours</option>
+          <option value="last_24h">Last 24 Hours</option>
+          <option value="this_week">This Week</option>
+          <option value="this_month">This Month</option>
+          <option value="custom">Custom Range</option>
+        </select>
+      </div>
+      <div class="filter-group custom-date-range" id="custom-date-range">
+        <input type="date" id="date-from" onchange="applyCustomDate()">
+        <span>to</span>
+        <input type="date" id="date-to" onchange="applyCustomDate()">
+      </div>
+      <div class="filter-group">
+        <label>Sort</label>
+        <select id="sort-filter" onchange="handleSort(this.value)">
+          <option value="newest">Newest First</option>
+          <option value="oldest">Oldest First</option>
+          <option value="source">By Source</option>
+        </select>
+      </div>
+      <button class="reset-btn" onclick="resetFilters()">Reset</button>
+    </div>
+
+    <!-- Stats Bar -->
+    <div class="stats-bar">
+      <div class="stat-item">
+        <span class="stat-value" id="stat-total">0</span>
+        <span class="stat-label">Opportunities</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-value" id="stat-watchlist">0</span>
+        <span class="stat-label">Watchlist</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-value" id="stat-sources">0</span>
+        <span class="stat-label">Sources</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-value" id="stat-last-update">—</span>
+        <span class="stat-label">Last Update</span>
+      </div>
+    </div>
+
+    <!-- Loading State -->
+    <div id="loading-overlay" class="loading-overlay">
+      <div class="loading-content">
+        <div class="spinner"></div>
+        <p>Scanning the crypto landscape...</p>
+        <div class="loading-pills">
+          <span class="loading-pill" data-source="binance">Binance</span>
+          <span class="loading-pill" data-source="coingecko">CoinGecko</span>
+          <span class="loading-pill" data-source="dexscreener">DexScreener</span>
+          <span class="loading-pill" data-source="news">News</span>
+          <span class="loading-pill" data-source="defillama">DeFiLlama</span>
+          <span class="loading-pill" data-source="fear_greed">Fear & Greed</span>
+          <span class="loading-pill" data-source="snapshot">Snapshot</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Cards Grid -->
+    <div id="cards-grid" class="cards-grid"></div>
+
+    <!-- Empty State -->
+    <div id="empty-state" class="empty-state" style="display:none">
+      <div class="empty-icon">🔭</div>
+      <h3>No opportunities found</h3>
+      <p>Try adjusting your filters or check back later.</p>
+      <button class="btn btn-primary" onclick="resetFilters()">Reset Filters</button>
+    </div>
+  </main>
+</div>
+
+<!-- LLM Modal -->
+<div class="modal-overlay" id="llm-modal" onclick="closeModal(event)">
+  <div class="modal">
+    <div class="modal-header">
+      <h3>🤖 AI Content Generator (BYOK)</h3>
+      <button class="modal-close" onclick="closeLLMModal()">&times;</button>
+    </div>
+    <div class="modal-body">
+      <div class="form-group">
+        <label>Provider</label>
+        <select id="llm-provider">
+          <option value="openai">OpenAI</option>
+          <option value="anthropic">Anthropic (Claude)</option>
+          <option value="google">Google (Gemini)</option>
+          <option value="groq">Groq</option>
+          <option value="huggingface">Hugging Face</option>
+          <option value="openrouter">OpenRouter</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label>API Key</label>
+        <input type="password" id="llm-key" placeholder="sk-...">
+        <span class="hint">Stored in sessionStorage only. Never leaves your browser.</span>
+      </div>
+      <div class="form-group">
+        <label>Prompt Template</label>
+        <textarea id="llm-prompt" rows="3">Write a crypto analysis about: {title}. Context: {summary}</textarea>
+      </div>
+      <button class="btn btn-primary" onclick="saveLLMSettings()">💾 Save Settings</button>
+      <button class="btn btn-secondary" onclick="generateAI()">✨ Generate</button>
+      <div class="form-group">
+        <label>Output</label>
+        <textarea id="llm-output" rows="6" readonly></textarea>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Toast Container -->
+<div id="toast-container" class="toast-container"></div>
+
+<script src="js/app.js"></script>
+</body>
+</html>
