@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-02T11:56:35Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "BNB Chain pursues legal action after ex-employee\u2019s memecoin launch",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-02T11:20:06Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BNB Chain pursues legal action after ex-employee\u2019s memecoin launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
     "platform": "news",
     "type": "news",
@@ -80,24 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
+    "id": "news_coindesk_e90c2a9a-5947-4b76-abc0-c7f7fd",
+    "title": "The reverse bridge: Crypto meets Wall Street using perps",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-07-31T20:10:21Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bank of Italy finds no consistent cost advantage for stablecoin remittances\" class=\"type:primaryImage\" src=\"https://s3-images.ct...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
+    "timestamp": "2026-08-02T13:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
+    "id": "news_coindesk_649d3956-fdc4-468a-8877-2d33f1",
+    "title": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-07-31T19:16:19Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pump.fun laid off workers before they received millions in PUMP tokens: Report\" class=\"type:primaryImage\" src=\"https://s3-images...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
+    "timestamp": "2026-08-02T12:03:51Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_28ad341e-3b1f-4256-a4e3-177dba",
@@ -176,26 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
     "timestamp": "2026-08-01T13:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_3e10060a-1ad3-48c5-8661-d4ec10",
-    "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
-    "timestamp": "2026-08-01T09:01:08Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_ea6754bf-6e2d-46a2-9356-692fa6",
-    "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
-    "timestamp": "2026-08-01T06:09:51Z",
     "summary": "",
     "source": "CoinDesk"
   },
