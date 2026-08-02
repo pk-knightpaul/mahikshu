@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Strategy leaves preferred STRC dividend at 12% as price still below par",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/strategy-leaves-preferred-strc-dividend-at-12-price-still-below-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-02T15:23:33Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy leaves preferred STRC dividend at 12% as price still below par\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Here\u2019s what happened in crypto today",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin ETFs end July in the green despite late-month selling",
+    "id": "news_coindesk_27cbbc3d-7fc1-4566-93ce-aacf34",
+    "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-01T07:23:07Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs end July in the green despite late-month selling\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
+    "timestamp": "2026-08-02T16:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_e90c2a9a-5947-4b76-abc0-c7f7fd",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_dcb5c795-8f17-4235-a294-1253ab",
-    "title": "Everyone has the perps convergence backwards",
+    "id": "news_decrypt_https://decrypt.co/?p=374808",
+    "title": "What\u2019s the Deal With Meta\u2019s \u2018Pervert Glasses\u2019?",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
-    "timestamp": "2026-08-01T13:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/374808/whats-the-deal-with-meta-pervert-glasses",
+    "timestamp": "2026-08-02T15:01:03Z",
+    "summary": "Lawsuits, privacy complaints, secret recordings, and government investigations have put Meta\u2019s AI glasses under scrutiny.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=374810",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/374741/xdc-ai-and-the-rise-of-agentic-finance-when-ai-agents-learn-to-pay",
     "timestamp": "2026-07-31T15:01:04Z",
     "summary": "As AI agents move from giving advice to making transactions, a new layer of payment infrastructure is racing to catch up.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374764",
-    "title": "AI Company Sues Town for Trying to Block Data Center Near National Park",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374764/ai-company-sues-town-data-center-national-park",
-    "timestamp": "2026-07-31T14:01:03Z",
-    "summary": "A proposed $4.8 billion AI data center near Mammoth Cave National Park has sparked a legal battle that could test how far local governments can go to slow the industry's rapid expansion.",
     "source": "Decrypt"
   }
 ]
