@@ -1,5 +1,35 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "BlackRock launches tokenized money market funds for stablecoin reserves",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-03T16:13:12Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock launches tokenized money market funds for stablecoin reserves\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Hashdex to shut smallest Bitcoin ETF after more than two years",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/hashdex-to-shut-smallest-bitcoin-etf-after-more-than-two-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-03T15:24:43Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hashdex to shut smallest Bitcoin ETF after more than two years\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "US hints at more yen intervention: Five things to know in Bitcoin this week",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/us-hints-at-more-yen-intervention-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-03T14:11:26Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US hints at more yen intervention: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://s3-images.ct...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/maga",
     "title": "How Fake World Assets and onchain gacha became crypto\u2019s latest craze",
     "platform": "news",
@@ -70,34 +100,44 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin may find bear market bottom in August: 10x Research",
+    "id": "news_coindesk_a119da9e-bb52-4937-8090-f6c6e9",
+    "title": "Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-find-bear-market-bottom-august-10x-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-03T10:25:32Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin may find bear market bottom in August: 10x Research\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/03/trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy",
+    "timestamp": "2026-08-03T15:24:45Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "HashKey receives JPMorgan approval to open client money account",
+    "id": "news_coindesk_f841c97d-5b02-4e30-a4f6-510645",
+    "title": "U.S.-Japan intervention revives yen carry trade fears for bitcoin",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/hashkey-jpmorgan-client-money-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-03T09:14:38Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HashKey receives JPMorgan approval to open client money account\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/03/u-s-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin",
+    "timestamp": "2026-08-03T14:46:08Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Bitget to exit Japan, close remaining positions after Dec. 31",
+    "id": "news_coindesk_7034b3db-432d-4ade-9b76-723dc1",
+    "title": "Circle slides after Morgan Stanley downgrade, cut in price target",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/bitget-exit-japan-account-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-03T08:21:23Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget to exit Japan, close remaining positions after Dec. 31\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
+    "timestamp": "2026-08-03T13:59:50Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_6723adf1-ee85-4897-ae22-b64783",
+    "title": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls",
+    "timestamp": "2026-08-03T13:49:40Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_3a795987-2eb4-41d9-a001-b89882",
@@ -160,44 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_5f40aaee-3390-4d71-9760-a40acf",
-    "title": "Bithumb now targets 2028 IPO after major internal restructuring",
+    "id": "news_decrypt_https://decrypt.co/?p=374836",
+    "title": "Tom Lee\u2019s Bitmine Buys More Ethereum, Adds to Stock Buyback",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/03/bithumb-now-targets-2028-ip-after-major-internal-restructuring",
-    "timestamp": "2026-08-03T10:41:08Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_175dc84b-dbc9-4bdc-a38f-f7f4ce",
-    "title": "Live updates: Strategy sells more bitcoin; price falls to $62,400",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/03/live-updates-traders-say-bitcoin-sell-off-from-usd65-000-points-to-thin-volume-not-panic-selling",
-    "timestamp": "2026-08-03T10:29:23Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_b1b25492-4737-496f-9109-e86d2e",
-    "title": "The bitcoin futures yield collapse: Once over 20%, now less than Treasury notes",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/03/the-bitcoin-futures-yield-collapse-once-over-20-now-less-than-treasury-notes",
-    "timestamp": "2026-08-03T10:13:50Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_4d77c610-8ad8-4199-a431-6e66a1",
-    "title": "Robinhood wins UK crypto registration before new regulatory regime kicks off",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off",
-    "timestamp": "2026-08-03T09:38:53Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/374836/tom-lee-bitmine-buys-more-ethereum-adds-stock-buyback",
+    "timestamp": "2026-08-03T15:31:43Z",
+    "summary": "The crypto treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH as it pushes toward its goal of owning 5% of Ethereum's circulating supply.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=374830",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
     "timestamp": "2026-07-31T20:32:50Z",
     "summary": "The Nano Banana tool let users generate fake satellite scenes from a text prompt, alarming investigators who rely on Google Earth to verify breaking news and atrocities.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374802",
-    "title": "AI Music Company Suno Loses Copyright Case in Germany",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
-    "timestamp": "2026-07-31T20:03:22Z",
-    "summary": "The decision requires AI companies to license copyrighted music used to train models and generate songs, marking another legal win for music rights holders in Europe.",
     "source": "Decrypt"
   }
 ]
