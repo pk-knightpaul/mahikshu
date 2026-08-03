@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Bessent\u2019s top crypto adviser Tyler Williams exits US Treasury: Report",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/bessent-top-crypto-adviser-tyler-williams-leaves-us-treasury-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-03T20:29:47Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bessent\u2019s top crypto adviser Tyler Williams exits US Treasury: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Here\u2019s what happened in crypto today",
     "platform": "news",
     "type": "news",
@@ -87,16 +97,6 @@
     "url": "https://cointelegraph.com/news/bithumb-ipo-timetable-internal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-03T12:21:19Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bithumb sets 2028 IPO timetable as it overhauls internal controls\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "CLARITY Act failure could send crypto valuations lower: Bernstein",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/clarity-act-failure-crypto-valuations-lower-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-03T12:07:42Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY Act failure could send crypto valuations lower: Bernstein\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=374871",
+    "title": "Former FBI Agent Charged With Stealing Nearly $1 Million in Crypto and Using ChatGPT for Investment Advice",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/374871/former-fbi-agent-charged-stealing-crypto-using-chatgpt-advice",
+    "timestamp": "2026-08-03T21:17:06Z",
+    "summary": "Prosecutors say the former counterintelligence supervisor stole cryptocurrency from wallets tied to FBI investigations before asking ChatGPT how to invest the money and relocate to Europe.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=374868",
+    "title": "What Is an Air-Gapped Bitcoin Wallet? Why the Coldcard Exploit Changes the Conversation About Offline Security",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/374868/what-is-air-gapped-bitcoin-wallet-coldcard-exploit-security",
+    "timestamp": "2026-08-03T20:39:33Z",
+    "summary": "Air-gapped wallets keep private keys completely offline, reducing exposure to hackers\u2014but they're not immune from threats.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=374865",
     "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/374831/strategy-sells-105m-in-bitcoin-as-dollar-reserve-hits-4b",
     "timestamp": "2026-08-03T12:44:29Z",
     "summary": "Half the proceeds funded preferred dividends and half went into an $81 million STRC buyback, its second in as many weeks.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374823",
-    "title": "South Korean Exchange Bithumb Targets 2028 IPO",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374823/south-korean-exchange-bithumb-targets-2028-ipo",
-    "timestamp": "2026-08-03T11:07:59Z",
-    "summary": "The exchange plans to file for preliminary listing review in 2027, after switching to international accounting standards this year.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374820",
-    "title": "Coldcard Losses Near $114M as Small Bitcoin Transfers Spike",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374820/coldcard-losses-near-114m-as-small-bitcoin-transfers-spike",
-    "timestamp": "2026-08-03T10:15:37Z",
-    "summary": "Transfers of less than 1 BTC hit levels last seen days after the FTX collapse, while Galaxy Research flagged a likely fourth wave of thefts.",
     "source": "Decrypt"
   }
 ]
