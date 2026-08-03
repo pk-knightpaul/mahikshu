@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Kenya moves 30 million academic credentials onto Avalanche blockchain",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/kenya-avalanche-blockchain-academic-credentials-verification?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-03T16:46:22Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kenya moves 30 million academic credentials onto Avalanche blockchain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "BlackRock launches tokenized money market funds for stablecoin reserves",
     "platform": "news",
     "type": "news",
@@ -87,16 +97,6 @@
     "url": "https://cointelegraph.com/news/trumps-american-bitcoin-output-narrower-q2-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-03T11:40:09Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trumps\u2019 American Bitcoin reports record BTC output, narrower Q2 loss\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Ripple invests in Zilo and Licuido to assist tokenized capital markets push",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/ripple-invests-zilo-licuido-tokenized-capital-markets-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-03T10:58:36Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ripple invests in Zilo and Licuido to assist tokenized capital markets push\" class=\"type:primaryImage\" src=\"https://s3-images.ct...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,46 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=374862",
+    "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
+    "timestamp": "2026-08-03T17:51:03Z",
+    "summary": "Flare's FXRP has been approved as collateral in a $280 million RLUSD lending vault, allowing XRP holders to tap Ethereum's lending markets.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=374838",
+    "title": "Crypto Privacy Tools Serve \u2018Essential Protective Functions\u2019: Report by ChangeNOW, CoinRabbit",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/374838/crypto-privacy-tools-serve-essential-protective-functions-report-by-changenow-coinrabbit",
+    "timestamp": "2026-08-03T17:31:03Z",
+    "summary": "Authoritarian oppression, corporate treasuries and \u201cwrench attacks\u201d make up the privacy case in a new report from ChangeNOW and CoinRabbit.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=374859",
+    "title": "Solo Bitcoin Miner Hits Jackpot, Scoring $200K BTC Reward",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/374859/solo-bitcoin-miner-hits-jackpot-scoring-200k-btc-reward",
+    "timestamp": "2026-08-03T17:12:08Z",
+    "summary": "CKPool's developer put the winner's hashrate at a \u201cwildly variable\u201d peak of 100 PH, noting that it was probably rented.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=374850",
+    "title": "Trump Family\u2019s American Bitcoin Tops 8,000 BTC After Record Mining Quarter",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/374850/trump-american-bitcoin-8000-btc-record-mining-quarter",
+    "timestamp": "2026-08-03T16:29:15Z",
+    "summary": "The Hut 8 subsidiary increased its Bitcoin holdings by 14% in the second quarter even as Bitcoin\u2019s price fell.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=374836",
     "title": "Tom Lee\u2019s Bitmine Buys More Ethereum, Adds to Stock Buyback",
     "platform": "news",
@@ -257,46 +297,6 @@
     "url": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
     "timestamp": "2026-08-02T17:18:51Z",
     "summary": "Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly 1,367 BTC across 4,585 addresses.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374808",
-    "title": "What\u2019s the Deal With Meta\u2019s \u2018Pervert Glasses\u2019?",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374808/whats-the-deal-with-meta-pervert-glasses",
-    "timestamp": "2026-08-02T15:01:03Z",
-    "summary": "Lawsuits, privacy complaints, secret recordings, and government investigations have put Meta\u2019s AI glasses under scrutiny.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374810",
-    "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
-    "timestamp": "2026-08-01T16:01:17Z",
-    "summary": "The Binance founder urged holders to spread funds across multiple wallets as Galaxy Research put the toll from the Coldcard exploit at roughly $70 million\u2014nearly double the initial estimate.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374794",
-    "title": "The More Americans Know About AI, the Less They Like It: Gallup",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374794/more-americans-know-about-ai-less-they-like-gallup",
-    "timestamp": "2026-08-01T15:01:09Z",
-    "summary": "Gallup says Americans are growing more skeptical of artificial intelligence, with rising concerns about job losses, businesses' use of the technology, and the technology\u2019s growing impact.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374805",
-    "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
-    "timestamp": "2026-07-31T20:32:50Z",
-    "summary": "The Nano Banana tool let users generate fake satellite scenes from a text prompt, alarming investigators who rely on Google Earth to verify breaking news and atrocities.",
     "source": "Decrypt"
   }
 ]
