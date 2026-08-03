@@ -1,12 +1,42 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Bitcoin hits $62K while Coinbase premium hits 77-day negative streak",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/bitcoin-hits-62k-while-coinbase-premium-hits-77-day-negative-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-03T05:58:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin hits $62K while Coinbase premium hits 77-day negative streak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Suspected 4th Coldcard attack wave sweeps 389 Bitcoin: Galaxy\u2019s Thorn",
+    "title": "Coldcard\u2019s 5-year flaw reveals hardware wallet testing gap: Kraken\u2019s security chief",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-03T04:09:44Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard\u2019s 5-year flaw reveals hardware wallet testing gap: Kraken\u2019s security chief\" class=\"type:primaryImage\" src=\"https://s3-i...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "South Korean stablecoin outflows top $367M in June: Report",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/south-korea-stablecoin-outflows-overseas-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-03T04:05:11Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korean stablecoin outflows top $367M in June: Report \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy\u2019s Thorn",
     "platform": "news",
     "type": "news",
     "url": "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-03T01:57:40Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Suspected 4th Coldcard attack wave sweeps 389 Bitcoin: Galaxy\u2019s Thorn\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy\u2019s Thorn\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
     "source": "CoinTelegraph"
   },
   {
@@ -70,34 +100,34 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Onchain, in court: What happened in crypto legal news this week",
+    "id": "news_coindesk_6cd4edce-5df1-4a4d-a64e-f88fc1",
+    "title": "Bitcoin slips under $63,000 despite Iran deal hopes as Coldcard losses rattle market",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-01T21:19:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Onchain, in court: What happened in crypto legal news this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/03/bitcoin-slips-under-usd63-000-despite-iran-deal-hopes-as-coldcard-losses-rattle-market",
+    "timestamp": "2026-08-03T06:15:38Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
+    "id": "news_coindesk_edce14f9-e87a-429e-b564-78845f",
+    "title": "Trump Media\u2019s bitcoin stash may be down to loan collateral after $165 million BTC move",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-01T18:09:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Minnesota crypto ATM ban goes into effect after reported $1M losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/03/trump-media-s-bitcoin-stash-may-be-down-to-loan-collateral-after-usd165-million-btc-move",
+    "timestamp": "2026-08-03T05:52:29Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Crypto PAC pours another $1M into Michigan House race",
+    "id": "news_coindesk_d5d04f2c-afe9-4dd6-9907-86b53a",
+    "title": "Michael Saylor\u2019s Strategy is now tracking bitcoin\u2019s 200-week moving average",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-01T15:49:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC pours another $1M into Michigan House race\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/03/michael-saylor-s-strategy-is-now-tracking-bitcoin-s-200-week-moving-average",
+    "timestamp": "2026-08-03T05:07:49Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_21018b0d-4817-49db-94f0-0f2575",
@@ -166,36 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
     "timestamp": "2026-08-01T20:10:54Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_ef406636-094e-4cdd-9dc8-1895f5",
-    "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
-    "timestamp": "2026-08-01T16:51:35Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_8a4b0672-8e04-4ad9-a2af-ed346e",
-    "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
-    "timestamp": "2026-08-01T16:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_fedb8cd6-e9d9-4264-a72f-28bd09",
-    "title": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
-    "timestamp": "2026-08-01T15:51:10Z",
     "summary": "",
     "source": "CoinDesk"
   },
