@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-04T19:59:26Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-04T19:58:48Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks\" class=\"type:primaryImage\" src=\"https:...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "BNY to offer institutional crypto staking through Galaxy partnership",
     "platform": "news",
     "type": "news",
@@ -37,16 +57,6 @@
     "url": "https://cointelegraph.com/news/15-attackers-exploited-coldcard-vulnerability-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-04T14:38:49Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"At least 15 attackers exploited Coldcard vulnerability: Galaxy\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-04T13:45:02Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
     "source": "CoinTelegraph"
   },
   {
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Jim Cramer plans to sell his Bitcoin over quantum fears as BTC rises 1.6%",
+    "id": "news_coindesk_302e07e6-dc9c-4502-ac1b-6c9d02",
+    "title": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/jim-cramer-sell-bitcoin-quantum-fears-btc-rises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-04T10:53:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Jim Cramer plans to sell his Bitcoin over quantum fears as BTC rises 1.6%\" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value",
+    "timestamp": "2026-08-04T20:26:21Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_b056aae6-0ee8-4ca5-ad20-a51d4a",
@@ -190,14 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_29bc7ca3-3526-4ccf-a7fb-eb1f96",
-    "title": "BitGo\u2019s WBTC move pushes LayerZero-to-Chainlink tally near $15 billion",
+    "id": "news_decrypt_https://decrypt.co/?p=374923",
+    "title": "Jim Cramer Is Selling His Bitcoin Over Quantum Threat\u2014Crypto Twitter Is Thrilled",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/04/bitgo-s-wbtc-move-pushes-layerzero-to-chainlink-tally-near-usd15-billion",
-    "timestamp": "2026-08-04T13:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/374923/jim-cramer-selling-bitcoin-quantum-computing-threat",
+    "timestamp": "2026-08-04T20:45:18Z",
+    "summary": "The CNBC host announced the decision on air after interviewing IBM CEO Arvind Krishna, asking him whether quantum computers could eventually crack the cryptography protecting his coins.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=374921",
+    "title": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/374921/ai-data-center-protest-arrests",
+    "timestamp": "2026-08-04T20:30:52Z",
+    "summary": "Dozens of arrests tied to opposition against AI data centers underscore how local disputes over massive computing projects are growing into a national political movement.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=374916",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/374891/hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m",
     "timestamp": "2026-08-04T10:52:57Z",
     "summary": "Fake \"coordinated hardware audit\" emails are steering holders to a cloned Coldcard site that installs remote-access software.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374889",
-    "title": "Five Convicted of Imprisoning Crypto Millionaires in London 'Torture' Ordeal",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374889/five-convicted-of-imprisoning-crypto-millionaires-in-london-torture-ordeal",
-    "timestamp": "2026-08-04T09:46:24Z",
-    "summary": "Two of the five were also convicted of conspiracy to blackmail, in a case police won without either victim testifying.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374874",
-    "title": "Marmot Researchers Turn to OnlyFans for Funding\u2014And There Are Meme Coins Too",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374874/marmot-researchers-onlyfans-memecoins-solana-onlymarms",
-    "timestamp": "2026-08-03T22:29:02Z",
-    "summary": "Scientists are using OnlyFans to help fund decades of marmot research, while unofficial memecoins inspired by the project have emerged on Solana.",
     "source": "Decrypt"
   }
 ]
