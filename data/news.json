@@ -100,6 +100,16 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_b056aae6-0ee8-4ca5-ad20-a51d4a",
+    "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc",
+    "timestamp": "2026-08-04T17:55:23Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_729ddd6f-4256-42e4-bbca-fcecb8",
     "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
     "platform": "news",
@@ -190,14 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_3fd32fa9-483c-49ca-ac4b-2731a7",
-    "title": "BNY to add crypto staking to digital asset custody platform",
+    "id": "news_decrypt_https://decrypt.co/?p=374916",
+    "title": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/04/bny-to-add-crypto-staking-to-digital-asset-custody-platform",
-    "timestamp": "2026-08-04T12:30:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/374916/coldcard-bitcoin-exploit-explained-entropy-keys-bits",
+    "timestamp": "2026-08-04T19:11:36Z",
+    "summary": "A flaw in Coldcard wallets cost Bitcoin holders more than $100 million\u2014and reopened an old fight about whether you can trust dice.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=374915",
+    "title": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/374915/solana-proposal-increase-daily-sol-burns-10-fold",
+    "timestamp": "2026-08-04T18:46:11Z",
+    "summary": "Validators are considering changes that would increase the amount of SOL permanently removed from circulation while reducing the rate of new token issuance.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=374906",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/374874/marmot-researchers-onlyfans-memecoins-solana-onlymarms",
     "timestamp": "2026-08-03T22:29:02Z",
     "summary": "Scientists are using OnlyFans to help fund decades of marmot research, while unofficial memecoins inspired by the project have emerged on Solana.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374871",
-    "title": "Former FBI Agent Charged With Stealing Nearly $1 Million in Crypto and Using ChatGPT for Investment Advice",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374871/former-fbi-agent-charged-stealing-crypto-using-chatgpt-advice",
-    "timestamp": "2026-08-03T21:17:06Z",
-    "summary": "Prosecutors say the former counterintelligence supervisor stole cryptocurrency from wallets tied to FBI investigations before asking ChatGPT how to invest the money and relocate to Europe.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374868",
-    "title": "What Is an Air-Gapped Bitcoin Wallet? Why the Coldcard Exploit Changes the Conversation About Offline Security",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374868/what-is-air-gapped-bitcoin-wallet-coldcard-exploit-security",
-    "timestamp": "2026-08-03T20:39:33Z",
-    "summary": "Air-gapped wallets keep private keys completely offline, reducing exposure to hackers\u2014but they're not immune from threats.",
     "source": "Decrypt"
   }
 ]
