@@ -200,6 +200,46 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=374933",
+    "title": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/374933/bitcoin-bridge-shuts-down-ai-finding-bugs-too-fast",
+    "timestamp": "2026-08-04T22:46:03Z",
+    "summary": "Non-custodial Bitcoin swap provider Boltz says attackers are finding vulnerabilities faster than its team can fix them, forcing it to suspend swaps indefinitely.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=374930",
+    "title": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude\u2014The Internet Bugs Back",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude",
+    "timestamp": "2026-08-04T22:16:03Z",
+    "summary": "Nicholas Charriere turned an hour of nonsense into a family website with named tracks. One reply calling him creepy got more likes than his post.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=374928",
+    "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
+    "timestamp": "2026-08-04T21:46:03Z",
+    "summary": "The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=374914",
+    "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai",
+    "timestamp": "2026-08-04T21:16:03Z",
+    "summary": "Ledger CTO Charles Guillemet says the Coldcard exploit underscores why certified hardware randomness matters\u2014and why AI is reshaping wallet security.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=374923",
     "title": "Jim Cramer Is Selling His Bitcoin Over Quantum Threat\u2014Crypto Twitter Is Thrilled",
     "platform": "news",
@@ -257,46 +297,6 @@
     "url": "https://decrypt.co/374903/hashdex-shut-down-bitcoin-etf",
     "timestamp": "2026-08-04T16:43:46Z",
     "summary": "The Brazil-based crypto asset manager will liquidate its U.S. spot Bitcoin ETF later this month, ending a fund that entered the market in 2024.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374900",
-    "title": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported",
-    "timestamp": "2026-08-04T13:36:06Z",
-    "summary": "A Milan start-up says it found a full-takeover flaw in macOS using ChatGPT, then hit Apple's new submission cap before it could file it.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374897",
-    "title": "Morning Minute: Saylor Sells Bitcoin Again",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374897/morning-minute-saylor-sells-bitcoin-again",
-    "timestamp": "2026-08-04T12:33:21Z",
-    "summary": "Strategy sold $104M in Bitcoin last week to help prop up STRC, a financial product they created to\u2026 help them buy more Bitcoin.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374894",
-    "title": "BlackRock Tokenizes $311B of European Money Market Funds With JP Morgan's Kinexys",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374894/blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys",
-    "timestamp": "2026-08-04T11:40:44Z",
-    "summary": "Europe's largest cash management platform is now issuing tokens on Ethereum, in a launch restricted to professional investors.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374891",
-    "title": "Hardware Wallet Firms Warn of Phishing Surge as Coldcard Losses Near $130M",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374891/hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m",
-    "timestamp": "2026-08-04T10:52:57Z",
-    "summary": "Fake \"coordinated hardware audit\" emails are steering holders to a cloned Coldcard site that installs remote-access software.",
     "source": "Decrypt"
   }
 ]
