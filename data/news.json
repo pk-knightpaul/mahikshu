@@ -1,6 +1,36 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "At least 15 attackers exploited Coldcard vulnerability: Galaxy",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/15-attackers-exploited-coldcard-vulnerability-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-04T14:38:49Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"At least 15 attackers exploited Coldcard vulnerability: Galaxy\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-04T13:45:02Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/maga",
+    "title": "Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/magazine/bitcoin-to-go-down-into-the-40s-before-next-bull-run-michael-terpin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-04T13:30:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Texas electric grid moratorium won\u2019t have big impact on BTC miners: Bernstein",
     "platform": "news",
     "type": "news",
@@ -35,7 +65,7 @@
     "platform": "news",
     "type": "news",
     "url": "https://cointelegraph.com/markets/jim-cramer-sell-bitcoin-quantum-fears-btc-rises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-04T10:47:39Z",
+    "timestamp": "2026-08-04T10:53:00Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Jim Cramer plans to sell his Bitcoin over quantum fears as BTC rises 1.6%\" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
     "source": "CoinTelegraph"
   },
@@ -70,34 +100,64 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Apple briefly removes Telegram from App Store, Gram rebounds",
+    "id": "news_coindesk_04221525-5053-470e-a876-fb2ca3",
+    "title": "Bitcoin\u2019s $63,000 zone emerges as key battleground for buyers: Glassnode",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/apple-telegram-app-store-gram-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-04T08:03:03Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Apple briefly removes Telegram from App Store, Gram rebounds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/04/bitcoin-s-usd63-000-zone-emerges-as-key-battleground-for-buyers-glassnode",
+    "timestamp": "2026-08-04T14:49:33Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "NY judge denies CFTC motion to halt enforcement action against Kalshi",
+    "id": "news_coindesk_bf9385e1-ceb8-43d6-9a64-a4cea1",
+    "title": "Polymarket targets $20 billion valuation as competition heats up in prediction market sector",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/ny-judge-denies-cftc-motion-enforcement-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-04T07:49:22Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"NY judge denies CFTC motion to halt enforcement action against Kalshi\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/04/polymarket-targets-usd20-billion-valuation-as-competition-heats-up-in-prediction-markets",
+    "timestamp": "2026-08-04T14:38:23Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Nigeria sets crypto tax collection rules for digital asset platforms",
+    "id": "news_coindesk_53d3475c-9ef8-4d03-81a7-ad6fe0",
+    "title": "Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/nigeria-crypto-tax-rules-digital-asset-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-04T07:25:32Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nigeria sets crypto tax collection rules for digital asset platforms\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/04/intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-crypto-prices-slumped",
+    "timestamp": "2026-08-04T14:25:50Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_7a512eb8-88e4-4497-804d-d2a122",
+    "title": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/04/dinari-brings-tokenized-u-s-stocks-to-american-investors-as-equity-race-heats-up",
+    "timestamp": "2026-08-04T14:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_2059f1c2-32b6-45b8-952c-b235a1",
+    "title": "As Clarity Act teeters, mystery group hammers away at crypto in Washington ads",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads",
+    "timestamp": "2026-08-04T13:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_29bc7ca3-3526-4ccf-a7fb-eb1f96",
+    "title": "BitGo\u2019s WBTC move pushes LayerZero-to-Chainlink tally near $15 billion",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/04/bitgo-s-wbtc-move-pushes-layerzero-to-chainlink-tally-near-usd15-billion",
+    "timestamp": "2026-08-04T13:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_3fd32fa9-483c-49ca-ac4b-2731a7",
@@ -140,64 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_9d5e95cc-6066-4024-82c2-3629be",
-    "title": "Bitcoin rises toward $64,000 as Coldcard exploit, Strategy sales recede. ADA advances",
+    "id": "news_decrypt_https://decrypt.co/?p=374900",
+    "title": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/04/bitcoin-rises-toward-usd64-000-as-coldcard-exploit-strategy-sales-recede-ada-advances",
-    "timestamp": "2026-08-04T10:51:11Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_5efc1c70-914d-43f9-b00c-2c26e1",
-    "title": "BlackRock debuts tokenized access to $311 billion of money market funds in Europe",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/04/blackrock-debuts-tokenized-access-to-usd311-billion-of-money-market-funds-in-europe",
-    "timestamp": "2026-08-04T10:03:24Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_8dc24f74-0ae4-44bb-a236-e34fca",
-    "title": "First U.S. spot bitcoin ETF to close as inflows dwindle, investors chase AI returns",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/04/first-u-s-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns",
-    "timestamp": "2026-08-04T09:54:02Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_a3f2f013-ef67-4f40-af48-e4b37b",
-    "title": "Live updates: Bitcoin stuck in tight range as risk assets rise on Iran deal hopes",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/04/live-updates-bitcoin-at-usd63-600-as-rare-us-japan-yen-action-tests-carry-trade-fears",
-    "timestamp": "2026-08-04T08:41:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_26cd4cad-8f2b-4ac2-bda1-135f7f",
-    "title": "Bhutan's GMC puts part of its bitcoin treasury to work after 10,000 BTC pledge",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/04/bhutan-s-gmc-puts-part-of-its-bitcoin-treasury-to-work-after-10-000-btc-pledge",
-    "timestamp": "2026-08-04T07:56:11Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_7bb50490-15ca-4869-97b7-082c77",
-    "title": "Why Jim Cramer\u2019s quantum panic isn\u2019t rattling bitcoin as price holds steady around $64,000",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/04/why-jim-cramer-s-quantum-panic-isn-t-rattling-bitcoin-as-price-holds-steady-around-usd64-000",
-    "timestamp": "2026-08-04T07:53:18Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported",
+    "timestamp": "2026-08-04T13:36:06Z",
+    "summary": "A Milan start-up says it found a full-takeover flaw in macOS using ChatGPT, then hit Apple's new submission cap before it could file it.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=374897",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
     "timestamp": "2026-08-03T17:51:03Z",
     "summary": "Flare's FXRP has been approved as collateral in a $280 million RLUSD lending vault, allowing XRP holders to tap Ethereum's lending markets.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374838",
-    "title": "Crypto Privacy Tools Serve \u2018Essential Protective Functions\u2019: Report by ChangeNOW, CoinRabbit",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374838/crypto-privacy-tools-serve-essential-protective-functions-report-by-changenow-coinrabbit",
-    "timestamp": "2026-08-03T17:31:03Z",
-    "summary": "Authoritarian oppression, corporate treasuries and \u201cwrench attacks\u201d make up the privacy case in a new report from ChangeNOW and CoinRabbit.",
     "source": "Decrypt"
   }
 ]
