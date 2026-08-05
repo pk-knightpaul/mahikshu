@@ -1,5 +1,25 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Gold hits six-week highs on China demand as Bitcoin ignores fresh S&P 500 record",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/gold-hits-six-week-highs-on-china-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-05T15:02:16Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gold hits six-week highs on China demand as Bitcoin ignores fresh S&amp;P 500 record\" class=\"type:primaryImage\" src=\"https://s3-...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Crypto whales accumulate as bear market nears late stage: CryptoQuant",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/crypto-whales-buy-bear-market-late-stage-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-05T14:08:27Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto whales accumulate as bear market nears late stage: CryptoQuant\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/maga",
     "title": "Do the Coldcard attacks mean all hardware wallets are now insecure?",
     "platform": "news",
@@ -80,24 +100,34 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode",
+    "id": "news_coindesk_cc757f51-62cd-4e34-b1bc-0969a8",
+    "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-metric-basket-sees-longest-capitulation-since-ftx-blow-up-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-05T09:40:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode\" class=\"type:primaryImage\" src=\"https://s3-im...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say",
+    "timestamp": "2026-08-05T15:44:08Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "BlackRock brings tokenized money market funds to Europe via JPMorgan",
+    "id": "news_coindesk_13b5277c-0629-4c07-b959-92a363",
+    "title": "Crypto Long & Short: Putting the bitcoin sizing question to the test",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/blackrock-jpmorgan-tokenized-money-market-funds-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-05T09:24:03Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock brings tokenized money market funds to Europe via JPMorgan\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/coindesk-indices/2026/08/05/crypto-long-and-short-putting-the-bitcoin-sizing-question-to-the-test",
+    "timestamp": "2026-08-05T15:03:19Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_f7a926be-ce58-4353-a0a1-619732",
+    "title": "Strategy\u2019s STRC rebounds 30% as company builds cash reserve, bitcoin price stabilizes",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/05/strategy-s-strc-rebounds-30-as-company-builds-cash-reserve-bitcoin-price-stabilizes",
+    "timestamp": "2026-08-05T14:44:30Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_cd56ed6b-9463-46be-b9fa-d06165",
@@ -115,6 +145,16 @@
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill",
+    "timestamp": "2026-08-05T13:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_dd4809ca-76c7-4048-b918-e49dc2",
+    "title": "Ondo Finance hires former Blockchain.com CFO Adam Schlisman",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/05/ondo-finance-hires-former-blockchain-com-cfo-adam-schlisman",
     "timestamp": "2026-08-05T13:00:00Z",
     "summary": "",
     "source": "CoinDesk"
@@ -160,44 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_6a3c1eb0-5cd0-410d-a193-3f049f",
-    "title": "The $120 million Coldcard hack lights up Bitcoin's memory pool",
+    "id": "news_decrypt_https://decrypt.co/?p=374961",
+    "title": "Circle Taps Visa, Mastercard and BlackRock as Validators for September Arc Launch",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/05/the-usd120-million-coldcard-hack-lights-up-bitcoin-s-memory-pool",
-    "timestamp": "2026-08-05T11:20:58Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/374961/circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch",
+    "timestamp": "2026-08-05T15:38:09Z",
+    "summary": "Circle's USDC distribution deal with Coinbase has been renewed on existing terms, and Arc's testnet has processed half a billion transactions.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_a458c977-7154-406a-a1d7-f37aa5",
-    "title": "Circle shares fall 3% despite earnings beat as stablecoin issuer misses on revenue",
+    "id": "news_decrypt_https://decrypt.co/?p=374958",
+    "title": "Eliza Founder Declares AI Token 'Dead,' Shuts Down Foundation After Lawsuit Settlement",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/05/circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wall-street-backing",
-    "timestamp": "2026-08-05T11:13:17Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_86b9579b-49da-4590-9863-c1ac44",
-    "title": "Bitcoin, broader market fail to keep pace as global equities hit record highs",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/05/bitcoin-broader-market-fail-to-keep-pace-as-global-equities-hit-record-highs",
-    "timestamp": "2026-08-05T11:01:15Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_186e8ecb-5594-4c64-bb18-40be1c",
-    "title": "Coldcard hack sparks a self-custody security overhaul: Cory Klippsten",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/05/coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten",
-    "timestamp": "2026-08-05T09:55:32Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/374958/eliza-ai-token-dead-shuts-down-foundation-lawsuit",
+    "timestamp": "2026-08-05T15:24:38Z",
+    "summary": "Shaw Walters says Eliza's token is no more after a class-action settlement drained the project's remaining funds.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=374948",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai",
     "timestamp": "2026-08-04T21:16:03Z",
     "summary": "Ledger CTO Charles Guillemet says the Coldcard exploit underscores why certified hardware randomness matters\u2014and why AI is reshaping wallet security.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374923",
-    "title": "Jim Cramer Is Selling His Bitcoin Over Quantum Threat\u2014Crypto Twitter Is Thrilled",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374923/jim-cramer-selling-bitcoin-quantum-computing-threat",
-    "timestamp": "2026-08-04T20:45:18Z",
-    "summary": "The CNBC host announced the decision on air after interviewing IBM CEO Arvind Krishna, asking him whether quantum computers could eventually crack the cryptography protecting his coins.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374921",
-    "title": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374921/ai-data-center-protest-arrests",
-    "timestamp": "2026-08-04T20:30:52Z",
-    "summary": "Dozens of arrests tied to opposition against AI data centers underscore how local disputes over massive computing projects are growing into a national political movement.",
     "source": "Decrypt"
   }
 ]
