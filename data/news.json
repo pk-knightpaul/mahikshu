@@ -1,5 +1,35 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Bitcoin ETFs log inflows as cold wallet hack reignites custody debate",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/bitcoin-etfs-inflows-cold-wallet-hack-custody-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-05T10:43:05Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs log inflows as cold wallet hack reignites custody debate\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "S&P gives BlackRock tokenized reserve fund top stability rating",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/sp-blackrock-tokenized-reserve-fund-stability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-05T10:40:43Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"S&amp;P gives BlackRock tokenized reserve fund top stability rating\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-metric-basket-sees-longest-capitulation-since-ftx-blow-up-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-05T09:40:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode\" class=\"type:primaryImage\" src=\"https://s3-im...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "BlackRock brings tokenized money market funds to Europe via JPMorgan",
     "platform": "news",
@@ -70,34 +100,44 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Cloudflare introduces wallets for AI agents, plans stablecoin payments",
+    "id": "news_coindesk_6a3c1eb0-5cd0-410d-a193-3f049f",
+    "title": "The $120 million Coldcard hack lights up Bitcoin's memory pool",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/cloudflare-wallets-ai-agents-stablecoin-payments-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-05T07:20:03Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cloudflare introduces wallets for AI agents, plans stablecoin payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/daybook-us/2026/08/05/the-usd120-million-coldcard-hack-lights-up-bitcoin-s-memory-pool",
+    "timestamp": "2026-08-05T11:20:58Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "AI credit bubble could fuel Bitcoin \u2018crack-up boom\u2019 past $1M: Hayes",
+    "id": "news_coindesk_a458c977-7154-406a-a1d7-f37aa5",
+    "title": "Circle shares jump as earnings beat offsets revenue miss, Arc blockchain gains Wall Street backing",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/arthur-hayes-ai-credit-crisis-bitcoin-1-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-05T06:27:49Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AI credit bubble could fuel Bitcoin \u2018crack-up boom\u2019 past $1M: Hayes\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/05/circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wall-street-backing",
+    "timestamp": "2026-08-05T11:13:17Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
+    "id": "news_coindesk_86b9579b-49da-4590-9863-c1ac44",
+    "title": "Bitcoin, broader market fail to keep pace as global equities hit record highs",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-05T05:56:55Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/05/bitcoin-broader-market-fail-to-keep-pace-as-global-equities-hit-record-highs",
+    "timestamp": "2026-08-05T11:01:15Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_186e8ecb-5594-4c64-bb18-40be1c",
+    "title": "Coldcard hack sparks a self-custody security overhaul: Cory Klippsten",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/05/coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten",
+    "timestamp": "2026-08-05T09:55:32Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_6f16f338-f910-4b62-ade2-673d6a",
@@ -160,44 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_302e07e6-dc9c-4502-ac1b-6c9d02",
-    "title": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
+    "id": "news_decrypt_https://decrypt.co/?p=374944",
+    "title": "Ethereum Proposal Would Burn Staking Rewards to Zero if Half of ETH Is Staked",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value",
-    "timestamp": "2026-08-04T20:26:21Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/374944/ethereum-proposal-would-burn-staking-rewards-to-zero-if-half-of-eth-is-staked",
+    "timestamp": "2026-08-05T11:29:23Z",
+    "summary": "The incentive to stake beyond half the supply would disappear at activation, with the yield cut phasing in over 18 months.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_b056aae6-0ee8-4ca5-ad20-a51d4a",
-    "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
+    "id": "news_decrypt_https://decrypt.co/?p=374941",
+    "title": "Ex-LAPD Officer Gets Life Plus 15 Years Over $350K Bitcoin Robbery",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc",
-    "timestamp": "2026-08-04T17:55:23Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_729ddd6f-4256-42e4-bbca-fcecb8",
-    "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
-    "timestamp": "2026-08-04T17:14:13Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_8dce15af-63de-4559-b40e-4c45b1",
-    "title": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him",
-    "timestamp": "2026-08-04T16:21:59Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/374941/ex-lapd-officer-gets-life-plus-15-years-over-350k-bitcoin-robbery",
+    "timestamp": "2026-08-05T09:52:42Z",
+    "summary": "Eric Halem and his crew wore police vests to enter a Koreatown high-rise, then handcuffed a 17-year-old and took his hard drive.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=374933",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/374915/solana-proposal-increase-daily-sol-burns-10-fold",
     "timestamp": "2026-08-04T18:46:11Z",
     "summary": "Validators are considering changes that would increase the amount of SOL permanently removed from circulation while reducing the rate of new token issuance.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374906",
-    "title": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374906/alibaba-best-ai-model-qwen-free-claude-chatgpt",
-    "timestamp": "2026-08-04T17:16:49Z",
-    "summary": "The first Qwen Max model with public weights is free to download next week. Alibaba's own scorecard says the Americans still win on code.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=374903",
-    "title": "Hashdex to Shut Down Bitcoin ETF After Struggling to Gain Assets",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/374903/hashdex-shut-down-bitcoin-etf",
-    "timestamp": "2026-08-04T16:43:46Z",
-    "summary": "The Brazil-based crypto asset manager will liquidate its U.S. spot Bitcoin ETF later this month, ending a fund that entered the market in 2024.",
     "source": "Decrypt"
   }
 ]
