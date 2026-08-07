@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-07T05:24:38Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams\" class=\"type:primaryImage\" src=\"https://s3-images.ctm...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-07T05:04:22Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg\" class=\"type:primaryImage\" src=\"https://s3-images.ctm...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Bitget explores licensed crypto presence in Bhutan",
     "platform": "news",
     "type": "news",
@@ -11,12 +31,12 @@
   },
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "US Senate pushes CLARITY Act vote to September: Report",
+    "title": "US Senate pushes CLARITY Act vote to September",
     "platform": "news",
     "type": "news",
     "url": "https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-07T02:49:53Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate pushes CLARITY Act vote to September: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl...",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate pushes CLARITY Act vote to September\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers...",
     "source": "CoinTelegraph"
   },
   {
@@ -80,24 +100,34 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "US Senate will vote on CLARITY crypto bill \u2018without any question\u2019 this week: Tim Scott",
+    "id": "news_coindesk_6a70eff6-95a6-4ac6-adbc-c9138b",
+    "title": "Bitcoin wallet dormant since 2011 moves $3.2 million toward FalconX-linked address",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/us-senate-vote-clarity-act-tim-scott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-06T16:53:45Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate will vote on CLARITY crypto bill \u2018without any question\u2019 this week: Tim Scott \" class=\"type:primaryImage\" src=\"https://...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address",
+    "timestamp": "2026-08-07T04:50:44Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Bitcoin miners\u2019 AI pivot loses Wall Street\u2019s wow factor",
+    "id": "news_coindesk_80677607-ad80-438f-aee9-e184b7",
+    "title": "A case for a bitcoin surge to $76,000 may be building beneath the boring price action, but there's a caveat",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/bitcoin-miners-ai-infrastructure-deals-wall-street-reaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-06T16:42:33Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin miners\u2019 AI pivot loses Wall Street\u2019s wow factor\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/artic...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat",
+    "timestamp": "2026-08-07T04:28:17Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_73654ce7-bb31-47b9-beb1-9821dd",
+    "title": "XRP leads majors losses as Clarity Act vote slips to September",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september",
+    "timestamp": "2026-08-07T04:17:01Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_71485e42-e279-4065-9441-d4c8dd",
@@ -166,36 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of",
     "timestamp": "2026-08-06T11:30:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_68782b8b-413e-44a6-a715-8fe32c",
-    "title": "Why Sandisk and Western Digital crashed 10% and what it means for bitcoin",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/06/why-sandisk-and-western-digital-crashed-10-and-what-it-means-for-bitcoin",
-    "timestamp": "2026-08-06T11:14:47Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_ad120add-6ee3-4f52-8890-b6162f",
-    "title": "JPYC raises $38 million Series B led by major Japanese logistics firm AZ-COM Maruwa",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/06/jpyc-raises-usd38-million-series-b-led-by-major-japanese-logistics-firm-az-com-maruwa",
-    "timestamp": "2026-08-06T10:53:09Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_cfa3083f-58d1-4482-a9f9-001554",
-    "title": "Bitcoin, ether benefit as traders seek safety of largest tokens",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens",
-    "timestamp": "2026-08-06T10:43:07Z",
     "summary": "",
     "source": "CoinDesk"
   },
