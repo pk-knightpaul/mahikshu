@@ -1,6 +1,36 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-07T13:49:35Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/maga",
+    "title": "Fierce backlash to Ethereum\u2019s EIP-8363 staking proposal",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/magazine/fierce-backlash-to-ethereums-latest-staking-proposal-eip-8363?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-07T13:30:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fierce backlash to Ethereum\u2019s EIP-8363 staking proposal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/artic...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/feat",
+    "title": "Bitcoiners turn to dice throws as self-custody setups are re-evaluated",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/features/bitcoiners-turn-to-dice-throws-as-self-custody-setups-are-re-evaluated?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-07T13:00:01Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoiners turn to dice throws as self-custody setups are re-evaluated\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Russia cracks down on 9 crypto exchanges in Moscow City",
     "platform": "news",
     "type": "news",
@@ -70,38 +100,18 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
+    "id": "news_coindesk_da88b581-f48c-4649-b654-fed9b9",
+    "title": "Russia cracks down on unlicensed crypto exchanges it claims are linked to Ukraine",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-07T05:24:38Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams\" class=\"type:primaryImage\" src=\"https://s3-images.ctm...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-07T05:04:22Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg\" class=\"type:primaryImage\" src=\"https://s3-images.ctm...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Bitget explores licensed crypto presence in Bhutan",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/bitget-explores-licensed-crypto-presence-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-07T03:22:26Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget explores licensed crypto presence in Bhutan\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/policy/2026/08/07/russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukraine",
+    "timestamp": "2026-08-07T14:04:47Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_a01913f8-f5e3-4b6e-a6eb-5708f0",
-    "title": "The U.S. lost 23,000 jobs in July, far shy of forecasts for a gain of 80,000",
+    "title": "U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_ef8176ab-3e44-4ff2-bced-a12988",
-    "title": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
+    "id": "news_decrypt_https://decrypt.co/?p=375099",
+    "title": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
-    "timestamp": "2026-08-07T05:45:21Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375099/tokenized-asset-deposits-tripled-to-7-4b-as-defi-shrank-coinshares",
+    "timestamp": "2026-08-07T13:26:19Z",
+    "summary": "Gold, Treasuries and the S&#038;P 500 led the growth, in a year when spot volumes on decentralized exchanges fell by roughly 70%.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375096",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375062/putin-signs-russia-first-crypto-trading-payments",
     "timestamp": "2026-08-06T18:38:21Z",
     "summary": "The new law creates a licensed, central bank-supervised market for trading digital assets, yet crypto remains barred from everyday payments.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375058",
-    "title": "OpenAI Reveals How AI Agents Secretly Coordinated Before Hugging Face Hack",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375058/openai-ai-agents-secretly-coordinated-hugging-face-hack",
-    "timestamp": "2026-08-06T18:26:29Z",
-    "summary": "The presentation at the annual Black Hat conference sheds new light on how OpenAI's models collaborated to launch the Hugging Face breach.",
     "source": "Decrypt"
   }
 ]
