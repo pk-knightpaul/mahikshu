@@ -100,6 +100,16 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_cf96ecc7-09a4-49ad-9b1f-5f1503",
+    "title": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze",
+    "timestamp": "2026-08-07T16:32:41Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_06b54ff3-4e03-495b-8323-c48933",
     "title": "OKX's Rafique doubts Clarity Act will pass, warns optimism is already priced into bitcoin",
     "platform": "news",
@@ -190,14 +200,34 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_773457b8-eae6-49af-a5fd-fedc53",
-    "title": "Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets",
+    "id": "news_decrypt_https://decrypt.co/?p=375133",
+    "title": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets",
-    "timestamp": "2026-08-07T09:24:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas",
+    "timestamp": "2026-08-07T16:36:59Z",
+    "summary": "Microsoft said compromised websites are retrieving malicious instructions from the blockchain before tricking visitors into running them on Windows devices.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375118",
+    "title": "Bitcoin Still in Death Cross as Jobs Miss Cuts Rate-Hike Odds",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375118/bitcoin-price-death-cross-jobs-miss-rate-hike-odds",
+    "timestamp": "2026-08-07T16:07:12Z",
+    "summary": "A soft July payrolls print pulled September rate-hike odds down. It gives investors in risk assets hope, but Bitcoin remains in bear territory.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375117",
+    "title": "OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375117/openais-first-device-is-a-300-plus-doughnut-shaped-speaker-report",
+    "timestamp": "2026-08-07T16:03:06Z",
+    "summary": "Designed with Jony Ive's LoveFrom studio, the screenless gadget is slated for 2027 and will use cameras, lights and moving parts.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375114",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/375078/sec-billion-airline-records-track-travelers",
     "timestamp": "2026-08-06T21:36:03Z",
     "summary": "The financial regulator subscribed to a global flight database covering more than a billion tickets to monitor activity.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375069",
-    "title": "Tokyo Tells Trump to Stop Meme-ing Mario",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375069/tokyo-trump-mario-naruto-pokemon-memes",
-    "timestamp": "2026-08-06T21:01:03Z",
-    "summary": "Tokyo has asked Washington to stop meme-posting Mario, Pok\u00e9mon, and Naruto without permission in a clash between meme-heavy statecraft and strict IP norms.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375070",
-    "title": "Meta Says Its AI Model Escaped and Hacked a Third-Party Company Too",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375070/meta-says-ai-model-escaped-hack-third-party",
-    "timestamp": "2026-08-06T20:31:03Z",
-    "summary": "The company says a configuration error by an outside testing partner gave one of its Muse Spark models internet access during a cybersecurity evaluation.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375066",
-    "title": "Senators Push CFTC to Ban Wildfire Bets on Prediction Markets",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375066/senators-push-cftc-ban-wildfire-bets-prediction-markets",
-    "timestamp": "2026-08-06T19:51:09Z",
-    "summary": "Democratic lawmakers say wildfire event contracts create risks of arson, insider trading, and disaster profiteering as they urge federal regulators to step in.",
     "source": "Decrypt"
   }
 ]
