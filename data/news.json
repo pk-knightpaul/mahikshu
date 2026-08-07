@@ -1,5 +1,25 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Circle expands USDC to OKX ecosystem with X Layer launch",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/circle-native-usdc-okx-x-layer-cctp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-07T17:36:45Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle expands USDC to OKX ecosystem with X Layer launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Reform UK chair calls for probe into SBF-linked donation: Report",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/reform-uk-probe-ftx-sam-bankman-fried-donation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-07T17:03:50Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Reform UK chair calls for probe into SBF-linked donation: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets",
     "platform": "news",
@@ -80,24 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "CleanSpark misses Wall Street revenue estimates as shares sink",
+    "id": "news_coindesk_1e1c2ed1-e335-4e09-bb29-e20b35",
+    "title": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/cleanspark-wall-street-revenue-estimates-shares-sink?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-07T09:25:56Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CleanSpark misses Wall Street revenue estimates as shares sink\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Stripe-owned Bridge joins EU MiCA register after Luxembourg approval",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/bridge-mica-stablecoin-issuer-esma-register?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-07T09:14:17Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stripe-owned Bridge joins EU MiCA register after Luxembourg approval\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/07/31/bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-business",
+    "timestamp": "2026-08-07T16:53:56Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_cf96ecc7-09a4-49ad-9b1f-5f1503",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_24ae663c-7ea1-4c8f-838e-27a9b7",
-    "title": "Bitcoin hovers below $65,000 as Middle East tensions escalate further",
+    "id": "news_decrypt_https://decrypt.co/?p=375136",
+    "title": "XRP at a Crossroads as Senate Punts on Clarity Act",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/07/cmt",
-    "timestamp": "2026-08-07T10:36:14Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375136/xrp-price-crossroads-senate-punts-clarity-act",
+    "timestamp": "2026-08-07T17:36:41Z",
+    "summary": "XRP is taking the Clarity Act news harder than the rest of the crypto market. Here's why.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375133",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375082/senate-punts-clarity-act-vote-to-september-as-democrats-hold-out",
     "timestamp": "2026-08-07T09:26:02Z",
     "summary": "Senate Majority Leader Thune says the bill will be queued up when lawmakers return, leaving weeks to find 60 votes before midterms take over.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375078",
-    "title": "SEC Bought a Billion Airline Records to Track Travelers\u2014Likely Without a Warrant",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375078/sec-billion-airline-records-track-travelers",
-    "timestamp": "2026-08-06T21:36:03Z",
-    "summary": "The financial regulator subscribed to a global flight database covering more than a billion tickets to monitor activity.",
     "source": "Decrypt"
   }
 ]
