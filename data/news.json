@@ -1,6 +1,36 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "CleanSpark misses Wall Street revenue estimates as shares sink",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/cleanspark-wall-street-revenue-estimates-shares-sink?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-07T09:25:56Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CleanSpark misses Wall Street revenue estimates as shares sink\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Stripe-owned Bridge joins EU MiCA register after Luxembourg approval",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/bridge-mica-stablecoin-issuer-esma-register?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-07T09:14:17Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stripe-owned Bridge joins EU MiCA register after Luxembourg approval\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/clarity-act-delay-asian-crypto-hubs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-07T09:01:14Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO\" class=\"type:primaryImage\" src=\"https://s3-images.ctm...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Coldcard exploit pushes July losses to $247M as second-worst month of 2026",
     "platform": "news",
     "type": "news",
@@ -70,34 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Following primary loss, crypto PACs invest $1.5M in 3 US state races",
+    "id": "news_coindesk_773457b8-eae6-49af-a5fd-fedc53",
+    "title": "Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/crypto-pac-florida-alaska-wyoming-primary-races?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-06T21:11:19Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Following primary loss, crypto PACs invest $1.5M in 3 US state races\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-06T19:31:44Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Bitcoin ETF inflows surge after Coldcard hack, but link is unclear: Bloomberg analyst",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/bitcoin-etf-inflows-coldcard-hack-bloomberg-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-06T18:17:57Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETF inflows surge after Coldcard hack, but link is unclear: Bloomberg analyst\" class=\"type:primaryImage\" src=\"https://s3...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets",
+    "timestamp": "2026-08-07T09:24:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_f496e949-1bc2-4aed-a20b-6f848a",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_58de6594-f7f0-4837-9bb3-c46d96",
-    "title": "Tether expands tokenization business into Saudi Arabia, starting with real estate",
+    "id": "news_decrypt_https://decrypt.co/?p=375082",
+    "title": "Senate Punts Clarity Act Vote to September as Democrats Hold Out",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/06/tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate",
-    "timestamp": "2026-08-06T16:10:04Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375082/senate-punts-clarity-act-vote-to-september-as-democrats-hold-out",
+    "timestamp": "2026-08-07T09:26:02Z",
+    "summary": "Senate Majority Leader Thune says the bill will be queued up when lawmakers return, leaving weeks to find 60 votes before midterms take over.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375078",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375044/metamask-self-custodial-ai-wallet-autonomous-crypto-trading",
     "timestamp": "2026-08-06T16:26:56Z",
     "summary": "The new Agent Wallet lets AI agents execute on-chain trades within user-defined limits as MetaMask expands its push into AI-powered crypto trading.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375037",
-    "title": "DuckDuckGo\u2019s Meta-Trolling 'Normal F***ing Sunglasses' Sell Out in Under a Week",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375037/duckduckgos-meta-trolling-normal-fing-sunglasses-sell-out-in-under-a-week",
-    "timestamp": "2026-08-06T16:19:39Z",
-    "summary": "The $35 frames have polarized lenses, UV protection and no camera, microphone, battery or electronics of any kind.",
     "source": "Decrypt"
   }
 ]
