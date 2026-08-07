@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375149",
+    "title": "Flock Wanted to Turn 350,000 Uber Drivers Into a Nationwide Plate-Scanning Fleet",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375149/flock-cameras-uber-drivers-nationwide-plate-scanning-fleet",
+    "timestamp": "2026-08-07T19:18:41Z",
+    "summary": "A leaked Flock presentation shows the surveillance firm pitching a plan to pull license-plate data from rideshare and delivery drivers.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375136",
     "title": "XRP at a Crossroads as Senate Punts on Clarity Act",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375085/mytrade-founder-fined-10k-over-bots-that-wash-traded-60-cryptocurrencies",
     "timestamp": "2026-08-07T10:37:41Z",
     "summary": "Liu Zhou told undercover agents the objective was to make other buyers lose money, according to the Justice Department.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375082",
-    "title": "Senate Punts Clarity Act Vote to September as Democrats Hold Out",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375082/senate-punts-clarity-act-vote-to-september-as-democrats-hold-out",
-    "timestamp": "2026-08-07T09:26:02Z",
-    "summary": "Senate Majority Leader Thune says the bill will be queued up when lawmakers return, leaving weeks to find 60 votes before midterms take over.",
     "source": "Decrypt"
   }
 ]
