@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Coldcard exploit pushes July losses to $247M as second-worst month of 2026",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-07T07:59:42Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard exploit pushes July losses to $247M as second-worst month of 2026\" class=\"type:primaryImage\" src=\"https://s3-images.ctm...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,34 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "US appellate court mandate affirms Sam Bankman-Fried conviction",
+    "id": "news_coindesk_f496e949-1bc2-4aed-a20b-6f848a",
+    "title": "Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/us-appellate-court-mandate-sam-bankman-fried?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-06T17:17:34Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US appellate court mandate affirms Sam Bankman-Fried conviction\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/07/wintermute-gains-u-s-broker-dealer-status-in-wall-street-push",
+    "timestamp": "2026-08-07T08:46:17Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_67dc0afc-a864-4b77-b4b7-d4eaf5",
+    "title": "Ethereum staking token weETH splits from restaking as rewards debate heats up",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up",
+    "timestamp": "2026-08-07T08:01:28Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_b255a68e-676d-4b06-990a-8103ca",
+    "title": "Live updates: Bitcoin flat at $64,300 before US jobs report, with oil back as a headwind",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
+    "timestamp": "2026-08-07T07:44:57Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_ef8176ab-3e44-4ff2-bced-a12988",
@@ -121,7 +151,7 @@
   },
   {
     "id": "news_coindesk_80677607-ad80-438f-aee9-e184b7",
-    "title": "A case for a bitcoin surge to $76,000 may be building beneath the boring price action, but there's a caveat",
+    "title": "A bitcoin pattern taking shape right now could send prices soaring to $76,000",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat",
@@ -166,36 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/08/06/tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate",
     "timestamp": "2026-08-06T16:10:04Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_c1a8bc27-e0ee-4d5c-a0a9-417c61",
-    "title": "Crypto for Advisors: Europe's crypto rules, U.S. Preview",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/08/06/crypto-for-advisors-europe-s-crypto-rules-u-s-preview",
-    "timestamp": "2026-08-06T15:07:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_f1792fbd-4b90-4353-b5dd-56fd30",
-    "title": "JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/06/jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts",
-    "timestamp": "2026-08-06T12:46:42Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_69174040-1469-4d49-9bcd-24f9d9",
-    "title": "Bitcoin\u2019s low volatility doesn\u2019t necessarily mean low risk",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/06/bitcoin-s-low-volatility-doesn-t-necessarily-mean-low-risk",
-    "timestamp": "2026-08-06T11:37:03Z",
     "summary": "",
     "source": "CoinDesk"
   },
