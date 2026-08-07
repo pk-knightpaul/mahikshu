@@ -100,6 +100,26 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_4004fffd-e5c8-4b39-9f49-3e4eb9",
+    "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
+    "timestamp": "2026-08-07T21:13:21Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_f2ef55ae-4594-4a1e-a836-8dd4cc",
+    "title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock",
+    "timestamp": "2026-08-07T20:20:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_a5b92de9-9dc5-4d6b-b352-1de689",
     "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
     "platform": "news",
@@ -180,24 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_5b41dba6-af27-440a-a3d4-e9cd51",
-    "title": "After a Clarity Act funeral, the crypto world would keep turning",
+    "id": "news_decrypt_https://decrypt.co/?p=375166",
+    "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/news-analysis/2026/08/06/after-a-clarity-act-funeral-the-crypto-world-would-keep-turning",
-    "timestamp": "2026-08-07T12:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_8b7d4b40-cce9-4b25-93db-1b3c3f",
-    "title": "Why Bitcoin's BIP-110 refuses to die despite near-zero miner support",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/08/06/why-bitcoin-s-bip-110-refuses-to-die-despite-near-zero-miner-support",
-    "timestamp": "2026-08-07T11:45:49Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
+    "timestamp": "2026-08-07T21:05:59Z",
+    "summary": "Truth Social's parent company is unwinding two major Crypto.com deals as new leadership shifts its focus to media, data licensing, and a planned merger with fusion energy company TAE.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375163",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375099/tokenized-asset-deposits-tripled-to-7-4b-as-defi-shrank-coinshares",
     "timestamp": "2026-08-07T13:26:19Z",
     "summary": "Gold, Treasuries and the S&#038;P 500 led the growth, in a year when spot volumes on decentralized exchanges fell by roughly 70%.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375096",
-    "title": "China\u2019s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375096/chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
-    "timestamp": "2026-08-07T12:37:14Z",
-    "summary": "Unlike the recent breakouts at OpenAI and Anthropic, this involved a model anyone can download, running its default safeguards.",
     "source": "Decrypt"
   }
 ]
