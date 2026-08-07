@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-07T11:05:01Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over\" class=\"type:primaryImage\" src=\"https://s3-im...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "CleanSpark misses Wall Street revenue estimates as shares sink",
     "platform": "news",
@@ -90,16 +100,6 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Crypto market maker Wintermute launches US broker-dealer",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/crypto-market-maker-wintermute-launches-us-broker-dealer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-07T00:09:47Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto market maker Wintermute launches US broker-dealer \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/art...",
-    "source": "CoinTelegraph"
-  },
-  {
     "id": "news_coindesk_24ae663c-7ea1-4c8f-838e-27a9b7",
     "title": "Bitcoin hovers below $65,000 as Middle East tensions escalate further",
     "platform": "news",
@@ -141,7 +141,7 @@
   },
   {
     "id": "news_coindesk_b255a68e-676d-4b06-990a-8103ca",
-    "title": "Live updates: Bitcoin flat at $64,300 before US jobs report, with oil back as a headwind",
+    "title": "Live updates: Bitcoin edges higher to $65,000 ahead of key U.S. jobs data",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
