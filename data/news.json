@@ -1,5 +1,25 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-07T15:23:15Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets\" class=\"type:primaryImage\" src=\"https://s3-image...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Crypto Biz: Crypto\u2019s biggest business is starting to look a lot like banking",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/crypto-biz-crypto-business-converges-traditional-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-07T15:07:49Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Crypto\u2019s biggest business is starting to look a lot like banking\" class=\"type:primaryImage\" src=\"https://s3-images.c...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Here\u2019s what happened in crypto today",
     "platform": "news",
@@ -80,24 +100,34 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO",
+    "id": "news_coindesk_06b54ff3-4e03-495b-8323-c48933",
+    "title": "OKX's Rafique doubts Clarity Act will pass, warns optimism is already priced into bitcoin",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/clarity-act-delay-asian-crypto-hubs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-07T09:01:14Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO\" class=\"type:primaryImage\" src=\"https://s3-images.ctm...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/policy/2026/08/04/okx-s-rafique-doubts-clarity-act-will-pass-warns-optimism-is-already-priced-into-bitcoin",
+    "timestamp": "2026-08-07T15:22:44Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Coldcard exploit pushes July losses to $247M as second-worst month of 2026",
+    "id": "news_coindesk_fd51d21a-7205-4d6c-93bb-f1c2ee",
+    "title": "How a five-second trick let traders drain millions from Polymarket",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-07T07:59:42Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard exploit pushes July losses to $247M as second-worst month of 2026\" class=\"type:primaryImage\" src=\"https://s3-images.ctm...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/07/how-a-five-second-trick-let-traders-drain-millions-from-polymarket",
+    "timestamp": "2026-08-07T15:09:07Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_1d0a724e-4ee7-461c-aeb7-1e9b9d",
+    "title": "A part of FTX survived, and it\u2019s the case for the CLARITY Act",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act",
+    "timestamp": "2026-08-07T14:30:25Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_da88b581-f48c-4649-b654-fed9b9",
@@ -170,34 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_f496e949-1bc2-4aed-a20b-6f848a",
-    "title": "Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks",
+    "id": "news_decrypt_https://decrypt.co/?p=375114",
+    "title": "Bitcoin Wallet Dormant Since 2011 Moves Millions in BTC",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/07/wintermute-gains-u-s-broker-dealer-status-in-wall-street-push",
-    "timestamp": "2026-08-07T08:46:17Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_67dc0afc-a864-4b77-b4b7-d4eaf5",
-    "title": "Ethereum staking token weETH splits from restaking as rewards debate heats up",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up",
-    "timestamp": "2026-08-07T08:01:28Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_b255a68e-676d-4b06-990a-8103ca",
-    "title": "Live updates: Bitcoin holding near $65,000 as U.S. lost jobs last month",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
-    "timestamp": "2026-08-07T07:44:57Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375114/bitcoin-wallet-dormant-since-2011-moves-millions-btc",
+    "timestamp": "2026-08-07T15:27:35Z",
+    "summary": "A Bitcoin address that had stayed silent for 15 years just sent its coins out for the first time.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375099",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375066/senators-push-cftc-ban-wildfire-bets-prediction-markets",
     "timestamp": "2026-08-06T19:51:09Z",
     "summary": "Democratic lawmakers say wildfire event contracts create risks of arson, insider trading, and disaster profiteering as they urge federal regulators to step in.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375062",
-    "title": "Putin Signs Russia's First Crypto Law: Trading Is Legal, Payments Stay Banned",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375062/putin-signs-russia-first-crypto-trading-payments",
-    "timestamp": "2026-08-06T18:38:21Z",
-    "summary": "The new law creates a licensed, central bank-supervised market for trading digital assets, yet crypto remains barred from everyday payments.",
     "source": "Decrypt"
   }
 ]
