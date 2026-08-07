@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "US Treasury\u2019s OFAC sanctions 2 Iran-linked crypto exchanges",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-07T20:02:20Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Treasury\u2019s OFAC sanctions 2 Iran-linked crypto exchanges\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Here\u2019s what happened in crypto today",
     "platform": "news",
     "type": "news",
@@ -87,16 +97,6 @@
     "url": "https://cointelegraph.com/news/cex-futures-volume-falls-4t-july-lowest-level-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-07T12:13:40Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CEX perpetual futures volume falls to $4T, lowest since late 2023\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/markets/binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-07T11:05:01Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over\" class=\"type:primaryImage\" src=\"https://s3-im...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375163",
+    "title": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375163/treasury-sanctions-crypto-exchanges-laundered-millions-iran",
+    "timestamp": "2026-08-07T20:28:33Z",
+    "summary": "The U.S. Treasury sanctioned two crypto exchanges it says laundered millions of dollars for Iran's Revolutionary Guard, naming a Georgia- and UAE-based operator and an Iran-based platform.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375159",
+    "title": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack",
+    "timestamp": "2026-08-07T20:00:34Z",
+    "summary": "Bitcoin company BTCPay Server told users to install the latest version of the server and replace credentials that may have been exposed.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375149",
     "title": "Flock Wanted to Turn 350,000 Uber Drivers Into a Nationwide Plate-Scanning Fleet",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/375096/chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
     "timestamp": "2026-08-07T12:37:14Z",
     "summary": "Unlike the recent breakouts at OpenAI and Anthropic, this involved a model anyone can download, running its default safeguards.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375093",
-    "title": "Morning Minute: MetaMask Hands AI Agents a Wallet",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375093/morning-minute-metamask-hands-ai-agents-a-wallet",
-    "timestamp": "2026-08-07T12:00:35Z",
-    "summary": "MetaMask's Agent Wallet lets AI agents trade crypto on their own. Plus, Bitcoin reclaims $65k despite the Clarity Act facing a new delay.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375085",
-    "title": "MyTrade Founder Fined $10K Over Bots That Wash Traded 60 Cryptocurrencies",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375085/mytrade-founder-fined-10k-over-bots-that-wash-traded-60-cryptocurrencies",
-    "timestamp": "2026-08-07T10:37:41Z",
-    "summary": "Liu Zhou told undercover agents the objective was to make other buyers lose money, according to the Justice Department.",
     "source": "Decrypt"
   }
 ]
