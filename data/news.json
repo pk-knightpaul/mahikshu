@@ -1,5 +1,25 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Russia cracks down on 9 crypto exchanges in Moscow City",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/russia-shuts-down-crypto-exchanges-moscow-city?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-07T12:28:41Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia cracks down on 9 crypto exchanges in Moscow City\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/artic...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "CEX perpetual futures volume falls to $4T, lowest since late 2023",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/cex-futures-volume-falls-4t-july-lowest-level-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-07T12:13:40Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CEX perpetual futures volume falls to $4T, lowest since late 2023\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over",
     "platform": "news",
@@ -80,24 +100,44 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "US Senate pushes CLARITY Act vote to September",
+    "id": "news_coindesk_a01913f8-f5e3-4b6e-a6eb-5708f0",
+    "title": "The U.S. lost 23,000 jobs in July, far shy of forecasts for a gain of 80,000",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-07T02:49:53Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate pushes CLARITY Act vote to September\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
+    "timestamp": "2026-08-07T12:31:51Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "MARA swings to Q2 loss as Bitcoin\u2019s slump masks higher output",
+    "id": "news_coindesk_5b41dba6-af27-440a-a3d4-e9cd51",
+    "title": "After a Clarity Act funeral, the crypto world would keep turning",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-07T02:17:07Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MARA swings to Q2 loss as Bitcoin\u2019s slump masks higher output \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/news-analysis/2026/08/06/after-a-clarity-act-funeral-the-crypto-world-would-keep-turning",
+    "timestamp": "2026-08-07T12:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_8b7d4b40-cce9-4b25-93db-1b3c3f",
+    "title": "Why Bitcoin's BIP-110 refuses to die despite near-zero miner support",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/08/06/why-bitcoin-s-bip-110-refuses-to-die-despite-near-zero-miner-support",
+    "timestamp": "2026-08-07T11:45:49Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_0a873f3a-4b6c-4e2f-b973-9ee4f4",
+    "title": "Bitcoin\u2019s volatility has nearly disappeared. The risk hasn\u2019t.",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/07/bitcoin-s-volatility-has-nearly-disappeared-the-risk-hasn-t",
+    "timestamp": "2026-08-07T11:42:20Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_24ae663c-7ea1-4c8f-838e-27a9b7",
@@ -141,7 +181,7 @@
   },
   {
     "id": "news_coindesk_b255a68e-676d-4b06-990a-8103ca",
-    "title": "Live updates: Bitcoin edges higher to $65,000 ahead of key U.S. jobs data",
+    "title": "Live updates: Bitcoin holding near $65,000 as U.S. lost jobs last month",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
@@ -160,44 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_6a70eff6-95a6-4ac6-adbc-c9138b",
-    "title": "Bitcoin wallet dormant since 2011 moves $3.2 million toward FalconX-linked address",
+    "id": "news_decrypt_https://decrypt.co/?p=375096",
+    "title": "China\u2019s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address",
-    "timestamp": "2026-08-07T04:50:44Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375096/chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
+    "timestamp": "2026-08-07T12:37:14Z",
+    "summary": "Unlike the recent breakouts at OpenAI and Anthropic, this involved a model anyone can download, running its default safeguards.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_80677607-ad80-438f-aee9-e184b7",
-    "title": "A bitcoin pattern taking shape right now could send prices soaring to $76,000",
+    "id": "news_decrypt_https://decrypt.co/?p=375093",
+    "title": "Morning Minute: MetaMask Hands AI Agents a Wallet",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat",
-    "timestamp": "2026-08-07T04:28:17Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_73654ce7-bb31-47b9-beb1-9821dd",
-    "title": "XRP leads majors losses as Clarity Act vote slips to September",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september",
-    "timestamp": "2026-08-07T04:17:01Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_71485e42-e279-4065-9441-d4c8dd",
-    "title": "Senate won't vote on crypto Clarity Act before its summer break",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break",
-    "timestamp": "2026-08-07T02:14:43Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375093/morning-minute-metamask-hands-ai-agents-a-wallet",
+    "timestamp": "2026-08-07T12:00:35Z",
+    "summary": "MetaMask's Agent Wallet lets AI agents trade crypto on their own. Plus, Bitcoin reclaims $65k despite the Clarity Act facing a new delay.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375085",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/375058/openai-ai-agents-secretly-coordinated-hugging-face-hack",
     "timestamp": "2026-08-06T18:26:29Z",
     "summary": "The presentation at the annual Black Hat conference sheds new light on how OpenAI's models collaborated to launch the Hugging Face breach.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375051",
-    "title": "XRP, Bitcoin Whales Are Accumulating\u2014Is the Bear Market Nearly Over?",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375051/xrp-bitcoin-whales-accumulating-bear-market",
-    "timestamp": "2026-08-06T18:13:40Z",
-    "summary": "On-chain data shows big holders quietly buying XRP near $1, yet the daily chart is still trapped below a death cross.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375048",
-    "title": "Cathie Wood's Ark Invest Makes SpaceX, Circle Top Holdings After Latest Buying Spree",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375048/cathie-wood-ark-invest-spacex-circle-top-holdings",
-    "timestamp": "2026-08-06T17:20:54Z",
-    "summary": "SpaceX and Circle rank among the 10 largest positions in Ark's flagship innovation fund after the firm continued buying both companies following their second-quarter earnings.",
     "source": "Decrypt"
   }
 ]
