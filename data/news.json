@@ -100,6 +100,16 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_8d4aa7ee-b1f0-456f-a717-583bac",
+    "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
+    "timestamp": "2026-08-08T14:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_d4657021-5fb6-42cc-8280-08112d",
     "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
     "platform": "news",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_cf96ecc7-09a4-49ad-9b1f-5f1503",
-    "title": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
+    "id": "news_decrypt_https://decrypt.co/?p=375158",
+    "title": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze",
-    "timestamp": "2026-08-07T16:32:41Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375158/robinhood-crypto-two-wolves-robinhood-chain-rwa-meme-coins",
+    "timestamp": "2026-08-08T14:01:05Z",
+    "summary": "\u201cWe want to show customers that we care about what they care about,\" Robinhood head of crypto Johann Kerbrat told Decrypt.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375166",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375114/bitcoin-wallet-dormant-since-2011-moves-millions-btc",
     "timestamp": "2026-08-07T15:27:35Z",
     "summary": "A Bitcoin address that had stayed silent for 15 years just sent its coins out for the first time.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375099",
-    "title": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375099/tokenized-asset-deposits-tripled-to-7-4b-as-defi-shrank-coinshares",
-    "timestamp": "2026-08-07T13:26:19Z",
-    "summary": "Gold, Treasuries and the S&#038;P 500 led the growth, in a year when spot volumes on decentralized exchanges fell by roughly 70%.",
     "source": "Decrypt"
   }
 ]
