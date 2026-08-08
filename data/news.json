@@ -100,6 +100,16 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_7b904ebd-e6fa-464e-89b1-f45889",
+    "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
+    "timestamp": "2026-08-08T07:46:04Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_bad3d78d-92f7-4e7a-a8aa-8b860d",
     "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
     "platform": "news",
@@ -186,16 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/08/07/how-a-five-second-trick-let-traders-drain-millions-from-polymarket",
     "timestamp": "2026-08-07T15:09:07Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_1d0a724e-4ee7-461c-aeb7-1e9b9d",
-    "title": "A part of FTX survived, and it\u2019s the case for the CLARITY Act",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act",
-    "timestamp": "2026-08-07T14:30:25Z",
     "summary": "",
     "source": "CoinDesk"
   },
