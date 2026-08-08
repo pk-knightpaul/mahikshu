@@ -1,12 +1,22 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "US Senate to vote on advancing CLARITY Act on Sept. 15 after Thune files cloture",
+    "title": "US spot Bitcoin ETFs post best week since April with $1B inflows",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-08T16:20:17Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US spot Bitcoin ETFs post best week since April with $1B inflows\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
     "platform": "news",
     "type": "news",
     "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-08T15:08:06Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate to vote on advancing CLARITY Act on Sept. 15 after Thune files cloture\" class=\"type:primaryImage\" src=\"https://s3-imag...",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate to vote on advancing CLARITY Act in September after Thune files cloture\" class=\"type:primaryImage\" src=\"https://s3-ima...",
     "source": "CoinTelegraph"
   },
   {
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets",
+    "id": "news_coindesk_2cc324a9-ff55-4066-9b07-271497",
+    "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-07T15:23:15Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets\" class=\"type:primaryImage\" src=\"https://s3-image...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
+    "timestamp": "2026-08-08T15:25:38Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_8d4aa7ee-b1f0-456f-a717-583bac",
@@ -186,16 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
     "timestamp": "2026-08-07T18:42:44Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_1e1c2ed1-e335-4e09-bb29-e20b35",
-    "title": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/07/31/bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-business",
-    "timestamp": "2026-08-07T16:53:56Z",
     "summary": "",
     "source": "CoinDesk"
   },
