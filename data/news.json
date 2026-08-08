@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "US court backs Bybit\u2019s bid to trace funds from $1.5B North Korea hack",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-08T04:11:53Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US court backs Bybit\u2019s bid to trace funds from $1.5B North Korea hack \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Donald Trump\u2019s media company to terminate Crypto.com deal",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Russia cracks down on 9 crypto exchanges in Moscow City",
+    "id": "news_coindesk_bad3d78d-92f7-4e7a-a8aa-8b860d",
+    "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/russia-shuts-down-crypto-exchanges-moscow-city?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-07T12:28:41Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia cracks down on 9 crypto exchanges in Moscow City\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/artic...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
+    "timestamp": "2026-08-08T03:30:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_0dc4df21-8fe1-4e38-b5c7-7f2af9",
@@ -186,16 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act",
     "timestamp": "2026-08-07T14:30:25Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_da88b581-f48c-4649-b654-fed9b9",
-    "title": "Russia cracks down on unlicensed crypto exchanges it claims are linked to Ukraine",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/08/07/russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukraine",
-    "timestamp": "2026-08-07T14:04:47Z",
     "summary": "",
     "source": "CoinDesk"
   },
