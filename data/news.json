@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "BTCPay restricts remote Lightning access after attackers steal funds",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-09T05:46:07Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTCPay restricts remote Lightning access after attackers steal funds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Bitcoin\u2019s BIP-110 enters mandatory signaling with miner support below 3%",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Circle expands USDC to OKX ecosystem with X Layer launch",
+    "id": "news_coindesk_db021c43-7e4d-4f4e-bab5-f2084c",
+    "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/circle-native-usdc-okx-x-layer-cctp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-07T17:36:45Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle expands USDC to OKX ecosystem with X Layer launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
+    "timestamp": "2026-08-09T05:08:20Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_06da46c3-13df-4ca2-974b-872532",
@@ -186,16 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
     "timestamp": "2026-08-08T02:30:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_4004fffd-e5c8-4b39-9f49-3e4eb9",
-    "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
-    "timestamp": "2026-08-07T21:13:21Z",
     "summary": "",
     "source": "CoinDesk"
   },
