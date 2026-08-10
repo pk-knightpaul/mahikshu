@@ -100,6 +100,26 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_7d75678e-0e5a-4452-8c38-8127a0",
+    "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
+    "timestamp": "2026-08-10T15:02:14Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_fe689edc-00d3-4ebb-bd93-ae7066",
+    "title": "Solana lending giant Jupiter now lets the same dollar earn twice",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/10/solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice",
+    "timestamp": "2026-08-10T14:30:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_e6af37f0-6650-4885-9eb0-1ff17b",
     "title": "Bitmine\u2019s ETH buying slows as Tom Lee's firm shifts capital to share buybacks",
     "platform": "news",
@@ -180,24 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_e9470654-49e8-48bf-b076-3b0c38",
-    "title": "A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally",
+    "id": "news_decrypt_https://decrypt.co/?p=375210",
+    "title": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/10/a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally",
-    "timestamp": "2026-08-10T09:09:32Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_bfe9c03f-8e25-4b51-8d98-357f48",
-    "title": "U.S. CPI inflation, Securitize, Gemini among earnings reports: Crypto Week Ahead",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/10/u-s-cpi-inflation-securitize-gemini-among-earnings-reports-crypto-week-ahead",
-    "timestamp": "2026-08-10T08:57:04Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375210/openai-pause-astra-ai-model-critical-cyber-capabilities",
+    "timestamp": "2026-08-10T15:03:07Z",
+    "summary": "OpenAI says its next major model may be dangerous enough to write its own cyberweapons, and it's pulling back until the safeguards catch up.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375201",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375174/senate-keeps-clarity-act-alive-with-crypto-bill-vote-set-for-september",
     "timestamp": "2026-08-08T16:33:02Z",
     "summary": "Senate Majority Leader John Thune filed the motion to proceed early Saturday, setting up a mid-September showdown.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375158",
-    "title": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375158/robinhood-crypto-two-wolves-robinhood-chain-rwa-meme-coins",
-    "timestamp": "2026-08-08T14:01:05Z",
-    "summary": "\u201cWe want to show customers that we care about what they care about,\" Robinhood head of crypto Johann Kerbrat told Decrypt.",
     "source": "Decrypt"
   }
 ]
