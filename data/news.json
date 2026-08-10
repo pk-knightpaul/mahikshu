@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Bitdeer increased Bitcoin mining output by nearly fivefold in Q2",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/bitdeer-bitcoin-mining-output-fivefold-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-10T13:07:42Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitdeer increased Bitcoin mining output by nearly fivefold in Q2\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "Strategy turns 1,690 BTC into $108.6M STRC buyback",
     "platform": "news",
@@ -55,7 +65,7 @@
     "platform": "news",
     "type": "news",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-10T06:00:00Z",
+    "timestamp": "2026-08-10T06:30:00Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
     "source": "CoinTelegraph"
   },
@@ -90,14 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/maga",
-    "title": "BIP-110 ends with a whimper, CLARITY vote punted: Hodler\u2019s Digest, Aug. 9",
+    "id": "news_coindesk_e6af37f0-6650-4885-9eb0-1ff17b",
+    "title": "Bitmine\u2019s ETH buying slows as Tom Lee's firm shifts capital to share buybacks",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-10T00:32:21Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BIP-110 ends with a whimper, CLARITY vote punted: Hodler\u2019s Digest, Aug. 9\" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks",
+    "timestamp": "2026-08-10T13:50:51Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_ef5fc782-f2c7-4f75-b235-3085d0",
+    "title": "Solana gets its first Strategy STRC product through Solstice Finance",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/10/solstice-rolls-out-strategy-s-strc-preferred-stock-income-to-solana",
+    "timestamp": "2026-08-10T13:26:36Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_90ca6c12-e10e-4d7b-b88a-6c0498",
@@ -180,24 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_2a9b27d6-57f9-430e-9ef8-d9ae3b",
-    "title": "Inside stablecoin firm BVNK\u2019s journey to a $1.8B acquisition by Mastercard",
+    "id": "news_decrypt_https://decrypt.co/?p=375201",
+    "title": "Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/10/inside-stablecoin-firm-bvnk-s-journey-to-a-usd1-8b-acquisition-by-mastercard",
-    "timestamp": "2026-08-10T07:52:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_d44ce382-074a-412c-8181-6c0480",
-    "title": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
-    "timestamp": "2026-08-10T07:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375201/tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m",
+    "timestamp": "2026-08-10T14:12:12Z",
+    "summary": "Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375194",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375158/robinhood-crypto-two-wolves-robinhood-chain-rwa-meme-coins",
     "timestamp": "2026-08-08T14:01:05Z",
     "summary": "\u201cWe want to show customers that we care about what they care about,\" Robinhood head of crypto Johann Kerbrat told Decrypt.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375166",
-    "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
-    "timestamp": "2026-08-07T21:05:59Z",
-    "summary": "Truth Social's parent company is unwinding two major Crypto.com deals as new leadership shifts its focus to media, data licensing, and a planned merger with fusion energy company TAE.",
     "source": "Decrypt"
   }
 ]
