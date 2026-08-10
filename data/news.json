@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Judge stays CFTC\u2019s case against US soldier over prediction market bets",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-10T20:50:59Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Judge stays CFTC\u2019s case against US soldier over prediction market bets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Markets flip for Fed rate-hike pause into CPI: Five things to know in Bitcoin this week",
+    "id": "news_coindesk_93217dcb-c83a-472b-9abc-78093d",
+    "title": "Trump Media\u2019s bitcoin holdings shrink as crypto losses hit $361 million",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/markets-drop-september-rate-hike-bet-into-cpi-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-10T11:13:40Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Markets flip for Fed rate-hike pause into CPI: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
+    "timestamp": "2026-08-10T21:12:07Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_f988fbe9-125f-4fc9-82fd-e3d550",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_65114afa-b73b-4b91-b0f0-209b8b",
-    "title": "Bitcoin's BIP-110 episode is free-market capitalism in purest form",
+    "id": "news_decrypt_https://decrypt.co/?p=375282",
+    "title": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/10/bitcoin-s-bip-110-episode-is-free-market-capitalism-in-purest-form",
-    "timestamp": "2026-08-10T11:31:29Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown",
+    "timestamp": "2026-08-10T21:02:43Z",
+    "summary": "AUSTRAC has suspended the registration of the operator running 96 of Australia's roughly 1,800 crypto ATMs, effective August 9.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375269",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375210/openai-pause-astra-ai-model-critical-cyber-capabilities",
     "timestamp": "2026-08-10T15:03:07Z",
     "summary": "OpenAI says its next major model may be dangerous enough to write its own cyberweapons, and it's pulling back until the safeguards catch up.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375201",
-    "title": "Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375201/tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m",
-    "timestamp": "2026-08-10T14:12:12Z",
-    "summary": "Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.",
     "source": "Decrypt"
   }
 ]
