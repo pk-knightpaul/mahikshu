@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-10T19:47:01Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "UK money laundering suspect bought $100M in Trump crypto business: NYT",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "H100 becomes Europe\u2019s No. 2 Bitcoin treasury after 2,455 BTC deal",
+    "id": "news_coindesk_f988fbe9-125f-4fc9-82fd-e3d550",
+    "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/sweden-h100-bitcoin-treasury-btc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-10T10:14:30Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"H100 becomes Europe\u2019s No. 2 Bitcoin treasury after 2,455 BTC deal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
+    "timestamp": "2026-08-10T20:20:06Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_8dc004bb-cf70-402e-b398-e9b130",
+    "title": "Strategy builds $4.75 billion cash cushion as only bitcoin isn\u2019t enough for investors",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors",
+    "timestamp": "2026-08-10T20:03:24Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_7d75678e-0e5a-4452-8c38-8127a0",
@@ -180,24 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_97399c1a-7bf6-4e05-84eb-96e599",
-    "title": "Bitcoin steadies above $65,000 as Iran-Oman deal talk eases Hormuz concerns, lifts risk assets",
+    "id": "news_decrypt_https://decrypt.co/?p=375269",
+    "title": "Hidden Text in PDFs Is Hijacking This AI Assistant",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-steadies-above-usd65-000-as-iran-oman-deal-talk-eases-hormuz-concerns-lifts-risk-assets",
-    "timestamp": "2026-08-10T10:45:43Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_de6d638d-b1ab-4a90-b7c0-2f89e6",
-    "title": "Bitcoin volatility is in meltdown, but downside protection still commands a premium",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-volatility-is-in-meltdown-but-downside-protection-still-commands-a-premium",
-    "timestamp": "2026-08-10T10:13:58Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection",
+    "timestamp": "2026-08-10T19:56:50Z",
+    "summary": "A security firm says Atlassian's AI assistant will quietly ship your Jira tickets and Confluence docs to an attacker, using instructions buried in a file you'd swear was empty.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375266",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375201/tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m",
     "timestamp": "2026-08-10T14:12:12Z",
     "summary": "Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375194",
-    "title": "Morning Minute: Bitcoin ETFs See Biggest Inflows Since May",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375194/morning-minute-bitcoin-etfs-see-biggest-inflows-since-may",
-    "timestamp": "2026-08-10T12:32:19Z",
-    "summary": "And the ETH inflows were even bigger, when factoring in market cap.",
     "source": "Decrypt"
   }
 ]
