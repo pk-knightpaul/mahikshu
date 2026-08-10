@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375285",
+    "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai",
+    "timestamp": "2026-08-10T21:48:22Z",
+    "summary": "Ethereum\u2019s updated roadmap puts quantum resistance, privacy and AI-assisted formal verification at the center of the network\u2019s technical ambitions.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375282",
     "title": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375213/hackers-drain-8-million-from-crypto-platform-coinsbuy",
     "timestamp": "2026-08-10T15:56:30Z",
     "summary": "The attacker moved funds across Tron and Ethereum before routing millions through crypto exchanges, while later wallet activity offers clues about how the breach occurred.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375210",
-    "title": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375210/openai-pause-astra-ai-model-critical-cyber-capabilities",
-    "timestamp": "2026-08-10T15:03:07Z",
-    "summary": "OpenAI says its next major model may be dangerous enough to write its own cyberweapons, and it's pulling back until the safeguards catch up.",
     "source": "Decrypt"
   }
 ]
