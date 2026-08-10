@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "\u2018Disappointing\u2019 \u2014 crypto advocates react to delay in CLARITY vote",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/clarity-act-vote-disappointing-crypto-advocates-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-10T17:08:34Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"\u2018Disappointing\u2019 \u2014 crypto advocates react to delay in CLARITY vote\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment",
     "platform": "news",
@@ -90,16 +100,6 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Bitcoin Red Team founder turns to Chinese AI: \u2018It absolutely guts me\u2019",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-10T05:18:27Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin Red Team founder turns to Chinese AI: \u2018It absolutely guts me\u2019\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
-    "source": "CoinTelegraph"
-  },
-  {
     "id": "news_coindesk_7d75678e-0e5a-4452-8c38-8127a0",
     "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
     "platform": "news",
@@ -161,7 +161,7 @@
   },
   {
     "id": "news_coindesk_91581203-ce73-4bee-96bd-554484",
-    "title": "Why the UK financial watchdog is drafting new rules for tokenized gold",
+    "title": "UK\u2019s FCA to regulate tokenized gold to preserve London\u2019s place as the top hub for bullion",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
@@ -198,6 +198,16 @@
     "timestamp": "2026-08-10T10:13:58Z",
     "summary": "",
     "source": "CoinDesk"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375238",
+    "title": "Bitcoin Rally Fades\u2014Where Does Price Go Next?",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375238/bitcoin-rally-stalls-price-next-prediction-market",
+    "timestamp": "2026-08-10T17:18:49Z",
+    "summary": "The price of Bitcoin is up on the seven-day chart, today bouncing to a high of $65,000. But bearish market pressure persists.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375226",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375189/standard-chartered-sees-4t-tokenization-driving-chainlink-to-200-by-2030",
     "timestamp": "2026-08-10T10:19:06Z",
     "summary": "The bank has now set 2030 targets for Uniswap, Aave, Morpho and Chainlink, all resting on one 37x forecast for DeFi growth.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375180",
-    "title": "Bybit Sues North Korea Over $1.5B Hack, Wins Order Freezing Assets",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375180/bybit-sues-north-korea-over-1-5b-hack-wins-order-freezing-assets",
-    "timestamp": "2026-08-10T09:04:00Z",
-    "summary": "The exchange says it has recovered $48.4 million and frozen $30.5 million more, a fraction of what the Lazarus Group took in February 2025.",
     "source": "Decrypt"
   }
 ]
