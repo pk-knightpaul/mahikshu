@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-10T06:00:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Bitcoin Red Team founder turns to Chinese AI: \u2018It absolutely guts me\u2019",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-10T05:18:27Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin Red Team founder turns to Chinese AI: \u2018It absolutely guts me\u2019\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Australia orders Cryptolink Bitcoin ATMs offline over \u2018basic reporting\u2019 failures",
     "platform": "news",
     "type": "news",
@@ -80,24 +100,34 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "US spot Bitcoin ETFs post best week since April with $1B inflows",
+    "id": "news_coindesk_d44ce382-074a-412c-8181-6c0480",
+    "title": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-08T16:20:17Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US spot Bitcoin ETFs post best week since April with $1B inflows\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
+    "timestamp": "2026-08-10T07:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
+    "id": "news_coindesk_5742fd0a-6bc1-46c9-a2b6-af833f",
+    "title": "Live updates: BTC above $65,000 even as the Senate punts the CLARITY Act to the fall",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-08T15:08:06Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate to vote on advancing CLARITY Act in September after Thune files cloture\" class=\"type:primaryImage\" src=\"https://s3-ima...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
+    "timestamp": "2026-08-10T06:56:50Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_3c2c0517-9b10-447f-ad47-62b226",
+    "title": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it",
+    "timestamp": "2026-08-10T06:25:17Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_f1bc23f0-2d74-4c66-ae39-1c0576",
@@ -166,36 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
     "timestamp": "2026-08-09T05:08:20Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_06da46c3-13df-4ca2-974b-872532",
-    "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
-    "timestamp": "2026-08-08T20:06:47Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_8f611c07-1487-4493-88bc-16782b",
-    "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
-    "timestamp": "2026-08-08T17:48:02Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_2cc324a9-ff55-4066-9b07-271497",
-    "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
-    "timestamp": "2026-08-08T15:25:38Z",
     "summary": "",
     "source": "CoinDesk"
   },
