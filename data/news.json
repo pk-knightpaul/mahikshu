@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "H100 becomes Europe\u2019s No. 2 Bitcoin treasury after 2,455 BTC deal",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/sweden-h100-bitcoin-treasury-btc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-10T10:14:30Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"H100 becomes Europe\u2019s No. 2 Bitcoin treasury after 2,455 BTC deal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "UK regulators to prepare tokenized gold framework: Report",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "BTCPay restricts remote Lightning access after attackers steal funds",
+    "id": "news_coindesk_97399c1a-7bf6-4e05-84eb-96e599",
+    "title": "Bitcoin steadies above $65,000 as Iran-Oman deal talk eases Hormuz concerns, lifts risk assets",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-09T05:46:07Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTCPay restricts remote Lightning access after attackers steal funds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-steadies-above-usd65-000-as-iran-oman-deal-talk-eases-hormuz-concerns-lifts-risk-assets",
+    "timestamp": "2026-08-10T10:45:43Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_de6d638d-b1ab-4a90-b7c0-2f89e6",
+    "title": "Bitcoin volatility is in meltdown, but downside protection still commands a premium",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-volatility-is-in-meltdown-but-downside-protection-still-commands-a-premium",
+    "timestamp": "2026-08-10T10:13:58Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_e9470654-49e8-48bf-b076-3b0c38",
@@ -180,24 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_4bd6cc8e-586e-4b56-bda0-363c89",
-    "title": "Is Clarity's delay a blessing in disguise?: State of Crypto",
+    "id": "news_decrypt_https://decrypt.co/?p=375189",
+    "title": "Standard Chartered Sees $4T Tokenization Driving Chainlink to $200 by 2030",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto",
-    "timestamp": "2026-08-09T18:30:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_ErBc0w4i5fv7v9muZx1lkV",
-    "title": "Hyperliquid\u2019s RWA perps boom is eating into the revenue that backs HYPE",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype",
-    "timestamp": "2026-08-09T15:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375189/standard-chartered-sees-4t-tokenization-driving-chainlink-to-200-by-2030",
+    "timestamp": "2026-08-10T10:19:06Z",
+    "summary": "The bank has now set 2030 targets for Uniswap, Aave, Morpho and Chainlink, all resting on one 37x forecast for DeFi growth.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375180",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375149/flock-cameras-uber-drivers-nationwide-plate-scanning-fleet",
     "timestamp": "2026-08-07T19:18:41Z",
     "summary": "A leaked Flock presentation shows the surveillance firm pitching a plan to pull license-plate data from rideshare and delivery drivers.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375136",
-    "title": "XRP at a Crossroads as Senate Punts on Clarity Act",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375136/xrp-price-crossroads-senate-punts-clarity-act",
-    "timestamp": "2026-08-07T17:36:41Z",
-    "summary": "XRP is taking the Clarity Act news harder than the rest of the crypto market. Here's why.",
     "source": "Decrypt"
   }
 ]
