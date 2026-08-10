@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375237",
+    "title": "Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375237/wall-street-data-centers-backlash-credit-risk",
+    "timestamp": "2026-08-10T18:31:06Z",
+    "summary": "Banks financing the AI infrastructure boom are now weighing local public opposition alongside permits and costs.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375249",
+    "title": "Brazil's $319B Crypto Market Faces October Licensing Deadline: CertiK",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375249/brazils-319b-crypto-market-faces-october-licensing-deadline-certik",
+    "timestamp": "2026-08-10T17:51:04Z",
+    "summary": "A new report maps Brazil's push to bring its vast crypto market under formal supervision by October 30.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375238",
     "title": "Bitcoin Rally Fades\u2014Where Does Price Go Next?",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/375196/strategy-sells-109m-in-bitcoin-as-dollar-reserve-tops-4-6b",
     "timestamp": "2026-08-10T12:24:48Z",
     "summary": "All of the proceeds went into a $109 million STRC buyback, while the company sold six times as much again in its own stock.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375192",
-    "title": "Bitcoin ETFs Draw $854M Over Five Days as Rate-Hike Bets Fade",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375192/bitcoin-etfs-draw-854m-over-five-days-as-rate-hike-bets-fade",
-    "timestamp": "2026-08-10T12:14:57Z",
-    "summary": "Daily totals shrank as the week wore on, and analysts are split on whether the return of institutional money marks a genuine turn.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375189",
-    "title": "Standard Chartered Sees $4T Tokenization Driving Chainlink to $200 by 2030",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375189/standard-chartered-sees-4t-tokenization-driving-chainlink-to-200-by-2030",
-    "timestamp": "2026-08-10T10:19:06Z",
-    "summary": "The bank has now set 2030 targets for Uniswap, Aave, Morpho and Chainlink, all resting on one 37x forecast for DeFi growth.",
     "source": "Decrypt"
   }
 ]
