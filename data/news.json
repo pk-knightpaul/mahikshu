@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375381",
+    "title": "Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375381/openai-exec-brad-lightcap-quits-leadership-shake-up-ipo",
+    "timestamp": "2026-08-11T22:04:06Z",
+    "summary": "The former operating chief is starting a new venture following several departures across the ChatGPT developer\u2019s leadership and safety teams.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375376",
     "title": "BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375315/openais-only-dedicated-ethicist-has-left-with-no-replacement-ft",
     "timestamp": "2026-08-11T15:05:35Z",
     "summary": "Chlo\u00e9 Bakalar joined from Meta last August and departed in July without any announcement, one of several safety exits in recent weeks.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375312",
-    "title": "Why Strategy Is Selling Bitcoin and How Much It Has Sold So Far",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375312/why-strategy-selling-bitcoin-how-much",
-    "timestamp": "2026-08-11T14:46:11Z",
-    "summary": "The world's largest corporate Bitcoin holder has sold hundreds of millions of dollars in BTC since June as it changes how it funds dividends and manages its cash.",
     "source": "Decrypt"
   }
 ]
