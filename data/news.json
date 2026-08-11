@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "White House vows to get CLARITY across \u2018finish line\u2019 in September",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/white-house-clarity-across-finish-line-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-11T04:12:58Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"White House vows to get CLARITY across \u2018finish line\u2019 in September\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Trump Media to revamp crypto treasury strategy after $238M Q2 loss",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,34 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Bitdeer increased Bitcoin mining output by nearly fivefold in Q2",
+    "id": "news_coindesk_e1dfac24-b8ba-4198-8555-24f34e",
+    "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/bitdeer-bitcoin-mining-output-fivefold-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-10T13:07:42Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitdeer increased Bitcoin mining output by nearly fivefold in Q2\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next",
+    "timestamp": "2026-08-11T04:50:23Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_6c8efb14-6f8c-4b7d-9277-a27ab7",
+    "title": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings",
+    "timestamp": "2026-08-11T04:07:48Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_09845e82-89c8-41ab-8932-2ead4d",
+    "title": "Bitcoin's 'strongest hands' are back, on-chain data show",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-s-strongest-hands-are-back-on-chain-data-show",
+    "timestamp": "2026-08-11T03:48:40Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_93217dcb-c83a-472b-9abc-78093d",
@@ -166,36 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/08/10/solstice-rolls-out-strategy-s-strc-preferred-stock-income-to-solana",
     "timestamp": "2026-08-10T13:26:36Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_90ca6c12-e10e-4d7b-b88a-6c0498",
-    "title": "Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/10/strategy-sells-1-690-bitcoin-raises-usd653-million-from-mstr-shares",
-    "timestamp": "2026-08-10T12:09:26Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_1d489f9a-ccf5-4e08-b837-be7326",
-    "title": "Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/10/crypto-exchange-coinsbuy-loses-usd8-million-in-coordinated-two-blockchain-attack",
-    "timestamp": "2026-08-10T11:39:44Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_91581203-ce73-4bee-96bd-554484",
-    "title": "UK\u2019s FCA to regulate tokenized gold to preserve London\u2019s place as the top hub for bullion",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
-    "timestamp": "2026-08-10T11:38:33Z",
     "summary": "",
     "source": "CoinDesk"
   },
