@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "FlightAware sues Kalshi over flight cancellation data",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/flightaware-lawsuit-kalshi-flight-cancellations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-11T16:55:14Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FlightAware sues Kalshi over flight cancellation data\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Coinbase-backed Flowdesk secures full broker-dealer license in Dubai",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%",
+    "id": "news_coindesk_174570e4-a7ce-43d4-85bd-f6c893",
+    "title": "EToro reports second quarter crypto loss even as total profit beats estimates",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/keel-shuts-bitcoin-mining-ai-pivot-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-11T09:26:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025",
+    "timestamp": "2026-08-11T17:12:11Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_bb20f2ab-b7ed-41f3-b16c-82fa11",
@@ -190,14 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_308031e1-951b-480e-84fa-c3ca1a",
-    "title": "Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1",
+    "id": "news_decrypt_https://decrypt.co/?p=375345",
+    "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT\u2014But No XRP",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-below-usd65-000-as-the-strait-of-hormuz-stalemate-and-strategy-s-selling-squeeze-the-market",
-    "timestamp": "2026-08-11T10:48:08Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp",
+    "timestamp": "2026-08-11T17:26:54Z",
+    "summary": "Bitcoin, Ethereum and Tether clear the central bank's liquidity bar\u2014everything else, including XRP, stays off-limits for retail.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375330",
+    "title": "Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375330/ravencoin-crashes-critical-exploit-threatens-rollback",
+    "timestamp": "2026-08-11T17:02:36Z",
+    "summary": "Two mining pools controlling most of Ravencoin's hash power are already rebuilding the chain from before Friday's first bad block\u2014here's what a forced rollback would undo.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375324",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/375294/uk-lawmakers-write-to-bank-ceos-over-crypto-account-refusals",
     "timestamp": "2026-08-11T08:41:17Z",
     "summary": "The APPG has asked banks to explain their crypto policies, warning that access could be one of the single biggest barriers to growth.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375285",
-    "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai",
-    "timestamp": "2026-08-10T21:48:22Z",
-    "summary": "Ethereum\u2019s updated roadmap puts quantum resistance, privacy and AI-assisted formal verification at the center of the network\u2019s technical ambitions.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375282",
-    "title": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown",
-    "timestamp": "2026-08-10T21:02:43Z",
-    "summary": "AUSTRAC has suspended the registration of the operator running 96 of Australia's roughly 1,800 crypto ATMs, effective August 9.",
     "source": "Decrypt"
   }
 ]
