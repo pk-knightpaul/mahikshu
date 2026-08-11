@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/keel-shuts-bitcoin-mining-ai-pivot-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-11T09:24:15Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Tron USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
+    "id": "news_coindesk_752c5299-4c06-4c8f-bea7-8c37b4",
+    "title": "Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-10T19:47:01Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tron USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/11/riot-platforms-surges-20-in-pre-market-trading-on-usd9-1-billion-anthropic-deal",
+    "timestamp": "2026-08-11T09:37:36Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_32738f58-6e13-49c0-b0a5-8068d8",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_7d75678e-0e5a-4452-8c38-8127a0",
-    "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
+    "id": "news_decrypt_https://decrypt.co/?p=375294",
+    "title": "UK Lawmakers Write to Bank CEOs Over Crypto Account Refusals",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
-    "timestamp": "2026-08-10T15:02:14Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375294/uk-lawmakers-write-to-bank-ceos-over-crypto-account-refusals",
+    "timestamp": "2026-08-11T08:41:17Z",
+    "summary": "The APPG has asked banks to explain their crypto policies, warning that access could be one of the single biggest barriers to growth.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375285",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375214/xrp-price-weakens-crypto-market-awaits-clarity",
     "timestamp": "2026-08-10T16:11:20Z",
     "summary": "XRP is trading just above $1.00, still pinned under a death cross, as the legislative tailwind that lifted it in July loses steam.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375213",
-    "title": "Hackers Drain $8 Million From Crypto Exchange Across Two Blockchains",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375213/hackers-drain-8-million-from-crypto-platform-coinsbuy",
-    "timestamp": "2026-08-10T15:56:30Z",
-    "summary": "The attacker moved funds across Tron and Ethereum before routing millions through crypto exchanges, while later wallet activity offers clues about how the breach occurred.",
     "source": "Decrypt"
   }
 ]
