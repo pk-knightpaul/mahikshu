@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Coldcard hack losses: How investigators trace stolen Bitcoin",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-11T10:14:39Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard hack losses: How investigators trace stolen Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,74 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Judge stays CFTC\u2019s case against US soldier over prediction market bets",
+    "id": "news_coindesk_308031e1-951b-480e-84fa-c3ca1a",
+    "title": "Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-10T20:50:59Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Judge stays CFTC\u2019s case against US soldier over prediction market bets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-below-usd65-000-as-the-strait-of-hormuz-stalemate-and-strategy-s-selling-squeeze-the-market",
+    "timestamp": "2026-08-11T10:48:08Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_51f62525-c43b-4c4b-aaf2-ea21c8",
+    "title": "Live updates: Bitcoin slips as corporate BTC enthusiasm moves to AI",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai",
+    "timestamp": "2026-08-11T10:34:52Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_7bd34adb-08c2-4b8a-bfb7-8ba45b",
+    "title": "FlightAware sues Kalshi over bets on flight cancellations",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/08/11/kalshi-faces-new-lawsuit-flightaware-accuses-it-of-using-its-data-for-flight-cancellation-betting",
+    "timestamp": "2026-08-11T10:34:17Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_abe215d6-5eaa-40a0-b1ee-1b2dec",
+    "title": "Software stocks break away from bitcoin: What the rare divergence means for crypto",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/11/software-stocks-break-away-from-bitcoin-what-the-rare-divergence-means-for-crypto",
+    "timestamp": "2026-08-11T10:31:26Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_fee80108-ac6b-42f3-98df-1de895",
+    "title": "Luke Dashjr removed as Bitcoin BIP editor after controversial BIP-110 fork stalls",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/08/11/luke-dashjr-removed-as-bitcoin-bip-editor-after-controversial-bip-110-fork-stalls",
+    "timestamp": "2026-08-11T10:28:19Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_e4ac63a0-b5f2-4a4d-a9c1-95dce4",
+    "title": "Nvidia\u2019s $500 billion AI infrastructure push leaves crypto compute further behind",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/08/11/nvidia-wants-to-turn-its-ai-chips-into-an-investable-asset-class",
+    "timestamp": "2026-08-11T10:10:36Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_3718498f-dd09-4ce6-a2bc-2d8a02",
+    "title": "UK lawmakers question lenders over lack of banking for the country\u2019s crypto firms",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/08/11/uk-lawmakers-question-lenders-over-lack-of-banking-for-the-country-s-crypto-firms",
+    "timestamp": "2026-08-11T10:06:39Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_752c5299-4c06-4c8f-bea7-8c37b4",
@@ -130,74 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_8ba1e793-473c-4378-83fd-c6700c",
-    "title": "Bitcoin\u2019s BIP-110 fork is 300 blocks behind BTC and six years from fixing itself",
+    "id": "news_decrypt_https://decrypt.co/?p=375301",
+    "title": "Coinbase Opens UK Derivatives Trading With Up to 50x Leverage",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/08/11/bitcoin-s-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself",
-    "timestamp": "2026-08-11T05:26:37Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_e1dfac24-b8ba-4198-8555-24f34e",
-    "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next",
-    "timestamp": "2026-08-11T04:50:23Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_6c8efb14-6f8c-4b7d-9277-a27ab7",
-    "title": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings",
-    "timestamp": "2026-08-11T04:07:48Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_09845e82-89c8-41ab-8932-2ead4d",
-    "title": "Bitcoin's 'strongest hands' are back, on-chain data show",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-s-strongest-hands-are-back-on-chain-data-show",
-    "timestamp": "2026-08-11T03:48:40Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_93217dcb-c83a-472b-9abc-78093d",
-    "title": "Trump Media\u2019s bitcoin holdings shrink as crypto losses hit $361 million",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
-    "timestamp": "2026-08-10T21:12:07Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_f988fbe9-125f-4fc9-82fd-e3d550",
-    "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
-    "timestamp": "2026-08-10T20:20:06Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_8dc004bb-cf70-402e-b398-e9b130",
-    "title": "Strategy builds $4.75 billion cash cushion as only bitcoin isn\u2019t enough for investors",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors",
-    "timestamp": "2026-08-10T20:03:24Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375301/coinbase-opens-uk-derivatives-trading-with-up-to-50x-leverage",
+    "timestamp": "2026-08-11T09:58:44Z",
+    "summary": "Futures, perpetuals and options spanning crypto, commodities, equities and FX, limited to clients who qualify as professional investors.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375294",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375226/web3-is-building-financial-freedom-only-for-people-who-can-afford-mistakes",
     "timestamp": "2026-08-10T16:25:28Z",
     "summary": "When the same mistake recurs across many users, it stops being client error and becomes product data, argues ChangeNOW's Pauline Shangett.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375214",
-    "title": "XRP Price Weakens as Crypto Market Awaits Clarity",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375214/xrp-price-weakens-crypto-market-awaits-clarity",
-    "timestamp": "2026-08-10T16:11:20Z",
-    "summary": "XRP is trading just above $1.00, still pinned under a death cross, as the legislative tailwind that lifted it in July loses steam.",
     "source": "Decrypt"
   }
 ]
