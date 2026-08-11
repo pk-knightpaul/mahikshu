@@ -1,6 +1,46 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "South Korea drops Travel Rule threshold for crypto transfers",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/south-korea-travel-rule-threshold-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-11T06:28:16Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea drops Travel Rule threshold for crypto transfers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Payments platform Decta explores stablecoin-enabled treasury settlement",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/payments-platform-decta-explores-stablecoin-enabled-treasury-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-11T06:00:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Payments platform Decta explores stablecoin-enabled treasury settlement\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-11T05:39:31Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Luke Dashjr removed as Bitcoin Improvement Proposal editor",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/luke-dashjr-removed-as-bitcoin-proposal-editor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-11T04:54:15Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Luke Dashjr removed as Bitcoin Improvement Proposal editor\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "White House vows to get CLARITY across \u2018finish line\u2019 in September",
     "platform": "news",
     "type": "news",
@@ -41,12 +81,12 @@
   },
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
+    "title": "Tron USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
     "platform": "news",
     "type": "news",
     "url": "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-10T19:47:01Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tron USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
     "source": "CoinTelegraph"
   },
   {
@@ -60,44 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Coinsbuy offers $100K reward after Sunday security breach",
+    "id": "news_coindesk_c77fe786-d862-48f8-9b49-fc7041",
+    "title": "BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/coinsbuy-confirms-security-breach-after-wallets-reportedly-drained-of-79m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-10T18:43:26Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinsbuy offers $100K reward after Sunday security breach\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/art...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
+    "timestamp": "2026-08-11T06:19:07Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "\u2018Disappointing\u2019 \u2014 crypto advocates react to delay in CLARITY vote",
+    "id": "news_coindesk_8ba1e793-473c-4378-83fd-c6700c",
+    "title": "Bitcoin\u2019s BIP-110 fork is 300 blocks behind BTC and six years from fixing itself",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/clarity-act-vote-disappointing-crypto-advocates-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-10T17:08:34Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"\u2018Disappointing\u2019 \u2014 crypto advocates react to delay in CLARITY vote\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-wipes-weekend-gains-as-oil-nears-5-surge-on-hormuz-disappointment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-10T16:14:58Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment\" class=\"type:primaryImage\" src=\"https://s3-...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/blackrock-launches-two-canada-etfs-with-one-allocating-3-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-10T15:59:06Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/08/11/bitcoin-s-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself",
+    "timestamp": "2026-08-11T05:26:37Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_e1dfac24-b8ba-4198-8555-24f34e",
@@ -176,26 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/08/10/solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice",
     "timestamp": "2026-08-10T14:30:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_e6af37f0-6650-4885-9eb0-1ff17b",
-    "title": "Bitmine\u2019s ETH buying slows as Tom Lee's firm shifts capital to share buybacks",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks",
-    "timestamp": "2026-08-10T13:50:51Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_ef5fc782-f2c7-4f75-b235-3085d0",
-    "title": "Solana gets its first Strategy STRC product through Solstice Finance",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/10/solstice-rolls-out-strategy-s-strc-preferred-stock-income-to-solana",
-    "timestamp": "2026-08-10T13:26:36Z",
     "summary": "",
     "source": "CoinDesk"
   },
