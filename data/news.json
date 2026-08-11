@@ -100,6 +100,26 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_bb20f2ab-b7ed-41f3-b16c-82fa11",
+    "title": "If crypto goes back to the congressional drawing board, 3 Democrat women loom large",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/news-analysis/2026/08/11/if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-large",
+    "timestamp": "2026-08-11T14:40:15Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_47f21f85-4dd3-4a1d-962c-41362b",
+    "title": "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/11/crypto-friendly-bank-erebor-in-talks-to-raise-usd1-5-billion-at-usd9-5-billion-valuation-ft",
+    "timestamp": "2026-08-11T14:39:12Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_388e722a-e057-424c-8b7e-fd07ad",
     "title": "Pok\u00e9mon cards are becoming multibillion dollar market. Crypto wants to fix how they trade",
     "platform": "news",
@@ -180,24 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_51f62525-c43b-4c4b-aaf2-ea21c8",
-    "title": "Live updates: Bitcoin holds $64,200; Anthropic to watermark Claude's AI content after EU regulations",
+    "id": "news_decrypt_https://decrypt.co/?p=375315",
+    "title": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai",
-    "timestamp": "2026-08-11T10:34:52Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375315/openais-only-dedicated-ethicist-has-left-with-no-replacement-ft",
+    "timestamp": "2026-08-11T15:05:35Z",
+    "summary": "Chlo\u00e9 Bakalar joined from Meta last August and departed in July without any announcement, one of several safety exits in recent weeks.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_7bd34adb-08c2-4b8a-bfb7-8ba45b",
-    "title": "FlightAware sues Kalshi over bets on flight cancellations",
+    "id": "news_decrypt_https://decrypt.co/?p=375312",
+    "title": "Why Strategy Is Selling Bitcoin and How Much It Has Sold So Far",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/08/11/kalshi-faces-new-lawsuit-flightaware-accuses-it-of-using-its-data-for-flight-cancellation-betting",
-    "timestamp": "2026-08-11T10:34:17Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375312/why-strategy-selling-bitcoin-how-much",
+    "timestamp": "2026-08-11T14:46:11Z",
+    "summary": "The world's largest corporate Bitcoin holder has sold hundreds of millions of dollars in BTC since June as it changes how it funds dividends and manages its cash.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375310",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection",
     "timestamp": "2026-08-10T19:56:50Z",
     "summary": "A security firm says Atlassian's AI assistant will quietly ship your Jira tickets and Confluence docs to an attacker, using instructions buried in a file you'd swear was empty.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375266",
-    "title": "Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375266/dormant-bitcoin-wallet-millions-wakes-up-12-years",
-    "timestamp": "2026-08-10T19:13:12Z",
-    "summary": "A Bitcoin address that sat untouched for more than 12 years just moved 26.96 BTC, worth about $1.75 million.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375237",
-    "title": "Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375237/wall-street-data-centers-backlash-credit-risk",
-    "timestamp": "2026-08-10T18:31:06Z",
-    "summary": "Banks financing the AI infrastructure boom are now weighing local public opposition alongside permits and costs.",
     "source": "Decrypt"
   }
 ]
