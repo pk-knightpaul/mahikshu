@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Strategy CEO says company will resume Bitcoin accumulation this year",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/strategy-ceo-resume-bitcoin-accumulation-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-11T18:03:49Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy CEO says company will resume Bitcoin accumulation this year\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "ARP Digital secures Dubai VARA broker-dealer license",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-11T17:53:51Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ARP Digital secures Dubai VARA broker-dealer license\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "FlightAware sues Kalshi over flight cancellation data",
     "platform": "news",
     "type": "news",
@@ -77,26 +97,6 @@
     "url": "https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-11T12:09:38Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia proposes exchange trading of Bitcoin, Ether and Tether\u2019s USDT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin sell pressure \u2018closer to exhaustion\u2019 after $4B USDT market-cap drop: CryptoQuant",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-sell-pressure-closer-to-exhaustion-after-4b-usdt-market-cap-drop-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-11T10:55:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin sell pressure \u2018closer to exhaustion\u2019 after $4B USDT market-cap drop: CryptoQuant\" class=\"type:primaryImage\" src=\"https:/...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Coldcard hack losses: How investigators trace stolen Bitcoin",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-11T10:14:39Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard hack losses: How investigators trace stolen Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375358",
+    "title": "AI Agent Hacks a Gym\u2014And the Tech World Wonders What's Next",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375358/ai-agent-hacks-gym-membership-tech-world-reacts",
+    "timestamp": "2026-08-11T18:56:03Z",
+    "summary": "The newly reported incident is raising fresh concerns about autonomous AI after models from OpenAI, Anthropic, and Meta exploited websites and online services.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375359",
+    "title": "Trump Media\u2019s Crypto Bet Fuels Massive $238M Quarterly Loss",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375359/trump-media-crypto-bet-238m-quarterly-loss",
+    "timestamp": "2026-08-11T18:25:14Z",
+    "summary": "Falling digital asset values battered the Truth Social parent\u2019s balance sheet, contributing to about $361 million in crypto-related losses during the first half of 2026.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375345",
     "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT\u2014But No XRP",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/375305/north-korea-now-leans-on-crime-networks-to-launder-stolen-crypto-rusi",
     "timestamp": "2026-08-11T12:02:42Z",
     "summary": "Once its proceeds mix with scam money, exchanges struggle to separate proliferation finance from ordinary laundering, the paper warns.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375301",
-    "title": "Coinbase Opens UK Derivatives Trading With Up to 50x Leverage",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375301/coinbase-opens-uk-derivatives-trading-with-up-to-50x-leverage",
-    "timestamp": "2026-08-11T09:58:44Z",
-    "summary": "Futures, perpetuals and options spanning crypto, commodities, equities and FX, limited to clients who qualify as professional investors.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375294",
-    "title": "UK Lawmakers Write to Bank CEOs Over Crypto Account Refusals",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375294/uk-lawmakers-write-to-bank-ceos-over-crypto-account-refusals",
-    "timestamp": "2026-08-11T08:41:17Z",
-    "summary": "The APPG has asked banks to explain their crypto policies, warning that access could be one of the single biggest barriers to growth.",
     "source": "Decrypt"
   }
 ]
