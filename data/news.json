@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-12T04:53:26Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC invokes emergency powers to keep Kalshi operating in New York fight\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "Ravencoin hits record low as network exploit puts transactions at risk",
     "platform": "news",
@@ -51,12 +61,12 @@
   },
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Following Senate delay, crypto bill has a narrow window to become law",
+    "title": "Following Senate delay, crypto bill has narrow window to become law",
     "platform": "news",
     "type": "news",
     "url": "https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-11T19:42:08Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Following Senate delay, crypto bill has a narrow window to become law\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Following Senate delay, crypto bill has narrow window to become law\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
     "source": "CoinTelegraph"
   },
   {
@@ -90,14 +100,54 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Coinbase-backed Flowdesk secures full broker-dealer license in Dubai",
+    "id": "news_coindesk_e231e128-2e61-4b00-b8ea-44d058",
+    "title": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/flowdesk-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-11T16:39:17Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase-backed Flowdesk secures full broker-dealer license in Dubai\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities",
+    "timestamp": "2026-08-12T06:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_c4fced6e-7322-4343-903f-a5d13e",
+    "title": "Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print",
+    "timestamp": "2026-08-12T05:26:55Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_773a46b1-2090-4e31-8260-c2a8c8",
+    "title": "Harmony\u2019s ONE dives 26% after an attack appears to mint tokens equal to quarter of supply",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens",
+    "timestamp": "2026-08-12T05:18:40Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_e6ec1a31-68a3-4d8a-96fd-10d8c4",
+    "title": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700",
+    "timestamp": "2026-08-12T04:53:46Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_9105f43b-79e6-462c-92f5-5452db",
+    "title": "XRP bridge drained for $200,000 after software mistook fake deposits for real ones",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones",
+    "timestamp": "2026-08-12T04:33:25Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_90b4a51b-23e4-421f-ab02-837709",
@@ -146,56 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/news-analysis/2026/08/11/if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-large",
     "timestamp": "2026-08-11T14:40:15Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_47f21f85-4dd3-4a1d-962c-41362b",
-    "title": "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/11/crypto-friendly-bank-erebor-in-talks-to-raise-usd1-5-billion-at-usd9-5-billion-valuation-ft",
-    "timestamp": "2026-08-11T14:39:12Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_388e722a-e057-424c-8b7e-fd07ad",
-    "title": "Pok\u00e9mon cards are becoming multibillion dollar market. Crypto wants to fix how they trade",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/11/pokemon-cards-are-becoming-multibillion-dollar-market-crypto-wants-to-fix-how-they-trade",
-    "timestamp": "2026-08-11T13:06:07Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_5175423d-d3e7-475e-aec1-26ae77",
-    "title": "MoneyGram expands on Solana with global crypto-to-cash service",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service",
-    "timestamp": "2026-08-11T12:02:22Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_3c8ce20b-f5e0-451a-945d-25a792",
-    "title": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/08/11/australian-watchdog-suspends-cryptolink-forcing-96-atms-offline",
-    "timestamp": "2026-08-11T11:45:47Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_83492eb3-7142-4156-93bd-e60295",
-    "title": "Ravencoin, a blockchain built from Bitcoin\u2019s code, could roll back four days of transactions",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw",
-    "timestamp": "2026-08-11T11:24:56Z",
     "summary": "",
     "source": "CoinDesk"
   },
