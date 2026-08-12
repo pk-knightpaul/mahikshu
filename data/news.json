@@ -1,5 +1,25 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/maga",
+    "title": "Inside the fake crypto startup that fooled North Korean IT workers",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-12T07:34:58Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Inside the fake crypto startup that fooled North Korean IT workers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Harmony considers rollback after suspected exploit inflates ONE supply",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-12T06:02:52Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Harmony considers rollback after suspected exploit inflates ONE supply\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
     "platform": "news",
@@ -80,24 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "ARP Digital secures Dubai VARA broker-dealer license",
+    "id": "news_coindesk_07f69503-2e8e-475f-be69-2c8741",
+    "title": "Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-11T17:53:51Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ARP Digital secures Dubai VARA broker-dealer license\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "FlightAware sues Kalshi over flight cancellation data",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/flightaware-lawsuit-kalshi-flight-cancellations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-11T16:55:14Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FlightAware sues Kalshi over flight cancellation data\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
+    "timestamp": "2026-08-12T07:04:53Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_e231e128-2e61-4b00-b8ea-44d058",
@@ -121,7 +131,7 @@
   },
   {
     "id": "news_coindesk_773a46b1-2090-4e31-8260-c2a8c8",
-    "title": "Harmony\u2019s ONE dives 26% after an attack appears to mint tokens equal to quarter of supply",
+    "title": "Harmony\u2019s ONE dives 40% after an attack appears to mint tokens equal to quarter of supply",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens",
@@ -186,16 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025",
     "timestamp": "2026-08-11T17:12:11Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_bb20f2ab-b7ed-41f3-b16c-82fa11",
-    "title": "If crypto goes back to the congressional drawing board, 3 Democrat women loom large",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/news-analysis/2026/08/11/if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-large",
-    "timestamp": "2026-08-11T14:40:15Z",
     "summary": "",
     "source": "CoinDesk"
   },
