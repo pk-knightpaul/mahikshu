@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-12T15:00:10Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%\" class=\"type:primaryImage\" src=\"https://s3-images....",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Kalshi launches sports and crypto perps data feed on DoubleZero",
     "platform": "news",
@@ -90,14 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Harmony considers rollback after suspected exploit inflates ONE supply",
+    "id": "news_coindesk_06f543e1-2de0-473e-b2d6-5a0a20",
+    "title": "Miden bets on privacy stablecoins with introduction of USDCx",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-12T06:02:52Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Harmony considers rollback after suspected exploit inflates ONE supply\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
+    "timestamp": "2026-08-12T15:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_7c3be825-62ad-43d2-8762-4cc36c",
+    "title": "Crypto Long & Short:",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short",
+    "timestamp": "2026-08-12T14:51:12Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_058eb2de-1093-4ea6-a493-a7b89c",
@@ -180,24 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_bbce1841-b146-4bad-ac16-a5918e",
-    "title": "Bank of England to test stablecoin, digital currency use in cross-border finance",
+    "id": "news_decrypt_https://decrypt.co/?p=375411",
+    "title": "Why Bitcoin Barely Moved Even as US Inflation Cools to 3.4%",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/12/bank-of-england-to-test-stablecoin-digital-currency-use-in-cross-border-finance",
-    "timestamp": "2026-08-12T10:17:05Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_85128a10-f97f-478e-bc63-411cac",
-    "title": "CoreWeave surges 16% on $2.58 billion revenue quarter as AI infrastructure demand eclipses crypto",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/12/coreweave-surges-16-on-usd2-58-billion-revenue-quarter-as-ai-infrastructure-demand-eclipses-crypto",
-    "timestamp": "2026-08-12T09:41:52Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375411/why-bitcoin-barely-moved-us-cpi-inflation-cools",
+    "timestamp": "2026-08-12T15:07:56Z",
+    "summary": "The tamest U.S. inflation print in months left crypto markets flat, with Bitcoin shrugging off the data hit. Here's why.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375404",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375364/solana-price-death-cross-bull-bear-case-next-move",
     "timestamp": "2026-08-11T20:46:04Z",
     "summary": "Solana is holding its 50-day average after a pullback from August's $90 spike, but the death cross above it keeps pressure pointed down.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375375",
-    "title": "SEC Prepares Escape Hatch From Securities Registration for Crypto Projects",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375375/sec-prepares-escape-hatch-securities-registration-crypto-projects",
-    "timestamp": "2026-08-11T20:10:00Z",
-    "summary": "The agency has set an open meeting to consider moving forward with its Regulation Crypto proposal.",
     "source": "Decrypt"
   }
 ]
