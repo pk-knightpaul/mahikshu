@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Bitwise cuts 14% of staff while still expecting growth",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/bitwise-staff-cuts-market-downturn-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-12T18:01:15Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitwise cuts 14% of staff while still expecting growth\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "FlightAware drops Kalshi lawsuit one day after filing",
     "platform": "news",
     "type": "news",
@@ -87,16 +97,6 @@
     "url": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-12T12:42:58Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fidelity files with SEC to add staking to Ethereum ETF\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Binance, RedotPay clash over fate of Singapore lawsuit",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-12T10:21:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance, RedotPay clash over fate of Singapore lawsuit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375450",
+    "title": "After Coldcard Was Hacked, $15 Billion in Bitcoin Moved to Safety",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375450/coldcard-hack-15-billion-bitcoin-moved-safety",
+    "timestamp": "2026-08-12T18:16:04Z",
+    "summary": "Casa CEO Nick Neuman says the mass Bitcoin migration after the $130M Coldcard exploit proves distributed self-custody is Bitcoin's immune system\u2014not its vulnerability.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375458",
     "title": "Zoomsday: AI Used to Build Critical Zoom Exploit in One Day",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
     "timestamp": "2026-08-12T12:06:36Z",
     "summary": "The reduction matches the percentage shed by Coinbase in May, and follows shutdowns at BitMEX and BitMart.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375390",
-    "title": "Harmony's ONE Sinks 37% After Attacker Mints 4 Billion Tokens",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens",
-    "timestamp": "2026-08-12T10:38:06Z",
-    "summary": "The team is weighing a rollback, which would undo the attack along with every legitimate transaction made since.",
     "source": "Decrypt"
   }
 ]
