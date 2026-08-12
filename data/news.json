@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Kraken adds S&P 500 to funded trading program, commodities to follow",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/kraken-prop-sp500-perpetual-commodities-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-12T18:55:56Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken adds S&amp;P 500 to funded trading program, commodities to follow\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Bitwise cuts 14% of staff while still expecting growth",
     "platform": "news",
     "type": "news",
@@ -90,16 +100,6 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Fidelity files with SEC to add staking to Ethereum ETF",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-12T12:42:58Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fidelity files with SEC to add staking to Ethereum ETF\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl...",
-    "source": "CoinTelegraph"
-  },
-  {
     "id": "news_coindesk_d1036567-e4a4-40d5-b46a-f80e07",
     "title": "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
     "platform": "news",
@@ -121,7 +121,7 @@
   },
   {
     "id": "news_coindesk_3ac706d6-91f2-4d17-a9db-e5f182",
-    "title": "Kalshi taps Solana platform for Wall Street-style high-speed data feed",
+    "title": "Kalshi taps DoubleZero for Wall Street-style high-speed data feed",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
@@ -198,6 +198,26 @@
     "timestamp": "2026-08-12T11:44:10Z",
     "summary": "",
     "source": "CoinDesk"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375490",
+    "title": "SpaceXAI Wants Grok Bot to Do Your Job\u2014But It Needs Access to Your Accounts",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375490/spacexai-grok-bot-do-job-needs-access-accounts",
+    "timestamp": "2026-08-12T19:31:04Z",
+    "summary": "The AI agent can navigate workplace software and coordinate with other bots, raising questions about security and control.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375491",
+    "title": "Goldman Sachs' $2.25B NEOS Deal Hands It Ready-Made Bitcoin Income ETF Business",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375491/goldman-sachs-neos-deal-ready-made-bitcoin-income-etf",
+    "timestamp": "2026-08-12T18:58:26Z",
+    "summary": "The cash-and-equity deal for the options-income specialist folds in NEOS's roughly $1 billion Bitcoin covered-call fund, giving Goldman instant scale in a crypto ETF niche it had only just entered on ...",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375450",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/375384/kalshi-real-time-market-data-feed-doublezero",
     "timestamp": "2026-08-12T14:00:04Z",
     "summary": "The service gives trading firms access to Kalshi\u2019s sports and crypto order books over DoubleZero\u2019s fiber network.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375393",
-    "title": "Morning Minute: The CFTC Bails Out Kalshi in NY",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny",
-    "timestamp": "2026-08-12T12:12:40Z",
-    "summary": "The CFTC keeps going to bat for Kalshi while the ultimate prediction market court battle looms, with the fate of the sector in the balance.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375394",
-    "title": "Bitwise Cuts 14% of Staff as Crypto Slump Reaches ETF Issuers",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
-    "timestamp": "2026-08-12T12:06:36Z",
-    "summary": "The reduction matches the percentage shed by Coinbase in May, and follows shutdowns at BitMEX and BitMart.",
     "source": "Decrypt"
   }
 ]
