@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Hawaii crypto ATM ban to take effect on Oct. 1",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/hawaii-crypto-atm-ban-october-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-12T21:21:17Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hawaii crypto ATM ban to take effect on Oct. 1\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal",
     "platform": "news",
     "type": "news",
@@ -87,16 +97,6 @@
     "url": "https://cointelegraph.com/news/kalshi-launches-sports-crypto-data-feed-doublezero?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-12T13:58:41Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi launches sports and crypto perps data feed on DoubleZero\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Slovenia joins EU\u2019s MiCA stablecoin register with first issuer",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-12T13:31:54Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Slovenia joins EU\u2019s MiCA stablecoin register with first issuer\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375479",
+    "title": "The AI-Generated Pattern Hides You From Surveillance Cameras\u2014Including Flock",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375479/ai-generated-pattern-hides-you-surveillance-cameras-flock",
+    "timestamp": "2026-08-12T21:31:15Z",
+    "summary": "A Kansas City security researcher ran 31 million tests to teach a model how to paint camouflage for the algorithm age.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375501",
     "title": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375428/crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin",
     "timestamp": "2026-08-12T15:54:16Z",
     "summary": "A fixed-rate crypto-backed loan lets you borrow against BTC, ETH, or SOL while keeping your coins. Here's how they work.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375411",
-    "title": "Why Bitcoin Barely Moved Even as US Inflation Cools to 3.4%",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375411/why-bitcoin-barely-moved-us-cpi-inflation-cools",
-    "timestamp": "2026-08-12T15:07:56Z",
-    "summary": "The tamest U.S. inflation print in months left crypto markets flat, with Bitcoin shrugging off the data hit. Here's why.",
     "source": "Decrypt"
   }
 ]
