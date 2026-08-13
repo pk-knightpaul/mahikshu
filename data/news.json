@@ -100,6 +100,16 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_68d5a1b9-6b3f-41b5-82ff-c1b52e",
+    "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
+    "timestamp": "2026-08-13T23:09:14Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_3848339e-d25e-4ae1-9aa1-1fc581",
     "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
     "platform": "news",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_346a501f-55e9-42e9-9994-e163b9",
-    "title": "Figure revenue doubles as blockchain loan marketplace volumes surge",
+    "id": "news_decrypt_https://decrypt.co/?p=375609",
+    "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/13/figure-revenue-doubles-as-blockchain-loan-marketplace-volumes-surge",
-    "timestamp": "2026-08-13T13:29:28Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
+    "timestamp": "2026-08-13T22:36:07Z",
+    "summary": "Bitcoin Red Team member Calle said Chinese models, including Moonshot AI\u2019s Kimi K3, are finding bugs across Bitcoin\u2019s open-source software.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375596",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375562/metaplanet-denies-bitcoin-sale-launches-bitbonds",
     "timestamp": "2026-08-13T16:40:49Z",
     "summary": "The company's CEO said a 5,014 BTC transfer was a custody move, not a sale, as the Tokyo-listed Bitcoin treasury company rolls out a fixed-rate debt program.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375560",
-    "title": "Hawaii To Ban Cash Deposits at Crypto ATMs From October",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375560/hawaii-to-ban-cash-deposits-at-crypto-atms-from-october",
-    "timestamp": "2026-08-13T16:05:39Z",
-    "summary": "Lawmakers targeted the deposits that scammers rely on, with the machines still able to sell crypto for dollars or swap one coin for another.",
     "source": "Decrypt"
   }
 ]
