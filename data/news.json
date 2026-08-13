@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-13T16:00:23Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows\" class=\"type:primaryImage\" src=\"https://s3-images.ct...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Bullish shares jump 10% as Q2 adjusted EBITDA more than triples",
     "platform": "news",
     "type": "news",
@@ -87,16 +97,6 @@
     "url": "https://cointelegraph.com/markets/bitcoin-speculators-in-the-red-keep-price-pinned-below-687k-new-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-13T09:37:16Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin speculators keep BTC price \u2018pinned\u2019 below $68.7K: Glassnode\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Securitize falls 16% after earnings miss, tokenization revenue drops",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/securitize-falls-earnings-miss-tokenization-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-13T08:29:01Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize falls 16% after earnings miss, tokenization revenue drops\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375562",
+    "title": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375562/metaplanet-denies-bitcoin-sale-launches-bitbonds",
+    "timestamp": "2026-08-13T16:40:49Z",
+    "summary": "The company's CEO said a 5,014 BTC transfer was a custody move, not a sale, as the Tokyo-listed Bitcoin treasury company rolls out a fixed-rate debt program.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375560",
+    "title": "Hawaii To Ban Cash Deposits at Crypto ATMs From October",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375560/hawaii-to-ban-cash-deposits-at-crypto-atms-from-october",
+    "timestamp": "2026-08-13T16:05:39Z",
+    "summary": "Lawmakers targeted the deposits that scammers rely on, with the machines still able to sell crypto for dollars or swap one coin for another.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375551",
     "title": "FCA, HTX in Settlement Talks Over Illegal UK Crypto Promotions: Report",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/375479/ai-generated-pattern-hides-you-surveillance-cameras-flock",
     "timestamp": "2026-08-12T21:31:15Z",
     "summary": "A Kansas City security researcher ran 31 million tests to teach a model how to paint camouflage for the algorithm age.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375501",
-    "title": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
-    "timestamp": "2026-08-12T20:31:04Z",
-    "summary": "Researchers found every major AI provider encrypts reasoning tokens with a single global key\u2014and exploited it to decode 315,320 hidden thinking blocks from public logs, recovering passwords and live A...",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375507",
-    "title": "China\u2019s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
-    "timestamp": "2026-08-12T20:01:05Z",
-    "summary": "The April preview got benchmarked to death and landed 18 points behind Anthropic\u2019s flagship. DeepSeek\u2019s own numbers for the finished model tell a very different story.",
     "source": "Decrypt"
   }
 ]
