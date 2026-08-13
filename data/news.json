@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "SEC allows Franklin Templeton funds to invest in onchain money fund",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-13T11:48:37Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC allows Franklin Templeton funds to invest in onchain money fund\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "\u2018DeFi doesn\u2019t exist anymore,\u2019 just onchain finance: Andre Cronje",
     "platform": "news",
     "type": "news",
@@ -11,12 +21,12 @@
   },
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Binance bStocks passes xStocks as second-largest tokenized stock issuer",
+    "title": "Binance bStocks pass xStocks as second-largest tokenized stock issuer",
     "platform": "news",
     "type": "news",
     "url": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-13T09:53:36Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance bStocks passes xStocks as second-largest tokenized stock issuer\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi...",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance bStocks pass xStocks as second-largest tokenized stock issuer\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
     "source": "CoinTelegraph"
   },
   {
@@ -90,14 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "ASX shareholder plans to sue former directors over failed blockchain project",
+    "id": "news_coindesk_abeda8df-7f31-4081-8545-187053",
+    "title": "Bullish Q2 adjusted earnings in line as rise in subscription revenue offsets digital asset slowdown",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/asx-shareholder-lawsuit-failed-blockchain-chess-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-13T01:00:57Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ASX shareholder plans to sue former directors over failed blockchain project \" class=\"type:primaryImage\" src=\"https://s3-images....",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows",
+    "timestamp": "2026-08-13T12:09:58Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_04212d2f-ce48-4860-afa1-f16ec9",
+    "title": "Strategy, Metaplanet unrealized bitcoin losses highlight risk of concentrating on just one token",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/13/strategy-metaplanet-unrealized-bitcoin-losses-highlight-risk-of-concentrating-on-just-one-token",
+    "timestamp": "2026-08-13T11:35:53Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_e91625de-f72b-4e9c-89a2-d64cd4",
@@ -131,7 +151,7 @@
   },
   {
     "id": "news_coindesk_3fa12f3f-2860-4cfa-8ec1-5a8a49",
-    "title": "Live updates: U.S. inflation is stickier than July\u2019s mild CPI reading suggests",
+    "title": "Live updates: Bitcoin continues flat near $63,500 as U.S. PPI softer than forecast in July",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/tech/2026/08/13/live-markets-u-s-inflation-is-stickier-than-july-s-mild-cpi-suggests",
@@ -180,24 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_0c9380fd-e5f9-42f3-aab1-032892",
-    "title": "Bitcoin slips near $63,500 as traders look past CPI to Fed\u2019s next tests",
+    "id": "news_decrypt_https://decrypt.co/?p=375547",
+    "title": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests",
-    "timestamp": "2026-08-13T03:39:06Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks",
+    "timestamp": "2026-08-13T11:53:17Z",
+    "summary": "The new framework could be announced as soon as Friday, in what could be the biggest development for crypto this year.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_a28710af-4858-4f35-a7cd-7e3443",
-    "title": "Prediction markets should dial back faulty filings for incentives to boost trading: CFTC",
+    "id": "news_decrypt_https://decrypt.co/?p=375535",
+    "title": "Twitch Turns On Amazon AI Training by Default: 'Nobody Would Opt In'",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc",
-    "timestamp": "2026-08-12T23:16:53Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375535/twitch-turns-on-amazon-ai-training-by-default-nobody-would-opt-in",
+    "timestamp": "2026-08-13T11:42:27Z",
+    "summary": "Twitch's chief product officer says he does not know whether content had already been used for training before the setting appeared.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375531",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/375458/zoomsday-ai-zoom-exploit-one-day",
     "timestamp": "2026-08-12T17:46:04Z",
     "summary": "The flaws could let someone in a meeting take control of another participant\u2019s device without the victim clicking anything.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375457",
-    "title": "Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375457/fidelity-files-ethereum-etf-stake-pay-investors",
-    "timestamp": "2026-08-12T17:13:43Z",
-    "summary": "The Boston asset manager's FETH would stake up to 100% of its ETH and distribute the rewards to holders as quarterly cash, pending SEC approval.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375441",
-    "title": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375441/xrp-drained-tx-bridge",
-    "timestamp": "2026-08-12T16:00:52Z",
-    "summary": "A flaw that went undetected during multiple audits allowed an attacker to create unbacked balances and withdraw XRP from the bridge\u2019s reserves.",
     "source": "Decrypt"
   }
 ]
