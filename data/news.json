@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375594",
+    "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
+    "timestamp": "2026-08-13T20:30:24Z",
+    "summary": "Anthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write\u2014and it hasn't said how.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375580",
     "title": "Google and OpenAI Debut Super Fast AI Models\u2014Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375529/ethereum-defi-etherfi-tokenized-stocks",
     "timestamp": "2026-08-13T14:01:03Z",
     "summary": "The Ethereum staking platform is adding asset trading, fiat accounts, and borrowing through Aave as it pushes into crypto banking.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375556",
-    "title": "Trezor Customer Data Exposed in Shipping Partner Breach",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375556/trezor-customer-data-exposed-in-shipping-partner-breach",
-    "timestamp": "2026-08-13T13:10:43Z",
-    "summary": "The hardware wallet manufacturer says its devices and backups are untouched, but the leak hands attackers valuable customer data.",
     "source": "Decrypt"
   }
 ]
