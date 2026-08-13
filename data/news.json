@@ -1,6 +1,36 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Bullish shares jump 10% as Q2 adjusted EBITDA more than triples",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/bullish-shares-surge-as-q2-adjusted-revenue-surges-62?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-13T15:36:45Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bullish shares jump 10% as Q2 adjusted EBITDA more than triples\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Trezor reports data from 14K users exposed through shipping provider",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/trezor-customer-data-shipping-provider-shipmonk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-13T15:25:14Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trezor reports data from 14K users exposed through shipping provider\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/bitcoin-keeps-traders-guessing-near-64k-as-stocks-gain-on-cool-us-ppi-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-13T15:07:38Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data\" class=\"type:primaryImage\" src=\"https://s3-images.ct...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Bitmine\u2019s $257M annualized staking income \u2018fills\u2019 operational gaps, share buybacks: analysts",
     "platform": "news",
     "type": "news",
@@ -70,34 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B",
+    "id": "news_coindesk_d86b2ffb-0a05-4ec2-b2c9-0bcbda",
+    "title": "Crypto for Advisors: The crypto advice gap",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/bitgo-q2-19-million-revenue-surge-4-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-13T07:42:59Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-for-advisors-the-crypto-advice-gap",
+    "timestamp": "2026-08-13T15:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Copper US arm becomes FINRA member, SEC-registered broker-dealer",
+    "id": "news_coindesk_2d15ddb1-0fad-45f3-bf48-be5090",
+    "title": "B2C2 taps Schroders veteran to chase Asia\u2019s growing crypto wealth",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/copper-us-arm-joins-finra-after-sec-broker-dealer-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-13T07:14:19Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Copper US arm becomes FINRA member, SEC-registered broker-dealer\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-13T06:00:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/13/b2c2-taps-schroders-veteran-to-chase-asia-s-growing-crypto-wealth",
+    "timestamp": "2026-08-13T14:43:38Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_6f49c2d7-7e3a-4023-a46b-25b9ea",
@@ -141,7 +161,7 @@
   },
   {
     "id": "news_coindesk_abeda8df-7f31-4081-8545-187053",
-    "title": "Bullish Q2 adjusted earnings in line as rise in subscription revenue offsets digital asset slowdown",
+    "title": "Bullish shares surge 14% as subscription revenue offsets digital asset slowdown",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows",
@@ -180,24 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_ae124308-443c-4039-a18f-cd2895",
-    "title": "Brazil\u2019s largest bitcoin treasury firm plans ETF with 95% allocation to Strategy's STRC",
+    "id": "news_decrypt_https://decrypt.co/?p=375551",
+    "title": "FCA, HTX in Settlement Talks Over Illegal UK Crypto Promotions: Report",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/13/brazil-s-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategy-s-strc",
-    "timestamp": "2026-08-13T09:39:52Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_3fa12f3f-2860-4cfa-8ec1-5a8a49",
-    "title": "Live updates: Bitcoin continues flat near $63,500 as U.S. PPI softer than forecast in July",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/08/13/live-markets-u-s-inflation-is-stickier-than-july-s-mild-cpi-suggests",
-    "timestamp": "2026-08-13T09:18:19Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375551/fca-htx-in-settlement-talks-over-illegal-uk-crypto-promotions-report",
+    "timestamp": "2026-08-13T14:31:56Z",
+    "summary": "An FCA employee bought crypto from a UK IP address using a driving license as ID, according to the regulator's claim.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375529",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
     "timestamp": "2026-08-12T20:01:05Z",
     "summary": "The April preview got benchmarked to death and landed 18 points behind Anthropic\u2019s flagship. DeepSeek\u2019s own numbers for the finished model tell a very different story.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375490",
-    "title": "SpaceXAI Wants Grok Bot to Do Your Job\u2014But It Needs Access to Your Accounts",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375490/spacexai-grok-bot-do-job-needs-access-accounts",
-    "timestamp": "2026-08-12T19:31:04Z",
-    "summary": "The AI agent can navigate workplace software and coordinate with other bots, raising questions about security and control.",
     "source": "Decrypt"
   }
 ]
