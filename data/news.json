@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "City of Baltimore goes after prediction markets for sports betting",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-13T21:08:23Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"City of Baltimore goes after prediction markets for sports betting\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Tether completes first full financial audit, receives clean KPMG opinion",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-13T20:43:12Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether completes first full financial audit, receives clean KPMG opinion\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
     "platform": "news",
     "type": "news",
@@ -77,26 +97,6 @@
     "url": "https://cointelegraph.com/markets/bitcoin-keeps-traders-guessing-near-64k-as-stocks-gain-on-cool-us-ppi-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-13T15:07:38Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data\" class=\"type:primaryImage\" src=\"https://s3-images.ct...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Bitmine\u2019s $257M annualized staking income \u2018fills\u2019 operational gaps, share buybacks: analysts",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/bitmines-257m-staking-income-operational-gaps-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-13T13:14:48Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine\u2019s $257M annualized staking income \u2018fills\u2019 operational gaps, share buybacks: analysts\" class=\"type:primaryImage\" src=\"htt...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "MUFG PoC to bring Japanese government bond repo transactions onchain",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/mufg-bring-japanese-government-bond-repo-transactions-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-13T13:00:37Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MUFG PoC to bring Japanese government bond repo transactions onchain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375605",
+    "title": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream",
+    "timestamp": "2026-08-13T21:16:05Z",
+    "summary": "6th Man Ventures co-founder Mike Dudas says Solana\u2019s infrastructure could carry crypto\u2019s next wave.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375594",
     "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375551/fca-htx-in-settlement-talks-over-illegal-uk-crypto-promotions-report",
     "timestamp": "2026-08-13T14:31:56Z",
     "summary": "An FCA employee bought crypto from a UK IP address using a driving license as ID, according to the regulator's claim.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375529",
-    "title": "Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375529/ethereum-defi-etherfi-tokenized-stocks",
-    "timestamp": "2026-08-13T14:01:03Z",
-    "summary": "The Ethereum staking platform is adding asset trading, fiat accounts, and borrowing through Aave as it pushes into crypto banking.",
     "source": "Decrypt"
   }
 ]
