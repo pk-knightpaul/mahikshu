@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-13T19:21:02Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "CFTC to join SEC in exploring crypto regulations without CLARITY bill",
     "platform": "news",
     "type": "news",
@@ -87,16 +97,6 @@
     "url": "https://cointelegraph.com/news/mufg-bring-japanese-government-bond-repo-transactions-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-13T13:00:37Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MUFG PoC to bring Japanese government bond repo transactions onchain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "SEC allows Franklin Templeton funds to invest in onchain money fund",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-13T11:48:37Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC allows Franklin Templeton funds to invest in onchain money fund\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375580",
+    "title": "Google and OpenAI Debut Super Fast AI Models\u2014Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375580/google-openai-super-fast-ai-models-gemini-flash-gpt-ultrafast",
+    "timestamp": "2026-08-13T19:11:03Z",
+    "summary": "Google's model is live and built for cheap agents; OpenAI's is quicker but locked behind a waitlist.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375577",
     "title": "Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375556/trezor-customer-data-exposed-in-shipping-partner-breach",
     "timestamp": "2026-08-13T13:10:43Z",
     "summary": "The hardware wallet manufacturer says its devices and backups are untouched, but the leak hands attackers valuable customer data.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375526",
-    "title": "XRP Holders Can Now Trade Options Using Flare\u2019s FXRP as Collateral",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375526/xrp-holders-trade-options-flare-fxrp-collateral",
-    "timestamp": "2026-08-13T13:01:05Z",
-    "summary": "The Derive integration gives XRP holders a way to hedge or speculate without depositing their tokens with a centralized exchange.",
     "source": "Decrypt"
   }
 ]
