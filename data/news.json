@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "CFTC to join SEC in exploring crypto regulations without CLARITY bill",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/cftc-exploring-crypto-regulations-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-13T18:18:50Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC to join SEC in exploring crypto regulations without CLARITY bill\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Crypto group backs Custodia in Supreme Court battle over Fed access",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "\u2018DeFi doesn\u2019t exist anymore,\u2019 just onchain finance: Andre Cronje",
+    "id": "news_coindesk_880b9917-0aeb-413e-962f-06df21",
+    "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-13T10:50:24Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"\u2018DeFi doesn\u2019t exist anymore,\u2019 just onchain finance: Andre Cronje\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
+    "timestamp": "2026-08-13T18:26:21Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_e93d274c-ba8a-4bdf-9fa9-560a72",
@@ -190,14 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_04212d2f-ce48-4860-afa1-f16ec9",
-    "title": "Strategy, Metaplanet unrealized bitcoin losses highlight risk of concentrating on just one token",
+    "id": "news_decrypt_https://decrypt.co/?p=375577",
+    "title": "Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/13/strategy-metaplanet-unrealized-bitcoin-losses-highlight-risk-of-concentrating-on-just-one-token",
-    "timestamp": "2026-08-13T11:35:53Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375577/tether-inaugural-financial-audit-kpmg",
+    "timestamp": "2026-08-13T18:39:11Z",
+    "summary": "Tether said KPMG gave its 2025 financial statements a clean opinion, a milestone for the company after years of questions about the reserves backing USDT.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375568",
+    "title": "White House Lets Private Firms Hack Cybercriminals\u2014At Their Own Legal Risk",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375568/white-house-private-firms-hack-cybercriminals",
+    "timestamp": "2026-08-13T18:26:04Z",
+    "summary": "President Donald Trump signed a memorandum Tuesday that lets vetted U.S. companies carry out offensive cyber operations against foreign criminal networks. Here's what the program actually authorizes.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375567",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/375526/xrp-holders-trade-options-flare-fxrp-collateral",
     "timestamp": "2026-08-13T13:01:05Z",
     "summary": "The Derive integration gives XRP holders a way to hedge or speculate without depositing their tokens with a centralized exchange.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375547",
-    "title": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks",
-    "timestamp": "2026-08-13T11:53:17Z",
-    "summary": "The new framework could be announced as soon as Friday, in what could be the biggest development for crypto this year.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375535",
-    "title": "Twitch Turns On Amazon AI Training by Default: 'Nobody Would Opt In'",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375535/twitch-turns-on-amazon-ai-training-by-default-nobody-would-opt-in",
-    "timestamp": "2026-08-13T11:42:27Z",
-    "summary": "Twitch's chief product officer says he does not know whether content had already been used for training before the setting appeared.",
     "source": "Decrypt"
   }
 ]
