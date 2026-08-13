@@ -1,6 +1,36 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-13T05:54:56Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-13T05:01:42Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO \" class=\"type:primaryImage\" src=\"https://s3-imag...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/gerovich-shuts-down-bitcoin-sale-metaplanets-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-13T04:15:26Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "ASX shareholder plans to sue former directors over failed blockchain project",
     "platform": "news",
     "type": "news",
@@ -70,34 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "FlightAware drops Kalshi lawsuit one day after filing",
+    "id": "news_coindesk_c5d68bf7-188c-472e-b75a-e5927c",
+    "title": "Metaplanet denies selling bitcoin worth $320 million",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-12T16:58:52Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FlightAware drops Kalshi lawsuit one day after filing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million",
+    "timestamp": "2026-08-13T05:34:48Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Bank of England tests stablecoin, digital pound interoperability in cross-border payments",
+    "id": "news_coindesk_a0571190-f5d3-4023-a5f7-cc50f3",
+    "title": "Bitcoin firms ask AI labs for same tools attackers already have",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-12T16:50:25Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bank of England tests stablecoin, digital pound interoperability in cross-border payments\" class=\"type:primaryImage\" src=\"https:...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-12T16:07:59Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have",
+    "timestamp": "2026-08-13T05:21:21Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_8d508ebf-6d73-442c-910e-f43772",
@@ -176,26 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
     "timestamp": "2026-08-12T16:14:49Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_06f543e1-2de0-473e-b2d6-5a0a20",
-    "title": "Miden bets on privacy stablecoins with introduction of USDCx",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
-    "timestamp": "2026-08-12T15:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_7c3be825-62ad-43d2-8762-4cc36c",
-    "title": "Crypto Long & Short: When capital can't move fast enough, markets pay the price",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short",
-    "timestamp": "2026-08-12T14:51:12Z",
     "summary": "",
     "source": "CoinDesk"
   },
