@@ -100,6 +100,16 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_3848339e-d25e-4ae1-9aa1-1fc581",
+    "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
+    "timestamp": "2026-08-13T22:18:07Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_880b9917-0aeb-413e-962f-06df21",
     "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
     "platform": "news",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_abeda8df-7f31-4081-8545-187053",
-    "title": "Bullish shares surge 14% as subscription revenue offsets digital asset slowdown",
+    "id": "news_decrypt_https://decrypt.co/?p=375596",
+    "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows",
-    "timestamp": "2026-08-13T12:09:58Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
+    "timestamp": "2026-08-13T21:45:04Z",
+    "summary": "In a new red-team study, Claude models deployed self-replicating malware against each other\u2014and the transcripts explain why.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375605",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375560/hawaii-to-ban-cash-deposits-at-crypto-atms-from-october",
     "timestamp": "2026-08-13T16:05:39Z",
     "summary": "Lawmakers targeted the deposits that scammers rely on, with the machines still able to sell crypto for dollars or swap one coin for another.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375551",
-    "title": "FCA, HTX in Settlement Talks Over Illegal UK Crypto Promotions: Report",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375551/fca-htx-in-settlement-talks-over-illegal-uk-crypto-promotions-report",
-    "timestamp": "2026-08-13T14:31:56Z",
-    "summary": "An FCA employee bought crypto from a UK IP address using a driving license as ID, according to the regulator's claim.",
     "source": "Decrypt"
   }
 ]
