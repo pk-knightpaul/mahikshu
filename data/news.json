@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "JPMorgan cut Polymarket banking ties over regulatory concerns: Report",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/jpmorgan-debanked-polymarket-regulatory-concerns-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-14T08:53:42Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"JPMorgan cut Polymarket banking ties over regulatory concerns: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Crypto payments barely register among euro area merchants, ECB finds",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/ecb-survey-0-2-euro-area-companies-accept-crypto-online?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-14T08:22:54Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto payments barely register among euro area merchants, ECB finds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "SEC cancels key crypto regulatory meeting",
     "platform": "news",
     "type": "news",
@@ -80,24 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Crypto group backs Custodia in Supreme Court battle over Fed access",
+    "id": "news_coindesk_f558d407-4683-41ee-a160-be7799",
+    "title": "Live updates: Bitcoin slips below $63,000 as oil, yields climb",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/blockchain-association-backs-custodia-in-supreme-court-fight-over-fed-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-13T17:36:09Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto group backs Custodia in Supreme Court battle over Fed access\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-13T17:28:54Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered\" class=\"type:primaryImage\" src=\"https://s3-images....",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
+    "timestamp": "2026-08-14T08:51:48Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_1a1dee98-6fc6-4858-8bce-80895a",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_2d15ddb1-0fad-45f3-bf48-be5090",
-    "title": "B2C2 taps Schroders veteran to chase Asia\u2019s growing crypto wealth",
+    "id": "news_decrypt_https://decrypt.co/?p=375619",
+    "title": "Kalshi Ordered to Block Washington Bets Days After CFTC Backed It",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/13/b2c2-taps-schroders-veteran-to-chase-asia-s-growing-crypto-wealth",
-    "timestamp": "2026-08-13T14:43:38Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375619/kalshi-ordered-to-block-washington-bets-days-after-cftc-backed-it",
+    "timestamp": "2026-08-14T09:50:40Z",
+    "summary": "A King County judge gave the exchange until August 19 to stop offering sports, election and politics wagers in the state.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375609",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375564/bitcoin-firms-want-ai-hacking-tools",
     "timestamp": "2026-08-13T17:11:04Z",
     "summary": "More than 40 bitcoin and crypto firms asked the biggest AI labs this week to let independent security researchers use their strongest models before public release.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375562",
-    "title": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375562/metaplanet-denies-bitcoin-sale-launches-bitbonds",
-    "timestamp": "2026-08-13T16:40:49Z",
-    "summary": "The company's CEO said a 5,014 BTC transfer was a custody move, not a sale, as the Tokyo-listed Bitcoin treasury company rolls out a fixed-rate debt program.",
     "source": "Decrypt"
   }
 ]
