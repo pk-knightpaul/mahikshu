@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Dartmouth endowment\u2019s crypto exposure drops by $2M amid falling prices",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-14T18:57:04Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dartmouth endowment\u2019s crypto exposure drops by $2M amid falling prices\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Kraken parent Payward revenue rises 17% as trading volume falls in Q2",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-14T18:44:21Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent Payward revenue rises 17% as trading volume falls in Q2\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "UK authorities continue probe into Nigel Farage\u2019s crypto \u2018gifts\u2019 after by-election win",
     "platform": "news",
     "type": "news",
@@ -77,26 +97,6 @@
     "url": "https://cointelegraph.com/news/binance-restrict-htx-10-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-14T13:36:34Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance to restrict transactions involving HTX, 10 other crypto platforms\" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/maga",
-    "title": "Solana\u2019s fee overhaul increases burn and makes resource hogs pay",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/magazine/solana-wants-its-biggest-resource-hogs-to-pay-more?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-14T13:30:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana\u2019s fee overhaul increases burn and makes resource hogs pay\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Gemini posts $108M Q2 net loss despite 37% revenue growth",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/gemini-45m-q2-revenue-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-14T12:02:08Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gemini posts $108M Q2 net loss despite 37% revenue growth\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/art...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375672",
+    "title": "SharpLink Will Stake $200M of Ethereum Through Lido's wstETH",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth",
+    "timestamp": "2026-08-14T19:01:05Z",
+    "summary": "Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375670",
     "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375619/kalshi-ordered-to-block-washington-bets-days-after-cftc-backed-it",
     "timestamp": "2026-08-14T09:50:40Z",
     "summary": "A King County judge gave the exchange until August 19 to stop offering sports, election and politics wagers in the state.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375609",
-    "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
-    "timestamp": "2026-08-13T22:36:07Z",
-    "summary": "Bitcoin Red Team member Calle said Chinese models, including Moonshot AI\u2019s Kimi K3, are finding bugs across Bitcoin\u2019s open-source software.",
     "source": "Decrypt"
   }
 ]
