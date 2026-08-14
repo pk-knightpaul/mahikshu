@@ -100,6 +100,16 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_3c64fea1-10e9-48b0-ae20-ecd1af",
+    "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto\u2019s Wall Street push",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
+    "timestamp": "2026-08-14T17:48:04Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_0ae5beef-7b64-4460-82c8-564ed3",
     "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
     "platform": "news",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_4b1f0802-5cde-436e-816e-220724",
-    "title": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
+    "id": "news_decrypt_https://decrypt.co/?p=375670",
+    "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
-    "timestamp": "2026-08-14T05:04:52Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375670/openai-staff-blame-rush-ship-rogue-agent-hack",
+    "timestamp": "2026-08-14T18:31:03Z",
+    "summary": "Current and former OpenAI employees reportedly say pressure to release new AI products made it harder to prioritize safety.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375656",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
     "timestamp": "2026-08-13T22:36:07Z",
     "summary": "Bitcoin Red Team member Calle said Chinese models, including Moonshot AI\u2019s Kimi K3, are finding bugs across Bitcoin\u2019s open-source software.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375596",
-    "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
-    "timestamp": "2026-08-13T21:45:04Z",
-    "summary": "In a new red-team study, Claude models deployed self-replicating malware against each other\u2014and the transcripts explain why.",
     "source": "Decrypt"
   }
 ]
