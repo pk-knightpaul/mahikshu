@@ -1,5 +1,15 @@
 [
   {
+    "id": "binance_af2be67dc03c4673b4f56c42db948253",
+    "title": "Important: Transactions with Certain Crypto Platforms",
+    "platform": "binance",
+    "type": "announcement",
+    "url": "https://www.binance.com/en/support/announcement/af2be67dc03c4673b4f56c42db948253",
+    "timestamp": "2026-08-14T11:00:02.246000Z",
+    "summary": "Binance: Important: Transactions with Certain Crypto Platforms",
+    "source": "Binance"
+  },
+  {
     "id": "binance_1127f937c5fe49acb976d4a2dd272d27",
     "title": "Binance Futures Will Apply Last Price Protected Mechanism on USD\u24c8-Margined ONEUSDT Perpetual Contract (2026-08-14)",
     "platform": "binance",
@@ -487,16 +497,6 @@
     "url": "https://www.binance.com/en/support/announcement/0e22b98c9f154d35b50f40dbad43d1c5",
     "timestamp": "2026-07-03T09:15:01.468000Z",
     "summary": "Binance: Binance Adds 15 bStocks Tokenized Securities as Collateral Assets",
-    "source": "Binance"
-  },
-  {
-    "id": "binance_999c897add924d01a8b10c26b316690c",
-    "title": "Binance Will Extend the Monitoring Tag to Include AEUR, PYR, SCRT & VANRY on 2026-07-03",
-    "platform": "binance",
-    "type": "monitoring",
-    "url": "https://www.binance.com/en/support/announcement/999c897add924d01a8b10c26b316690c",
-    "timestamp": "2026-07-03T06:00:11.367000Z",
-    "summary": "Binance: Binance Will Extend the Monitoring Tag to Include AEUR, PYR, SCRT & VANRY on 2026-07-03",
     "source": "Binance"
   }
 ]
