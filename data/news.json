@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "UK authorities continue probe into Nigel Farage\u2019s crypto \u2018gifts\u2019 after by-election win",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/uk-investigation-nigel-farage-crypto-donations-by-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-14T17:03:38Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK authorities continue probe into Nigel Farage\u2019s crypto \u2018gifts\u2019 after by-election win\" class=\"type:primaryImage\" src=\"https://s...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Israel\u2019s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
     "platform": "news",
     "type": "news",
@@ -87,16 +97,6 @@
     "url": "https://cointelegraph.com/news/gemini-45m-q2-revenue-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-14T12:02:08Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gemini posts $108M Q2 net loss despite 37% revenue growth\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/art...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Shinhan Asset Management partners with Plume on tokenized fund pilot",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/shinhan-partners-plume-tokenized-fund-experiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-14T11:23:28Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Shinhan Asset Management partners with Plume on tokenized fund pilot\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375656",
+    "title": "Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375656/coldcard-bitcoin-thefts-slow-losses-top-150-million",
+    "timestamp": "2026-08-14T17:46:06Z",
+    "summary": "Galaxy Research says the lull likely means vulnerable holders migrated, or were already emptied.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375665",
+    "title": "Israel\u2019s Largest Bank Will Give Bitcoin Trading Another Try",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375665/israel-largest-bank-leumi-bitcoin-trading",
+    "timestamp": "2026-08-14T17:14:02Z",
+    "summary": "Bank Leumi's 2022 attempt died at the Bank of Israel. A softer regulatory line and Galaxy's custody stack now give it another shot in early 2027.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375655",
     "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
     "timestamp": "2026-08-13T21:45:04Z",
     "summary": "In a new red-team study, Claude models deployed self-replicating malware against each other\u2014and the transcripts explain why.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375605",
-    "title": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream",
-    "timestamp": "2026-08-13T21:16:05Z",
-    "summary": "6th Man Ventures co-founder Mike Dudas says Solana\u2019s infrastructure could carry crypto\u2019s next wave.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375594",
-    "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
-    "timestamp": "2026-08-13T20:30:24Z",
-    "summary": "Anthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write\u2014and it hasn't said how.",
     "source": "Decrypt"
   }
 ]
