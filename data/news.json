@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Israel\u2019s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-14T15:41:49Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Israel\u2019s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading\" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Crypto Biz: Bitcoin\u2019s $116M self-custody wake-up call",
     "platform": "news",
     "type": "news",
@@ -90,16 +100,6 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin eyes new August lows as Binance longs face \u2018cleanout\u2019",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-14T10:43:57Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin eyes new August lows as Binance longs face \u2018cleanout\u2019\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media...",
-    "source": "CoinTelegraph"
-  },
-  {
     "id": "news_coindesk_0ae5beef-7b64-4460-82c8-564ed3",
     "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
     "platform": "news",
@@ -161,7 +161,7 @@
   },
   {
     "id": "news_coindesk_f558d407-4683-41ee-a160-be7799",
-    "title": "Live updates: Bitcoin slips below $63,000; MSCI threatens to exclude Strategy from indices",
+    "title": "Live updates: Bitcoin slips back to $63,000; MSCI threatens to exclude Strategy from indices",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
@@ -198,6 +198,16 @@
     "timestamp": "2026-08-14T05:04:52Z",
     "summary": "",
     "source": "CoinDesk"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375655",
+    "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375655/bitcoin-miner-sells-btc-ai-pivot-hyperscale",
+    "timestamp": "2026-08-14T16:23:20Z",
+    "summary": "Bitcoin miner Hyperscale sold most of its Bitcoin but said it plans to rebuild its holdings through mining and future purchases.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375653",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
     "timestamp": "2026-08-13T20:30:24Z",
     "summary": "Anthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write\u2014and it hasn't said how.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375580",
-    "title": "Google and OpenAI Debut Super Fast AI Models\u2014Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375580/google-openai-super-fast-ai-models-gemini-flash-gpt-ultrafast",
-    "timestamp": "2026-08-13T19:11:03Z",
-    "summary": "Google's model is live and built for cheap agents; OpenAI's is quicker but locked behind a waitlist.",
     "source": "Decrypt"
   }
 ]
