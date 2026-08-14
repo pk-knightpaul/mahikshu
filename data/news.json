@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Ireland plans industry standards for illicit crypto use",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-14T21:08:52Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ireland plans industry standards for illicit crypto use\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/artic...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Dartmouth endowment\u2019s crypto exposure drops by $2M amid falling prices",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Binance to restrict transactions involving HTX, 10 other crypto platforms",
+    "id": "news_coindesk_5b00cd4b-8025-45c9-85f1-a692ed",
+    "title": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/binance-restrict-htx-10-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-14T13:36:34Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance to restrict transactions involving HTX, 10 other crypto platforms\" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
+    "timestamp": "2026-08-14T21:05:23Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_3c64fea1-10e9-48b0-ae20-ecd1af",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_aae0afed-d820-4fff-b7f6-1e20ec",
-    "title": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI\u2019s new proposal",
+    "id": "news_decrypt_https://decrypt.co/?p=375715",
+    "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
-    "timestamp": "2026-08-14T06:20:54Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin",
+    "timestamp": "2026-08-14T21:03:35Z",
+    "summary": "A hacker is reportedly selling personal and financial records tied to more than 678,000 taxpayers and businesses in France.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375684",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375625/morning-minute-tether-finally-gets-an-audit",
     "timestamp": "2026-08-14T11:45:39Z",
     "summary": "It seems Tether passed, putting an end to the longest-running open criticism of the leading stablecoin company.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375622",
-    "title": "SEC Shelves Crypto Rule Meeting Days After Senate Punted Clarity Act",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375622/sec-shelves-crypto-rule-meeting-days-after-senate-punted-clarity-act",
-    "timestamp": "2026-08-14T10:39:39Z",
-    "summary": "No replacement date has been set for the meeting, which was cancelled due to an \u201cunforeseen scheduling issue.\u201d",
     "source": "Decrypt"
   }
 ]
