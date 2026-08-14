@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Gemini posts $108M Q2 net loss despite 37% revenue growth",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/gemini-45m-q2-revenue-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-14T12:02:08Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gemini posts $108M Q2 net loss despite 37% revenue growth\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/art...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Shinhan Asset Management partners with Plume on tokenized fund pilot",
     "platform": "news",
     "type": "news",
@@ -11,12 +21,12 @@
   },
   {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin Eyes New August Lows as Binance Longs Face a \u2018Cleanout\u2019",
+    "title": "Bitcoin eyes new August lows as Binance longs face \u2018cleanout\u2019",
     "platform": "news",
     "type": "news",
     "url": "https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-14T10:43:57Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin Eyes New August Lows as Binance Longs Face a \u2018Cleanout\u2019\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin eyes new August lows as Binance longs face \u2018cleanout\u2019\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media...",
     "source": "CoinTelegraph"
   },
   {
@@ -90,18 +100,8 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "City of Baltimore goes after prediction markets for sports betting",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-13T21:08:23Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"City of Baltimore goes after prediction markets for sports betting\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
-    "source": "CoinTelegraph"
-  },
-  {
     "id": "news_coindesk_83fe86b7-a5ba-4d70-93fa-0bc60b",
-    "title": "Volatility exits crypto, TradFi markets even as U.S.-Iran risks linger, sovereign debt rises",
+    "title": "Fear is fading across markets, be it bitcoin, stocks, gold or bonds",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/daybook-us/2026/08/14/volatility-exits-crypto-tradfi-markets-even-as-u-s-iran-risks-linger-sovereign-debt-rises",
@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375628",
+    "title": "Ireland\u2019s New AML Strategy Brings \u2018Enhanced Checks\u2019 on Private Crypto Wallets",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375628/irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets",
+    "timestamp": "2026-08-14T12:38:39Z",
+    "summary": "The country's first strategy of its kind also brings stricter due diligence for firms dealing with overseas crypto companies.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375625",
+    "title": "Morning Minute: Tether Finally Gets An Audit",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375625/morning-minute-tether-finally-gets-an-audit",
+    "timestamp": "2026-08-14T11:45:39Z",
+    "summary": "It seems Tether passed, putting an end to the longest-running open criticism of the leading stablecoin company.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375622",
     "title": "SEC Shelves Crypto Rule Meeting Days After Senate Punted Clarity Act",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/375577/tether-inaugural-financial-audit-kpmg",
     "timestamp": "2026-08-13T18:39:11Z",
     "summary": "Tether said KPMG gave its 2025 financial statements a clean opinion, a milestone for the company after years of questions about the reserves backing USDT.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375568",
-    "title": "White House Lets Private Firms Hack Cybercriminals\u2014At Their Own Legal Risk",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375568/white-house-private-firms-hack-cybercriminals",
-    "timestamp": "2026-08-13T18:26:04Z",
-    "summary": "President Donald Trump signed a memorandum Tuesday that lets vetted U.S. companies carry out offensive cyber operations against foreign criminal networks. Here's what the program actually authorizes.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375567",
-    "title": "Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375567/crypto-group-fed-banking-access-squeeze-firms",
-    "timestamp": "2026-08-13T17:47:12Z",
-    "summary": "The Blockchain Association is urging the Supreme Court to take up Custodia\u2019s case, saying that broad Fed power over \u201cmaster accounts\u201d could be used to push crypto firms out of the banking system.",
     "source": "Decrypt"
   }
 ]
