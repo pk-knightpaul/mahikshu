@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375724",
+    "title": "Apple Turns to Alibaba to Help Build AI Model for China",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375724/apple-alibaba-build-ai-model-china",
+    "timestamp": "2026-08-15T17:01:03Z",
+    "summary": "Apple is pairing its in-house model with Alibaba\u2019s Qwen as it prepares to bring Apple Intelligence to Chinese iPhones.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375698",
     "title": "Meta Patents Cameras That Recognize Faces and Log Your Actions",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375655/bitcoin-miner-sells-btc-ai-pivot-hyperscale",
     "timestamp": "2026-08-14T16:23:20Z",
     "summary": "Bitcoin miner Hyperscale sold most of its Bitcoin but said it plans to rebuild its holdings through mining and future purchases.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375653",
-    "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375653/fake-linkedin-crypto-job-scams-have-cost-11-8m-singapore",
-    "timestamp": "2026-08-14T14:55:29Z",
-    "summary": "Malware planted during a bogus coding assessment harvested a session token, bypassing multi-factor authentication to reach a code repository.",
     "source": "Decrypt"
   }
 ]
