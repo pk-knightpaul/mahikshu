@@ -100,6 +100,16 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_4b193dac-ac08-435d-95db-12ba49",
+    "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
+    "timestamp": "2026-08-16T16:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_7e90d634-0c74-4a34-a64a-01a0f2",
     "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
     "platform": "news",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_4e2304e3-d806-454a-8a45-57afdc",
-    "title": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
+    "id": "news_decrypt_https://decrypt.co/?p=375730",
+    "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn\u2019t Dumb Anymore",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories",
-    "timestamp": "2026-08-15T13:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375730/gemini-3-7-flash-review-google-cheap-model",
+    "timestamp": "2026-08-16T16:00:05Z",
+    "summary": "Three weeks after a Flash release that couldn't produce a working file, Google's budget tier zero-shots a playable game. It still can't reason, and a free 27B model still writes better.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375725",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375656/coldcard-bitcoin-thefts-slow-losses-top-150-million",
     "timestamp": "2026-08-14T17:46:06Z",
     "summary": "Galaxy Research says the lull likely means vulnerable holders migrated, or were already emptied.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375665",
-    "title": "Israel\u2019s Largest Bank Will Give Bitcoin Trading Another Try",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375665/israel-largest-bank-leumi-bitcoin-trading",
-    "timestamp": "2026-08-14T17:14:02Z",
-    "summary": "Bank Leumi's 2022 attempt died at the Bank of Israel. A softer regulatory line and Galaxy's custody stack now give it another shot in early 2027.",
     "source": "Decrypt"
   }
 ]
