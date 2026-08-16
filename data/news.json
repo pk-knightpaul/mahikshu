@@ -100,6 +100,26 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_7e90d634-0c74-4a34-a64a-01a0f2",
+    "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
+    "timestamp": "2026-08-16T14:02:32Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_0b68ed65-7a8c-4a98-b81a-bfaf6d",
+    "title": "MiCA's cleanup is creating a new scam wave across the European Union",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
+    "timestamp": "2026-08-16T14:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_7ccdb516-a6fe-469c-933c-c78fc4",
     "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
     "platform": "news",
@@ -180,24 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_722b32d7-0d44-476c-a306-42ef92",
-    "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
+    "id": "news_decrypt_https://decrypt.co/?p=375725",
+    "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
-    "timestamp": "2026-08-15T12:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_4d29a50f-16fa-45e7-ad99-05e40b",
-    "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
-    "timestamp": "2026-08-14T23:41:49Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
+    "timestamp": "2026-08-16T14:01:03Z",
+    "summary": "A California bill is awaiting an Assembly vote to \"place guardrails\" around AI chatbots and prevent them from acting as therapists.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375724",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375665/israel-largest-bank-leumi-bitcoin-trading",
     "timestamp": "2026-08-14T17:14:02Z",
     "summary": "Bank Leumi's 2022 attempt died at the Bank of Israel. A softer regulatory line and Galaxy's custody stack now give it another shot in early 2027.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375655",
-    "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375655/bitcoin-miner-sells-btc-ai-pivot-hyperscale",
-    "timestamp": "2026-08-14T16:23:20Z",
-    "summary": "Bitcoin miner Hyperscale sold most of its Bitcoin but said it plans to rebuild its holdings through mining and future purchases.",
     "source": "Decrypt"
   }
 ]
