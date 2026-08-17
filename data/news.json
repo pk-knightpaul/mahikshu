@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375816",
+    "title": "OpenAI\u2019s Answer to Rogue Agents and Hacks Is More AI, Not Less",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
+    "timestamp": "2026-08-17T19:59:18Z",
+    "summary": "OpenAI President Greg Brockman's new essay cites his company's own hack of Hugging Face to push urgent AI-powered defense.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375794",
     "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375762/strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock",
     "timestamp": "2026-08-17T12:56:55Z",
     "summary": "The Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375747",
-    "title": "Pirated Copies of 'The Odyssey' Are Hiding Crypto-Stealing Malware",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375747/pirated-copies-odyssey-hiding-crypto-stealing-malware",
-    "timestamp": "2026-08-17T12:31:04Z",
-    "summary": "Bitdefender says fake downloads of the newly released blockbuster are already spreading Lumma Stealer, malware that scrapes crypto wallets, passwords and browser sessions from infected machines.",
     "source": "Decrypt"
   }
 ]
