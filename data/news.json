@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375836",
+    "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
+    "timestamp": "2026-08-17T22:35:46Z",
+    "summary": "Payward is joining Project Glasswing, Anthropic\u2019s program for giving vetted organizations access to its powerful cybersecurity AI.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375828",
     "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
     "timestamp": "2026-08-17T15:54:29Z",
     "summary": "Stripe just bought the layer that decides which AI model answers your prompt\u2014and it was already collecting the money for it.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375768",
-    "title": "Tom Lee\u2019s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum",
-    "timestamp": "2026-08-17T15:47:59Z",
-    "summary": "The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.",
     "source": "Decrypt"
   }
 ]
