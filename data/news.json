@@ -1,6 +1,36 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-17T17:11:39Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC seeks public input on AI compute futures contracts as CME eyes October launch\" class=\"type:primaryImage\" src=\"https://s3-im...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "US Treasury moves forward with rules on GENIUS Act after July deadline",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-17T16:29:48Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Treasury moves forward with rules on GENIUS Act after July deadline\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-17T16:16:40Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
     "platform": "news",
     "type": "news",
@@ -70,34 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "BitMart account demands founder explain funds status, Xia calls claims \u2018fabricated\u2019",
+    "id": "news_coindesk_7d29803a-8453-4ac5-b7cd-529f53",
+    "title": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/bitmart-account-founder-explain-repayment-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-17T08:30:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMart account demands founder explain funds status, Xia calls claims \u2018fabricated\u2019\" class=\"type:primaryImage\" src=\"https://s3-i...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Greenlane\u2019s $70M BERA treasury ends Q2 valued at $16M",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-17T05:52:55Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Greenlane\u2019s $70M BERA treasury ends Q2 valued at $16M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Chainalysis sues US over $95M ICE contract with TRM Labs",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-17T03:42:48Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chainalysis sues US over $95M ICE contract with TRM Labs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees",
+    "timestamp": "2026-08-17T16:40:08Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_891e1387-0354-46f1-854a-1547bb",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_5d911033-6ae7-4056-9402-e74651",
-    "title": "Bitcoin's biggest holders, Strategy and Metaplanet, are betting on math, not price",
+    "id": "news_decrypt_https://decrypt.co/?p=375779",
+    "title": "Wall Street Pushback Halts SEC's Crypto Fundraising Framework, Sources Say",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/17/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price",
-    "timestamp": "2026-08-17T11:28:41Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375779/wall-street-pushback-halts-sec-crypto-fundraising-framework",
+    "timestamp": "2026-08-17T16:27:26Z",
+    "summary": "The securities regulator cited an \"unforeseen scheduling issue,\" but sources point to a legal threat from Wall Street trade group SIFMA and an administration waiting to see whether the Clarity Act pas...",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375769",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach",
     "timestamp": "2026-08-17T09:31:04Z",
     "summary": "A flaw in an order-tracking plug-in of bitcoin wallet provider SafePal exposed names, addresses and phone numbers of nearly 40,000 customers.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375730",
-    "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn\u2019t Dumb Anymore",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375730/gemini-3-7-flash-review-google-cheap-model",
-    "timestamp": "2026-08-16T16:00:05Z",
-    "summary": "Three weeks after a Flash release that couldn't produce a working file, Google's budget tier zero-shots a playable game. It still can't reason, and a free 27B model still writes better.",
     "source": "Decrypt"
   }
 ]
