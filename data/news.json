@@ -11,6 +11,16 @@
   },
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "BitMart account demands founder explain funds status, Xia calls claims \u2018fabricated\u2019",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/bitmart-account-founder-explain-repayment-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-17T08:15:01Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMart account demands founder explain funds status, Xia calls claims \u2018fabricated\u2019\" class=\"type:primaryImage\" src=\"https://s3-i...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Greenlane\u2019s $70M BERA treasury ends Q2 valued at $16M",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/maga",
-    "title": "Bitcoin to $1M by 2030 is \u2018mathematically impossible\u2019 says Markus Thielen",
+    "id": "news_coindesk_8a065526-c6a3-49d2-bdba-b448eb",
+    "title": "Bitpanda fined \u20ac70,000 in Austria\u2019s first published MiCA enforcement case",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-15T13:30:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin to $1M by 2030 is \u2018mathematically impossible\u2019 says Markus Thielen \" class=\"type:primaryImage\" src=\"https://s3-images.ctm...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/17/bitpanda-fined-eur70-000-in-austria-s-first-published-mica-enforcement-case",
+    "timestamp": "2026-08-17T10:52:31Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_629b94ae-6030-438c-8084-db3f94",
+    "title": "Bitcoin tracks equity bounce, but $390 million ETF outflow week keeps bulls on back foot",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tracks-equity-bounce-but-usd390-million-etf-outflow-week-keeps-bulls-on-back-foot",
+    "timestamp": "2026-08-17T09:59:55Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_d92d8a5d-182a-4d9d-b332-939456",
@@ -180,24 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_4b193dac-ac08-435d-95db-12ba49",
-    "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
+    "id": "news_decrypt_https://decrypt.co/?p=375745",
+    "title": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
-    "timestamp": "2026-08-16T16:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_7e90d634-0c74-4a34-a64a-01a0f2",
-    "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
-    "timestamp": "2026-08-16T14:02:32Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf",
+    "timestamp": "2026-08-17T10:31:04Z",
+    "summary": "The macro fund raised its iShares Bitcoin Trust stake 18.9% to 688,529 shares worth $22.9 million in Q2, while sharply cutting its call options\u2014a shift from leveraged bets toward direct spot exposure.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375757",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
     "timestamp": "2026-08-14T20:01:13Z",
     "summary": "The Chinese lab says the release beats comparably sized open models on code benchmarks. The blog's own numbers show it trails the closed frontier and at least one open rival.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375672",
-    "title": "SharpLink Will Stake $200M of Ethereum Through Lido's wstETH",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth",
-    "timestamp": "2026-08-14T19:01:05Z",
-    "summary": "Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.",
     "source": "Decrypt"
   }
 ]
