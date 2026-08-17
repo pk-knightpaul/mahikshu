@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375788",
+    "title": "Solana\u2019s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375788/solana-pump-price-crypto-market-golden-cross",
+    "timestamp": "2026-08-17T18:29:56Z",
+    "summary": "The native token of Solana's Pump.fun is up 8%, and the pattern bulls have been waiting for is starting to form on the daily chart.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375787",
+    "title": "Ethereum Developers Target Privacy Changes in Next Major Upgrade",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375787/ethereum-developers-privacy-hegota-upgrade",
+    "timestamp": "2026-08-17T18:19:46Z",
+    "summary": "A proposed package would let privacy pools pay their own transaction fees without relying on intermediaries.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375779",
     "title": "Wall Street Pushback Halts SEC's Crypto Fundraising Framework, Sources Say",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf",
     "timestamp": "2026-08-17T10:31:04Z",
     "summary": "The macro fund raised its iShares Bitcoin Trust stake 18.9% to 688,529 shares worth $22.9 million in Q2, while sharply cutting its call options\u2014a shift from leveraged bets toward direct spot exposure.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375757",
-    "title": "Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375757/dutch-prosecutors-sell-2-5m-of-crypto-from-bankrupt-platform-knaken",
-    "timestamp": "2026-08-17T10:13:41Z",
-    "summary": "The trustee says Knaken bought the coins in its own name, leaving customers with a euro claim against a company that has collapsed.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375743",
-    "title": "SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach",
-    "timestamp": "2026-08-17T09:31:04Z",
-    "summary": "A flaw in an order-tracking plug-in of bitcoin wallet provider SafePal exposed names, addresses and phone numbers of nearly 40,000 customers.",
     "source": "Decrypt"
   }
 ]
