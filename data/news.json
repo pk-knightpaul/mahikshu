@@ -1,5 +1,35 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-17T13:20:20Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Strategy raises $334M through stock sales but buys no Bitcoin",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-17T12:51:03Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy raises $334M through stock sales but buys no Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Harmony plans rollback, wiping 109,000 transactions after ONE exploit",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-17T12:31:36Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Harmony plans rollback, wiping 109,000 transactions after ONE exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "BTC price loses 200-week trend line as 2022 repeats: Five things to know in Bitcoin this week",
     "platform": "news",
@@ -67,36 +97,6 @@
     "url": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-16T23:54:50Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler\u2019s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctm...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-16T12:48:09Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says\" class=\"type:primaryImage\" src=\"https://s3-image...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Ethereum devs to narrow 66 proposals tied to Hegot\u00e1 upgrade",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-16T11:12:51Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum devs to narrow 66 proposals tied to Hegot\u00e1 upgrade\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-15T19:27:29Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,36 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375749",
+    "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero",
+    "timestamp": "2026-08-17T13:31:04Z",
+    "summary": "The Dutch cyber agency says attackers exploited an authentication flaw in macOS Screen Sharing to gain root access and plant Monero miners, with public proof-of-concept code now circulating.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375760",
+    "title": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375760/morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week",
+    "timestamp": "2026-08-17T13:03:17Z",
+    "summary": "The meeting comes while progress on the Clarity Act has been delayed and the SEC's latest rulemaking postponed.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375762",
+    "title": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375762/strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock",
+    "timestamp": "2026-08-17T12:56:55Z",
+    "summary": "The Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375747",
     "title": "Pirated Copies of 'The Odyssey' Are Hiding Crypto-Stealing Malware",
     "platform": "news",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/375724/apple-alibaba-build-ai-model-china",
     "timestamp": "2026-08-15T17:01:03Z",
     "summary": "Apple is pairing its in-house model with Alibaba\u2019s Qwen as it prepares to bring Apple Intelligence to Chinese iPhones.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375698",
-    "title": "Meta Patents Cameras That Recognize Faces and Log Your Actions",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375698/meta-patents-cameras-recognize-faces-log-actions",
-    "timestamp": "2026-08-15T15:01:05Z",
-    "summary": "The filing would turn raw footage into labeled clips of who did what, without anyone opting in.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375726",
-    "title": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375726/trump-world-liberty-bank-charter-usd1-stablecoin",
-    "timestamp": "2026-08-15T13:01:04Z",
-    "summary": "The proposed World Liberty Trust Company would take over issuance of the USD1 stablecoin from BitGo.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375715",
-    "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin",
-    "timestamp": "2026-08-14T21:03:35Z",
-    "summary": "A hacker is reportedly selling personal and financial records tied to more than 678,000 taxpayers and businesses in France.",
     "source": "Decrypt"
   }
 ]
