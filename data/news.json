@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Bitpanda fined in Austria\u2019s first published MiCA penalty",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-17T09:31:47Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitpanda fined in Austria\u2019s first published MiCA penalty\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Greenlane\u2019s $70M BERA treasury ends Q2 valued at $16M",
     "platform": "news",
     "type": "news",
@@ -90,16 +100,6 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin could bottom in October, altcoins are \u2018basically dead,\u2019 Swan CEO says",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-bottom-october-altcoins-basically-dead-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-15T12:57:58Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin could bottom in October, altcoins are \u2018basically dead,\u2019 Swan CEO says\" class=\"type:primaryImage\" src=\"https://s3-images....",
-    "source": "CoinTelegraph"
-  },
-  {
     "id": "news_coindesk_d92d8a5d-182a-4d9d-b332-939456",
     "title": "Binance handed user data to Russia that led to a Ukrainian donor's arrest",
     "platform": "news",
@@ -121,7 +121,7 @@
   },
   {
     "id": "news_coindesk_62cf034a-9b60-4dac-a50a-dce251",
-    "title": "Live updates: Bitcoin flat near $63,500, but the flows have quietly turned",
+    "title": "Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
@@ -198,6 +198,16 @@
     "timestamp": "2026-08-16T14:02:32Z",
     "summary": "",
     "source": "CoinDesk"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375757",
+    "title": "Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375757/dutch-prosecutors-sell-2-5m-of-crypto-from-bankrupt-platform-knaken",
+    "timestamp": "2026-08-17T10:13:41Z",
+    "summary": "The trustee says Knaken bought the coins in its own name, leaving customers with a euro claim against a company that has collapsed.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375743",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth",
     "timestamp": "2026-08-14T19:01:05Z",
     "summary": "Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375670",
-    "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375670/openai-staff-blame-rush-ship-rogue-agent-hack",
-    "timestamp": "2026-08-14T18:31:03Z",
-    "summary": "Current and former OpenAI employees reportedly say pressure to release new AI products made it harder to prioritize safety.",
     "source": "Decrypt"
   }
 ]
