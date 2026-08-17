@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Greenlane\u2019s $70M BERA treasury ends Q2 valued at $16M",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-17T05:52:55Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Greenlane\u2019s $70M BERA treasury ends Q2 valued at $16M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Chainalysis sues US over $95M ICE contract with TRM Labs",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
+    "id": "news_coindesk_3ade08e2-3776-443d-bfeb-323267",
+    "title": "The bitcoin futures market looks like a crowded club with a tiny exit \u2013 and it could cause pain",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-15T10:44:52Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi ordered to stop broad range of prediction markets in Washington\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain",
+    "timestamp": "2026-08-17T05:51:18Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_8fdeda7d-a410-4ffc-a1ff-bb67b7",
@@ -186,16 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
     "timestamp": "2026-08-15T16:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_16c9cd83-76f3-4ea2-97ab-30f72a",
-    "title": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options",
-    "timestamp": "2026-08-15T15:56:05Z",
     "summary": "",
     "source": "CoinDesk"
   },
