@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375821",
+    "title": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375821/prediction-fed-rate-change-september",
+    "timestamp": "2026-08-17T21:16:17Z",
+    "summary": "Traders across Polymarket, Kalshi, and Myriad are leaning the same way: no change at the September meeting.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375817",
+    "title": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
+    "timestamp": "2026-08-17T20:31:04Z",
+    "summary": "Exchanges and other crypto platforms would face new restrictions on selling stablecoins to US customers beginning in 2027.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375816",
     "title": "OpenAI\u2019s Answer to Rogue Agents and Hacks Is More AI, Not Less",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero",
     "timestamp": "2026-08-17T13:31:04Z",
     "summary": "The Dutch cyber agency says attackers exploited an authentication flaw in macOS Screen Sharing to gain root access and plant Monero miners, with public proof-of-concept code now circulating.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375760",
-    "title": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375760/morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week",
-    "timestamp": "2026-08-17T13:03:17Z",
-    "summary": "The meeting comes while progress on the Clarity Act has been delayed and the SEC's latest rulemaking postponed.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375762",
-    "title": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375762/strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock",
-    "timestamp": "2026-08-17T12:56:55Z",
-    "summary": "The Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.",
     "source": "Decrypt"
   }
 ]
