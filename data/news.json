@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Binance to plan UK relaunch with FCA license application: Report",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-17T18:45:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance to plan UK relaunch with FCA license application: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Bitpanda fined in Austria\u2019s first published MiCA penalty",
+    "id": "news_coindesk_0722b204-294e-444c-b87b-847f8d",
+    "title": "Saylor says share buyback isn\u2019t priority as Strategy builds $4.8 billion cash reserve",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-17T09:31:47Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitpanda fined in Austria\u2019s first published MiCA penalty\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/17/saylor-says-share-buyback-isn-t-a-priority-as-it-builds-its-usd4-8-billion-cash-reserve-though-a-possibility",
+    "timestamp": "2026-08-17T18:53:47Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_7d29803a-8453-4ac5-b7cd-529f53",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_4a6f5805-808a-40fe-a374-d1ac16",
-    "title": "Bitcoin options remain expensive despite summer calm. Here's why it matters",
+    "id": "news_decrypt_https://decrypt.co/?p=375794",
+    "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-options-remain-expensive-despite-summer-calm-here-s-why-it-matters",
-    "timestamp": "2026-08-17T11:43:02Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning",
+    "timestamp": "2026-08-17T19:01:56Z",
+    "summary": "XRP is clinging to the dollar price line it's defended since Trump's 2024 win. But both the daily and weekly charts are now flashing red.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375788",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375747/pirated-copies-odyssey-hiding-crypto-stealing-malware",
     "timestamp": "2026-08-17T12:31:04Z",
     "summary": "Bitdefender says fake downloads of the newly released blockbuster are already spreading Lumma Stealer, malware that scrapes crypto wallets, passwords and browser sessions from infected machines.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375745",
-    "title": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf",
-    "timestamp": "2026-08-17T10:31:04Z",
-    "summary": "The macro fund raised its iShares Bitcoin Trust stake 18.9% to 688,529 shares worth $22.9 million in Q2, while sharply cutting its call options\u2014a shift from leveraged bets toward direct spot exposure.",
     "source": "Decrypt"
   }
 ]
