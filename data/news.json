@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/bitmine-ethereum-supply-5-82-million-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-17T16:04:32Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Here\u2019s what happened in crypto today",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/maga",
-    "title": "Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler\u2019s Digest",
+    "id": "news_coindesk_891e1387-0354-46f1-854a-1547bb",
+    "title": "Compound bets $52 million, new leadership team in switch to institutional focus",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-16T23:54:50Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler\u2019s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctm...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus",
+    "timestamp": "2026-08-17T15:32:30Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_23a210ff-0123-45b8-899b-0506bc",
+    "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
+    "timestamp": "2026-08-17T14:44:29Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_582206b5-8fe3-466d-b711-a18b2e",
@@ -180,24 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_8a065526-c6a3-49d2-bdba-b448eb",
-    "title": "Bitpanda fined 70,000 euros in Austria\u2019s first published MiCA enforcement case",
+    "id": "news_decrypt_https://decrypt.co/?p=375769",
+    "title": "What Stripe's $7 Billion OpenRouter Deal Actually Means for AI",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/17/bitpanda-fined-eur70-000-in-austria-s-first-published-mica-enforcement-case",
-    "timestamp": "2026-08-17T10:52:31Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
+    "timestamp": "2026-08-17T15:54:29Z",
+    "summary": "Stripe just bought the layer that decides which AI model answers your prompt\u2014and it was already collecting the money for it.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_629b94ae-6030-438c-8084-db3f94",
-    "title": "Bitcoin tracks equity bounce, but $390 million ETF outflow week keeps bulls on back foot",
+    "id": "news_decrypt_https://decrypt.co/?p=375768",
+    "title": "Tom Lee\u2019s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tracks-equity-bounce-but-usd390-million-etf-outflow-week-keeps-bulls-on-back-foot",
-    "timestamp": "2026-08-17T09:59:55Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum",
+    "timestamp": "2026-08-17T15:47:59Z",
+    "summary": "The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375749",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/375730/gemini-3-7-flash-review-google-cheap-model",
     "timestamp": "2026-08-16T16:00:05Z",
     "summary": "Three weeks after a Flash release that couldn't produce a working file, Google's budget tier zero-shots a playable game. It still can't reason, and a free 27B model still writes better.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375725",
-    "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
-    "timestamp": "2026-08-16T14:01:03Z",
-    "summary": "A California bill is awaiting an Assembly vote to \"place guardrails\" around AI chatbots and prevent them from acting as therapists.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375724",
-    "title": "Apple Turns to Alibaba to Help Build AI Model for China",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375724/apple-alibaba-build-ai-model-china",
-    "timestamp": "2026-08-15T17:01:03Z",
-    "summary": "Apple is pairing its in-house model with Alibaba\u2019s Qwen as it prepares to bring Apple Intelligence to Chinese iPhones.",
     "source": "Decrypt"
   }
 ]
