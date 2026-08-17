@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "OCC approves Trump family crypto company for trust charter",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-17T21:17:30Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OCC approves Trump family crypto company for trust charter\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Binance to plan UK relaunch with FCA license application: Report",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Binance gave Russian authorities client data used in terrorism financing case: Report",
+    "id": "news_coindesk_ef1a3108-4c21-41be-82f3-0c44ae",
+    "title": "Kraken parent Payward joins Anthropic\u2019s Project Glasswing for AI security push",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/binance-russia-client-data-used-ukraine-case-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-17T11:38:43Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance gave Russian authorities client data used in terrorism financing case: Report\" class=\"type:primaryImage\" src=\"https://s3...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
+    "timestamp": "2026-08-17T22:12:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_0722b204-294e-444c-b87b-847f8d",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_f2bee84f-5206-47c5-8b96-015b35",
-    "title": "Israel\u2019s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers",
+    "id": "news_decrypt_https://decrypt.co/?p=375828",
+    "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/08/17/israel-s-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200-000-customers",
-    "timestamp": "2026-08-17T11:59:23Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
+    "timestamp": "2026-08-17T22:16:03Z",
+    "summary": "Elon Musk\u2019s AI firm says the state\u2019s first-of-its-kind nudification ban violates the First Amendment. Minnesota says it regulates a tool, not speech.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375821",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum",
     "timestamp": "2026-08-17T15:47:59Z",
     "summary": "The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375749",
-    "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero",
-    "timestamp": "2026-08-17T13:31:04Z",
-    "summary": "The Dutch cyber agency says attackers exploited an authentication flaw in macOS Screen Sharing to gain root access and plant Monero miners, with public proof-of-concept code now circulating.",
     "source": "Decrypt"
   }
 ]
