@@ -1,5 +1,25 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "BTC price loses 200-week trend line as 2022 repeats: Five things to know in Bitcoin this week",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/btc-price-loses-200-week-trend-line-as-2022-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-17T11:38:52Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTC price loses 200-week trend line as 2022 repeats: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"ht...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Binance gave Russian authorities client data used in terrorism financing case: Report",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/binance-russia-client-data-used-ukraine-case-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-17T11:38:43Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance gave Russian authorities client data used in terrorism financing case: Report\" class=\"type:primaryImage\" src=\"https://s3...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Bitpanda fined in Austria\u2019s first published MiCA penalty",
     "platform": "news",
@@ -15,7 +35,7 @@
     "platform": "news",
     "type": "news",
     "url": "https://cointelegraph.com/news/bitmart-account-founder-explain-repayment-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-17T08:15:01Z",
+    "timestamp": "2026-08-17T08:30:00Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMart account demands founder explain funds status, Xia calls claims \u2018fabricated\u2019\" class=\"type:primaryImage\" src=\"https://s3-i...",
     "source": "CoinTelegraph"
   },
@@ -80,28 +100,58 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Tokenized stock holders more than double as monthly volume surges",
+    "id": "news_coindesk_75bd98a3-ad0f-4f5b-93e2-835332",
+    "title": "No change in bitcoin holdings as Strategy boosted dollar reserve, bought back more STRC last week",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-15T17:26:43Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tokenized stock holders more than double as monthly volume surges\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/17/no-change-in-bitcoin-holdings-as-strategy-lifted-dollar-reserve-and-bought-back-more-strc-last-week",
+    "timestamp": "2026-08-17T12:19:45Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
+    "id": "news_coindesk_35c0d4e4-fcbe-45d5-8b35-7e4663",
+    "title": "Ethereum\u2019s next big upgrade has 66 proposals, including a major privacy fix",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-15T14:40:24Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix",
+    "timestamp": "2026-08-17T12:02:10Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_f2bee84f-5206-47c5-8b96-015b35",
+    "title": "Israel\u2019s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/08/17/israel-s-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200-000-customers",
+    "timestamp": "2026-08-17T11:59:23Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_4a6f5805-808a-40fe-a374-d1ac16",
+    "title": "Bitcoin options remain expensive despite summer calm. Here's why it matters",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-options-remain-expensive-despite-summer-calm-here-s-why-it-matters",
+    "timestamp": "2026-08-17T11:43:02Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_5d911033-6ae7-4056-9402-e74651",
+    "title": "Bitcoin's biggest holders, Strategy and Metaplanet, are betting on math, not price",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/17/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price",
+    "timestamp": "2026-08-17T11:28:41Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_8a065526-c6a3-49d2-bdba-b448eb",
-    "title": "Bitpanda fined \u20ac70,000 in Austria\u2019s first published MiCA enforcement case",
+    "title": "Bitpanda fined 70,000 euros in Austria\u2019s first published MiCA enforcement case",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/08/17/bitpanda-fined-eur70-000-in-austria-s-first-published-mica-enforcement-case",
@@ -150,54 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_1188ee6a-583d-46fb-bc94-2f35e8",
-    "title": "September Fed interest-rate increase is 'very unlikely,' Goldman Sachs says",
+    "id": "news_decrypt_https://decrypt.co/?p=375747",
+    "title": "Pirated Copies of 'The Odyssey' Are Hiding Crypto-Stealing Malware",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/17/september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says",
-    "timestamp": "2026-08-17T08:16:11Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_3ade08e2-3776-443d-bfeb-323267",
-    "title": "The bitcoin futures market looks like a crowded club with a tiny exit \u2013 and it could cause pain",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain",
-    "timestamp": "2026-08-17T05:51:18Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_8fdeda7d-a410-4ffc-a1ff-bb67b7",
-    "title": "XRP traders bet on a rebound as price slips to $1 and bearish chatter surges",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/17/xrp-traders-bet-on-a-rebound-as-price-slips-to-usd1-and-bearish-chatter-surges",
-    "timestamp": "2026-08-17T04:43:03Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_3083d4d2-3cb6-4a1e-9566-307c37",
-    "title": "Bitcoin nears $64,000 in Asia morning hours as HYPE jumps 8% on the week",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week",
-    "timestamp": "2026-08-17T04:14:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_3af35370-5e36-4204-b344-a5339a",
-    "title": "The SEC meeting that wasn't: State of Crypto",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
-    "timestamp": "2026-08-16T18:30:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375747/pirated-copies-odyssey-hiding-crypto-stealing-malware",
+    "timestamp": "2026-08-17T12:31:04Z",
+    "summary": "Bitdefender says fake downloads of the newly released blockbuster are already spreading Lumma Stealer, malware that scrapes crypto wallets, passwords and browser sessions from infected machines.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375745",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin",
     "timestamp": "2026-08-14T21:03:35Z",
     "summary": "A hacker is reportedly selling personal and financial records tied to more than 678,000 taxpayers and businesses in France.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375684",
-    "title": "China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
-    "timestamp": "2026-08-14T20:01:13Z",
-    "summary": "The Chinese lab says the release beats comparably sized open models on code benchmarks. The blog's own numbers show it trails the closed frontier and at least one open rival.",
     "source": "Decrypt"
   }
 ]
