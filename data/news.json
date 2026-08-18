@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "China adds 8 banks to digital yuan network as operator count hits 30",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-18T08:48:51Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"China adds 8 banks to digital yuan network as operator count hits 30\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "South Korea moves to block Polymarket over gambling concerns",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-18T08:39:57Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea moves to block Polymarket over gambling concerns\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "BitBox patches \u2018severe\u2019 wallet flaws that could put funds at risk",
     "platform": "news",
     "type": "news",
@@ -80,26 +100,6 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-17T17:11:39Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC seeks public input on AI compute futures contracts as CME eyes October launch\" class=\"type:primaryImage\" src=\"https://s3-im...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "US Treasury moves forward with rules on GENIUS Act after July deadline",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-17T16:29:48Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Treasury moves forward with rules on GENIUS Act after July deadline\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
-    "source": "CoinTelegraph"
-  },
-  {
     "id": "news_coindesk_07f1db98-902f-422c-9c8b-8164dc",
     "title": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
     "platform": "news",
@@ -121,7 +121,7 @@
   },
   {
     "id": "news_coindesk_21bef1e5-e8e0-4ce5-a14f-58d5aa",
-    "title": "XRP sinks below $1 for first time since 2024 as Korean bank adopts Ripple Payments",
+    "title": "XRP sinks below $1 for first time since 2024 even as Korean bank adopts Ripple Payments",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
