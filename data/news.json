@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "SEC proposes new crypto rules in absence of CLARITY Act",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-18T21:24:15Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC proposes new crypto rules in absence of CLARITY Act\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/artic...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Toyota Finance opens tokenized bonds to retail investors via mobile payment app",
+    "id": "news_coindesk_65a4f0b3-368e-47c0-b05a-b56171",
+    "title": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/toyota-finance-tokenized-bond-offering-mobile-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-18T13:41:56Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Toyota Finance opens tokenized bonds to retail investors via mobile payment app\" class=\"type:primaryImage\" src=\"https://s3-image...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/policy/2026/08/18/u-s-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent",
+    "timestamp": "2026-08-18T21:25:42Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_308ac9af-e33c-4662-b222-8d335a",
@@ -190,14 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_8d888a05-98c3-48f6-8231-94f63e",
-    "title": "Citi plans to launch bitcoin custody for institutional clients later this year",
+    "id": "news_decrypt_https://decrypt.co/?p=375912",
+    "title": "Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/18/citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year",
-    "timestamp": "2026-08-18T13:25:13Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375912/rare-books-amazon-ai-scanned-destroyed",
+    "timestamp": "2026-08-18T21:49:46Z",
+    "summary": "A tracking device planted in a book order ended at a Las Vegas facility where Amazon strips bindings to scan pages for training data.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375899",
+    "title": "Arguing With People on X May Get You More Posts You Hate as Algo Feeds on Ragebait",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375899/arguing-twitter-x-more-posts-hate-algorithm-ragebait",
+    "timestamp": "2026-08-18T21:20:04Z",
+    "summary": "X\u2019s algorithm may turn argumentative replies into a feedback loop that serves users more content that clashes with their values, with the effect stronger among Democrats, researchers found.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375902",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/375839/bitcoin-wallet-untouched-15-years-life",
     "timestamp": "2026-08-18T14:03:34Z",
     "summary": "The address received 8.54 BTC in June 2011 when the coin traded around $14 and stayed silent for 15 years before moving roughly $538,000 in a single transaction.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375856",
-    "title": "Morning Minute: PUMP Prints First Golden Cross as Revenue Hits Seven-Month High",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375856/morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high",
-    "timestamp": "2026-08-18T12:37:02Z",
-    "summary": "Plus, Ethereum researchers are prioritizing privacy; Robinhood is rolling out agentic trading; and Ansem debuts his own launchpad.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375843",
-    "title": "Chainalysis Sues US Government Over $94.6M ICE Contract Handed to Rival TRM Labs",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375843/chainalysis-sues-us-government-ice-contract-trm-labs",
-    "timestamp": "2026-08-18T11:31:04Z",
-    "summary": "The bid protest, filed in the U.S. Court of Federal Claims, challenges ICE's sole-source award for blockchain forensic tools, pitting the two biggest names in crypto tracing against each other.",
     "source": "Decrypt"
   }
 ]
