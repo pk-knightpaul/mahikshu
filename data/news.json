@@ -100,6 +100,26 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_308ac9af-e33c-4662-b222-8d335a",
+    "title": "U.S. SEC proposes first major crypto rule in surprise announcement",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/08/18/r",
+    "timestamp": "2026-08-18T19:09:33Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_7c42e46a-63c0-42d6-a547-ab616c",
+    "title": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move",
+    "timestamp": "2026-08-18T18:57:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_59f1dc6c-c83e-4711-840c-633769",
     "title": "Bitcoin has gone quiet as traders chase \u20185x or 10x\u2019 payoffs elsewhere",
     "platform": "news",
@@ -180,24 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_570df426-2a9c-44d6-a158-4dc4c0",
-    "title": "Crypto\u2019s easy-money era is ending in a wave of failures",
+    "id": "news_decrypt_https://decrypt.co/?p=375892",
+    "title": "Markets Confident OpenAI Releases Its Next AI Model in Weeks",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/13/crypto-s-easy-money-era-is-ending-in-a-wave-of-failures",
-    "timestamp": "2026-08-18T13:22:40Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375892/openai-next-ai-model-gpt6-astra-prediction",
+    "timestamp": "2026-08-18T19:15:26Z",
+    "summary": "Traders are betting OpenAI's next frontier model lands within weeks\u2014even after the company pumped the brakes.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_7e3fd502-4c6b-4781-b1e7-9ea48e",
-    "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
+    "id": "news_decrypt_https://decrypt.co/?p=375887",
+    "title": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay",
-    "timestamp": "2026-08-18T13:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk",
+    "timestamp": "2026-08-18T18:36:04Z",
+    "summary": "WorldClaw accepts World Liberty\u2019s USD1 stablecoin while offering AI models from Chinese companies facing U.S. national security restrictions.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375886",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty",
     "timestamp": "2026-08-18T09:31:04Z",
     "summary": "Austria's Financial Market Authority fined the Vienna-based exchange 70,000 euros for procedural and disclosure breaches, an early marker of how EU regulators intend to enforce the bloc's new crypto r...",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375836",
-    "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
-    "timestamp": "2026-08-17T22:35:46Z",
-    "summary": "Payward is joining Project Glasswing, Anthropic\u2019s program for giving vetted organizations access to its powerful cybersecurity AI.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375828",
-    "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
-    "timestamp": "2026-08-17T22:16:03Z",
-    "summary": "Elon Musk\u2019s AI firm says the state\u2019s first-of-its-kind nudification ban violates the First Amendment. Minnesota says it regulates a tool, not speech.",
     "source": "Decrypt"
   }
 ]
