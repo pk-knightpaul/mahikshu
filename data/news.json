@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-18T15:59:54Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch \" class=\"type:primaryImage\" src=\"https://s3-im...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/bitcoin-tags-65k-as-sp-500-rebounds-from-2-week-lows-on-us-iran-rhetoric?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-18T15:27:13Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin tags $65K as S&amp;P 500 rebounds from 2-week lows on US-Iran rhetoric\" class=\"type:primaryImage\" src=\"https://s3-images...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Toyota Finance opens tokenized bonds to retail investors via mobile payment app",
     "platform": "news",
     "type": "news",
@@ -80,28 +100,18 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
+    "id": "news_coindesk_ba3ded17-2971-4610-924e-e19366",
+    "title": "Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-18T05:12:18Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum Foundation warns some tools may break with Glamsterdam upgrade\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "South Korea\u2019s Jeonbuk Bank taps Ripple for cross-border payments",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-18T04:11:02Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea\u2019s Jeonbuk Bank taps Ripple for cross-border payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs",
+    "timestamp": "2026-08-18T16:08:46Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_5870abd6-b95f-4efe-a6c1-1e472f",
-    "title": "Trump-linked World Liberty says WorldClaw is independent after questions over AI model access",
+    "title": "Why the Trump-backed crypto venture is distancing itself from Hong Kong AI aggregator WorldClaw",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/08/18/trump-linked-world-liberty-says-worldclaw-is-independent-after-questions-over-ai-model-access",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_20cb97ac-afa4-48ce-b597-bca976",
-    "title": "Ethereum\u2019s next upgrade breaks the '21,000 gas' rule wallets rely on",
+    "id": "news_decrypt_https://decrypt.co/?p=375880",
+    "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
-    "timestamp": "2026-08-18T12:17:05Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
+    "timestamp": "2026-08-18T15:56:05Z",
+    "summary": "The banking giant plans to let institutional clients hold Bitcoin and traditional assets through the same custody framework.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375878",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
     "timestamp": "2026-08-17T20:31:04Z",
     "summary": "Exchanges and other crypto platforms would face new restrictions on selling stablecoins to US customers beginning in 2027.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375816",
-    "title": "OpenAI\u2019s Answer to Rogue Agents and Hacks Is More AI, Not Less",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
-    "timestamp": "2026-08-17T19:59:18Z",
-    "summary": "OpenAI President Greg Brockman's new essay cites his company's own hack of Hugging Face to push urgent AI-powered defense.",
     "source": "Decrypt"
   }
 ]
