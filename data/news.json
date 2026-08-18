@@ -100,6 +100,16 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_8c41b05d-73d2-49a8-92cb-4f0dc2",
+    "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
+    "timestamp": "2026-08-18T23:11:12Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_65a4f0b3-368e-47c0-b05a-b56171",
     "title": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
     "platform": "news",
@@ -190,14 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_f61b4075-05a4-4d1b-8644-4b4c2b",
-    "title": "HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals",
+    "id": "news_decrypt_https://decrypt.co/?p=375923",
+    "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/18/hashkey-taps-hong-kong-s-first-regulated-stablecoin-to-settle-insurance-and-trade-deals",
-    "timestamp": "2026-08-18T14:03:27Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash",
+    "timestamp": "2026-08-18T22:56:04Z",
+    "summary": "Gov. Josh Shapiro ordered new restrictions on large data centers aimed at shielding residents from higher electricity costs and giving communities more control over proposed projects.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375903",
+    "title": "Mozilla Tests an AI 'Smart Window' in Firefox\u2014But Only If You Opt In",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375903/mozilla-ai-smart-firefox-opt-in",
+    "timestamp": "2026-08-18T22:31:04Z",
+    "summary": "The optional window puts an assistant of your choice next to your tabs, with a switch to disable it.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375912",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
     "timestamp": "2026-08-18T15:56:05Z",
     "summary": "The banking giant plans to let institutional clients hold Bitcoin and traditional assets through the same custody framework.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375878",
-    "title": "Japan's Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375878/metaplanet-us-132m-bitcoin-treasury-deal",
-    "timestamp": "2026-08-18T15:19:45Z",
-    "summary": "The Tokyo-listed firm will seed gaming media company Super League\u2014to be renamed Superplanet and trade as SUPA\u2014with 2,100 BTC.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375839",
-    "title": "Bitcoin Wallet Untouched for 15 Years Suddenly Springs to Life",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375839/bitcoin-wallet-untouched-15-years-life",
-    "timestamp": "2026-08-18T14:03:34Z",
-    "summary": "The address received 8.54 BTC in June 2011 when the coin traded around $14 and stayed silent for 15 years before moving roughly $538,000 in a single transaction.",
     "source": "Decrypt"
   }
 ]
