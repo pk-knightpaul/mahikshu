@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Bitcoin price spike to $64.5K was \u2018low-volume liquidity trap\u2019: Analysis",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-18T09:31:15Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price spike to $64.5K was \u2018low-volume liquidity trap\u2019: Analysis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "China adds 8 banks to digital yuan network as operator count hits 30",
     "platform": "news",
@@ -76,7 +86,7 @@
     "type": "news",
     "url": "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-18T01:28:37Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"\u2018Fabricated rumors\u2019 about BitMart founder, Binance bStocks dominate: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-ima...",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"\u2018Fabricated rumors\u2019 about BitMart founder, Binance bStocks dominate: Asia Express \" class=\"type:primaryImage\" src=\"https://s3-im...",
     "source": "CoinTelegraph"
   },
   {
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Binance to plan UK relaunch with FCA license application: Report",
+    "id": "news_coindesk_b5f36899-b124-46ed-b7c1-e418af",
+    "title": "Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-17T18:45:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance to plan UK relaunch with FCA license application: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-scored-a-rare-win-over-s-and-p-500-on-monday",
+    "timestamp": "2026-08-18T10:01:23Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_07f1db98-902f-422c-9c8b-8164dc",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_23a210ff-0123-45b8-899b-0506bc",
-    "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
+    "id": "news_decrypt_https://decrypt.co/?p=375841",
+    "title": "Bitpanda Hit With Europe's First Published MiCA Penalty in Austria",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
-    "timestamp": "2026-08-17T14:44:29Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty",
+    "timestamp": "2026-08-18T09:31:04Z",
+    "summary": "Austria's Financial Market Authority fined the Vienna-based exchange 70,000 euros for procedural and disclosure breaches, an early marker of how EU regulators intend to enforce the bloc's new crypto r...",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375836",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375779/wall-street-pushback-halts-sec-crypto-fundraising-framework",
     "timestamp": "2026-08-17T16:27:26Z",
     "summary": "The securities regulator cited an \"unforeseen scheduling issue,\" but sources point to a legal threat from Wall Street trade group SIFMA and an administration waiting to see whether the Clarity Act pas...",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375769",
-    "title": "What Stripe's $7 Billion OpenRouter Deal Actually Means for AI",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
-    "timestamp": "2026-08-17T15:54:29Z",
-    "summary": "Stripe just bought the layer that decides which AI model answers your prompt\u2014and it was already collecting the money for it.",
     "source": "Decrypt"
   }
 ]
