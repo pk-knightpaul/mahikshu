@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Kraken launches US-listed stock trading for EEA customers",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/kraken-us-stock-trading-eea-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-18T10:53:21Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken launches US-listed stock trading for EEA customers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/art...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "Bitcoin price spike to $64.5K was \u2018low-volume liquidity trap\u2019: Analysis",
     "platform": "news",
@@ -90,14 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "OCC approves Trump family crypto company for trust charter",
+    "id": "news_coindesk_2eb134f2-c437-45ef-a347-2f9f09",
+    "title": "South Korea joins more than 30 jurisdictions restricting Polymarket access",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-17T21:17:30Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OCC approves Trump family crypto company for trust charter\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/18/south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access",
+    "timestamp": "2026-08-18T11:05:56Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_3d574672-d35c-4a33-8b88-d368cc",
+    "title": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-pauses-at-usd64-000-as-rising-yields-oil-drag-equities-lower",
+    "timestamp": "2026-08-18T10:38:56Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_b5f36899-b124-46ed-b7c1-e418af",
@@ -176,26 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/08/17/saylor-says-share-buyback-isn-t-a-priority-as-it-builds-its-usd4-8-billion-cash-reserve-though-a-possibility",
     "timestamp": "2026-08-17T18:53:47Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_7d29803a-8453-4ac5-b7cd-529f53",
-    "title": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees",
-    "timestamp": "2026-08-17T16:40:08Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_891e1387-0354-46f1-854a-1547bb",
-    "title": "Compound bets $52 million, new leadership team in switch to institutional focus",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus",
-    "timestamp": "2026-08-17T15:32:30Z",
     "summary": "",
     "source": "CoinDesk"
   },
