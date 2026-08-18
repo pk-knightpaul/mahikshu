@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "BitBox patches \u2018severe\u2019 wallet flaws that could put funds at risk",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-18T08:07:04Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitBox patches \u2018severe\u2019 wallet flaws that could put funds at risk \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Here\u2019s what happened in crypto today",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat",
+    "id": "news_coindesk_07f1db98-902f-422c-9c8b-8164dc",
+    "title": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-17T16:16:40Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
+    "timestamp": "2026-08-18T08:16:11Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_cb60d5d6-92dd-47e8-80af-1087bb",
@@ -186,16 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
     "timestamp": "2026-08-17T14:44:29Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_582206b5-8fe3-466d-b711-a18b2e",
-    "title": "The Coldcard hack proves reputation is not a security model",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model",
-    "timestamp": "2026-08-17T14:09:46Z",
     "summary": "",
     "source": "CoinDesk"
   },
