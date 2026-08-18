@@ -100,6 +100,36 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_e8d1b93c-9d6f-4523-95d3-0451d5",
+    "title": "Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/18/visa-is-looking-for-a-new-stablecoin-settlement-partner-now-that-bvnk-is-owned-by-mastercard",
+    "timestamp": "2026-08-18T12:20:48Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_20cb97ac-afa4-48ce-b597-bca976",
+    "title": "Ethereum\u2019s next upgrade breaks the '21,000 gas' rule wallets rely on",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
+    "timestamp": "2026-08-18T12:17:05Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_3deddf27-2d83-4321-9ef5-e91765",
+    "title": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/18/the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it",
+    "timestamp": "2026-08-18T11:21:51Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_2eb134f2-c437-45ef-a347-2f9f09",
     "title": "South Korea joins more than 30 jurisdictions restricting Polymarket access",
     "platform": "news",
@@ -131,7 +161,7 @@
   },
   {
     "id": "news_coindesk_07f1db98-902f-422c-9c8b-8164dc",
-    "title": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
+    "title": "Live updates: Bitcoin holds $64,000 as surging yields and rising oil drain risk appetite",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
@@ -170,34 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_7dda2a04-9cf1-4be1-9aa1-78fcd0",
-    "title": "Bitcoin climbs above $64,000 while most majors slip",
+    "id": "news_decrypt_https://decrypt.co/?p=375843",
+    "title": "Chainalysis Sues US Government Over $94.6M ICE Contract Handed to Rival TRM Labs",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
-    "timestamp": "2026-08-18T04:32:38Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_ef1a3108-4c21-41be-82f3-0c44ae",
-    "title": "Kraken parent Payward joins Anthropic\u2019s Project Glasswing for AI security push",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
-    "timestamp": "2026-08-17T22:12:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_0722b204-294e-444c-b87b-847f8d",
-    "title": "Saylor says share buyback isn\u2019t priority as Strategy builds $4.8 billion cash reserve",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/17/saylor-says-share-buyback-isn-t-a-priority-as-it-builds-its-usd4-8-billion-cash-reserve-though-a-possibility",
-    "timestamp": "2026-08-17T18:53:47Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375843/chainalysis-sues-us-government-ice-contract-trm-labs",
+    "timestamp": "2026-08-18T11:31:04Z",
+    "summary": "The bid protest, filed in the U.S. Court of Federal Claims, challenges ICE's sole-source award for blockchain forensic tools, pitting the two biggest names in crypto tracing against each other.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375841",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375787/ethereum-developers-privacy-hegota-upgrade",
     "timestamp": "2026-08-17T18:19:46Z",
     "summary": "A proposed package would let privacy pools pay their own transaction fees without relying on intermediaries.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375779",
-    "title": "Wall Street Pushback Halts SEC's Crypto Fundraising Framework, Sources Say",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375779/wall-street-pushback-halts-sec-crypto-fundraising-framework",
-    "timestamp": "2026-08-17T16:27:26Z",
-    "summary": "The securities regulator cited an \"unforeseen scheduling issue,\" but sources point to a legal threat from Wall Street trade group SIFMA and an administration waiting to see whether the Clarity Act pas...",
     "source": "Decrypt"
   }
 ]
