@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/arthur-hayes-ceo-role-flop-labs-q4-airdrop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-19T08:34:51Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "Bitcoin ETFs add $189M as August net inflows approach $1B",
     "platform": "news",
@@ -90,14 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Federal prosecutors blast ex-Celsius CEO\u2019s motion to vacate as \u2018without merit\u2019",
+    "id": "news_coindesk_7f78be41-8cad-4c04-b396-1bd1d8",
+    "title": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-18T16:49:58Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Federal prosecutors blast ex-Celsius CEO\u2019s motion to vacate as \u2018without merit\u2019\" class=\"type:primaryImage\" src=\"https://s3-images...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/19/openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training",
+    "timestamp": "2026-08-19T09:10:22Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_f1346347-86fb-4e4f-9b86-99bd5b",
+    "title": "Live updates: Bitcoin remains above $64,000 as oil rises and the Kospi tumbles 6%",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8",
+    "timestamp": "2026-08-19T09:05:45Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_858051fa-6cad-40ec-a1ce-316bac",
@@ -176,26 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move",
     "timestamp": "2026-08-18T18:57:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_59f1dc6c-c83e-4711-840c-633769",
-    "title": "Bitcoin has gone quiet as traders chase \u20185x or 10x\u2019 payoffs elsewhere",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere",
-    "timestamp": "2026-08-18T17:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_ba3ded17-2971-4610-924e-e19366",
-    "title": "Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs",
-    "timestamp": "2026-08-18T16:08:46Z",
     "summary": "",
     "source": "CoinDesk"
   },
