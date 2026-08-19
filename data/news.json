@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Injective receives SEC transfer agent registration for institutional services arm",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/injective-sec-transfer-agent-tokenized-securities-recordkeeping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-19T15:19:21Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Injective receives SEC transfer agent registration for institutional services arm\" class=\"type:primaryImage\" src=\"https://s3-ima...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/maga",
     "title": "200,000 fake AI \u2018victims\u2019 deployed to scam bait online fraudsters",
     "platform": "news",
@@ -90,14 +100,54 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin ETFs add $189M as August net inflows approach $1B",
+    "id": "news_coindesk_a0d8ca41-8d41-4d99-a92c-252a29",
+    "title": "Bitcoin nears key technical breakout that could propel prices to $76,000",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-etf-august-net-inflows-approach-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-19T07:59:16Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs add $189M as August net inflows approach $1B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/art...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000",
+    "timestamp": "2026-08-19T15:22:47Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_f963035e-3879-4911-9065-208428",
+    "title": "AI could supercharge crypto but there\u2019s a catch, Fidelity Digital Assets says",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/08/19/ai-could-supercharge-crypto-but-there-s-a-catch-fidelity-digital-assets-says",
+    "timestamp": "2026-08-19T14:59:07Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_cc6b9947-46ab-498a-aed8-bc9622",
+    "title": "Crypto Long & Short: Where DeFi yield really comes from (and why it broke this spring)",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/08/18/crypto-long-and-short-where-defi-yield-really-comes-from-and-why-it-broke-this-spring",
+    "timestamp": "2026-08-19T14:57:35Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_3911da17-53f1-43a2-9ff8-98741a",
+    "title": "HSBC, Standard Chartered execute first live banking transaction on Swift\u2019s 24/7 ledger",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/19/hsbc-standard-chartered-execute-first-live-banking-transaction-on-swift-s-24-7-ledger",
+    "timestamp": "2026-08-19T14:50:33Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_a4853cad-eecf-4c90-9a8f-0f8a4c",
+    "title": "Cantor opens Kalshi prediction markets to thousands of institutional clients",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/19/cantor-opens-kalshi-prediction-markets-to-thousands-of-institutional-clients",
+    "timestamp": "2026-08-19T14:41:55Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_04f50460-9798-45dc-be6b-0b1d15",
@@ -150,54 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_76e743cd-cf29-44a5-a561-82e7e4",
-    "title": "Fed decision making comes into focus as bitcoin holds steady, bond yields surge",
+    "id": "news_decrypt_https://decrypt.co/?p=375949",
+    "title": "Morning Minute: SEC Brings Clarity to Crypto",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/19/fed-decision-making-comes-into-focus-as-bitcoin-holds-steady-bond-yields-surge",
-    "timestamp": "2026-08-19T11:14:50Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_c9e0f113-f46c-4f83-9b1b-5030bd",
-    "title": "Bitcoin stuck in a six-week range as global bond yields hit highest levels for decades",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-decades",
-    "timestamp": "2026-08-19T10:29:57Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_c4cb8841-6be0-4b23-a829-d40d8a",
-    "title": "TikTok code includes peer-to-peer payments over messaging: Bloomberg",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/19/tiktok-code-includes-peer-to-peer-payments-over-messaging-bloomberg",
-    "timestamp": "2026-08-19T10:04:30Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_377b140e-7819-41f7-9650-d2585f",
-    "title": "Ripple raises $275 million in senior notes for prime brokerage push",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/19/ripple-raises-usd275-million-in-debut-debt-offering-for-its-prime-brokerage-arm",
-    "timestamp": "2026-08-19T09:55:50Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_7f78be41-8cad-4c04-b396-1bd1d8",
-    "title": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/19/openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training",
-    "timestamp": "2026-08-19T09:10:22Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375949/morning-minute-sec-clarity-crypto-token-fundraising",
+    "timestamp": "2026-08-19T14:30:24Z",
+    "summary": "If the proposed rules are formalized, it could lead to an ICO boom in the U.S.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375935",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375892/openai-next-ai-model-gpt6-astra-prediction",
     "timestamp": "2026-08-18T19:15:26Z",
     "summary": "Traders are betting OpenAI's next frontier model lands within weeks\u2014even after the company pumped the brakes.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375887",
-    "title": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk",
-    "timestamp": "2026-08-18T18:36:04Z",
-    "summary": "WorldClaw accepts World Liberty\u2019s USD1 stablecoin while offering AI models from Chinese companies facing U.S. national security restrictions.",
     "source": "Decrypt"
   }
 ]
