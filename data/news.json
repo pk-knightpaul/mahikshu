@@ -1,5 +1,25 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "OCC head promises final GENIUS rules by November",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-19T17:00:01Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OCC head promises final GENIUS rules by November\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "StanChart, HSBC execute first live transaction on Swift blockchain ledger",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-19T16:30:12Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"StanChart, HSBC execute first live transaction on Swift blockchain ledger\" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks",
     "platform": "news",
@@ -77,26 +97,6 @@
     "url": "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-19T12:00:00Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Centrifuge adds Symbiotic liquidity network across $1.6B in Janus Henderson, NYLIM funds\" class=\"type:primaryImage\" src=\"https:/...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Sweden\u2019s H100 reports $26M H1 loss driven by falling Bitcoin value",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/swedens-h100-26m-h1-loss-falling-bitcoin-value?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-19T11:59:30Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sweden\u2019s H100 reports $26M H1 loss driven by falling Bitcoin value\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Ripple raises $275M for US prime brokerage to meet institutional demand",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/ripple-raises-275m-us-prime-brokerage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-19T11:18:38Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ripple raises $275M for US prime brokerage to meet institutional demand\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375968",
+    "title": "Moderna Stock Doubles on Cancer Breakthrough: Here\u2019s What It Means",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375968/moderna-stock-doubles-cancer-vaccine",
+    "timestamp": "2026-08-19T16:54:46Z",
+    "summary": "A Phase 3 win against the standard of care sent the biotech's shares up 131% and left short sellers down $4.8 billion.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=375952",
+    "title": "Coinbase's Base Is Betting Big on AI Agents With $1 Million Startup Accelerator",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator",
+    "timestamp": "2026-08-19T16:31:04Z",
+    "summary": "Base is narrowing its accelerator to 10 startups as it looks for teams building AI agents, payments, trading, and financing products.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375955",
     "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/375903/mozilla-ai-smart-firefox-opt-in",
     "timestamp": "2026-08-18T22:31:04Z",
     "summary": "The optional window puts an assistant of your choice next to your tabs, with a switch to disable it.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375912",
-    "title": "Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375912/rare-books-amazon-ai-scanned-destroyed",
-    "timestamp": "2026-08-18T21:49:46Z",
-    "summary": "A tracking device planted in a book order ended at a Las Vegas facility where Amazon strips bindings to scan pages for training data.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375899",
-    "title": "Arguing With People on X May Get You More Posts You Hate as Algo Feeds on Ragebait",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375899/arguing-twitter-x-more-posts-hate-algorithm-ragebait",
-    "timestamp": "2026-08-18T21:20:04Z",
-    "summary": "X\u2019s algorithm may turn argumentative replies into a feedback loop that serves users more content that clashes with their values, with the effect stronger among Democrats, researchers found.",
     "source": "Decrypt"
   }
 ]
