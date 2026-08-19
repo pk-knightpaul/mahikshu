@@ -100,6 +100,26 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_c4cb8841-6be0-4b23-a829-d40d8a",
+    "title": "TikTok code includes peer-to-peer payments over messaging: Bloomberg",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/19/tiktok-code-includes-peer-to-peer-payments-over-messaging-bloomberg",
+    "timestamp": "2026-08-19T10:04:30Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_377b140e-7819-41f7-9650-d2585f",
+    "title": "Ripple raises $275 million in senior notes for prime brokerage push",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/19/ripple-raises-usd275-million-in-debut-debt-offering-for-its-prime-brokerage-arm",
+    "timestamp": "2026-08-19T09:55:50Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_7f78be41-8cad-4c04-b396-1bd1d8",
     "title": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training",
     "platform": "news",
@@ -180,24 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_308ac9af-e33c-4662-b222-8d335a",
-    "title": "U.S. SEC proposes first major crypto rule in surprise announcement",
+    "id": "news_decrypt_https://decrypt.co/?p=375926",
+    "title": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/08/18/r",
-    "timestamp": "2026-08-18T19:09:33Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_7c42e46a-63c0-42d6-a547-ab616c",
-    "title": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move",
-    "timestamp": "2026-08-18T18:57:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375926/winklevoss-cypherpunk-zcash-mining-fleet",
+    "timestamp": "2026-08-19T09:31:03Z",
+    "summary": "The Nasdaq-listed privacy firm launched Cypherpunk Mining through a $33.33 million equity deal with Winklevoss Capital, adding roughly 18% of the Zcash network's hashrate to accelerate its treasury am...",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375923",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375883/google-spirit-airlines-data-train-ai",
     "timestamp": "2026-08-18T17:19:44Z",
     "summary": "The bankrupt airline\u2019s internal communications and business records could soon be used to improve Google\u2019s AI systems.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375880",
-    "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
-    "timestamp": "2026-08-18T15:56:05Z",
-    "summary": "The banking giant plans to let institutional clients hold Bitcoin and traditional assets through the same custody framework.",
     "source": "Decrypt"
   }
 ]
