@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=376030",
+    "title": "Bitcoin's Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376030/bitcoin-rally-flips-markets-bearish-coin-flip",
+    "timestamp": "2026-08-19T22:18:01Z",
+    "summary": "Bitcoin's steepest daily gain since March caught traders off guard, and Myriad's pump-or-dump market swung from 70-30 odds to nearly even in a single day.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376026",
+    "title": "Trump Says AI Could Be 'Bigger Than the Internet' as He Pushes Light-Touch Regulation",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
+    "timestamp": "2026-08-19T21:36:50Z",
+    "summary": "The president said the U.S. is far ahead of China in artificial intelligence and defended the rapid construction of data centers and power plants needed to fuel the industry.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=376006",
     "title": "Trump Calls on Congress to Pass 'Fair Version' of Clarity Act at White House Crypto Meeting",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/375921/coinbase-50x-crypto-perps-base-app-hyperliquid",
     "timestamp": "2026-08-19T16:00:06Z",
     "summary": "The Hyperliquid integration gives eligible Base App users access to more than 290 perpetual futures markets.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375949",
-    "title": "Morning Minute: SEC Brings Clarity to Crypto",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375949/morning-minute-sec-clarity-crypto-token-fundraising",
-    "timestamp": "2026-08-19T14:30:24Z",
-    "summary": "If the proposed rules are formalized, it could lead to an ICO boom in the U.S.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375935",
-    "title": "Chinese InsurTech Firm Zhibao Adds 2,380 Bitcoin in $154.7M Treasury Pivot",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375935/china-zhibao-bitcoin-treasury-pivot",
-    "timestamp": "2026-08-19T13:31:04Z",
-    "summary": "The Shanghai-based InsurTech firm closed a $154.7 million private placement funded entirely in crypto, with investors contributing Bitcoin directly rather than cash.",
     "source": "Decrypt"
   }
 ]
