@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-19T17:34:10Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FalconX, Ethena bring USDe backing assets into $1B institutional credit facility\" class=\"type:primaryImage\" src=\"https://s3-imag...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "OCC head promises final GENIUS rules by November",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Centrifuge adds Symbiotic liquidity network across $1.6B in Janus Henderson, NYLIM funds",
+    "id": "news_coindesk_6bf125d4-e7b8-4853-943a-c620f5",
+    "title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-19T12:00:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Centrifuge adds Symbiotic liquidity network across $1.6B in Janus Henderson, NYLIM funds\" class=\"type:primaryImage\" src=\"https:/...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
+    "timestamp": "2026-08-19T18:10:10Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_dfd8fa05-efdf-4c16-bf12-507652",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_6b0f97ec-540d-423a-b615-5425b3",
-    "title": "Bitcoin is flashing 8 of 12 capitulation signals, but bottom's not yet in, says VanEck",
+    "id": "news_decrypt_https://decrypt.co/?p=375976",
+    "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-is-flashing-8-of-12-capitulation-signals-but-its-not-a-bottom-yet",
-    "timestamp": "2026-08-19T12:45:35Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
+    "timestamp": "2026-08-19T18:20:35Z",
+    "summary": "The cross-chain protocol said an attacker exploited six software flaws to drain Bitcoin and other assets, sending its CACAO token plunging.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=375968",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash",
     "timestamp": "2026-08-18T22:56:04Z",
     "summary": "Gov. Josh Shapiro ordered new restrictions on large data centers aimed at shielding residents from higher electricity costs and giving communities more control over proposed projects.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375903",
-    "title": "Mozilla Tests an AI 'Smart Window' in Firefox\u2014But Only If You Opt In",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375903/mozilla-ai-smart-firefox-opt-in",
-    "timestamp": "2026-08-18T22:31:04Z",
-    "summary": "The optional window puts an assistant of your choice next to your tabs, with a switch to disable it.",
     "source": "Decrypt"
   }
 ]
