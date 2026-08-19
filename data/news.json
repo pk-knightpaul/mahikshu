@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Crypto PAC notches primary wins, but loses $2M Florida race",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-19T18:48:58Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC notches primary wins, but loses $2M Florida race\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
     "platform": "news",
     "type": "news",
@@ -87,16 +97,6 @@
     "url": "https://cointelegraph.com/news/sec-proposal-forward-inapt-crypto-rules-commissioner-peirce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-19T13:27:09Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC regulatory proposal marks \u2018important\u2019 step forward from \u2018inapt\u2019 crypto rules: Commissioner Peirce\" class=\"type:primaryImage\"...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-19T13:10:52Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=375987",
+    "title": "Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/375987/kalshi-copper-perpetual-futures",
+    "timestamp": "2026-08-19T19:16:04Z",
+    "summary": "The prediction market operator is seeking CFTC approval for a copper perpetual as it moves further into traditional derivatives markets.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=375976",
     "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375926/winklevoss-cypherpunk-zcash-mining-fleet",
     "timestamp": "2026-08-19T09:31:03Z",
     "summary": "The Nasdaq-listed privacy firm launched Cypherpunk Mining through a $33.33 million equity deal with Winklevoss Capital, adding roughly 18% of the Zcash network's hashrate to accelerate its treasury am...",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375923",
-    "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash",
-    "timestamp": "2026-08-18T22:56:04Z",
-    "summary": "Gov. Josh Shapiro ordered new restrictions on large data centers aimed at shielding residents from higher electricity costs and giving communities more control over proposed projects.",
     "source": "Decrypt"
   }
 ]
