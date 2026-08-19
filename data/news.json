@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "US accounting board FASB proposes conditions for stablecoins as cash equivalents",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-19T03:58:13Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US accounting board FASB proposes conditions for stablecoins as cash equivalents\" class=\"type:primaryImage\" src=\"https://s3-imag...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "SEC proposes new crypto rules in absence of CLARITY Act",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric",
+    "id": "news_coindesk_69f7a22f-1474-4889-aab2-54d416",
+    "title": "Solana leads bitcoin and ether higher while Korean chip stocks slide 7%",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-tags-65k-as-sp-500-rebounds-from-2-week-lows-on-us-iran-rhetoric?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-18T15:27:13Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin tags $65K as S&amp;P 500 rebounds from 2-week lows on US-Iran rhetoric\" class=\"type:primaryImage\" src=\"https://s3-images...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
+    "timestamp": "2026-08-19T04:25:42Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_65dcf94a-7204-4125-ac4d-f61f0e",
@@ -186,16 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/08/18/bitcoin-miners-ai-pivot-pays-off-but-mining-could-revive-with-one-twist",
     "timestamp": "2026-08-18T14:41:31Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_53d9bb41-c3b8-49ba-a50e-c845d4",
-    "title": "Global bond yields surge as debt fears test bitcoin\u2019s hedge narrative",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/18/global-bond-yields-surge-as-debt-fears-test-bitcoin-s-hedge-narrative",
-    "timestamp": "2026-08-18T14:40:41Z",
     "summary": "",
     "source": "CoinDesk"
   },
