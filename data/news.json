@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=376069",
+    "title": "Morning Minute: Hyperliquid Is Coming to the US",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376069/morning-minute-hyperliquid-coming-us",
+    "timestamp": "2026-08-20T14:02:44Z",
+    "summary": "At least, if Trump and the CFTC have their way. And the market really, really liked the news.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=376029",
     "title": "Fake Crypto AML Checkers Are Trying to Drain Users' Wallets",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
     "timestamp": "2026-08-19T18:20:35Z",
     "summary": "The cross-chain protocol said an attacker exploited six software flaws to drain Bitcoin and other assets, sending its CACAO token plunging.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375968",
-    "title": "Moderna Stock Doubles on Cancer Breakthrough: Here\u2019s What It Means",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375968/moderna-stock-doubles-cancer-vaccine",
-    "timestamp": "2026-08-19T16:54:46Z",
-    "summary": "A Phase 3 win against the standard of care sent the biotech's shares up 131% and left short sellers down $4.8 billion.",
     "source": "Decrypt"
   }
 ]
