@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Bitcoin ETFs draw $517M in largest one-day inflow since early May",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/bitcoin-etfs-largest-daily-inflow-since-early-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-20T11:16:41Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs draw $517M in largest one-day inflow since early May\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Crypto generated about 1% of Webull\u2019s record $198M Q2 revenue",
     "platform": "news",
@@ -90,14 +100,34 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Crypto PAC notches primary wins, but loses $2M Florida race",
+    "id": "news_coindesk_4f0946ac-e881-4ee0-a817-833d8c",
+    "title": "Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-19T18:48:58Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC notches primary wins, but loses $2M Florida race\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/web3/2026/08/20/optimism-funded-team-s-deciding-vote-shifts-usd49-million-in-op-tokens-away-from-users",
+    "timestamp": "2026-08-20T12:00:25Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_75c1624f-6b6b-41a3-9d53-d6ec67",
+    "title": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern",
+    "timestamp": "2026-08-20T11:35:47Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_956562aa-bbbd-493f-8faa-02b7fb",
+    "title": "Fed liquidity promises, dollar weakness could determine bitcoin's next move",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/20/fed-liquidity-promises-dollar-weakness-could-determine-bitcoin-s-next-move",
+    "timestamp": "2026-08-20T11:31:10Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_483e4731-1076-4395-bf8f-28a19a",
@@ -151,7 +181,7 @@
   },
   {
     "id": "news_coindesk_aeecf0bd-1ab7-459e-81e3-3907b2",
-    "title": "Live updates: Bitcoin jumps above $72,000, ETFs draw $700 million in biggest inflows in months",
+    "title": "Live updates: Bitcoin rises to $72,000; ETF inflows of $700 million were largest in months",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
@@ -170,34 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_d447d3ad-137f-4f3a-8a97-50a7b8",
-    "title": "Bearish crypto bets lose record $3 billion as bitcoin tops $71,000",
+    "id": "news_decrypt_https://decrypt.co/?p=375978",
+    "title": "Flock's New AI Police Tool Can Track Drivers Without a Name or License Plate",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/20/bearish-crypto-bets-lose-record-usd2-7-billion-as-bitcoin-surges-toward-usd70-000",
-    "timestamp": "2026-08-20T04:29:56Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_b1ecabd5-5252-4456-a77c-d3bb7b",
-    "title": "Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/20/ether-jumps-18-to-usd2-250-as-bitcoin-tops-usd69-000-in-broad-crypto-rally",
-    "timestamp": "2026-08-20T04:10:40Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_8149c29c-281a-4e40-9f03-1c5845",
-    "title": "Bitcoin briefly hits $70,000 for the first time since June. Here is why",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-briefly-hits-usd70-000-for-the-first-time-since-june-here-is-why",
-    "timestamp": "2026-08-19T22:26:01Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
+    "timestamp": "2026-08-20T11:31:04Z",
+    "summary": "The underlying code for \"OS Investigate\" has 69 preloaded AI prompts that turn Flock cameras into a super-charged surveillance system that identifies people by how they move.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376048",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator",
     "timestamp": "2026-08-19T16:31:04Z",
     "summary": "Base is narrowing its accelerator to 10 startups as it looks for teams building AI agents, payments, trading, and financing products.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375955",
-    "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375955/bitcoin-surges-70k-billion-crypto-shorts-rekt-hour",
-    "timestamp": "2026-08-19T16:10:04Z",
-    "summary": "A White House sitdown with crypto's biggest names and softer Fed signals lit the fuse. But the charts show why the pain for bears might not be over yet.",
     "source": "Decrypt"
   }
 ]
