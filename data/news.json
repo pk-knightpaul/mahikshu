@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Crypto short liquidations pass $3B mark as Bitcoin price nears $72K",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/crypto-short-liquidations-pass-3b-mark-as-bitcoin-price-nears-72k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-20T10:03:04Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto short liquidations pass $3B mark as Bitcoin price nears $72K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "GnosisDAO approves Gnosis Chain for Ethereum Economic Zone",
     "platform": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "OCC head promises final GENIUS rules by November",
+    "id": "news_coindesk_d45965a2-9d6d-42e7-acc8-4a6d97",
+    "title": "Elon Musk's X is exploring stablecoins to pay influencers and content providers",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-19T17:00:01Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OCC head promises final GENIUS rules by November\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/20/elon-musk-s-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers",
+    "timestamp": "2026-08-20T09:40:25Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_49b8acf1-6f2d-43b2-94de-a2b618",
@@ -111,7 +121,7 @@
   },
   {
     "id": "news_coindesk_5d3a3072-74a3-4915-903b-3dd991",
-    "title": "Bitcoin approaches $72,000 as Strategy and Coinbase continue rally",
+    "title": "Bitcoin hits $72,000 as Strategy and Coinbase continue rally",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-approaches-usd72-000-as-strategy-and-coinbase-continue-rally",
@@ -121,7 +131,7 @@
   },
   {
     "id": "news_coindesk_aeecf0bd-1ab7-459e-81e3-3907b2",
-    "title": "Live updates: Bitcoin hits $71,000, ETFs draw $700 million in biggest inflows in months",
+    "title": "Live updates: Bitcoin jumps above $71,000, ETFs draw $700 million in biggest inflows in months",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_6bf125d4-e7b8-4853-943a-c620f5",
-    "title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
+    "id": "news_decrypt_https://decrypt.co/?p=376048",
+    "title": "Banking Regulator Races to Finalize GENIUS Act Stablecoin Rules",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
-    "timestamp": "2026-08-19T18:10:10Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november",
+    "timestamp": "2026-08-20T09:31:03Z",
+    "summary": "OCC Comptroller Jonathan Gould told the Wyoming Blockchain Symposium the agency is moving at a rapid pace to beat a January statutory deadline, after already missing an earlier July target.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376030",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/375955/bitcoin-surges-70k-billion-crypto-shorts-rekt-hour",
     "timestamp": "2026-08-19T16:10:04Z",
     "summary": "A White House sitdown with crypto's biggest names and softer Fed signals lit the fuse. But the charts show why the pain for bears might not be over yet.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375921",
-    "title": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375921/coinbase-50x-crypto-perps-base-app-hyperliquid",
-    "timestamp": "2026-08-19T16:00:06Z",
-    "summary": "The Hyperliquid integration gives eligible Base App users access to more than 290 perpetual futures markets.",
     "source": "Decrypt"
   }
 ]
