@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Crypto generated about 1% of Webull\u2019s record $198M Q2 revenue",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/crypto-generated-1-webulls-record-q2-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-20T11:05:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto generated about 1% of Webull\u2019s record $198M Q2 revenue\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "Crypto short liquidations pass $3B mark as Bitcoin price nears $72K",
     "platform": "news",
@@ -90,14 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
+    "id": "news_coindesk_483e4731-1076-4395-bf8f-28a19a",
+    "title": "Bitcoin rally sparks debate whether Clarity Act is already priced in",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-19T17:34:10Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FalconX, Ethena bring USDe backing assets into $1B institutional credit facility\" class=\"type:primaryImage\" src=\"https://s3-imag...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says",
+    "timestamp": "2026-08-20T10:47:35Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_805a15bf-0d5c-42fb-947e-6c1bf7",
+    "title": "Bitcoin breaks out of six-week range, tops $71,000 as $3 billion in shorts get wiped out",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-breaks-out-of-six-week-range-tops-usd71-000-as-usd3-billion-in-shorts-get-wiped-out",
+    "timestamp": "2026-08-20T10:46:21Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_d45965a2-9d6d-42e7-acc8-4a6d97",
@@ -131,7 +151,7 @@
   },
   {
     "id": "news_coindesk_aeecf0bd-1ab7-459e-81e3-3907b2",
-    "title": "Live updates: Bitcoin jumps above $71,000, ETFs draw $700 million in biggest inflows in months",
+    "title": "Live updates: Bitcoin jumps above $72,000, ETFs draw $700 million in biggest inflows in months",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
@@ -176,26 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-briefly-hits-usd70-000-for-the-first-time-since-june-here-is-why",
     "timestamp": "2026-08-19T22:26:01Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_e183d477-55f7-496d-abe3-40dd8e",
-    "title": "HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S.",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/19/hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-u-s",
-    "timestamp": "2026-08-19T19:49:51Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_51e3d984-ca95-4a33-b9d6-40c989",
-    "title": "Trump pushes Congress to move on Clarity Act during White House crypto event",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event",
-    "timestamp": "2026-08-19T19:48:33Z",
     "summary": "",
     "source": "CoinDesk"
   },
