@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=376117",
+    "title": "Iranian Hackers Tied to $6 Million Bitcoin Extortion Charged in Massive Cyber Campaign",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376117/iranian-hackers-bitcoin-extortion-charged",
+    "timestamp": "2026-08-20T17:12:43Z",
+    "summary": "Seventeen alleged members of Iran-based Mabna Institute were charged over hacks targeting hundreds of universities, companies, and government agencies.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376109",
+    "title": "Nearly 2,000 Hacked WordPress Sites Turned Into Criminal Infrastructure",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376109/hacked-wordpress-sites-criminal-infrastructure",
+    "timestamp": "2026-08-20T16:33:38Z",
+    "summary": "The StopAndProtect operation used compromised WordPress websites to spread malware, steal crypto wallet files, and deploy ransomware.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=376085",
     "title": "Bitcoin Hits Highest Price Since June as $3 Billion in Shorts Liquidated",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/376006/trump-pass-fair-version-clarity-white-house-crypto-meeting",
     "timestamp": "2026-08-19T19:56:45Z",
     "summary": "Trump touted his administration\u2019s crypto policies and said regulators are working to bring Hyperliquid into the U.S. under a compliant framework.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375990",
-    "title": "Crypto Stocks Rip Higher as Strategy Jumps 12%, Coinbase Climbs 9%",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375990/crypto-stocks-rip-strategy-coinbase-bitcoin",
-    "timestamp": "2026-08-19T19:51:11Z",
-    "summary": "Strategy, Coinbase, Circle, and BitMine are riding Bitcoin's short squeeze toward $70K\u2014and two of them may be squeezing equity bears of their own.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=375987",
-    "title": "Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/375987/kalshi-copper-perpetual-futures",
-    "timestamp": "2026-08-19T19:16:04Z",
-    "summary": "The prediction market operator is seeking CFTC approval for a copper perpetual as it moves further into traditional derivatives markets.",
     "source": "Decrypt"
   }
 ]
