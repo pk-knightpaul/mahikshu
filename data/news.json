@@ -100,6 +100,16 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_fe29c8e3-8d8b-41ee-a526-3cb5aa",
+    "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
+    "timestamp": "2026-08-20T18:54:18Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_59f304d4-1b56-44f0-a1e9-d62912",
     "title": "Treasury buybacks could set up Bitcoin\u2019s next move toward $180,000, says strategist",
     "platform": "news",
@@ -190,14 +200,34 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_49b8acf1-6f2d-43b2-94de-a2b618",
-    "title": "BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so",
+    "id": "news_decrypt_https://decrypt.co/?p=376103",
+    "title": "Bitcoin Is Pumping But Prediction Market Traders Aren't Convinced",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/20/bitgo-secures-south-korea-virtual-asset-license-says-it-s-the-first-global-crypto-company-to-do-so",
-    "timestamp": "2026-08-20T09:25:25Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move",
+    "timestamp": "2026-08-20T19:16:05Z",
+    "summary": "Bitcoin's sharpest rally in five months flipped prediction-market odds from bearish to a coin flip\u2014but the longer-term bets still price in a crash.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376151",
+    "title": "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376151/cftc-chair-crypto-rules-if-congress-fails-clarity-act",
+    "timestamp": "2026-08-20T18:44:08Z",
+    "summary": "The CFTC chair said staff is already exploring a crypto market structure framework and could move quickly to propose rules if Congress fails to act.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376143",
+    "title": "Alibaba's Revenue Jumps 9% as AI Cloud Growth Hits 45%\u2014But a Profit Plunge Sends Shares Lower",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376143/alibaba-revenue-jumps-ai-cloud-growth",
+    "timestamp": "2026-08-20T18:32:25Z",
+    "summary": "Cloud and AI product revenue accelerated in the June quarter, but a 75% drop in net income extended Alibaba's run of profit misses to a fifth straight quarter.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376120",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
     "timestamp": "2026-08-20T11:31:04Z",
     "summary": "The underlying code for \"OS Investigate\" has 69 preloaded AI prompts that turn Flock cameras into a super-charged surveillance system that identifies people by how they move.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376048",
-    "title": "Banking Regulator Races to Finalize GENIUS Act Stablecoin Rules",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november",
-    "timestamp": "2026-08-20T09:31:03Z",
-    "summary": "OCC Comptroller Jonathan Gould told the Wyoming Blockchain Symposium the agency is moving at a rapid pace to beat a January statutory deadline, after already missing an earlier July target.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376030",
-    "title": "Bitcoin's Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376030/bitcoin-rally-flips-markets-bearish-coin-flip",
-    "timestamp": "2026-08-19T22:18:01Z",
-    "summary": "Bitcoin's steepest daily gain since March caught traders off guard, and Myriad's pump-or-dump market swung from 70-30 odds to nearly even in a single day.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376026",
-    "title": "Trump Says AI Could Be 'Bigger Than the Internet' as He Pushes Light-Touch Regulation",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
-    "timestamp": "2026-08-19T21:36:50Z",
-    "summary": "The president said the U.S. is far ahead of China in artificial intelligence and defended the rapid construction of data centers and power plants needed to fuel the industry.",
     "source": "Decrypt"
   }
 ]
