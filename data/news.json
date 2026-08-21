@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Coldcard strengthens seed generation with firmware update",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/coldcard-upgrade-strengthen-seed-phrase-generation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-21T10:13:23Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard strengthens seed generation with firmware update\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/art...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
     "platform": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "US debt tops $40T stoking debate on what it means for Bitcoin",
+    "id": "news_coindesk_adb4b7c8-83ae-4464-ac5e-4f3944",
+    "title": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-surges-after-us-debt-crosses-40t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-20T17:43:58Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US debt tops $40T stoking debate on what it means for Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
+    "timestamp": "2026-08-21T10:15:36Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_2350daa3-2f18-49bb-a120-f1534e",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_59f304d4-1b56-44f0-a1e9-d62912",
-    "title": "Treasury buybacks could set up bitcoin\u2019s next move toward $180,000, says strategist",
+    "id": "news_decrypt_https://decrypt.co/?p=376161",
+    "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000",
-    "timestamp": "2026-08-20T16:17:32Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
+    "timestamp": "2026-08-21T09:31:05Z",
+    "summary": "Binance Agent OS connects tools like ChatGPT and Claude directly to the exchange's markets, though safeguards wall agents off from user funds\u2014and leave much of the oversight to users themselves.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376158",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/376085/bitcoin-price-high-june-3-billion-shorts-liquidated",
     "timestamp": "2026-08-20T16:04:04Z",
     "summary": "Bitcoin punched above $72,000 Thursday, extending a two-day squeeze that's wiped out the most short positions on record and mounted the first real challenge to a bearish chart that's held since Novemb...",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376069",
-    "title": "Morning Minute: Hyperliquid Is Coming to the US",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376069/morning-minute-hyperliquid-coming-us",
-    "timestamp": "2026-08-20T14:02:44Z",
-    "summary": "At least, if Trump and the CFTC have their way. And the market really, really liked the news.",
     "source": "Decrypt"
   }
 ]
