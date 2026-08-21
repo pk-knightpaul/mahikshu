@@ -100,6 +100,16 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_309d6b73-c8d5-4705-9f0c-6ac345",
+    "title": "Pass the Clarity Act",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
+    "timestamp": "2026-08-21T19:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_8c96a7c1-34a5-4a2d-8ecc-6aab97",
     "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
     "platform": "news",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_11212c3d-0f30-46a4-95b6-901fb3",
-    "title": "Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight",
+    "id": "news_decrypt_https://decrypt.co/?p=376245",
+    "title": "Solana Just Got Faster\u2014Is It Bullish for SOL?",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
-    "timestamp": "2026-08-21T06:43:24Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price",
+    "timestamp": "2026-08-21T18:45:01Z",
+    "summary": "Solana has activated the first reduction in its block timing since launch, speeding up transactions on the network.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376204",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
     "timestamp": "2026-08-20T22:32:11Z",
     "summary": "CME Group Chairman Terry Duffy and Kalshi co-founder Luana Lopes Lara traded barbs during a CFTC meeting over prediction markets, manipulation, and regulatory standards.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376155",
-    "title": "What's Next for Bitcoin After Historic Rally? Experts Weigh In",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376155/what-next-for-bitcoin-price-experts-weigh-in",
-    "timestamp": "2026-08-20T20:40:56Z",
-    "summary": "Bitcoin's surge above $72,000 wiped out billions in bearish bets, but analysts say fresh buying will be needed to keep the rally going.",
     "source": "Decrypt"
   }
 ]
