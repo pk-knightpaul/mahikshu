@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=376183",
+    "title": "Bitcoin Climbs Higher as $1.2 Billion in Shorts Liquidated",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376183/bitcoin-price-higher-1-2-billion-shorts-liquidated",
+    "timestamp": "2026-08-21T14:57:28Z",
+    "summary": "The largest cryptocurrency surged 7.9% in a day to around $77,000, triggering a short squeeze that wiped out roughly $1.21 billion in bearish bets amid a wave of favorable news from Washington.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=376174",
     "title": "Morning Minute: CFTC Will Give Crypto Clarity If Congress Won\u2019t",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/376120/xrp-price-best-week-since-2024-election-pump",
     "timestamp": "2026-08-20T17:46:08Z",
     "summary": "The token's steepest daily and weekly gains in months rode Bitcoin's record liquidation wave\u2014though ETF flows and futures data hint the move is running on borrowed momentum.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376117",
-    "title": "Iranian Hackers Tied to $6 Million Bitcoin Extortion Charged in Massive Cyber Campaign",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376117/iranian-hackers-bitcoin-extortion-charged",
-    "timestamp": "2026-08-20T17:12:43Z",
-    "summary": "Seventeen alleged members of Iran-based Mabna Institute were charged over hacks targeting hundreds of universities, companies, and government agencies.",
     "source": "Decrypt"
   }
 ]
