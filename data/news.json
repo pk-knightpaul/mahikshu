@@ -1,5 +1,25 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-21T16:11:07Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump\" class=\"type:primaryImage\" src=\"https://s3-images.c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Crypto Biz: Treasury\u2019s \u2018Not-QE\u2019 playbook sends Bitcoin higher",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/crypto-biz-treasurys-not-qe-playbook-sends-bitcoin-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-21T15:50:08Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Treasury\u2019s \u2018Not-QE\u2019 playbook sends Bitcoin higher\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Solana cuts blockchain slot time to 350 milliseconds",
     "platform": "news",
@@ -80,24 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "South Korean lawmakers seek expanded FIU powers over unregistered crypto firms",
+    "id": "news_coindesk_8c96a7c1-34a5-4a2d-8ecc-6aab97",
+    "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-21T05:47:16Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korean lawmakers seek expanded FIU powers over unregistered crypto firms\" class=\"type:primaryImage\" src=\"https://s3-images...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "MANTRA token sinks 18% to record low amid blockchain halt",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-21T05:04:52Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MANTRA token sinks 18% to record low amid blockchain halt \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin",
+    "timestamp": "2026-08-21T16:10:37Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_7a6d9657-6103-496f-bc1a-9df957",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_61c0d2d6-b7b7-493a-83be-0d4fca",
-    "title": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
+    "id": "news_decrypt_https://decrypt.co/?p=376186",
+    "title": "XRP Erases Its Most Bearish Signal\u2014And the Ripple-Linked Coin Is Flying",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit",
-    "timestamp": "2026-08-21T05:52:27Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
+    "timestamp": "2026-08-21T15:39:02Z",
+    "summary": "The token spent all August trapped under a bearish crossover. Today it closed above both moving averages for the first time since the pattern formed.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376183",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/376143/alibaba-revenue-jumps-ai-cloud-growth",
     "timestamp": "2026-08-20T18:32:25Z",
     "summary": "Cloud and AI product revenue accelerated in the June quarter, but a 75% drop in net income extended Alibaba's run of profit misses to a fifth straight quarter.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376120",
-    "title": "XRP Notches Best Week Since 2024 Election Pump on Bitcoin Short Squeeze",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376120/xrp-price-best-week-since-2024-election-pump",
-    "timestamp": "2026-08-20T17:46:08Z",
-    "summary": "The token's steepest daily and weekly gains in months rode Bitcoin's record liquidation wave\u2014though ETF flows and futures data hint the move is running on borrowed momentum.",
     "source": "Decrypt"
   }
 ]
