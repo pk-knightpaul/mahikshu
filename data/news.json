@@ -100,6 +100,16 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_36f15479-6a32-4b60-a52e-da6ac3",
+    "title": "Crypto advocates join in suing Illinois over digital asset tax",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
+    "timestamp": "2026-08-21T22:10:28Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_309d6b73-c8d5-4705-9f0c-6ac345",
     "title": "Pass the Clarity Act",
     "platform": "news",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_edfc7afa-adb0-4bab-999c-8f536b",
-    "title": "Strategy sits on $1.4 billion profit on bitcoin holdings as price surges",
+    "id": "news_decrypt_https://decrypt.co/?p=376270",
+    "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/21/strategy-sits-on-usd1-4-billion-profit-on-bitcoin-holdings-as-price-surges",
-    "timestamp": "2026-08-21T08:24:52Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit",
+    "timestamp": "2026-08-21T21:31:05Z",
+    "summary": "Coinkite's latest firmware requires users to add their own randomness when generating wallet seeds and fixes additional security issues uncovered during a three-week review.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376244",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/376167/americans-say-trump-crypto-profits-cross-line",
     "timestamp": "2026-08-21T11:31:04Z",
     "summary": "A Reuters/Ipsos survey found 63% of Americans view the Trump family's crypto profits as inappropriate, with even half of the president's fellow Republicans saying his business interests sway his decis...",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376161",
-    "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
-    "timestamp": "2026-08-21T09:31:05Z",
-    "summary": "Binance Agent OS connects tools like ChatGPT and Claude directly to the exchange's markets, though safeguards wall agents off from user funds\u2014and leave much of the oversight to users themselves.",
     "source": "Decrypt"
   }
 ]
