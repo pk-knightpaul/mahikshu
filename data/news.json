@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Solana cuts blockchain slot time to 350 milliseconds",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-21T13:45:13Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana cuts blockchain slot time to 350 milliseconds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Laser Digital gets Japan\u2019s first crypto exchange approval in 4 years",
     "platform": "news",
     "type": "news",
@@ -87,16 +97,6 @@
     "url": "https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-21T05:04:52Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MANTRA token sinks 18% to record low amid blockchain halt \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Capital.com plans UAE spot crypto services after affiliate wins licence",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/capital-com-uae-spot-crypto-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-21T03:33:11Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Capital.com plans UAE spot crypto services after affiliate wins licence \" class=\"type:primaryImage\" src=\"https://s3-images.ctmed...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=376174",
+    "title": "Morning Minute: CFTC Will Give Crypto Clarity If Congress Won\u2019t",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376174/morning-minute-cftc-crypto-clarity-act",
+    "timestamp": "2026-08-21T14:27:31Z",
+    "summary": "Meanwhile crypto majors and alts continue to soar, with BTC nearing $80k and alts like Pump and ZEC putting up big candles.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=376167",
     "title": "Most Americans Say Trump's Crypto Profits Cross the Line: Poll",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/376117/iranian-hackers-bitcoin-extortion-charged",
     "timestamp": "2026-08-20T17:12:43Z",
     "summary": "Seventeen alleged members of Iran-based Mabna Institute were charged over hacks targeting hundreds of universities, companies, and government agencies.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376109",
-    "title": "Nearly 2,000 Hacked WordPress Sites Turned Into Criminal Infrastructure",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376109/hacked-wordpress-sites-criminal-infrastructure",
-    "timestamp": "2026-08-20T16:33:38Z",
-    "summary": "The StopAndProtect operation used compromised WordPress websites to spread malware, steal crypto wallet files, and deploy ransomware.",
     "source": "Decrypt"
   }
 ]
