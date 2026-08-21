@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-21T16:25:29Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot\" class=\"type:primaryImage\" src=\"https://s3-images...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
     "platform": "news",
@@ -87,16 +97,6 @@
     "url": "https://cointelegraph.com/markets/bitcoin-etfs-ether-etfs-largest-inflow-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-21T07:50:01Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-21T05:53:11Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=376211",
+    "title": "Bitcoin ETFs Just Had Their Biggest Day Since May\u2014BlackRock Took 83% of It",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376211/bitcoin-etfs-biggest-day-since-may",
+    "timestamp": "2026-08-21T16:29:01Z",
+    "summary": "U.S. spot Bitcoin ETFs pulled in $606 million Thursday, the biggest haul since May. And altcoin funds finally showed up too.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=376186",
     "title": "XRP Erases Its Most Bearish Signal\u2014And the Ripple-Linked Coin Is Flying",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/376151/cftc-chair-crypto-rules-if-congress-fails-clarity-act",
     "timestamp": "2026-08-20T18:44:08Z",
     "summary": "The CFTC chair said staff is already exploring a crypto market structure framework and could move quickly to propose rules if Congress fails to act.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376143",
-    "title": "Alibaba's Revenue Jumps 9% as AI Cloud Growth Hits 45%\u2014But a Profit Plunge Sends Shares Lower",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376143/alibaba-revenue-jumps-ai-cloud-growth",
-    "timestamp": "2026-08-20T18:32:25Z",
-    "summary": "Cloud and AI product revenue accelerated in the June quarter, but a 75% drop in net income extended Alibaba's run of profit misses to a fifth straight quarter.",
     "source": "Decrypt"
   }
 ]
