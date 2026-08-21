@@ -1,11 +1,110 @@
 [
   {
+    "id": "dexscreener_4ZYPfHBRVvDtyXTo4g8X",
+    "title": "New Pair: Market is sending... Time to GIVE GER THEE OLE SENDINSKI",
+    "platform": "dexscreener",
+    "type": "new_pair",
+    "url": "https://dexscreener.com/solana/4zypfhbrvvdtyxto4g8x7hs3kbcfy6mbjxzamrewpump",
+    "timestamp": "2026-08-21T04:33:35.285204Z",
+    "summary": "Chain: solana | Token: 4ZYPfHBRVvDtyXTo4g8X... | New DEX pair detected.",
+    "source": "DexScreener",
+    "chain": "solana"
+  },
+  {
+    "id": "dexscreener_2VVBKWfWTpAwdkDFLCz5",
+    "title": "New Pair: ",
+    "platform": "dexscreener",
+    "type": "new_pair",
+    "url": "https://dexscreener.com/solana/2vvbkwfwtpawdkdflcz5ssaezdxfrzmskhvchlc5pump",
+    "timestamp": "2026-08-21T04:33:35.285227Z",
+    "summary": "Chain: solana | Token: 2VVBKWfWTpAwdkDFLCz5... | New DEX pair detected.",
+    "source": "DexScreener",
+    "chain": "solana"
+  },
+  {
+    "id": "dexscreener_0x25fE7E8d6426380Bf5",
+    "title": "New Pair: The Green Dildo is Back!",
+    "platform": "dexscreener",
+    "type": "new_pair",
+    "url": "https://dexscreener.com/robinhood/0x25fe7e8d6426380bf5fbb3ad6ab8ce5e4ab60e23",
+    "timestamp": "2026-08-21T04:33:35.285233Z",
+    "summary": "Chain: robinhood | Token: 0x25fE7E8d6426380Bf5... | New DEX pair detected.",
+    "source": "DexScreener",
+    "chain": "robinhood"
+  },
+  {
+    "id": "dexscreener_0x42e02b34Af2e89881b",
+    "title": "New Pair: v4 hook that blocks tracked wallets from swapping your token",
+    "platform": "dexscreener",
+    "type": "new_pair",
+    "url": "https://dexscreener.com/robinhood/0x42e02b34af2e89881b067498c67bf2ff0ec4208e",
+    "timestamp": "2026-08-21T04:33:35.285237Z",
+    "summary": "Chain: robinhood | Token: 0x42e02b34Af2e89881b... | New DEX pair detected.",
+    "source": "DexScreener",
+    "chain": "robinhood"
+  },
+  {
+    "id": "dexscreener_4x62cVNST4CnYMSRrxBr",
+    "title": "New Pair: ",
+    "platform": "dexscreener",
+    "type": "new_pair",
+    "url": "https://dexscreener.com/solana/4x62cvnst4cnymsrrxbrhs41aat34enngsbrckbheawq",
+    "timestamp": "2026-08-21T04:33:35.285240Z",
+    "summary": "Chain: solana | Token: 4x62cVNST4CnYMSRrxBr... | New DEX pair detected.",
+    "source": "DexScreener",
+    "chain": "solana"
+  },
+  {
+    "id": "dexscreener_HTdwVBwgMk4hEdAohhcn",
+    "title": "New Pair: ",
+    "platform": "dexscreener",
+    "type": "new_pair",
+    "url": "https://dexscreener.com/solana/htdwvbwgmk4hedaohhcnjvub6h6nhmxsv9n5mv1umeme",
+    "timestamp": "2026-08-21T04:33:35.285243Z",
+    "summary": "Chain: solana | Token: HTdwVBwgMk4hEdAohhcn... | New DEX pair detected.",
+    "source": "DexScreener",
+    "chain": "solana"
+  },
+  {
+    "id": "dexscreener_8YCpgZCyQFDBEfdG4upZ",
+    "title": "New Pair: Token",
+    "platform": "dexscreener",
+    "type": "new_pair",
+    "url": "https://dexscreener.com/solana/8ycpgzcyqfdbefdg4upzc1s6kdrmhkdh4r1hmgxapump",
+    "timestamp": "2026-08-21T04:33:35.285246Z",
+    "summary": "Chain: solana | Token: 8YCpgZCyQFDBEfdG4upZ... | New DEX pair detected.",
+    "source": "DexScreener",
+    "chain": "solana"
+  },
+  {
+    "id": "dexscreener_FvPHwQVWyjGAZyRxX1Qj",
+    "title": "New Pair: breadman yeah thats me",
+    "platform": "dexscreener",
+    "type": "new_pair",
+    "url": "https://dexscreener.com/solana/fvphwqvwyjgazyrxx1qjwtzkeedmuxnuzpyipvm8pump",
+    "timestamp": "2026-08-21T04:33:35.285249Z",
+    "summary": "Chain: solana | Token: FvPHwQVWyjGAZyRxX1Qj... | New DEX pair detected.",
+    "source": "DexScreener",
+    "chain": "solana"
+  },
+  {
+    "id": "dexscreener_0xd8261F5fa6E2f8551a",
+    "title": "New Pair: Chinese Dogecoin",
+    "platform": "dexscreener",
+    "type": "new_pair",
+    "url": "https://dexscreener.com/bsc/0xd8261f5fa6e2f8551a7ffc9346e104fd2c2c7777",
+    "timestamp": "2026-08-21T04:33:35.285251Z",
+    "summary": "Chain: bsc | Token: 0xd8261F5fa6E2f8551a... | New DEX pair detected.",
+    "source": "DexScreener",
+    "chain": "bsc"
+  },
+  {
     "id": "dexscreener_CBC4g9RfQxMnWeZUZ4Ds",
     "title": "New Pair: ",
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/solana/cbc4g9rfqxmnwezuz4dsvpxfvcxvus3gg3eesmrvpump",
-    "timestamp": "2026-08-21T03:52:47.709290Z",
+    "timestamp": "2026-08-21T04:33:35.285254Z",
     "summary": "Chain: solana | Token: CBC4g9RfQxMnWeZUZ4Ds... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "solana"
@@ -16,7 +115,7 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/solana/ehooj1c6zlhcdzvbnxcmx6htzkx3p488jsglapmcpump",
-    "timestamp": "2026-08-21T03:52:47.709310Z",
+    "timestamp": "2026-08-21T04:33:35.285257Z",
     "summary": "Chain: solana | Token: EhooJ1c6ZLHcDZVBnxcM... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "solana"
@@ -27,7 +126,7 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/solana/hsnzaueblgbyvnueisgqbf6xmzoeq8xpu4riyhsrpump",
-    "timestamp": "2026-08-21T03:52:47.709315Z",
+    "timestamp": "2026-08-21T04:33:35.285259Z",
     "summary": "Chain: solana | Token: HSNzAuEBLgbyVnUeisgq... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "solana"
@@ -38,7 +137,7 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/solana/ft9sngxt29rj5pkw2pa86anuksskji2hmcwyhp31pump",
-    "timestamp": "2026-08-21T03:52:47.709319Z",
+    "timestamp": "2026-08-21T04:33:35.285264Z",
     "summary": "Chain: solana | Token: Ft9SNGXt29RJ5PKW2PA8... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "solana"
@@ -49,7 +148,7 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/solana/hefhuk5hhj7s42hmsx8w7myxxwvaaqfevz5ghhjgpump",
-    "timestamp": "2026-08-21T03:52:47.709322Z",
+    "timestamp": "2026-08-21T04:33:35.285267Z",
     "summary": "Chain: solana | Token: HEFHUk5HhJ7S42HMSx8w... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "solana"
@@ -60,7 +159,7 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/solana/gc59dctqmaleplqbnetyv6txg4fungbnkndvggbapump",
-    "timestamp": "2026-08-21T03:52:47.709325Z",
+    "timestamp": "2026-08-21T04:33:35.285271Z",
     "summary": "Chain: solana | Token: Gc59DcTqMALEPLqBnEty... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "solana"
@@ -71,7 +170,7 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/solana/2dyw2ipkejordfsfw6tc9rgbu2vvbenn26bhh2fj68rs",
-    "timestamp": "2026-08-21T03:52:47.709328Z",
+    "timestamp": "2026-08-21T04:33:35.285274Z",
     "summary": "Chain: solana | Token: 2dYw2ipkeJoRDFsFw6tC... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "solana"
@@ -82,7 +181,7 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/solana/6ohyncsev9r1ygy1hgevjf4c2daaj1arqqk26k9upump",
-    "timestamp": "2026-08-21T03:52:47.709331Z",
+    "timestamp": "2026-08-21T04:33:35.285277Z",
     "summary": "Chain: solana | Token: 6ohyncSeV9r1yGY1hGev... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "solana"
@@ -93,7 +192,7 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/solana/7eswy7awbutzhvk3wxcplttzjmvtyv3tqyrf8pvkpump",
-    "timestamp": "2026-08-21T03:52:47.709333Z",
+    "timestamp": "2026-08-21T04:33:35.285279Z",
     "summary": "Chain: solana | Token: 7eswY7AwBUTZHvk3WXcP... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "solana"
@@ -104,7 +203,7 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/robinhood/0xcb3c8b68c9f2bd8c6323adc7e182e748ffdb3e13",
-    "timestamp": "2026-08-21T03:52:47.709336Z",
+    "timestamp": "2026-08-21T04:33:35.285284Z",
     "summary": "Chain: robinhood | Token: 0xcB3C8B68c9f2BD8c63... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "robinhood"
@@ -115,107 +214,8 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/solana/cqn2cyhvpch3y3mhbuyxar6euxeu3yebpckkzuvypump",
-    "timestamp": "2026-08-21T03:52:47.709339Z",
+    "timestamp": "2026-08-21T04:33:35.285287Z",
     "summary": "Chain: solana | Token: CQn2cYhvPCH3y3MHbuYX... | New DEX pair detected.",
-    "source": "DexScreener",
-    "chain": "solana"
-  },
-  {
-    "id": "dexscreener_0x26E82171eb01204eE1",
-    "title": "New Pair: CB is the native token of Coinbarrel, the token launchpad on",
-    "platform": "dexscreener",
-    "type": "new_pair",
-    "url": "https://dexscreener.com/robinhood/0x26e82171eb01204ee114e2b8c34be035b8bc029e",
-    "timestamp": "2026-08-21T03:52:47.709344Z",
-    "summary": "Chain: robinhood | Token: 0x26E82171eb01204eE1... | New DEX pair detected.",
-    "source": "DexScreener",
-    "chain": "robinhood"
-  },
-  {
-    "id": "dexscreener_H4bQpJ1TKjN6LKhyGHyi",
-    "title": "New Pair: ",
-    "platform": "dexscreener",
-    "type": "new_pair",
-    "url": "https://dexscreener.com/solana/h4bqpj1tkjn6lkhyghyiiz8xns9vvy7augwqqecin3ug",
-    "timestamp": "2026-08-21T03:52:47.709347Z",
-    "summary": "Chain: solana | Token: H4bQpJ1TKjN6LKhyGHyi... | New DEX pair detected.",
-    "source": "DexScreener",
-    "chain": "solana"
-  },
-  {
-    "id": "dexscreener_3yJsenghPtwkAoLmwL8h",
-    "title": "New Pair: Token",
-    "platform": "dexscreener",
-    "type": "new_pair",
-    "url": "https://dexscreener.com/solana/3yjsenghptwkaolmwl8hrdmxzrdfscj8t7ffutwbpump",
-    "timestamp": "2026-08-21T03:52:47.709352Z",
-    "summary": "Chain: solana | Token: 3yJsenghPtwkAoLmwL8h... | New DEX pair detected.",
-    "source": "DexScreener",
-    "chain": "solana"
-  },
-  {
-    "id": "dexscreener_CZ53Yc5aknpRRPgwunyU",
-    "title": "New Pair: ",
-    "platform": "dexscreener",
-    "type": "new_pair",
-    "url": "https://dexscreener.com/solana/cz53yc5aknprrpgwunyu5xmgwfohunwv61quvu61pump",
-    "timestamp": "2026-08-21T03:52:47.709354Z",
-    "summary": "Chain: solana | Token: CZ53Yc5aknpRRPgwunyU... | New DEX pair detected.",
-    "source": "DexScreener",
-    "chain": "solana"
-  },
-  {
-    "id": "dexscreener_0xDA4FDc3a34829B1Ca0",
-    "title": "New Pair: $SOFT on Robinhood Chain.",
-    "platform": "dexscreener",
-    "type": "new_pair",
-    "url": "https://dexscreener.com/robinhood/0xda4fdc3a34829b1ca0db602f177993df0a51cb75",
-    "timestamp": "2026-08-21T03:52:47.709357Z",
-    "summary": "Chain: robinhood | Token: 0xDA4FDc3a34829B1Ca0... | New DEX pair detected.",
-    "source": "DexScreener",
-    "chain": "robinhood"
-  },
-  {
-    "id": "dexscreener_0xbA579C428E992bA46a",
-    "title": "New Pair: Binance's playful cat.",
-    "platform": "dexscreener",
-    "type": "new_pair",
-    "url": "https://dexscreener.com/bsc/0xba579c428e992ba46a3c6c67805d05d154b1ddea",
-    "timestamp": "2026-08-21T03:52:47.709359Z",
-    "summary": "Chain: bsc | Token: 0xbA579C428E992bA46a... | New DEX pair detected.",
-    "source": "DexScreener",
-    "chain": "bsc"
-  },
-  {
-    "id": "dexscreener_0x4b7eBD1BA36315CF80",
-    "title": "New Pair: Gada Gada (\u560e\u8fbe\u560e\u8fbe) is the gloriously brain-rotting battle cry ",
-    "platform": "dexscreener",
-    "type": "new_pair",
-    "url": "https://dexscreener.com/bsc/0x4b7ebd1ba36315cf80f341baae8a3e9756d87777",
-    "timestamp": "2026-08-21T03:52:47.709362Z",
-    "summary": "Chain: bsc | Token: 0x4b7eBD1BA36315CF80... | New DEX pair detected.",
-    "source": "DexScreener",
-    "chain": "bsc"
-  },
-  {
-    "id": "dexscreener_8rxr4ec144hPShAfh94J",
-    "title": "New Pair: Token",
-    "platform": "dexscreener",
-    "type": "new_pair",
-    "url": "https://dexscreener.com/solana/8rxr4ec144hpshafh94jf4qwrx6lppftdtjkmu62pump",
-    "timestamp": "2026-08-21T03:52:47.709364Z",
-    "summary": "Chain: solana | Token: 8rxr4ec144hPShAfh94J... | New DEX pair detected.",
-    "source": "DexScreener",
-    "chain": "solana"
-  },
-  {
-    "id": "dexscreener_5BoCYsrqTucqoceJqq8o",
-    "title": "New Pair: Hold o4A. Earn SOL. Every 10 minutes. \u26a1\n\no4A is a Solana exp",
-    "platform": "dexscreener",
-    "type": "new_pair",
-    "url": "https://dexscreener.com/solana/5bocysrqtucqocejqq8ozbkmrpuzutdstukvttterrev",
-    "timestamp": "2026-08-21T03:52:47.709369Z",
-    "summary": "Chain: solana | Token: 5BoCYsrqTucqoceJqq8o... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "solana"
   }
