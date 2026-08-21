@@ -1,5 +1,25 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-21T05:53:11Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "South Korean lawmakers seek expanded FIU powers over unregistered crypto firms",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-21T05:47:16Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korean lawmakers seek expanded FIU powers over unregistered crypto firms\" class=\"type:primaryImage\" src=\"https://s3-images...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "MANTRA token sinks 18% to record low amid blockchain halt",
     "platform": "news",
@@ -50,16 +70,6 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-20T19:50:32Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
-  },
-  {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "US debt tops $40T stoking debate on what it means for Bitcoin",
     "platform": "news",
@@ -90,14 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
+    "id": "news_coindesk_61c0d2d6-b7b7-493a-83be-0d4fca",
+    "title": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-20T15:43:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Optimism moves 546.9M OP from future airdrops to ecosystem growth fund\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit",
+    "timestamp": "2026-08-21T05:52:27Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_df1e4eca-aa1c-4e8d-81c5-693a4b",
+    "title": "Ripple backs an RLUSD credit fund amid XRP's best week in months",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months",
+    "timestamp": "2026-08-21T05:29:48Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_75d9f8bf-ee69-42ec-9ada-7874f6",
@@ -176,26 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/web3/2026/08/20/optimism-funded-team-s-deciding-vote-shifts-usd49-million-in-op-tokens-away-from-users",
     "timestamp": "2026-08-20T12:00:25Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_75c1624f-6b6b-41a3-9d53-d6ec67",
-    "title": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern",
-    "timestamp": "2026-08-20T11:35:47Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_956562aa-bbbd-493f-8faa-02b7fb",
-    "title": "Fed liquidity promises, dollar weakness could determine bitcoin's next move",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/20/fed-liquidity-promises-dollar-weakness-could-determine-bitcoin-s-next-move",
-    "timestamp": "2026-08-20T11:31:10Z",
     "summary": "",
     "source": "CoinDesk"
   },
