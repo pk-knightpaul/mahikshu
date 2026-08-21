@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Standard Chartered wavers on $100K Bitcoin year-end call, says it may be \u2018too low\u2019",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/standard-chartered-100k-bitcoin-2026-prediction-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-21T11:58:10Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered wavers on $100K Bitcoin year-end call, says it may be \u2018too low\u2019\" class=\"type:primaryImage\" src=\"https://s3-im...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Coldcard strengthens seed generation with firmware update",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,44 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Binance opens crypto trading to AI agents with user-set controls",
+    "id": "news_coindesk_7a6d9657-6103-496f-bc1a-9df957",
+    "title": "Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-20T20:26:28Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance opens crypto trading to AI agents with user-set controls\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/08/21/coldcard-ships-firmware-after-usd114-million-bitcoin-theft-says-ai-helped-catch-more-bugs",
+    "timestamp": "2026-08-21T12:10:55Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_4965e5d3-249f-40a6-b083-d1cd24",
+    "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
+    "timestamp": "2026-08-21T11:31:30Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_2d491ca6-51e3-4ed3-9575-30563a",
+    "title": "The hard truth is that the Clarity Act is an anti-crypto bill",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/opinion/2026/08/21/the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill",
+    "timestamp": "2026-08-21T11:30:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_65396420-889a-49b8-8350-8327a8",
+    "title": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/21/bitcoin-faces-usd80-000-test-as-thinner-weekend-liquidity-looms",
+    "timestamp": "2026-08-21T11:26:27Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_9f27f3f9-defb-440e-b27f-7941d8",
@@ -141,7 +181,7 @@
   },
   {
     "id": "news_coindesk_11212c3d-0f30-46a4-95b6-901fb3",
-    "title": "Live updates: Bitcoin tops $79,500; BTC, ETH record $800 million inflows",
+    "title": "Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
@@ -160,44 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_df1e4eca-aa1c-4e8d-81c5-693a4b",
-    "title": "Ripple backs an RLUSD credit fund amid XRP's best week in months",
+    "id": "news_decrypt_https://decrypt.co/?p=376167",
+    "title": "Most Americans Say Trump's Crypto Profits Cross the Line: Poll",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months",
-    "timestamp": "2026-08-21T05:29:48Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_75d9f8bf-ee69-42ec-9ada-7874f6",
-    "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
-    "timestamp": "2026-08-21T04:56:30Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_641dafd9-26d8-444a-bb31-505064",
-    "title": "Bitcoin pushes past $75,000 as rally continues.",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues",
-    "timestamp": "2026-08-21T01:55:50Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_3db83b24-ae02-4667-9c5f-3413e1",
-    "title": "A $2 million bet on XRP volatility crosses the tape as prices surge",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge",
-    "timestamp": "2026-08-21T01:51:56Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376167/americans-say-trump-crypto-profits-cross-line",
+    "timestamp": "2026-08-21T11:31:04Z",
+    "summary": "A Reuters/Ipsos survey found 63% of Americans view the Trump family's crypto profits as inappropriate, with even half of the president's fellow Republicans saying his business interests sway his decis...",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376161",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/376109/hacked-wordpress-sites-criminal-infrastructure",
     "timestamp": "2026-08-20T16:33:38Z",
     "summary": "The StopAndProtect operation used compromised WordPress websites to spread malware, steal crypto wallet files, and deploy ransomware.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376085",
-    "title": "Bitcoin Hits Highest Price Since June as $3 Billion in Shorts Liquidated",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376085/bitcoin-price-high-june-3-billion-shorts-liquidated",
-    "timestamp": "2026-08-20T16:04:04Z",
-    "summary": "Bitcoin punched above $72,000 Thursday, extending a two-day squeeze that's wiped out the most short positions on record and mounted the first real challenge to a bearish chart that's held since Novemb...",
     "source": "Decrypt"
   }
 ]
