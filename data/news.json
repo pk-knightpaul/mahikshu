@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=376287",
+    "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
+    "timestamp": "2026-08-22T17:31:03Z",
+    "summary": "The Entra ID flaw earned the highest possible severity score, but Microsoft says it patched the bug before publishing the CVE and found no evidence it was ever exploited.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=376296",
     "title": "AI Has Made Bitcoin Software a Target\u2014This Group Is Fighting Back",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
     "timestamp": "2026-08-21T15:39:02Z",
     "summary": "The token spent all August trapped under a bearish crossover. Today it closed above both moving averages for the first time since the pattern formed.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376183",
-    "title": "Bitcoin Climbs Higher as $1.2 Billion in Shorts Liquidated",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376183/bitcoin-price-higher-1-2-billion-shorts-liquidated",
-    "timestamp": "2026-08-21T14:57:28Z",
-    "summary": "The largest cryptocurrency surged 7.9% in a day to around $77,000, triggering a short squeeze that wiped out roughly $1.21 billion in bearish bets amid a wave of favorable news from Washington.",
     "source": "Decrypt"
   }
 ]
