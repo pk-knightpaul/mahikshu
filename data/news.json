@@ -100,6 +100,16 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_1a234766-a7bd-4a7a-8912-430402",
+    "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
+    "timestamp": "2026-08-22T15:16:41Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_862030ee-7825-4f9f-884b-516df7",
     "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
     "platform": "news",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_7a6d9657-6103-496f-bc1a-9df957",
-    "title": "Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs",
+    "id": "news_decrypt_https://decrypt.co/?p=376296",
+    "title": "AI Has Made Bitcoin Software a Target\u2014This Group Is Fighting Back",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/08/21/coldcard-ships-firmware-after-usd114-million-bitcoin-theft-says-ai-helped-catch-more-bugs",
-    "timestamp": "2026-08-21T12:10:55Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
+    "timestamp": "2026-08-22T15:31:04Z",
+    "summary": "A group of 20-odd developers is scanning the Bitcoin ecosystem for AI-discoverable flaws, warning that cheap, powerful models have handed attackers unprecedented reach.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376271",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/376183/bitcoin-price-higher-1-2-billion-shorts-liquidated",
     "timestamp": "2026-08-21T14:57:28Z",
     "summary": "The largest cryptocurrency surged 7.9% in a day to around $77,000, triggering a short squeeze that wiped out roughly $1.21 billion in bearish bets amid a wave of favorable news from Washington.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376174",
-    "title": "Morning Minute: CFTC Will Give Crypto Clarity If Congress Won\u2019t",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376174/morning-minute-cftc-crypto-clarity-act",
-    "timestamp": "2026-08-21T14:27:31Z",
-    "summary": "Meanwhile crypto majors and alts continue to soar, with BTC nearing $80k and alts like Pump and ZEC putting up big candles.",
     "source": "Decrypt"
   }
 ]
