@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/maga",
+    "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-22T13:30:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MiCA is coming for DeFi vaults, but regulation will be difficult\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Here\u2019s what happened in crypto today",
     "platform": "news",
@@ -90,14 +100,34 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Laser Digital gets Japan\u2019s first crypto exchange approval in 4 years",
+    "id": "news_coindesk_862030ee-7825-4f9f-884b-516df7",
+    "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-21T13:08:12Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Laser Digital gets Japan\u2019s first crypto exchange approval in 4 years\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
+    "timestamp": "2026-08-22T14:10:17Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_f1347b8c-6e0a-4d87-aa09-ade836",
+    "title": "Tokenized stocks risk repeating Wall Street\u2019s 1960s \u2018paper crisis,\u2019 Fairmint CEO says",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
+    "timestamp": "2026-08-22T14:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_15e77a72-fff3-48db-b931-f3c4c3",
+    "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
+    "timestamp": "2026-08-22T13:30:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_335d5441-22f3-4394-8f60-4f9f3b",
@@ -170,34 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_4965e5d3-249f-40a6-b083-d1cd24",
-    "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
+    "id": "news_decrypt_https://decrypt.co/?p=376271",
+    "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
-    "timestamp": "2026-08-21T11:31:30Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_2d491ca6-51e3-4ed3-9575-30563a",
-    "title": "The hard truth is that the Clarity Act is an anti-crypto bill",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/opinion/2026/08/21/the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill",
-    "timestamp": "2026-08-21T11:30:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_65396420-889a-49b8-8350-8327a8",
-    "title": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/21/bitcoin-faces-usd80-000-test-as-thinner-weekend-liquidity-looms",
-    "timestamp": "2026-08-21T11:26:27Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376271/chatgpt-web-ai-written-pew",
+    "timestamp": "2026-08-22T13:31:03Z",
+    "summary": "Pew Research scanned nearly half a million webpages with an AI detector and found the fingerprints concentrated on .com domains\u2014and multiplying fast.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376270",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/376174/morning-minute-cftc-crypto-clarity-act",
     "timestamp": "2026-08-21T14:27:31Z",
     "summary": "Meanwhile crypto majors and alts continue to soar, with BTC nearing $80k and alts like Pump and ZEC putting up big candles.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376167",
-    "title": "Most Americans Say Trump's Crypto Profits Cross the Line: Poll",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376167/americans-say-trump-crypto-profits-cross-line",
-    "timestamp": "2026-08-21T11:31:04Z",
-    "summary": "A Reuters/Ipsos survey found 63% of Americans view the Trump family's crypto profits as inappropriate, with even half of the president's fellow Republicans saying his business interests sway his decis...",
     "source": "Decrypt"
   }
 ]
