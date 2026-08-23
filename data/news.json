@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-23T15:30:53Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fed study finds crypto investors driven by beliefs, easily swayed by returns\" class=\"type:primaryImage\" src=\"https://s3-images.c...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/maga",
     "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
     "platform": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Solana cuts blockchain slot time to 350 milliseconds",
+    "id": "news_coindesk_3034046e-a861-48fd-b839-518e74",
+    "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-21T13:45:13Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana cuts blockchain slot time to 350 milliseconds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
+    "timestamp": "2026-08-23T15:52:21Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_6beefa8d-f97c-45b4-8ce4-47dd49",
@@ -186,16 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
     "timestamp": "2026-08-22T05:05:13Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_36f15479-6a32-4b60-a52e-da6ac3",
-    "title": "Crypto advocates join in suing Illinois over digital asset tax",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
-    "timestamp": "2026-08-21T22:10:28Z",
     "summary": "",
     "source": "CoinDesk"
   },
