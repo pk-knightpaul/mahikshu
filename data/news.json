@@ -100,6 +100,26 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_6beefa8d-f97c-45b4-8ce4-47dd49",
+    "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+    "timestamp": "2026-08-23T15:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_1e20fc9b-5a07-4765-9582-9284b1",
+    "title": "Crypto\u2019s next billion users might be AI agents, and they\u2019re paying with stablecoins",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
+    "timestamp": "2026-08-23T13:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_1a234766-a7bd-4a7a-8912-430402",
     "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
     "platform": "news",
@@ -180,24 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_309d6b73-c8d5-4705-9f0c-6ac345",
-    "title": "Pass the Clarity Act",
+    "id": "news_decrypt_https://decrypt.co/?p=376265",
+    "title": "Robot Brains Could Have Their \u2018ChatGPT Moment\u2019 by 2027, ACE Robotics Chairman Says",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
-    "timestamp": "2026-08-21T19:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_8c96a7c1-34a5-4a2d-8ecc-6aab97",
-    "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin",
-    "timestamp": "2026-08-21T16:10:37Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
+    "timestamp": "2026-08-23T14:31:04Z",
+    "summary": "The breakthrough could come from AI models that help robots understand and interact with the physical world, though widespread adoption may still be years away.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376287",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/376211/bitcoin-etfs-biggest-day-since-may",
     "timestamp": "2026-08-21T16:29:01Z",
     "summary": "U.S. spot Bitcoin ETFs pulled in $606 million Thursday, the biggest haul since May. And altcoin funds finally showed up too.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376186",
-    "title": "XRP Erases Its Most Bearish Signal\u2014And the Ripple-Linked Coin Is Flying",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
-    "timestamp": "2026-08-21T15:39:02Z",
-    "summary": "The token spent all August trapped under a bearish crossover. Today it closed above both moving averages for the first time since the pattern formed.",
     "source": "Decrypt"
   }
 ]
