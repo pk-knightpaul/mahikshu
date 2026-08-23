@@ -1,11 +1,99 @@
 [
   {
+    "id": "dexscreener_37FgV97Ck7ABCeN1YkYi",
+    "title": "New Pair: Pussy Cat",
+    "platform": "dexscreener",
+    "type": "new_pair",
+    "url": "https://dexscreener.com/solana/37fgv97ck7abcen1ykyiv6p8modsf2odw4anhdmfpump",
+    "timestamp": "2026-08-23T09:23:11.429644Z",
+    "summary": "Chain: solana | Token: 37FgV97Ck7ABCeN1YkYi... | New DEX pair detected.",
+    "source": "DexScreener",
+    "chain": "solana"
+  },
+  {
+    "id": "dexscreener_8d5STdjhJLcDn13TQDib",
+    "title": "New Pair: Cyberleek Mascot- We Are the Leekers",
+    "platform": "dexscreener",
+    "type": "new_pair",
+    "url": "https://dexscreener.com/solana/8d5stdjhjlcdn13tqdibzxbcmctt3swujyhed8zhpump",
+    "timestamp": "2026-08-23T09:23:11.429656Z",
+    "summary": "Chain: solana | Token: 8d5STdjhJLcDn13TQDib... | New DEX pair detected.",
+    "source": "DexScreener",
+    "chain": "solana"
+  },
+  {
+    "id": "dexscreener_0x5F297F01d81ebE55f2",
+    "title": "New Pair: The motto is to house all of finance.",
+    "platform": "dexscreener",
+    "type": "new_pair",
+    "url": "https://dexscreener.com/hyperevm/0x5f297f01d81ebe55f21d7b6a805c544ce9300000",
+    "timestamp": "2026-08-23T09:23:11.429660Z",
+    "summary": "Chain: hyperevm | Token: 0x5F297F01d81ebE55f2... | New DEX pair detected.",
+    "source": "DexScreener",
+    "chain": "hyperevm"
+  },
+  {
+    "id": "dexscreener_ALkTeh2pAemG1PimgoXg",
+    "title": "New Pair: ",
+    "platform": "dexscreener",
+    "type": "new_pair",
+    "url": "https://dexscreener.com/solana/alkteh2paemg1pimgoxg89dmuxwrftg9voszxmdfpump",
+    "timestamp": "2026-08-23T09:23:11.429663Z",
+    "summary": "Chain: solana | Token: ALkTeh2pAemG1PimgoXg... | New DEX pair detected.",
+    "source": "DexScreener",
+    "chain": "solana"
+  },
+  {
+    "id": "dexscreener_FcdYucAcXZ9TPFnVF2GS",
+    "title": "New Pair: The marketplace where humans hire agents.",
+    "platform": "dexscreener",
+    "type": "new_pair",
+    "url": "https://dexscreener.com/solana/fcdyucacxz9tpfnvf2gss1jjdqwiybkdqstekbrtpump",
+    "timestamp": "2026-08-23T09:23:11.429665Z",
+    "summary": "Chain: solana | Token: FcdYucAcXZ9TPFnVF2GS... | New DEX pair detected.",
+    "source": "DexScreener",
+    "chain": "solana"
+  },
+  {
+    "id": "dexscreener_CCTVHcwKtCiCnyV6o3PC",
+    "title": "New Pair: Token",
+    "platform": "dexscreener",
+    "type": "new_pair",
+    "url": "https://dexscreener.com/solana/cctvhcwktcicnyv6o3pcgfse2ozkvq4rxphfvnudpump",
+    "timestamp": "2026-08-23T09:23:11.429667Z",
+    "summary": "Chain: solana | Token: CCTVHcwKtCiCnyV6o3PC... | New DEX pair detected.",
+    "source": "DexScreener",
+    "chain": "solana"
+  },
+  {
+    "id": "dexscreener_DxHkETUsGLsKr2A3pcFe",
+    "title": "New Pair: LGTABQ DEPLOYED BY CYBERLEEK",
+    "platform": "dexscreener",
+    "type": "new_pair",
+    "url": "https://dexscreener.com/solana/dxhketusglskr2a3pcfeebcbosfpcfntxf9aabqbpump",
+    "timestamp": "2026-08-23T09:23:11.429669Z",
+    "summary": "Chain: solana | Token: DxHkETUsGLsKr2A3pcFe... | New DEX pair detected.",
+    "source": "DexScreener",
+    "chain": "solana"
+  },
+  {
+    "id": "dexscreener_0x26B738Bd8808c12b5C",
+    "title": "New Pair: Sora Network \u2014 an open, verifiable chain that runs in your b",
+    "platform": "dexscreener",
+    "type": "new_pair",
+    "url": "https://dexscreener.com/robinhood/0x26b738bd8808c12b5cebfb8103cc49efcda98b03",
+    "timestamp": "2026-08-23T09:23:11.429671Z",
+    "summary": "Chain: robinhood | Token: 0x26B738Bd8808c12b5C... | New DEX pair detected.",
+    "source": "DexScreener",
+    "chain": "robinhood"
+  },
+  {
     "id": "dexscreener_GNBknG1Fact4QksM1V5o",
     "title": "New Pair: this is fine",
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/solana/gnbkng1fact4qksm1v5oofbnqbgnbzz2wdbirf8spump",
-    "timestamp": "2026-08-23T08:23:54.725789Z",
+    "timestamp": "2026-08-23T09:23:11.429673Z",
     "summary": "Chain: solana | Token: GNBknG1Fact4QksM1V5o... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "solana"
@@ -16,7 +104,7 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/solana/g3pi7rdwyy2u6ttiebswh8mhwxn5lpx64h1whupdpump",
-    "timestamp": "2026-08-23T08:23:54.725808Z",
+    "timestamp": "2026-08-23T09:23:11.429675Z",
     "summary": "Chain: solana | Token: G3pi7rdWYy2U6TtiEbSw... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "solana"
@@ -27,7 +115,7 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/solana/gptpnlegzwsprp1mibjxcpirhwgrvwmgm959vfktpump",
-    "timestamp": "2026-08-23T08:23:54.725814Z",
+    "timestamp": "2026-08-23T09:23:11.429677Z",
     "summary": "Chain: solana | Token: GptPNLegzwsPrP1mibjX... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "solana"
@@ -38,7 +126,7 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/solana/57lr7pxjeuvrbpi51qqxmqqw4qp4xekgrb9gkjjfpump",
-    "timestamp": "2026-08-23T08:23:54.725817Z",
+    "timestamp": "2026-08-23T09:23:11.429680Z",
     "summary": "Chain: solana | Token: 57Lr7PxJeUvrBPi51QqX... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "solana"
@@ -49,7 +137,7 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/bsc/0xb3b34f032923dea2ee8476df26894e8fa9eb7f54",
-    "timestamp": "2026-08-23T08:23:54.725821Z",
+    "timestamp": "2026-08-23T09:23:11.429683Z",
     "summary": "Chain: bsc | Token: 0xb3B34F032923DeA2ee... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "bsc"
@@ -60,7 +148,7 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/solana/6wpsnzpzc11kg5j9psqxsskvb5a3julwdkwwsycapump",
-    "timestamp": "2026-08-23T08:23:54.725824Z",
+    "timestamp": "2026-08-23T09:23:11.429684Z",
     "summary": "Chain: solana | Token: 6wpsnzpzC11kG5J9PsqX... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "solana"
@@ -71,7 +159,7 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/solana/3wbhjrnzg3fwr2b9g2qhxeqz5eafcqjcswutkdg5sb5s",
-    "timestamp": "2026-08-23T08:23:54.725827Z",
+    "timestamp": "2026-08-23T09:23:11.429686Z",
     "summary": "Chain: solana | Token: 3WbHJrnzg3fwR2B9G2QH... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "solana"
@@ -82,7 +170,7 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/solana/2wxuvegq53qj7qzacdwnrhyxsomcszebnsfyixy1pump",
-    "timestamp": "2026-08-23T08:23:54.725830Z",
+    "timestamp": "2026-08-23T09:23:11.429690Z",
     "summary": "Chain: solana | Token: 2WXUVeGq53qJ7QZacDWN... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "solana"
@@ -93,7 +181,7 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/solana/gstgzbwd1dznkwreg61qqxy5dhroxswmh543htkcpump",
-    "timestamp": "2026-08-23T08:23:54.725833Z",
+    "timestamp": "2026-08-23T09:23:11.429691Z",
     "summary": "Chain: solana | Token: GStgZbWD1dZnkWreG61q... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "solana"
@@ -104,7 +192,7 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/solana/f8hvfdi84pbze3ygztwmykqqjmtb954yf686vrtwh53d",
-    "timestamp": "2026-08-23T08:23:54.725836Z",
+    "timestamp": "2026-08-23T09:23:11.429693Z",
     "summary": "Chain: solana | Token: F8hVFDi84PbZe3ygztWM... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "solana"
@@ -115,7 +203,7 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/bsc/0x8b0e088e29427378923ecaa31d7a60e7ae957777",
-    "timestamp": "2026-08-23T08:23:54.725839Z",
+    "timestamp": "2026-08-23T09:23:11.429695Z",
     "summary": "Chain: bsc | Token: 0x8b0e088e2942737892... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "bsc"
@@ -126,96 +214,8 @@
     "platform": "dexscreener",
     "type": "new_pair",
     "url": "https://dexscreener.com/solana/7vwwih2od569c1hu4ww4vts95cwnke7agnr1kij6pump",
-    "timestamp": "2026-08-23T08:23:54.725844Z",
+    "timestamp": "2026-08-23T09:23:11.429697Z",
     "summary": "Chain: solana | Token: 7VwWih2od569c1HU4WW4... | New DEX pair detected.",
-    "source": "DexScreener",
-    "chain": "solana"
-  },
-  {
-    "id": "dexscreener_0xc914b558308cfee6d5",
-    "title": "New Pair: Token",
-    "platform": "dexscreener",
-    "type": "new_pair",
-    "url": "https://dexscreener.com/hyperevm/0xc914b558308cfee6d5cd21dd26378d72f4200000",
-    "timestamp": "2026-08-23T08:23:54.725847Z",
-    "summary": "Chain: hyperevm | Token: 0xc914b558308cfee6d5... | New DEX pair detected.",
-    "source": "DexScreener",
-    "chain": "hyperevm"
-  },
-  {
-    "id": "dexscreener_0x07F7f9aF7522C1F7d4",
-    "title": "New Pair: A \"shart\" (a portmanteau of shit and fart) is defined precis",
-    "platform": "dexscreener",
-    "type": "new_pair",
-    "url": "https://dexscreener.com/hyperevm/0x07f7f9af7522c1f7d478f803c1d6280077edbbe9",
-    "timestamp": "2026-08-23T08:23:54.725851Z",
-    "summary": "Chain: hyperevm | Token: 0x07F7f9aF7522C1F7d4... | New DEX pair detected.",
-    "source": "DexScreener",
-    "chain": "hyperevm"
-  },
-  {
-    "id": "dexscreener_44EzUZ8D3FTCXPwJgeeT",
-    "title": "New Pair: Token",
-    "platform": "dexscreener",
-    "type": "new_pair",
-    "url": "https://dexscreener.com/solana/44ezuz8d3ftcxpwjgeetcd16lhb11euqiceemfa6pump",
-    "timestamp": "2026-08-23T08:23:54.725854Z",
-    "summary": "Chain: solana | Token: 44EzUZ8D3FTCXPwJgeeT... | New DEX pair detected.",
-    "source": "DexScreener",
-    "chain": "solana"
-  },
-  {
-    "id": "dexscreener_opEEn3imyM1VePoZ47uc",
-    "title": "New Pair: Meevin's arch nemesis is Cate.",
-    "platform": "dexscreener",
-    "type": "new_pair",
-    "url": "https://dexscreener.com/solana/opeen3imym1vepoz47ucd2ac2dbdwcd7ashd74tpump",
-    "timestamp": "2026-08-23T08:23:54.725856Z",
-    "summary": "Chain: solana | Token: opEEn3imyM1VePoZ47uc... | New DEX pair detected.",
-    "source": "DexScreener",
-    "chain": "solana"
-  },
-  {
-    "id": "dexscreener_0x03c59BBf8Ba49CE798",
-    "title": "New Pair: \u6296\u97f3\u6700\u706b\u6897",
-    "platform": "dexscreener",
-    "type": "new_pair",
-    "url": "https://dexscreener.com/bsc/0x03c59bbf8ba49ce79831403b86acbc40d3167777",
-    "timestamp": "2026-08-23T08:23:54.725862Z",
-    "summary": "Chain: bsc | Token: 0x03c59BBf8Ba49CE798... | New DEX pair detected.",
-    "source": "DexScreener",
-    "chain": "bsc"
-  },
-  {
-    "id": "dexscreener_FVLoYYD5JjhcG6b7PCYN",
-    "title": "New Pair: this orca is Ikaika\n\nHe\u2019s a male killer whale at SeaWorld Sa",
-    "platform": "dexscreener",
-    "type": "new_pair",
-    "url": "https://dexscreener.com/solana/fvloyyd5jjhcg6b7pcynqffrdvvjl3xqz3pfa5rcpump",
-    "timestamp": "2026-08-23T08:23:54.725866Z",
-    "summary": "Chain: solana | Token: FVLoYYD5JjhcG6b7PCYN... | New DEX pair detected.",
-    "source": "DexScreener",
-    "chain": "solana"
-  },
-  {
-    "id": "dexscreener_HuWjWzS74g34PnRGEGia",
-    "title": "New Pair: Elon Musks dog Marvin, named after Marvin The Martian",
-    "platform": "dexscreener",
-    "type": "new_pair",
-    "url": "https://dexscreener.com/solana/huwjwzs74g34pnrgegiacrdndnoq2v39rnjjkmwrpump",
-    "timestamp": "2026-08-23T08:23:54.725868Z",
-    "summary": "Chain: solana | Token: HuWjWzS74g34PnRGEGia... | New DEX pair detected.",
-    "source": "DexScreener",
-    "chain": "solana"
-  },
-  {
-    "id": "dexscreener_4T54E77K364NmHuRB8ge",
-    "title": "New Pair: 10/10 26, The first ever kirkversary.",
-    "platform": "dexscreener",
-    "type": "new_pair",
-    "url": "https://dexscreener.com/solana/4t54e77k364nmhurb8gellhvbtsnnfpwlnhphjdbpump",
-    "timestamp": "2026-08-23T08:23:54.725870Z",
-    "summary": "Chain: solana | Token: 4T54E77K364NmHuRB8ge... | New DEX pair detected.",
     "source": "DexScreener",
     "chain": "solana"
   }
