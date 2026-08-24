@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-24T16:44:55Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%\" class=\"type:primaryImage\" src=\"https://s3-ima...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Crypto advocacy groups oppose Illinois digital asset tax in court",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Germany widens MiCA lead as latest EU register update adds 6 banks",
+    "id": "news_coindesk_d336df5e-c30a-46c3-a8d5-765fbb",
+    "title": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/germany-mica-lead-licensing-update-6-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-24T10:41:34Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Germany widens MiCA lead as latest EU register update adds 6 banks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain",
+    "timestamp": "2026-08-24T17:12:35Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_2f71ddb4-0dee-4bff-8600-00c526",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_b61f72ab-d0bc-4f6a-92c2-5841e4",
-    "title": "Crypto roars back as bitcoin posts its second-best week since early 2021",
+    "id": "news_decrypt_https://decrypt.co/?p=376349",
+    "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week\u2014Only $2.6 Billion Was New Money",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/24/crypto-roars-back-as-bitcoin-posts-its-second-best-week-since-early-2021",
-    "timestamp": "2026-08-24T08:28:14Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows",
+    "timestamp": "2026-08-24T17:07:32Z",
+    "summary": "Bitcoin and Ethereum ETFs booked their strongest inflow week since October, but most of the gain came from coins investors already owned getting more valuable.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376336",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
     "timestamp": "2026-08-22T15:31:04Z",
     "summary": "A group of 20-odd developers is scanning the Bitcoin ecosystem for AI-discoverable flaws, warning that cheap, powerful models have handed attackers unprecedented reach.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376271",
-    "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376271/chatgpt-web-ai-written-pew",
-    "timestamp": "2026-08-22T13:31:03Z",
-    "summary": "Pew Research scanned nearly half a million webpages with an AI detector and found the fingerprints concentrated on .com domains\u2014and multiplying fast.",
     "source": "Decrypt"
   }
 ]
