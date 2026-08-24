@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-24T17:48:44Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%",
     "platform": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "ECB defends digital euro privacy as CBDCs face global scrutiny",
+    "id": "news_coindesk_3bec1516-ea91-4351-a4c5-e92b9b",
+    "title": "Crypto political group details list of U.S. congressional allies its backing this year",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/ecb-digital-euro-privacy-cbdcs-global-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-24T11:21:19Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ECB defends digital euro privacy as CBDCs face global scrutiny\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year",
+    "timestamp": "2026-08-24T17:30:10Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_d336df5e-c30a-46c3-a8d5-765fbb",
@@ -190,14 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_5d8a9e9f-1f8c-41b9-a31f-bfee55",
-    "title": "Fed experiment shows how bitcoin rallies attract new crypto buyers",
+    "id": "news_decrypt_https://decrypt.co/?p=376375",
+    "title": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/24/fed-experiment-shows-how-bitcoin-rallies-attract-new-crypto-buyers",
-    "timestamp": "2026-08-24T09:56:17Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376375/hypeliquid-price-record-high-token-unlock",
+    "timestamp": "2026-08-24T18:30:27Z",
+    "summary": "Hyperliquid's token is riding a record into its largest remaining supply release.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376372",
+    "title": "Zcash Hits Eight-Year High as Futures Bets Nearly Double",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376372/zcash-eight-year-high-price-futures-bets",
+    "timestamp": "2026-08-24T17:50:35Z",
+    "summary": "ZEC broke above $880 while open interest in perpetual futures climbed to $1.8 billion.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376349",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
     "timestamp": "2026-08-23T14:31:04Z",
     "summary": "The breakthrough could come from AI models that help robots understand and interact with the physical world, though widespread adoption may still be years away.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376287",
-    "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
-    "timestamp": "2026-08-22T17:31:03Z",
-    "summary": "The Entra ID flaw earned the highest possible severity score, but Microsoft says it patched the bug before publishing the CVE and found no evidence it was ever exploited.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376296",
-    "title": "AI Has Made Bitcoin Software a Target\u2014This Group Is Fighting Back",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
-    "timestamp": "2026-08-22T15:31:04Z",
-    "summary": "A group of 20-odd developers is scanning the Bitcoin ecosystem for AI-discoverable flaws, warning that cheap, powerful models have handed attackers unprecedented reach.",
     "source": "Decrypt"
   }
 ]
