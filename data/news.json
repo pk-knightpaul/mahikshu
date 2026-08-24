@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Term Finance loses estimated $8.5M in vault governance exploit",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-24T03:59:29Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Term Finance loses estimated $8.5M in vault governance exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/maga",
     "title": "We are so back! Bitcoin\u2019s 23% rally on US debt policy: Hodler\u2019s Digest",
     "platform": "news",
@@ -90,14 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
+    "id": "news_coindesk_783efe53-9f8a-461b-b107-608d10",
+    "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-21T16:11:07Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump\" class=\"type:primaryImage\" src=\"https://s3-images.c...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push",
+    "timestamp": "2026-08-24T04:45:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_1e9b87b3-3341-40ab-9c22-d1f01a",
+    "title": "Crypto holds big weekly rally as Warsh\u2019s Jackson Hole debut comes into focus",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/24/crypto-holds-big-weekly-rally-as-warsh-s-jackson-hole-debut-comes-into-focus",
+    "timestamp": "2026-08-24T04:41:28Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_fde2f69c-d2e2-4109-8824-b6e5f8",
@@ -176,26 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
     "timestamp": "2026-08-22T13:30:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_335d5441-22f3-4394-8f60-4f9f3b",
-    "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
-    "timestamp": "2026-08-22T12:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_f264d81c-1770-461c-ba29-2ab743",
-    "title": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to \u2018next bitcoin\u2019 buzz",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
-    "timestamp": "2026-08-22T05:37:43Z",
     "summary": "",
     "source": "CoinDesk"
   },
