@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-24T21:33:13Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets\" class=\"type:primaryImage\" src...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Gemini plans to distribute crypto prediction markets through Apex brokerages",
     "platform": "news",
     "type": "news",
@@ -87,16 +97,6 @@
     "url": "https://cointelegraph.com/news/bitmine-eth-holdings-5-percent-ether-price-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-24T15:29:26Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine extends 14-month ETH buying pace as Ether breaks above $2.5K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Zondacrypto boss seeks leniency for testimony on political ties: Report",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/zondacrypto-ceo-seeks-leniency-testimony-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-24T14:00:51Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zondacrypto boss seeks leniency for testimony on political ties: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=376415",
+    "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
+    "timestamp": "2026-08-24T22:16:04Z",
+    "summary": "The open-source AI hub is fielding buyout interest at nearly triple its 2023 valuation, weeks after a security breach and days after Stripe's OpenRouter deal reset the price of AI infrastructure.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376416",
+    "title": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares",
+    "timestamp": "2026-08-24T21:28:30Z",
+    "summary": "The company increased its Bitcoin holdings by 5.5%, but its Bitcoin per fully diluted share rose only about 1.4%.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=376396",
     "title": "AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/376321/morning-minute-saylors-strategy-back-in-green-as-btc-soars-to-78k",
     "timestamp": "2026-08-24T12:54:23Z",
     "summary": "Bitcoin just closed its biggest weekly candle of all time in notional value, and 10 alt leaders put up 50%+ gains in massive crypto rebound.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376325",
-    "title": "Strategy Raises $2B Selling MSTR Stock, Establishes 'USD Cash' Pot",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376325/strategy-raises-2b-selling-mstr-stock-establishes-usd-cash-pot",
-    "timestamp": "2026-08-24T12:49:33Z",
-    "summary": "The company has not bought Bitcoin since June, and has now created a liquidity account it said may be spent on more of it.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376318",
-    "title": "Pakistan Sets September 5 Deadline for Crypto Firms to Register",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376318/pakistan-sets-september-5-deadline-for-crypto-firms-to-register",
-    "timestamp": "2026-08-24T12:14:27Z",
-    "summary": "Anyone serving Pakistani users since March must apply for clearance by September 5, then incorporate locally to keep going.",
     "source": "Decrypt"
   }
 ]
