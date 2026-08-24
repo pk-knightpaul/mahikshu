@@ -1,6 +1,36 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-24T20:00:39Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bernstein sees new USDC growth cycle, sets $140 Circle price target\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-24T19:58:34Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Coinbase-affiliated advocacy group endorses candidates for US midterms",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-24T19:18:06Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase-affiliated advocacy group endorses candidates for US midterms\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
     "platform": "news",
     "type": "news",
@@ -70,34 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
+    "id": "news_coindesk_bf198ca8-99d8-4e0b-a59d-982639",
+    "title": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-24T12:55:25Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Strategy launches $1.6B cash pool after $2B common shares raise, maintains hold on BTC buys",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/strategy-2-billion-raise-strc-136-million-bitcoin-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-24T12:45:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy launches $1.6B cash pool after $2B common shares raise, maintains hold on BTC buys \" class=\"type:primaryImage\" src=\"htt...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Japan\u2019s SBI leads $68M Fasset round at $1B valuation",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-24T11:25:26Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japan\u2019s SBI leads $68M Fasset round at $1B valuation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
+    "timestamp": "2026-08-24T19:36:36Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_3bec1516-ea91-4351-a4c5-e92b9b",
@@ -190,14 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_64b5aa26-d853-4a4d-a537-0a1590",
-    "title": "Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years",
+    "id": "news_decrypt_https://decrypt.co/?p=376394",
+    "title": "Why the Bitcoin Rally Looks Like a Vote Against the Dollar",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-steadies-near-usd78-000-as-gold-rallies-altcoins-consolidate-after-best-week-in-3-years",
-    "timestamp": "2026-08-24T10:41:46Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376394/bitcoins-price-rally-trade-against-dollar",
+    "timestamp": "2026-08-24T20:16:03Z",
+    "summary": "Bitcoin and gold rose as the dollar weakened following expanded Treasury bond buybacks, reflecting concerns about U.S. fiscal policy, analysts say.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376393",
+    "title": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum",
+    "timestamp": "2026-08-24T19:43:43Z",
+    "summary": "The tokens represent shares held by regulated custodian Alpaca and can be traded or used in decentralized finance applications on Base.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376375",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/376315/bitcoins-next-test-is-80000-as-jackson-hole-meeting-looms",
     "timestamp": "2026-08-24T10:49:00Z",
     "summary": "Kevin Warsh gives his first Jackson Hole keynote as Fed chair on Friday, with futures now pricing a September rate hike at 36%.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376295",
-    "title": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376295/religious-books-amazon-ai-written-study",
-    "timestamp": "2026-08-23T16:31:04Z",
-    "summary": "Witchcraft books had the highest rate of likely AI-generated content at 78%, according to an Originality.ai analysis of more than 2,000 titles.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376265",
-    "title": "Robot Brains Could Have Their \u2018ChatGPT Moment\u2019 by 2027, ACE Robotics Chairman Says",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
-    "timestamp": "2026-08-23T14:31:04Z",
-    "summary": "The breakthrough could come from AI models that help robots understand and interact with the physical world, though widespread adoption may still be years away.",
     "source": "Decrypt"
   }
 ]
