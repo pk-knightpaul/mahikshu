@@ -1,5 +1,35 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/feat",
+    "title": "Hugging Face hack exposes the open-weight AI cybersecurity paradox",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/features/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-25T13:30:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hugging Face hack exposes the open-weight AI cybersecurity paradox\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-25T13:19:39Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Chainalysis-led operation flags 7,700 accounts in child abuse probe",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/chainalysis-operation-lighthouse-flags-7700-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-25T13:00:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chainalysis-led operation flags 7,700 accounts in child abuse probe \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "India plans first tokenized bonds using wholesale CBDC: Report",
     "platform": "news",
@@ -70,34 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B",
+    "id": "news_coindesk_db33bed8-7f74-4e6f-9c29-94f1ef",
+    "title": "MiCA revolutionised European crypto, and left Poland licking its wounds",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-etf-six-day-inflow-streak-2-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-25T07:38:29Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/opinion/2026/08/24/mica-revolutionised-european-crypto-and-left-poland-licking-its-wounds",
+    "timestamp": "2026-08-25T13:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
+    "id": "news_coindesk_ebf64e72-cad8-44e2-87f6-da823d",
+    "title": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-25T05:48:17Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "US targets Iran\u2019s crypto sector, cites over $100M in oil-linked payments",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-25T05:29:29Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US targets Iran\u2019s crypto sector, cites over $100M in oil-linked payments \" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase",
+    "timestamp": "2026-08-25T13:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_7a17f41f-c9ff-489b-8a1b-b4b059",
@@ -176,26 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/08/25/franklin-templeton-and-hashkey-roll-out-u-s-tokenized-money-fund-in-asia",
     "timestamp": "2026-08-25T07:55:18Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_47b72333-89da-490c-a383-cc330e",
-    "title": "Live updates: Bitcoin rejected at $81,000 as 50-week moving average caps rally",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
-    "timestamp": "2026-08-25T07:40:11Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_be3093e6-2e49-4bf8-9a6b-e083e5",
-    "title": "Treasury\u2019s bond buyback plan fights the market and heightens the danger, billionaire Druckenmiller says",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/25/governments-defending-prices-against-fundamentals-always-lose-billionaire-investor-druckenmiller-says",
-    "timestamp": "2026-08-25T07:32:32Z",
     "summary": "",
     "source": "CoinDesk"
   },
