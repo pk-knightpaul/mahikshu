@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Strategy\u2019s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-25T16:47:40Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy\u2019s $66B Bitcoin machine hinges on capital markets, not BTC price: Report\" class=\"type:primaryImage\" src=\"https://s3-imag...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Bitwise launches self-custodied tokenized stock portfolios with Coinbase",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/bitwise-launches-self-custodied-tokenized-stock-portfolios-with-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-25T16:32:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitwise launches self-custodied tokenized stock portfolios with Coinbase \" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "DGrid AI token jumps 93% after launch as decentralized AI network goes live",
     "platform": "news",
     "type": "news",
@@ -77,26 +97,6 @@
     "url": "https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-25T11:57:33Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Shipyard winds down IPFS work after Protocol Labs ends funding\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-25T10:49:43Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend\" class=\"type:primaryImage\" src=\"https:/...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Thailand moves closer to Bitcoin, Ether ETFs with draft rules",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-25T10:20:14Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thailand moves closer to Bitcoin, Ether ETFs with draft rules\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=376489",
+    "title": "Gold Hits Three-Month High as Bitcoin Tests $80,000",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376489/gold-price-three-month-high-bitcoin",
+    "timestamp": "2026-08-25T17:24:54Z",
+    "summary": "Gold extended its August rally as a weaker dollar and falling yields boosted demand, while Bitcoin briefly climbed above $80,000 for the first time since May.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376446",
+    "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here\u2019s Why",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376446/bitcoins-price-rally-outrunning-market",
+    "timestamp": "2026-08-25T16:45:59Z",
+    "summary": "Bitcoin gained roughly 24% this week while the broader crypto market grew by less, a mismatch that shows up clearly in Bitcoin's rising share of the total crypto market.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=376445",
     "title": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey",
     "timestamp": "2026-08-25T09:30:27Z",
     "summary": "The $1.8 trillion manager is putting its onchain money market fund on the Hong Kong exchange's Earn channel.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376415",
-    "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
-    "timestamp": "2026-08-24T22:16:04Z",
-    "summary": "The open-source AI hub is fielding buyout interest at nearly triple its 2023 valuation, weeks after a security breach and days after Stripe's OpenRouter deal reset the price of AI infrastructure.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376416",
-    "title": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares",
-    "timestamp": "2026-08-24T21:28:30Z",
-    "summary": "The company increased its Bitcoin holdings by 5.5%, but its Bitcoin per fully diluted share rose only about 1.4%.",
     "source": "Decrypt"
   }
 ]
