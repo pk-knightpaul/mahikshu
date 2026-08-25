@@ -1,42 +1,12 @@
 [
   {
-    "id": "coingecko_solana",
-    "title": "\ud83d\udd25 Trending: Solana (SOL)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/solana",
-    "timestamp": "2026-08-25T01:00:16.352615Z",
-    "summary": "Market cap rank #7. Price: $0.00127514 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
     "id": "coingecko_zano",
     "title": "\ud83d\udd25 Trending: Zano (ZANO)",
     "platform": "coingecko",
     "type": "trending",
     "url": "https://www.coingecko.com/en/coins/zano",
-    "timestamp": "2026-08-25T01:00:16.352649Z",
-    "summary": "Market cap rank #222. Price: $0.00010602 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_cash-cat",
-    "title": "\ud83d\udd25 Trending: Cash Cat (CASHCAT)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/cash-cat",
-    "timestamp": "2026-08-25T01:00:16.352655Z",
-    "summary": "Market cap rank #162. Price: $0.00000281 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_pump-fun",
-    "title": "\ud83d\udd25 Trending: Pump.fun (PUMP)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pump-fun",
-    "timestamp": "2026-08-25T01:00:16.352660Z",
-    "summary": "Market cap rank #49. Price: $0.00000006 BTC. Trending on CoinGecko.",
+    "timestamp": "2026-08-25T02:53:53.812762Z",
+    "summary": "Market cap rank #221. Price: $0.00010478 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
@@ -45,28 +15,8 @@
     "platform": "coingecko",
     "type": "trending",
     "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "timestamp": "2026-08-25T01:00:16.352664Z",
-    "summary": "Market cap rank #1. Price: $0.99877873 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_aerodrome-finance",
-    "title": "\ud83d\udd25 Trending: Aerodrome Finance (AERO)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/aerodrome-finance",
-    "timestamp": "2026-08-25T01:00:16.352667Z",
-    "summary": "Market cap rank #105. Price: $0.00000676 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_hyperliquid",
-    "title": "\ud83d\udd25 Trending: Hyperliquid (HYPE)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/hyperliquid",
-    "timestamp": "2026-08-25T01:00:16.352671Z",
-    "summary": "Market cap rank #10. Price: $0.00099680 BTC. Trending on CoinGecko.",
+    "timestamp": "2026-08-25T02:53:53.812797Z",
+    "summary": "Market cap rank #1. Price: $1.00216365 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
@@ -75,8 +25,38 @@
     "platform": "coingecko",
     "type": "trending",
     "url": "https://www.coingecko.com/en/coins/pons",
-    "timestamp": "2026-08-25T01:00:16.352675Z",
-    "summary": "Market cap rank #387. Price: $0.00000107 BTC. Trending on CoinGecko.",
+    "timestamp": "2026-08-25T02:53:53.812803Z",
+    "summary": "Market cap rank #373. Price: $0.00000112 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_pump-fun",
+    "title": "\ud83d\udd25 Trending: Pump.fun (PUMP)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/pump-fun",
+    "timestamp": "2026-08-25T02:53:53.812808Z",
+    "summary": "Market cap rank #48. Price: $0.00000006 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_cash-cat",
+    "title": "\ud83d\udd25 Trending: Cash Cat (CASHCAT)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/cash-cat",
+    "timestamp": "2026-08-25T02:53:53.812811Z",
+    "summary": "Market cap rank #168. Price: $0.00000258 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_solana",
+    "title": "\ud83d\udd25 Trending: Solana (SOL)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/solana",
+    "timestamp": "2026-08-25T02:53:53.812815Z",
+    "summary": "Market cap rank #7. Price: $0.00125909 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
@@ -85,28 +65,48 @@
     "platform": "coingecko",
     "type": "trending",
     "url": "https://www.coingecko.com/en/coins/lighter",
-    "timestamp": "2026-08-25T01:00:16.352678Z",
-    "summary": "Market cap rank #77. Price: $0.00004306 BTC. Trending on CoinGecko.",
+    "timestamp": "2026-08-25T02:53:53.812818Z",
+    "summary": "Market cap rank #77. Price: $0.00004223 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
-    "id": "coingecko_ethereum",
-    "title": "\ud83d\udd25 Trending: Ethereum (ETH)",
+    "id": "coingecko_aerodrome-finance",
+    "title": "\ud83d\udd25 Trending: Aerodrome Finance (AERO)",
     "platform": "coingecko",
     "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/ethereum",
-    "timestamp": "2026-08-25T01:00:16.352684Z",
-    "summary": "Market cap rank #2. Price: $0.03129732 BTC. Trending on CoinGecko.",
+    "url": "https://www.coingecko.com/en/coins/aerodrome-finance",
+    "timestamp": "2026-08-25T02:53:53.812822Z",
+    "summary": "Market cap rank #101. Price: $0.00000704 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
-    "id": "coingecko_zcash",
-    "title": "\ud83d\udd25 Trending: Zcash (ZEC)",
+    "id": "coingecko_injective-protocol",
+    "title": "\ud83d\udd25 Trending: Injective (INJ)",
     "platform": "coingecko",
     "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/zcash",
-    "timestamp": "2026-08-25T01:00:16.352688Z",
-    "summary": "Market cap rank #12. Price: $0.01052823 BTC. Trending on CoinGecko.",
+    "url": "https://www.coingecko.com/en/coins/injective-protocol",
+    "timestamp": "2026-08-25T02:53:53.812825Z",
+    "summary": "Market cap rank #99. Price: $0.00007381 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_monad",
+    "title": "\ud83d\udd25 Trending: Monad (MON)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/monad",
+    "timestamp": "2026-08-25T02:53:53.812829Z",
+    "summary": "Market cap rank #119. Price: $0.00000040 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_hyperliquid",
+    "title": "\ud83d\udd25 Trending: Hyperliquid (HYPE)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/hyperliquid",
+    "timestamp": "2026-08-25T02:53:53.812833Z",
+    "summary": "Market cap rank #10. Price: $0.00099689 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
@@ -115,38 +115,38 @@
     "platform": "coingecko",
     "type": "trending",
     "url": "https://www.coingecko.com/en/coins/velvet",
-    "timestamp": "2026-08-25T01:00:16.352691Z",
-    "summary": "Market cap rank #346. Price: $0.00000186 BTC. Trending on CoinGecko.",
+    "timestamp": "2026-08-25T02:53:53.812836Z",
+    "summary": "Market cap rank #355. Price: $0.00000181 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
-    "id": "coingecko_ethena",
-    "title": "\ud83d\udd25 Trending: Ethena (ENA)",
+    "id": "coingecko_ethereum",
+    "title": "\ud83d\udd25 Trending: Ethereum (ETH)",
     "platform": "coingecko",
     "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/ethena",
-    "timestamp": "2026-08-25T01:00:16.352694Z",
-    "summary": "Market cap rank #57. Price: $0.00000194 BTC. Trending on CoinGecko.",
+    "url": "https://www.coingecko.com/en/coins/ethereum",
+    "timestamp": "2026-08-25T02:53:53.812839Z",
+    "summary": "Market cap rank #2. Price: $0.03122095 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
-    "id": "coingecko_dog-go-to-the-moon-rune",
-    "title": "\ud83d\udd25 Trending: Dog (Bitcoin) (DOG)",
+    "id": "coingecko_spx6900",
+    "title": "\ud83d\udd25 Trending: SPX6900 (SPX)",
     "platform": "coingecko",
     "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/dog-go-to-the-moon-rune",
-    "timestamp": "2026-08-25T01:00:16.352698Z",
-    "summary": "Market cap rank #239. Price: $0.00000001 BTC. Trending on CoinGecko.",
+    "url": "https://www.coingecko.com/en/coins/spx6900",
+    "timestamp": "2026-08-25T02:53:53.812847Z",
+    "summary": "Market cap rank #114. Price: $0.00000586 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
-    "id": "coingecko_sui",
-    "title": "\ud83d\udd25 Trending: Sui (SUI)",
+    "id": "coingecko_derive",
+    "title": "\ud83d\udd25 Trending: Derive (DRV)",
     "platform": "coingecko",
     "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/sui",
-    "timestamp": "2026-08-25T01:00:16.352701Z",
-    "summary": "Market cap rank #30. Price: $0.00001019 BTC. Trending on CoinGecko.",
+    "url": "https://www.coingecko.com/en/coins/derive",
+    "timestamp": "2026-08-25T02:53:53.812850Z",
+    "summary": "Market cap rank #196. Price: $0.00000191 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   }
 ]
