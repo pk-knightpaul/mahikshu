@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "World Liberty Financial launches USD1 natively on Canton Network",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-25T20:35:10Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"World Liberty Financial launches USD1 natively on Canton Network\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Here\u2019s what happened in crypto today",
     "platform": "news",
     "type": "news",
@@ -87,16 +97,6 @@
     "url": "https://cointelegraph.com/features/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-25T13:30:00Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hugging Face hack exposes the open-weight AI cybersecurity paradox\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Chainalysis-led operation flags 7,700 accounts in child abuse probe",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/chainalysis-operation-lighthouse-flags-7700-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-25T13:00:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chainalysis-led operation flags 7,700 accounts in child abuse probe \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=376530",
+    "title": "Alibaba to Release Qwen 3.8-Flash-Next as a Preview of What Qwen 4 Will Offer",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376530/alibaba-qwen-3-8-flash-next-preview-qwen-4",
+    "timestamp": "2026-08-25T21:16:04Z",
+    "summary": "Alibaba's Qwen team is teasing its next architecture a day early\u2014and the specs say it runs near-frontier scale on a fraction of the power.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376536",
+    "title": "These Researchers Just Shrunk an AI Model and Somehow Made It Smarter",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376536/researchers-shrink-ai-model-made-smarter",
+    "timestamp": "2026-08-25T20:46:03Z",
+    "summary": "A smaller, cheaper AI usually means a dumber one. A new technique flipped that\u2014and your phone might be the winner.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=376473",
     "title": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/376441/crypto-fund-founder-convicted-of-fraud-over-fake-trading-bot",
     "timestamp": "2026-08-25T14:56:10Z",
     "summary": "Japheth Dillman told investors that Block Bits Capital's \"Autotrader\" software was finished and running, and took nearly $1 million.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376432",
-    "title": "Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376432/dozens-of-fake-firefox-wallet-extensions-linked-to-crypto-stealing-malware",
-    "timestamp": "2026-08-25T14:10:05Z",
-    "summary": "Forty are confirmed malicious, impersonating OKX, Rabby and TronLink to harvest recovery phrases from anyone who types one in.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376420",
-    "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency",
-    "timestamp": "2026-08-25T12:01:03Z",
-    "summary": "The fund gives brokerage investors exposure to ZEC as Grayscale bets on demand for crypto assets beyond Bitcoin and Ethereum.",
     "source": "Decrypt"
   }
 ]
