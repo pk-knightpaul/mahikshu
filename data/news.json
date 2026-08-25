@@ -100,6 +100,16 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_b5017d65-0ada-4a3f-8787-381f44",
+    "title": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move",
+    "timestamp": "2026-08-25T19:40:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_db5deb43-f461-4a7f-b04b-1956e5",
     "title": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
     "platform": "news",
@@ -190,14 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_24c5b91e-cd0e-4f08-aeab-a01949",
-    "title": "Bitcoin extends 7-day advance to roughly 25%",
+    "id": "news_decrypt_https://decrypt.co/?p=376473",
+    "title": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25",
-    "timestamp": "2026-08-25T10:52:03Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376473/bitcoin-open-interest-price-short-squeeze",
+    "timestamp": "2026-08-25T20:16:04Z",
+    "summary": "Crypto-margined Bitcoin futures have collapsed from near-total dominance to about 12%. But leveraged traders are still placing big bets.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376516",
+    "title": "What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376516/nancy-pelosi-bloom-energy-stock-trade",
+    "timestamp": "2026-08-25T19:46:03Z",
+    "summary": "Pelosi disclosed millions of dollars in Bloom Energy investments weeks after shares and options were purchased through her husband's accounts, including a purchase just before the company reported rec...",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376503",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency",
     "timestamp": "2026-08-25T12:01:03Z",
     "summary": "The fund gives brokerage investors exposure to ZEC as Grayscale bets on demand for crypto assets beyond Bitcoin and Ethereum.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376429",
-    "title": "Morning Minute: Coinbase Puts Tokenized Stocks on Base",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base",
-    "timestamp": "2026-08-25T11:58:22Z",
-    "summary": "These aren\u2019t derivatives tracking stock prices; each token has a direct claim on a share including its rights.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376427",
-    "title": "Jury Convicts Las Vegas Man of $24M AI Crypto Mining Ponzi Scheme",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376427/jury-convicts-las-vegas-man-of-24m-ai-crypto-mining-ponzi-scheme",
-    "timestamp": "2026-08-25T10:50:23Z",
-    "summary": "Brent Kovar told at least 400 investors a supercomputer was mining crypto for them, and that their money was insured by the FDIC.",
     "source": "Decrypt"
   }
 ]
