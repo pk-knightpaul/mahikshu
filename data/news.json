@@ -100,6 +100,26 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_e21d5c1d-c705-4c39-8bfe-7c9651",
+    "title": "U.S. state banking associations plan to launch their own nationwide blockchain network",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
+    "timestamp": "2026-08-25T21:56:57Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_bca68cfc-632b-4af2-9a10-f9aa10",
+    "title": "Zerohash back for second effort at OCC trust bank charter",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter",
+    "timestamp": "2026-08-25T21:38:28Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_b5017d65-0ada-4a3f-8787-381f44",
     "title": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
     "platform": "news",
@@ -180,24 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_75d97200-9046-4cf5-8c96-4a6fb0",
-    "title": "Bitcoin's surging price faces 1 key level that could signal if the bear market is really over",
+    "id": "news_decrypt_https://decrypt.co/?p=376573",
+    "title": "Elon Musk\u2019s SpaceX Plans $100 Billion Louisiana Spaceport",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over",
-    "timestamp": "2026-08-25T11:15:02Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport",
+    "timestamp": "2026-08-25T22:16:03Z",
+    "summary": "The 10-year project in Vermilion Parish will include five launch complexes and infrastructure for Starship missions.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_bc156adf-1003-4260-b097-8c2e83",
-    "title": "A bitcoin short squeeze for the ages as futures open interest collapses",
+    "id": "news_decrypt_https://decrypt.co/?p=376559",
+    "title": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses",
-    "timestamp": "2026-08-25T10:57:02Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376559/xrp-price-cools-where-next",
+    "timestamp": "2026-08-25T21:46:04Z",
+    "summary": "XRP has given back two days of gains after a vertical recovery, and the charts say the bounce just met a wall.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376530",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/376446/bitcoins-price-rally-outrunning-market",
     "timestamp": "2026-08-25T16:45:59Z",
     "summary": "Bitcoin gained roughly 24% this week while the broader crypto market grew by less, a mismatch that shows up clearly in Bitcoin's rising share of the total crypto market.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376445",
-    "title": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376445/crypto-group-regulators-stablecoin-identity-checks",
-    "timestamp": "2026-08-25T16:28:59Z",
-    "summary": "The crypto trade group warned that forcing issuers to verify identities for peer-to-peer wallet transfers would \u201ccripple the industry\u201d as regulators implement the GENIUS Act.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376441",
-    "title": "Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376441/crypto-fund-founder-convicted-of-fraud-over-fake-trading-bot",
-    "timestamp": "2026-08-25T14:56:10Z",
-    "summary": "Japheth Dillman told investors that Block Bits Capital's \"Autotrader\" software was finished and running, and took nearly $1 million.",
     "source": "Decrypt"
   }
 ]
