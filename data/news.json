@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-25T18:34:20Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "Bitcoin enters \u2018initial phase\u2019 of new bull market, but $83K remains key: CryptoQuant",
     "platform": "news",
@@ -77,16 +87,6 @@
     "url": "https://cointelegraph.com/features/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-25T13:30:00Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hugging Face hack exposes the open-weight AI cybersecurity paradox\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-25T13:19:39Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=376503",
+    "title": "Crypto Market Flips From Fear to 'Extreme Greed' for First Time Since 2024",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376503/crypto-fear-greed-index-extreme-greed",
+    "timestamp": "2026-08-25T19:11:04Z",
+    "summary": "The Crypto Fear and Greed Index was at 36, firmly in the fear zone, just a month ago.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376514",
+    "title": "Mistral and HUMAIN Are Building 'Sovereign AI' in Saudi Arabia",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376514/mistral-humain-sovereign-ai-saudi-arabia",
+    "timestamp": "2026-08-25T18:39:26Z",
+    "summary": "Mistral and HUMAIN announced plans to build sovereign AI infrastructure in Saudi Arabia and across the region\u2014a tie-up valued in the hundreds of millions of euros that deepens Gulf money flowing into ...",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=376489",
     "title": "Gold Hits Three-Month High as Bitcoin Tests $80,000",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/376427/jury-convicts-las-vegas-man-of-24m-ai-crypto-mining-ponzi-scheme",
     "timestamp": "2026-08-25T10:50:23Z",
     "summary": "Brent Kovar told at least 400 investors a supercomputer was mining crypto for them, and that their money was insured by the FDIC.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376424",
-    "title": "US Can Now Sanction Anyone Operating in Iran's Crypto Sector",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376424/us-can-now-sanction-anyone-operating-in-irans-crypto-sector",
-    "timestamp": "2026-08-25T10:21:41Z",
-    "summary": "Digital assets are among five sectors in a campaign Treasury called an \u201cEconomic D-Day,\u201d alongside technology, gold, aviation and shipping.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376422",
-    "title": "Franklin Templeton's Tokenized Treasury Fund Lands on HashKey",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey",
-    "timestamp": "2026-08-25T09:30:27Z",
-    "summary": "The $1.8 trillion manager is putting its onchain money market fund on the Hong Kong exchange's Earn channel.",
     "source": "Decrypt"
   }
 ]
