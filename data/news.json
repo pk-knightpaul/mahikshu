@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Bitcoin slips from $80K as gold cools with falling US bond yields",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/bitcoin-slips-from-80k-as-gold-cools-with-falling-us-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-25T15:15:35Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin slips from $80K as gold cools with falling US bond yields\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Arcus launches tokenized perp positions on Robinhood Chain",
     "platform": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved",
+    "id": "news_coindesk_7424f225-5bf8-4ccf-afc2-214129",
+    "title": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-25T08:46:47Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios",
+    "timestamp": "2026-08-25T14:50:22Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_b3d764e2-7a4e-46f4-b294-96e47c",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_91785806-d6bf-454b-b469-290dba",
-    "title": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
+    "id": "news_decrypt_https://decrypt.co/?p=376441",
+    "title": "Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/08/25/u-s-widens-iran-crackdown-to-encompass-crypto-gold-shipping-and-technology",
-    "timestamp": "2026-08-25T08:47:18Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376441/crypto-fund-founder-convicted-of-fraud-over-fake-trading-bot",
+    "timestamp": "2026-08-25T14:56:10Z",
+    "summary": "Japheth Dillman told investors that Block Bits Capital's \"Autotrader\" software was finished and running, and took nearly $1 million.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376432",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
     "timestamp": "2026-08-24T20:46:03Z",
     "summary": "Ox Alpha is topping benchmark scores, reads a million tokens, takes video as input, and has developers guessing who's behind it.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376394",
-    "title": "Why the Bitcoin Rally Looks Like a Vote Against the Dollar",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376394/bitcoins-price-rally-trade-against-dollar",
-    "timestamp": "2026-08-24T20:16:03Z",
-    "summary": "Bitcoin and gold rose as the dollar weakened following expanded Treasury bond buybacks, reflecting concerns about U.S. fiscal policy, analysts say.",
     "source": "Decrypt"
   }
 ]
