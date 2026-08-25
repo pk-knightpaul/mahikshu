@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Standard Chartered becomes first bank distributor of HKD stablecoin",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-25T09:52:40Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered becomes first bank distributor of HKD stablecoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
+    "id": "news_coindesk_81204bc7-7259-48ba-8a47-780e8c",
+    "title": "Solana ETFs extend growth streak to 5 days after year's biggest inflows",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-24T20:00:39Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bernstein sees new USDC growth cycle, sets $140 Circle price target\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/25/solana-etfs-extend-growth-streak-to-5-days-after-year-s-biggest-inflows",
+    "timestamp": "2026-08-25T10:25:32Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_91785806-d6bf-454b-b469-290dba",
@@ -190,14 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_bf198ca8-99d8-4e0b-a59d-982639",
-    "title": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
+    "id": "news_decrypt_https://decrypt.co/?p=376424",
+    "title": "US Can Now Sanction Anyone Operating in Iran's Crypto Sector",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
-    "timestamp": "2026-08-24T19:36:36Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376424/us-can-now-sanction-anyone-operating-in-irans-crypto-sector",
+    "timestamp": "2026-08-25T10:21:41Z",
+    "summary": "Digital assets are among five sectors in a campaign Treasury called an \u201cEconomic D-Day,\u201d alongside technology, gold, aviation and shipping.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376422",
+    "title": "Franklin Templeton's Tokenized Treasury Fund Lands on HashKey",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey",
+    "timestamp": "2026-08-25T09:30:27Z",
+    "summary": "The $1.8 trillion manager is putting its onchain money market fund on the Hong Kong exchange's Earn channel.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376415",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows",
     "timestamp": "2026-08-24T17:07:32Z",
     "summary": "Bitcoin and Ethereum ETFs booked their strongest inflow week since October, but most of the gain came from coins investors already owned getting more valuable.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376336",
-    "title": "Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376336/bitmine-81m-more-ethereum-eth-tops-bitcoin",
-    "timestamp": "2026-08-24T15:43:36Z",
-    "summary": "Bitmine is about 187,000 Ethereum short of its 5% of supply target.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376321",
-    "title": "Morning Minute: Saylor\u2019s Strategy Back in Green As BTC Soars to $78k",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376321/morning-minute-saylors-strategy-back-in-green-as-btc-soars-to-78k",
-    "timestamp": "2026-08-24T12:54:23Z",
-    "summary": "Bitcoin just closed its biggest weekly candle of all time in notional value, and 10 alt leaders put up 50%+ gains in massive crypto rebound.",
     "source": "Decrypt"
   }
 ]
