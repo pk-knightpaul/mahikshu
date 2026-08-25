@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-25T05:48:17Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "US targets Iran\u2019s crypto sector, cites over $100M in oil-linked payments",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-25T05:29:29Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US targets Iran\u2019s crypto sector, cites over $100M in oil-linked payments \" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "BNB Chain activates Pasteur hard fork to strengthen bridge security",
     "platform": "news",
     "type": "news",
@@ -51,16 +71,6 @@
   },
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-24T19:58:34Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Coinbase-affiliated advocacy group endorses candidates for US midterms",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%",
+    "id": "news_coindesk_ec6741d4-e595-4554-897d-ae467b",
+    "title": "Crypto rally spills into dog and cat memecoins as smaller tokens double in a week",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-24T16:44:55Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%\" class=\"type:primaryImage\" src=\"https://s3-ima...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/25/crypto-rally-spills-into-dog-and-cat-memecoins-as-smaller-tokens-double-in-a-week",
+    "timestamp": "2026-08-25T06:26:29Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_8df9bb97-10e5-4c26-a33b-afe54e",
+    "title": "Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-traders-place-usd2-9-million-bet-on-a-rapid-price-jump-above-usd82-000",
+    "timestamp": "2026-08-25T05:51:52Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_6a8be34e-acbc-4968-9462-7074c8",
@@ -176,26 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool",
     "timestamp": "2026-08-24T12:24:58Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_9ea4692b-a1e2-43af-be6b-15c8c9",
-    "title": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
-    "timestamp": "2026-08-24T11:36:55Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_ea64df42-91ed-4502-a6c3-3548bd",
-    "title": "Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline",
-    "timestamp": "2026-08-24T11:19:16Z",
     "summary": "",
     "source": "CoinDesk"
   },
