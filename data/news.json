@@ -1,5 +1,25 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "India plans first tokenized bonds using wholesale CBDC: Report",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-25T12:09:15Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"India plans first tokenized bonds using wholesale CBDC: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Shipyard winds down IPFS work after Protocol Labs ends funding",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-25T11:57:33Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Shipyard winds down IPFS work after Protocol Labs ends funding\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "Bitcoin RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend",
     "platform": "news",
@@ -80,24 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "BNB Chain activates Pasteur hard fork to strengthen bridge security",
+    "id": "news_coindesk_7a17f41f-c9ff-489b-8a1b-b4b059",
+    "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-25T03:56:29Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BNB Chain activates Pasteur hard fork to strengthen bridge security\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
+    "timestamp": "2026-08-25T12:03:55Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/maga",
-    "title": "Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express",
+    "id": "news_coindesk_70413ff1-1091-4d99-99a6-7b56fb",
+    "title": "Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-25T02:03:55Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-i...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison",
+    "timestamp": "2026-08-25T11:46:18Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_75d97200-9046-4cf5-8c96-4a6fb0",
@@ -180,24 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_18b6c378-7b20-42b4-8db2-921130",
-    "title": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
+    "id": "news_decrypt_https://decrypt.co/?p=376420",
+    "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/08/25/monad-proposes-wallet-upgrade-that-could-survive-lost-keys-and-quantum-attacks",
-    "timestamp": "2026-08-25T07:01:49Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency",
+    "timestamp": "2026-08-25T12:01:03Z",
+    "summary": "The fund gives brokerage investors exposure to ZEC as Grayscale bets on demand for crypto assets beyond Bitcoin and Ethereum.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_ec6741d4-e595-4554-897d-ae467b",
-    "title": "Crypto rally spills into dog and cat memecoins as smaller tokens double in a week",
+    "id": "news_decrypt_https://decrypt.co/?p=376429",
+    "title": "Morning Minute: Coinbase Puts Tokenized Stocks on Base",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/25/crypto-rally-spills-into-dog-and-cat-memecoins-as-smaller-tokens-double-in-a-week",
-    "timestamp": "2026-08-25T06:26:29Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base",
+    "timestamp": "2026-08-25T11:58:22Z",
+    "summary": "These aren\u2019t derivatives tracking stock prices; each token has a direct claim on a share including its rights.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376427",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum",
     "timestamp": "2026-08-24T19:43:43Z",
     "summary": "The tokens represent shares held by regulated custodian Alpaca and can be traded or used in decentralized finance applications on Base.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376375",
-    "title": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376375/hypeliquid-price-record-high-token-unlock",
-    "timestamp": "2026-08-24T18:30:27Z",
-    "summary": "Hyperliquid's token is riding a record into its largest remaining supply release.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376372",
-    "title": "Zcash Hits Eight-Year High as Futures Bets Nearly Double",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376372/zcash-eight-year-high-price-futures-bets",
-    "timestamp": "2026-08-24T17:50:35Z",
-    "summary": "ZEC broke above $880 while open interest in perpetual futures climbed to $1.8 billion.",
     "source": "Decrypt"
   }
 ]
