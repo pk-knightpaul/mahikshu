@@ -1,10 +1,30 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/maga",
+    "title": "SEC\u2019s proposed crypto rules probably won\u2019t spark new ICO boom",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/magazine/the-sec-wants-to-bring-back-icos-theres-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-26T13:30:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC\u2019s proposed crypto rules probably won\u2019t spark new ICO boom\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Students want crypto classes but learn on social media: OKX survey",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/students-crypto-classes-learn-social-media-okx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-26T13:00:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Students want crypto classes but learn on social media: OKX survey\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "url": "https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-26T12:32:36Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak\" class=\"type:primaryImage\" src=\"https://s3-images....",
     "source": "CoinTelegraph"
@@ -15,7 +35,7 @@
     "platform": "news",
     "type": "news",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-26T12:24:55Z",
+    "timestamp": "2026-08-26T12:30:00Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
     "source": "CoinTelegraph"
   },
@@ -80,24 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Bitcoin ETFs tear through 2026 outflows in 7-day hot streak",
+    "id": "news_coindesk_a83de4fa-79df-4dc6-9143-514c29",
+    "title": "Ethereum developers propose first step to protect ETH staking from quantum attacks",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-26T07:30:31Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs tear through 2026 outflows in 7-day hot streak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/08/26/ethereum-developers-propose-first-step-to-protect-eth-staking-from-quantum-attacks",
+    "timestamp": "2026-08-26T13:30:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "US state banking groups plan nationwide blockchain network for 2027",
+    "id": "news_coindesk_280b10eb-e8a6-4015-91d8-8ff4c2",
+    "title": "The evidence doesn't support the banks' case against stablecoin rewards",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-26T04:19:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US state banking groups plan nationwide blockchain network for 2027 \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/opinion/2026/08/25/the-evidence-doesn-t-support-the-banks-case-against-stablecoin-rewards",
+    "timestamp": "2026-08-26T13:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_9bb64cb5-44cb-48df-abef-ee3ff2",
@@ -171,7 +191,7 @@
   },
   {
     "id": "news_coindesk_b95dae6a-ae0c-42c7-b839-8d15b6",
-    "title": "Live updates: Bitcoin flat near $78,500 ahead Nvidia earnings",
+    "title": "Live updates: Bitcoin flat near $78,500 ahead of Nvidia earnings",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
@@ -180,24 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_b24e045d-a4d3-45fd-891d-f7847e",
-    "title": "A massive $6.4 billion bitcoin options expiry on Friday could amplify volatility",
+    "id": "news_decrypt_https://decrypt.co/?p=376590",
+    "title": "Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/25/a-massive-usd6-4-billion-bitcoin-options-expiry-on-friday-could-amplify-volatility",
-    "timestamp": "2026-08-26T08:01:09Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_43baf795-fe20-4a4f-a3af-2f56d0",
-    "title": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/26/E",
-    "timestamp": "2026-08-26T05:52:53Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376590/digital-euro-will-offer-maximum-level-of-privacy-ecb-board-member-says",
+    "timestamp": "2026-08-26T12:51:03Z",
+    "summary": "Piero Cipollone said the Eurosystem would not be able to link individuals to transactions, though the banks handling them still could.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376575",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/376516/nancy-pelosi-bloom-energy-stock-trade",
     "timestamp": "2026-08-25T19:46:03Z",
     "summary": "Pelosi disclosed millions of dollars in Bloom Energy investments weeks after shares and options were purchased through her husband's accounts, including a purchase just before the company reported rec...",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376503",
-    "title": "Crypto Market Flips From Fear to 'Extreme Greed' for First Time Since 2024",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376503/crypto-fear-greed-index-extreme-greed",
-    "timestamp": "2026-08-25T19:11:04Z",
-    "summary": "The Crypto Fear and Greed Index was at 36, firmly in the fear zone, just a month ago.",
     "source": "Decrypt"
   }
 ]
