@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Tornado Cash developer Roman Storm\u2019s retrial delayed to April 2027",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-26T07:44:04Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tornado Cash developer Roman Storm\u2019s retrial delayed to April 2027\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Bitcoin ETFs tear through 2026 outflows in 7-day hot streak",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin slips from $80K as gold cools with falling US bond yields",
+    "id": "news_coindesk_b24e045d-a4d3-45fd-891d-f7847e",
+    "title": "A massive $6.4 billion bitcoin options expiry on Friday could amplify volatility",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-slips-from-80k-as-gold-cools-with-falling-us-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-25T15:15:35Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin slips from $80K as gold cools with falling US bond yields\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/25/a-massive-usd6-4-billion-bitcoin-options-expiry-on-friday-could-amplify-volatility",
+    "timestamp": "2026-08-26T08:01:09Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_43baf795-fe20-4a4f-a3af-2f56d0",
@@ -186,16 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios",
     "timestamp": "2026-08-25T14:50:22Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_b3d764e2-7a4e-46f4-b294-96e47c",
-    "title": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/25/crypto-custody-firm-copper-has-potential-buyers-but-offers-are-way-below-its-usd500-million-asking-price",
-    "timestamp": "2026-08-25T13:48:50Z",
     "summary": "",
     "source": "CoinDesk"
   },
