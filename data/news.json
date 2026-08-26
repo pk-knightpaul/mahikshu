@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Better launches Bitcoin-backed mortgages powered by Coinbase",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/better-launches-bitcoin-backed-mortgages-powered-by-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-26T20:09:23Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Better launches Bitcoin-backed mortgages powered by Coinbase\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-26T19:14:06Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Chainalysis estimates $457B in taxable crypto activity, says CARF misses most",
     "platform": "news",
     "type": "news",
@@ -80,28 +100,18 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
+    "id": "news_coindesk_15d3b370-a61c-467d-b6eb-0efc68",
+    "title": "Nvidia tops earnings estimates, guides to $108 billion in revenue next quarter",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-26T12:30:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Taurus links digital asset platforms to Swift\u2019s blockchain ledger",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-26T12:00:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Taurus links digital asset platforms to Swift\u2019s blockchain ledger\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/08/26/nvidia-tops-earnings-estimates-guides-to-usd108-billion-in-revenue-next-quarter",
+    "timestamp": "2026-08-26T20:24:31Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_7ab8f016-52d0-4d74-9455-6e2c46",
-    "title": "Shinhan and Visa team up to test stablecoin issuance and B2B settlements in South Korea",
+    "title": "South Korea\u2019s top financial conglomerate team up with Visa to test stablecoin issuance and B2B settlements",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure",
@@ -190,14 +200,34 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_5c1ef458-a90c-497e-963d-21cf93",
-    "title": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
+    "id": "news_decrypt_https://decrypt.co/?p=376649",
+    "title": "What Traders Are Watching for Bitcoin's Next Move",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe",
-    "timestamp": "2026-08-26T10:03:43Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376649/what-traders-watching-bitcoin-next-move",
+    "timestamp": "2026-08-26T20:22:17Z",
+    "summary": "Bitcoin's monster rally just hit its first real test. Here's why each catalyst matters and how they could move the price from here.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376646",
+    "title": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana",
+    "timestamp": "2026-08-26T19:56:03Z",
+    "summary": "GalaxyOne clients can borrow cash against Bitcoin, Ethereum, and staked Solana at 8.99% APR without selling a coin.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376644",
+    "title": "US Banks Join Forces to Build a Blockchain of Their Own",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376644/banks-build-blockchain-bankchain-alliance",
+    "timestamp": "2026-08-26T19:21:25Z",
+    "summary": "The BankChain Alliance aims to give smaller financial institutions access to tokenized deposits and blockchain payments through a shared network targeted for 2027.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376641",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/376599/ethereum-devs-propose-deposit-contract-overhaul-to-quantum-proof-staking",
     "timestamp": "2026-08-26T15:04:58Z",
     "summary": "The proposal would let validator keys grow to 8,192 bytes and adds a switch that permanently retires today's BLS signatures.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376590",
-    "title": "Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376590/digital-euro-will-offer-maximum-level-of-privacy-ecb-board-member-says",
-    "timestamp": "2026-08-26T12:51:03Z",
-    "summary": "Piero Cipollone said the Eurosystem would not be able to link individuals to transactions, though the banks handling them still could.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376575",
-    "title": "Revolut Launches Euro-Pegged EURR Stablecoin",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376575/revolut-launches-euro-pegged-eurr-stablecoin",
-    "timestamp": "2026-08-26T12:31:13Z",
-    "summary": "EURR has gone live for selected customers in Denmark, Poland and Portugal, with a Luxembourg subsidiary of Stripe holding the reserves.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376580",
-    "title": "Morning Minute: LayerZero Announces ATLAS as New Settlement Engine",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376580/morning-minute-layerzero-announces-atlas-as-new-settlement-engine",
-    "timestamp": "2026-08-26T11:50:27Z",
-    "summary": "The market liked the news, with ZRO up 10% and jumping nearly 50% off its local bottom.",
     "source": "Decrypt"
   }
 ]
