@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Revolut rolls out euro stablecoin in three European markets",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-26T08:45:41Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut rolls out euro stablecoin in three European markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Tornado Cash developer Roman Storm\u2019s retrial delayed to April 2027",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "DGrid AI token jumps 93% after launch as decentralized AI network goes live",
+    "id": "news_coindesk_ddccd593-0e79-4ad0-92c4-9a7311",
+    "title": "Japan targets early 2030s launch for blockchain-based stock and bond settlement system",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/dgrid-ai-token-jumps-96-after-launch-as-decentralized-ai-network-goes-live?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-25T15:53:05Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DGrid AI token jumps 93% after launch as decentralized AI network goes live\" class=\"type:primaryImage\" src=\"https://s3-images.ct...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds",
+    "timestamp": "2026-08-26T09:06:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_b95dae6a-ae0c-42c7-b839-8d15b6",
+    "title": "Live updates: Zcash pulls back 8% as its Grayscale ETF goes live, capping a 60% rally",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
+    "timestamp": "2026-08-26T08:51:18Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_b24e045d-a4d3-45fd-891d-f7847e",
@@ -176,26 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move",
     "timestamp": "2026-08-25T19:40:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_db5deb43-f461-4a7f-b04b-1956e5",
-    "title": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges",
-    "timestamp": "2026-08-25T16:22:47Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_7424f225-5bf8-4ccf-afc2-214129",
-    "title": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios",
-    "timestamp": "2026-08-25T14:50:22Z",
     "summary": "",
     "source": "CoinDesk"
   },
