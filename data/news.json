@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-26T06:04:55Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "US banking groups plan nationwide blockchain network for 2027",
     "platform": "news",
     "type": "news",
@@ -17,16 +27,6 @@
     "url": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-25T20:35:10Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"World Liberty Financial launches USD1 natively on Canton Network\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-25T18:34:20Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
     "source": "CoinTelegraph"
   },
   {
@@ -98,6 +98,16 @@
     "timestamp": "2026-08-25T14:00:00Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Arcus launches tokenized perp positions on Robinhood Chain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar...",
     "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_coindesk_43baf795-fe20-4a4f-a3af-2f56d0",
+    "title": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/26/E",
+    "timestamp": "2026-08-26T05:52:53Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_d5b875e0-c696-49a6-8f2a-dc881d",
@@ -186,16 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/08/25/crypto-custody-firm-copper-has-potential-buyers-but-offers-are-way-below-its-usd500-million-asking-price",
     "timestamp": "2026-08-25T13:48:50Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_db33bed8-7f74-4e6f-9c29-94f1ef",
-    "title": "MiCA revolutionised European crypto, and left Poland licking its wounds",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/opinion/2026/08/24/mica-revolutionised-european-crypto-and-left-poland-licking-its-wounds",
-    "timestamp": "2026-08-25T13:00:00Z",
     "summary": "",
     "source": "CoinDesk"
   },
