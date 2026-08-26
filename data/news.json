@@ -1,12 +1,22 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Revolut rolls out euro stablecoin in three European markets",
+    "title": "Kalshi\u2019s $1.5B equity offering is three-quarters sold at $1.12B",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/kalshi-1-5-billion-equity-offering-1-12-billion-sold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-26T10:15:44Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi\u2019s $1.5B equity offering is three-quarters sold at $1.12B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Revolut rolls out euro stablecoin in 3 European markets",
     "platform": "news",
     "type": "news",
     "url": "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-26T08:45:41Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut rolls out euro stablecoin in three European markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a...",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut rolls out euro stablecoin in 3 European markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/artic...",
     "source": "CoinTelegraph"
   },
   {
@@ -90,18 +100,18 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Bitwise launches self-custodied tokenized stock portfolios with Coinbase",
+    "id": "news_coindesk_5c1ef458-a90c-497e-963d-21cf93",
+    "title": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/bitwise-launches-self-custodied-tokenized-stock-portfolios-with-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-25T16:32:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitwise launches self-custodied tokenized stock portfolios with Coinbase \" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe",
+    "timestamp": "2026-08-26T10:03:43Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_ddccd593-0e79-4ad0-92c4-9a7311",
-    "title": "Japan targets early 2030s launch for blockchain-based stock and bond settlement system",
+    "title": "Japan to start stocks and bonds tokenization development plans this year",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds",
@@ -186,16 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter",
     "timestamp": "2026-08-25T21:38:28Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_b5017d65-0ada-4a3f-8787-381f44",
-    "title": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move",
-    "timestamp": "2026-08-25T19:40:00Z",
     "summary": "",
     "source": "CoinDesk"
   },
