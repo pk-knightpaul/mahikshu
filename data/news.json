@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Chainalysis estimates $457B in taxable crypto activity, says CARF misses most",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/chainalysis-estimates-457b-in-potentially-taxable-crypto-activity-says-carf-misses-most-onchain-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-26T17:48:34Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chainalysis estimates $457B in taxable crypto activity, says CARF misses most\" class=\"type:primaryImage\" src=\"https://s3-images....",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "SEC sends crypto custody rule overhaul to White House for review",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-26T16:19:09Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC sends crypto custody rule overhaul to White House for review\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "77% of Americans see crypto in retirement plans as risky: Survey",
     "platform": "news",
     "type": "news",
@@ -77,26 +97,6 @@
     "url": "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-26T12:00:00Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Taurus links digital asset platforms to Swift\u2019s blockchain ledger\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Supply absorption \u2018key question\u2019 as Bitcoin fails to reclaim $80K: Analysis",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/markets/supply-absorption-key-question-as-bitcoin-fails-to-reclaim-80k-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-26T10:49:26Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Supply absorption \u2018key question\u2019 as Bitcoin fails to reclaim $80K: Analysis\" class=\"type:primaryImage\" src=\"https://s3-images.ct...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Japan weighs blockchain fast lane for securities cash settlement",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/japan-weighs-blockchain-fast-lane-for-securities-cash-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-26T10:46:47Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japan weighs blockchain fast lane for securities cash settlement\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,56 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=376641",
+    "title": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376641/bitcoin-wallets-dormant-decade-move-40m",
+    "timestamp": "2026-08-26T18:44:17Z",
+    "summary": "Six wallets that slept through Bitcoin's entire boom woke up between Aug. 16 and Aug. 26, moving tens of millions in BTC.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376619",
+    "title": "Solana Treasury Firm Invites Investors to Look 'Beyond the Price of SOL'",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376619/solana-treasury-sol-data-beyond-price",
+    "timestamp": "2026-08-26T17:52:22Z",
+    "summary": "Nasdaq-listed SOL treasury company DeFi Development Corp launched a free network dashboard on Wednesday. Its pitch: judge Solana on more than just price.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376631",
+    "title": "'The Government Doesn't Own Our Data': Prosecuted GrapheneOS User",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376631/the-government-doesnt-own-our-data-prosecuted-grapheneos-user",
+    "timestamp": "2026-08-26T17:24:52Z",
+    "summary": "Samuel Tunick, facing five years over a wiped phone, said he was secretly placed on a watch list as a suspected terrorist.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376617",
+    "title": "Crypto CEO Faces US Extradition Over Alleged $20 Million Token Scheme",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376617/crypto-ceo-extradition-20-million-scheme",
+    "timestamp": "2026-08-26T17:15:33Z",
+    "summary": "Manpreet Kohli, accused of making $20 million from an alleged scheme to manipulate the Saitama token, is a step closer to facing trial in Boston.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376609",
+    "title": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376609/tokenized-deposits-bank-lending-dallas-fed",
+    "timestamp": "2026-08-26T16:18:24Z",
+    "summary": "A shift toward faster, more rate-sensitive deposits could push banks into safer assets, constrain lending, and raise borrowing costs, Dallas Fed researchers said.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=376601",
     "title": "XRP Leads Crypto Pullback as Leverage Unwind Tests Rally",
     "platform": "news",
@@ -247,56 +297,6 @@
     "url": "https://decrypt.co/376580/morning-minute-layerzero-announces-atlas-as-new-settlement-engine",
     "timestamp": "2026-08-26T11:50:27Z",
     "summary": "The market liked the news, with ZRO up 10% and jumping nearly 50% off its local bottom.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376577",
-    "title": "Roman Storm's Tornado Cash Retrial Pushed to April 2027",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376577/roman-storms-tornado-cash-retrial-pushed-to-april-2027",
-    "timestamp": "2026-08-26T10:42:35Z",
-    "summary": "Judge Katherine Polk Failla adjourned the retrial by more than six months, with Storm's motion for acquittal still undecided.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376573",
-    "title": "Elon Musk\u2019s SpaceX Plans $100 Billion Louisiana Spaceport",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport",
-    "timestamp": "2026-08-25T22:16:03Z",
-    "summary": "The 10-year project in Vermilion Parish will include five launch complexes and infrastructure for Starship missions.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376559",
-    "title": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376559/xrp-price-cools-where-next",
-    "timestamp": "2026-08-25T21:46:04Z",
-    "summary": "XRP has given back two days of gains after a vertical recovery, and the charts say the bounce just met a wall.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376530",
-    "title": "Alibaba to Release Qwen 3.8-Flash-Next as a Preview of What Qwen 4 Will Offer",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376530/alibaba-qwen-3-8-flash-next-preview-qwen-4",
-    "timestamp": "2026-08-25T21:16:04Z",
-    "summary": "Alibaba's Qwen team is teasing its next architecture a day early\u2014and the specs say it runs near-frontier scale on a fraction of the power.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376536",
-    "title": "These Researchers Just Shrunk an AI Model and Somehow Made It Smarter",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376536/researchers-shrink-ai-model-made-smarter",
-    "timestamp": "2026-08-25T20:46:03Z",
-    "summary": "A smaller, cheaper AI usually means a dumber one. A new technique flipped that\u2014and your phone might be the winner.",
     "source": "Decrypt"
   }
 ]
