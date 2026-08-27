@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/maga",
+    "title": "SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/magazine/shrincs-bip-is-published-quantum-secure-bitcoin-comes-with-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-27T01:26:54Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Better launches Bitcoin-backed mortgages powered by Coinbase",
     "platform": "news",
@@ -90,18 +100,18 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak",
+    "id": "news_coindesk_fa2f0b17-516a-473d-a5be-95ffa1",
+    "title": "SEC resurrecting U.S. crypto custody rule the previous administration failed to land",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-26T12:32:36Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak\" class=\"type:primaryImage\" src=\"https://s3-images....",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/news-analysis/2026/08/26/sec-resurrecting-u-s-crypto-custody-rule-the-previous-administration-failed-to-land",
+    "timestamp": "2026-08-26T23:01:44Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_15d3b370-a61c-467d-b6eb-0efc68",
-    "title": "Nvidia tops earnings estimates, guides to $108 billion in revenue next quarter",
+    "title": "Nvidia shares rise after earnings top estimates, guides to $108 billion in revenue next quarter",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/08/26/nvidia-tops-earnings-estimates-guides-to-usd108-billion-in-revenue-next-quarter",
@@ -190,14 +200,34 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_bb4b9500-18d0-4472-8675-cc6689",
-    "title": "Strategy cuts net leverage to near zero as cash nearly matches convertible debt",
+    "id": "news_decrypt_https://decrypt.co/?p=376662",
+    "title": "Russian Influence Network Used ChatGPT to Masquerade as Academic Experts",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/26/strategy-cuts-net-leverage-to-near-zero-as-cash-nearly-matches-convertible-debt",
-    "timestamp": "2026-08-26T10:42:52Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376662/russia-chatgpt-influence-campaign",
+    "timestamp": "2026-08-26T22:46:03Z",
+    "summary": "The operation promoted a purported Israeli think tank that published copied scholarship under academics\u2019 names and circulated pro-Russian analysis across social media.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376663",
+    "title": "Bill Gates Wants a Robot Tax and Jobs Humans Can't Be Fired From",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376663/bill-gates-robot-tax-jobs-humans-cant-be-fired",
+    "timestamp": "2026-08-26T22:16:03Z",
+    "summary": "Gates is calling for AI tokens and robots to be taxed so firms think twice before swapping out workers, plus a bracket of \"human reserved\" roles that stay off-limits to automation.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376664",
+    "title": "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376664/nvidia-shares-surge-record-q2-revenue",
+    "timestamp": "2026-08-26T21:42:42Z",
+    "summary": "The chipmaker doubled quarterly revenue while disclosing $366 billion in future commitments and up to $108.5 billion in guarantee exposure.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376649",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/376617/crypto-ceo-extradition-20-million-scheme",
     "timestamp": "2026-08-26T17:15:33Z",
     "summary": "Manpreet Kohli, accused of making $20 million from an alleged scheme to manipulate the Saitama token, is a step closer to facing trial in Boston.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376609",
-    "title": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376609/tokenized-deposits-bank-lending-dallas-fed",
-    "timestamp": "2026-08-26T16:18:24Z",
-    "summary": "A shift toward faster, more rate-sensitive deposits could push banks into safer assets, constrain lending, and raise borrowing costs, Dallas Fed researchers said.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376601",
-    "title": "XRP Leads Crypto Pullback as Leverage Unwind Tests Rally",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376601/xrp-price-leverage-unwind-tests-rally",
-    "timestamp": "2026-08-26T15:29:49Z",
-    "summary": "XRP led losses among the 10 biggest cryptocurrencies today. The charts show the real test for its rally is only getting started.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376599",
-    "title": "Ethereum Devs Propose Deposit Contract Overhaul to Quantum-Proof Staking",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376599/ethereum-devs-propose-deposit-contract-overhaul-to-quantum-proof-staking",
-    "timestamp": "2026-08-26T15:04:58Z",
-    "summary": "The proposal would let validator keys grow to 8,192 bytes and adds a switch that permanently retires today's BLS signatures.",
     "source": "Decrypt"
   }
 ]
