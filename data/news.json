@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-28T20:42:54Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Solana validators approve proposal to accelerate SOL disinflation",
     "platform": "news",
     "type": "news",
@@ -71,16 +81,6 @@
   },
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-28T13:00:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "California Senate passes bill to ban memecoin issuance by public officials",
     "platform": "news",
     "type": "news",
@@ -98,6 +98,26 @@
     "timestamp": "2026-08-28T11:36:43Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream\u2019s Adam Back chipping in\" class=\"type:p...",
     "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_coindesk_23515530-cbb4-434d-95b6-f0620d",
+    "title": "Ripple is preparing XRP Ledger for quantum computers before \u2018Q-Day\u2019 arrives",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
+    "timestamp": "2026-08-29T02:30:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_dc9e0064-7291-4c9f-8e55-60aaa6",
+    "title": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
+    "timestamp": "2026-08-28T21:28:12Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_0eaf08d4-495b-4ed9-bde5-71083b",
@@ -180,24 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_4fe76e9f-34df-4d7e-a9ee-1442c9",
-    "title": "Bullish backs USD.AI with $100 million in financing to drive GPU-backed loans",
+    "id": "news_decrypt_https://decrypt.co/?p=376846",
+    "title": "Bitcoin Rally Stalls, But Long-Term Sentiment Remains Bullish",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/08/28/bullish-backs-usd-ai-with-usd100-million-gpu-stablecoin-financing",
-    "timestamp": "2026-08-28T11:03:18Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_64b6c843-53d3-4591-a8d5-0c5603",
-    "title": "Bitcoin hits highest level in 3 months before pulling back as altcoins consolidate",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-hits-highest-level-in-3-months-before-pulling-back-as-altcoins-consolidate",
-    "timestamp": "2026-08-28T10:37:35Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376846/bitcoin-rally-stalls-sentiment-bullish",
+    "timestamp": "2026-08-28T21:16:04Z",
+    "summary": "BTC gave back some of its gains after Fed Chair Kevin Warsh talked tough on inflation, but prediction market traders are still leaning bullish.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376843",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/376813/bitcoin-traders-watch-fed-chair-warsh-for-clues-and-get-nothing",
     "timestamp": "2026-08-28T15:14:11Z",
     "summary": "Fed Chair Warsh's first Jackson Hole keynote doubled down on giving markets zero rate hints as inflation runs hot and Bitcoin traders wait on September's call.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376810",
-    "title": "Ethereum ETFs Take $226M in a Day, Almost Matching Bitcoin's Haul",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376810/ethereum-etfs-take-226m-in-a-day-almost-matching-bitcoins-haul",
-    "timestamp": "2026-08-28T14:17:21Z",
-    "summary": "Nine straight sessions have brought in $1.4 billion, with Thursday marking the funds' strongest day in 10 months.",
     "source": "Decrypt"
   }
 ]
