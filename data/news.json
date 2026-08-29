@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-29T16:27:28Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tokenized stock transfer volume jumps 415% in 30 days to $29.5B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Here\u2019s what happened in crypto today",
     "platform": "news",
@@ -87,16 +97,6 @@
     "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-28T14:53:40Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Bitcoin pumps, Wall Street does the paperwork\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/art...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/maga",
-    "title": "Who is legally liable when an AI agent goes rogue?",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/magazine/who-is-legally-liable-when-an-ai-agent-goes-rogue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-28T13:30:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Who is legally liable when an AI agent goes rogue? \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-c...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=376878",
+    "title": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance",
+    "timestamp": "2026-08-29T17:31:03Z",
+    "summary": "The Vermont senator warned that the surveillance company's 120,000-plus AI cameras are pushing the US toward a \"surveillance state,\" adding a prominent voice to a growing bipartisan backlash.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376866",
+    "title": "Bitcoin's Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026",
+    "timestamp": "2026-08-29T15:31:04Z",
+    "summary": "Galaxy Research shows coins untouched for 10-plus years moving at an unusual pace in 2026, with six ancient wallets shifting $40 million in a single 10-day stretch this month.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=376864",
     "title": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
     "timestamp": "2026-08-28T16:39:02Z",
     "summary": "The brokerage will expand Schwab Crypto trading to Solana, Avalanche, and Chainlink, but has not given a launch date for the three tokens.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=300034",
-    "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
-    "timestamp": "2026-08-28T16:08:02Z",
-    "summary": "Strategy\u2019s co-founder Michael Saylor pioneered the Bitcoin treasury playbook. Here\u2019s what you need to know.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376816",
-    "title": "Bitcoin Miner IREN Shares Fall as AI Conversion Costs Mount",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376816/bitcoin-miner-iren-shares-drop-ai-costs",
-    "timestamp": "2026-08-28T16:04:37Z",
-    "summary": "AI cloud revenue topped Bitcoin mining for the first time as IREN accelerated its data center conversion.",
     "source": "Decrypt"
   }
 ]
