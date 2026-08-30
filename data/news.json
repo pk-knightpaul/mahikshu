@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-30T12:49:37Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Russia\u2019s Sber eyes USDT loans, questions digital ruble demand",
     "platform": "news",
     "type": "news",
@@ -51,16 +61,6 @@
   },
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-29T12:39:59Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Trump-promoted brand touts GOLD before token collapse",
     "platform": "news",
     "type": "news",
@@ -98,6 +98,26 @@
     "timestamp": "2026-08-28T19:53:12Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana validators approve proposal to accelerate SOL disinflation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
     "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_coindesk_badaab49-10fc-4905-8abd-8643ec",
+    "title": "Michael Saylor hints at first bitcoin purchase in two months as bitcoin nears $79,000",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months",
+    "timestamp": "2026-08-30T15:39:55Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_4370612f-a5cb-4cdc-8262-8722ec",
+    "title": "From Hawala to Swift: Inside the 1,000-year battle to move money safely",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely",
+    "timestamp": "2026-08-30T15:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_5fc01376-dd40-4306-96bf-a34649",
@@ -180,24 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_dc9e0064-7291-4c9f-8e55-60aaa6",
-    "title": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
+    "id": "news_decrypt_https://decrypt.co/?p=376863",
+    "title": "After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
-    "timestamp": "2026-08-28T21:28:12Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_0eaf08d4-495b-4ed9-bde5-71083b",
-    "title": "Solana vote to double disinflation passes by a hair in dramatic finish",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/08/28/solana-vote-to-double-disinflation-passes-by-a-hair-in-dramatic-finish",
-    "timestamp": "2026-08-28T16:12:45Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses",
+    "timestamp": "2026-08-30T13:31:04Z",
+    "summary": "More than 100 AI, security, finance, and technology organizations want governments and industry to prepare for attacks powered by increasingly capable models.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376878",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/376821/fed-chair-warsh-ai-hinge-point-4-key-things",
     "timestamp": "2026-08-28T17:18:52Z",
     "summary": "Fed Chair Warsh devoted a full section of his speech today at Jackson Hole to AI's weight on the economy. Here are the biggest takeaways.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376819",
-    "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
-    "timestamp": "2026-08-28T16:39:02Z",
-    "summary": "The brokerage will expand Schwab Crypto trading to Solana, Avalanche, and Chainlink, but has not given a launch date for the three tokens.",
     "source": "Decrypt"
   }
 ]
