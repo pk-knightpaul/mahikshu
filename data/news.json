@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=376911",
+    "title": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376911/polygon-quietly-patched-security-flaws",
+    "timestamp": "2026-08-30T22:31:04Z",
+    "summary": "The Austin and Kyoto hard forks, deployed quietly on the Bor and Heimdall clients before public disclosure, closed denial-of-service and consensus-hardening flaws that Polygon says were never exploite...",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376897",
+    "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend",
+    "timestamp": "2026-08-30T21:31:04Z",
+    "summary": "Spot Bitcoin ETFs shed $201.9 million on Aug. 28, ending a nine-day inflow run, even as Ethereum funds extended a 10-day streak with fresh cash.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=376884",
     "title": "Strategy\u2019s Bitcoin Is $2.8 Billion in Profit\u2014Is Saylor Teeing Up a Buy?",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/376840/xrp-treasury-evernorths-clears-sec-nasdaq",
     "timestamp": "2026-08-28T19:46:03Z",
     "summary": "Evernorth has gained SEC clearance, teeing up a shareholder vote on its Nasdaq listing\u2014while the firm's XRP stash sits well below what it paid for it.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376838",
-    "title": "US Cities Eye AI Data Center Limits as Study Flags Water Risks",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376838/us-cities-ai-data-center-limits",
-    "timestamp": "2026-08-28T19:14:37Z",
-    "summary": "Austin is the latest city to consider restrictions as communities challenge the water and electricity demands of AI infrastructure.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376825",
-    "title": "Solana Will Now Print Less SOL as Disinflation Vote Passes in Dramatic Fashion",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376825/solana-sol-disinflation-vote-passes",
-    "timestamp": "2026-08-28T17:44:09Z",
-    "summary": "The \"Double Disinflation\" proposal squeaked through by a razor-thin margin after Kraken nearly sank it, while a separate fee-burning measure failed.",
     "source": "Decrypt"
   }
 ]
