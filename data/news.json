@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Saylor signals Strategy is \u2018Back\u2019 to Bitcoin buying",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-30T17:59:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor signals Strategy is \u2018Back\u2019 to Bitcoin buying\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Here\u2019s what happened in crypto today",
     "platform": "news",
     "type": "news",
@@ -87,16 +97,6 @@
     "url": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-08-29T06:47:12Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Solana validators approve proposal to accelerate SOL disinflation",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-28T19:53:12Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana validators approve proposal to accelerate SOL disinflation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=376884",
+    "title": "Strategy\u2019s Bitcoin Is $2.8 Billion in Profit\u2014Is Saylor Teeing Up a Buy?",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376884/strategy-bitcoin-2-8-billion-profit-saylor-btc-buy",
+    "timestamp": "2026-08-30T19:39:55Z",
+    "summary": "A Bitcoin rally to around $79,000 lifted the company's 840,447 BTC roughly $2.8 billion above its cost basis, as Saylor's \"We're Back\" post fueled speculation that Strategy may resume buying.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=376863",
     "title": "After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/376825/solana-sol-disinflation-vote-passes",
     "timestamp": "2026-08-28T17:44:09Z",
     "summary": "The \"Double Disinflation\" proposal squeaked through by a razor-thin margin after Kraken nearly sank it, while a separate fee-burning measure failed.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376821",
-    "title": "Fed Chair Warsh Calls AI a 'Hinge Point in History'\u20144 Key Things He Said",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376821/fed-chair-warsh-ai-hinge-point-4-key-things",
-    "timestamp": "2026-08-28T17:18:52Z",
-    "summary": "Fed Chair Warsh devoted a full section of his speech today at Jackson Hole to AI's weight on the economy. Here are the biggest takeaways.",
     "source": "Decrypt"
   }
 ]
