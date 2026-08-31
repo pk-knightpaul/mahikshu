@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/maga",
+    "title": "Bitcoin\u2019s new quantum defenses, 18.9M SOL cancelled: Hodler\u2019s Digest",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-30T23:36:16Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin\u2019s new quantum defenses, 18.9M SOL cancelled: Hodler\u2019s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Saylor signals Strategy is \u2018Back\u2019 to Bitcoin buying",
     "platform": "news",
@@ -90,18 +100,8 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-29T06:47:12Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a...",
-    "source": "CoinTelegraph"
-  },
-  {
     "id": "news_coindesk_badaab49-10fc-4905-8abd-8643ec",
-    "title": "Michael Saylor hints at first bitcoin purchase in two months as bitcoin nears $79,000",
+    "title": "Michael Saylor hints at first bitcoin purchase in two months",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months",
@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=376909",
+    "title": "Ex-White House Teleprompter Operator Fined for Prediction Market Insider Trading",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376909/white-house-teleprompter-fined-prediction-market-trading",
+    "timestamp": "2026-08-30T23:31:03Z",
+    "summary": "Gabriel Perez used his access to Trump's speeches before delivery to bet on \"presidential mention market\" contracts, profiting more than $107,500 before the CFTC caught up with him.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=376911",
     "title": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/376843/meta-tests-robots-data-center",
     "timestamp": "2026-08-28T20:19:44Z",
     "summary": "The company says it needs more skilled workers as its AI infrastructure expands, but employees fear automation could reduce or eliminate some roles.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376840",
-    "title": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376840/xrp-treasury-evernorths-clears-sec-nasdaq",
-    "timestamp": "2026-08-28T19:46:03Z",
-    "summary": "Evernorth has gained SEC clearance, teeing up a shareholder vote on its Nasdaq listing\u2014while the firm's XRP stash sits well below what it paid for it.",
     "source": "Decrypt"
   }
 ]
