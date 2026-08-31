@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-31T20:32:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Ireland excludes crypto from new tax-advantaged investment accounts",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-08-31T20:25:25Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ireland excludes crypto from new tax-advantaged investment accounts\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Webull expands crypto trading into Canada through Coinbase collaboration",
     "platform": "news",
     "type": "news",
@@ -80,24 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Strategy buys $370M Bitcoin in first corporate purchase since June",
+    "id": "news_coindesk_83ac6cf2-8c61-4f5f-9908-2b8ec4",
+    "title": "North Korean hackers are moving tens of millions on Hyperliquid as Trump pushes to onshore the crypto platform",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/strategy-buys-370m-bitcoin-first-acquisition-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-31T12:45:12Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy buys $370M Bitcoin in first corporate purchase since June\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Hyperliquid, Pump.fun account for nearly 90% of record $638M crypto buybacks: FT",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/hyperliquid-pumpfun-90-record-638m-crypto-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-31T11:21:57Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperliquid, Pump.fun account for nearly 90% of record $638M crypto buybacks: FT\" class=\"type:primaryImage\" src=\"https://s3-imag...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/31/north-korean-hackers-are-moving-tens-of-millions-on-hyperliquid-as-trump-pushes-to-onshore-the-crypto-platform",
+    "timestamp": "2026-08-31T20:48:40Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_946baf97-0982-4473-9289-0ffa25",
@@ -190,14 +200,64 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_f46c10cf-6c5c-49cc-9649-a1f713",
-    "title": "U.S. jobs report, Russia\u2019s digital ruble rollout: Crypto Week Ahead",
+    "id": "news_decrypt_https://decrypt.co/?p=376999",
+    "title": "As Public Fury Mounts, Texas Pulls the Plug on Flock Surveillance Funding",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/08/31/u-s-jobs-report-russia-s-digital-ruble-rollout-crypto-week-ahead",
-    "timestamp": "2026-08-31T08:22:28Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/376999/texas-bans-flock-surveillance-funding",
+    "timestamp": "2026-08-31T21:46:04Z",
+    "summary": "Gov. Greg Abbott ordered state agencies to stop paying for the AI-powered license-plate readers as privacy concerns and officer-misuse scandals mount across Texas.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376992",
+    "title": "Strive Adds $143 Million in Bitcoin as Treasury Firms Pile Back In",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376992/strive-adds-143-million-bitcoin",
+    "timestamp": "2026-08-31T21:01:05Z",
+    "summary": "The Nasdaq-listed asset manager paid an average of $79,431 per coin, lifting its total stash to 23,156 BTC amid a wave of renewed treasury buying.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376985",
+    "title": "George Santos Bet on Whether He'd Show Up to the State of the Union\u2014Kalshi Just Banned Him for Life",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376985/george-santos-kalshi-lifetime-ban",
+    "timestamp": "2026-08-31T20:16:03Z",
+    "summary": "The exchange found the former congressman placed large trades on his own State of the Union attendance, then made false statements to move prices, profiting nearly $18,000.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376973",
+    "title": "XRP ETFs Extend Inflow Streak to 9 Days, Pulling In $1.6 Billion Since Launch",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376973/xrp-etfs-inflow-streak-9-days",
+    "timestamp": "2026-08-31T19:31:04Z",
+    "summary": "Spot XRP funds have drawn inflows for nine straight days, reaching $1.6 billion in cumulative net inflows even as the token's price cools.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376971",
+    "title": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt",
+    "timestamp": "2026-08-31T18:46:04Z",
+    "summary": "Deputy Chairman Anatoly Popov told state media that trading could hit 4 trillion rubles in its first year, as the bank prepares to broaden crypto-backed lending once regulators sign off.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=376963",
+    "title": "Hyperliquid in Talks With Kraken Parent to Bring Crypto Perps to US Traders",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/376963/hyperliquid-crypto-perps-us-kraken-parent",
+    "timestamp": "2026-08-31T17:54:15Z",
+    "summary": "A deal would route the decentralized exchange's perpetual futures through Payward's US-regulated Bitnomial, marking Hyperliquid's first US entry\u2014weeks after Trump said his administration was working t...",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=376936",
@@ -237,66 +297,6 @@
     "url": "https://decrypt.co/376932/tom-lee-bitmine-largest-ethereum-purchase-since-june",
     "timestamp": "2026-08-31T14:54:47Z",
     "summary": "The purchase lifts Bitmine's stash to 5.9 million ETH\u20144.9% of supply\u2014as chairman Tom Lee points to crypto's strong third quarter.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376929",
-    "title": "South Korea Will Give Every Citizen Free AI Access With Unlimited Tokens",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376929/south-korea-will-give-every-citizen-free-ai-access-with-unlimited-tokens",
-    "timestamp": "2026-08-31T14:03:39Z",
-    "summary": "Three consortia will run the service, sharing up to 512 Nvidia B200 chips supplied by the state, with beta testing due in September.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376923",
-    "title": "Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees",
-    "timestamp": "2026-08-31T12:37:44Z",
-    "summary": "Vlad Tenev\u2019s new blockchain is soaring in all metrics as memes paired with tokenized stocks start to take off.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376924",
-    "title": "Strategy Buys $370M of Bitcoin in First Purchase Since June",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376924/strategy-buys-370m-of-bitcoin-in-first-purchase-since-june",
-    "timestamp": "2026-08-31T12:27:01Z",
-    "summary": "The 4,603 BTC cost an average of $80,318, some 29% above what the company took for the coins it sold this summer.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376916",
-    "title": "Ireland Bars Crypto From State Savings Scheme Targeting $203B in Deposits",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376916/ireland-bars-crypto-from-state-savings-scheme-targeting-203b-in-deposits",
-    "timestamp": "2026-08-31T11:10:44Z",
-    "summary": "Shares, bonds, funds, ETFs and insurance products will qualify for the tax-advantaged accounts, which open next year.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376913",
-    "title": "Crypto.com's Cronos Halts Entire Blockchain After $75M Tectonic Exploit",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376913/crypto-coms-cronos-halts-entire-blockchain-after-75m-tectonic-exploit",
-    "timestamp": "2026-08-31T09:41:27Z",
-    "summary": "Some $6 million reached Ethereum before validators froze the chain, stranding the rest on a network that still is not producing blocks.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376909",
-    "title": "Ex-White House Teleprompter Operator Fined for Prediction Market Insider Trading",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376909/white-house-teleprompter-fined-prediction-market-trading",
-    "timestamp": "2026-08-30T23:31:03Z",
-    "summary": "Gabriel Perez used his access to Trump's speeches before delivery to bet on \"presidential mention market\" contracts, profiting more than $107,500 before the CFTC caught up with him.",
     "source": "Decrypt"
   }
 ]
