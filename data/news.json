@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Crypto-backed PAC scales back ad spending in Massachusetts primary",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-01T21:25:27Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto-backed PAC scales back ad spending in Massachusetts primary\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Binance expands TradFi push with options on 1,000 US stocks, ETFs",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-01T20:42:29Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance expands TradFi push with options on 1,000 US stocks, ETFs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "UK crime agency froze $13.5M amid probe into Premier League crypto sponsor",
     "platform": "news",
     "type": "news",
@@ -77,26 +97,6 @@
     "url": "https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-09-01T14:00:00Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fake Claude desktop app spreads crypto-stealing malware\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/artic...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/maga",
-    "title": "Does the Bitcoin rally mean we haven\u2019t wasted our lives in crypto?",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-01T13:30:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Does the Bitcoin rally mean we haven\u2019t wasted our lives in crypto?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Asia sees digital asset custody infrastructure deals from Ripple, Coincheck",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-01T13:13:05Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Asia sees digital asset custody infrastructure deals from Ripple, Coincheck\" class=\"type:primaryImage\" src=\"https://s3-images.ct...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,46 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=377135",
+    "title": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377135/openclaw-2-0-is-here-whats-new",
+    "timestamp": "2026-09-01T22:16:04Z",
+    "summary": "The open-source agent framework that started the \"autonomous AI\" hype cycle just shipped its biggest update ever, almost by accident, and it's coming for the enterprise now.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=377128",
+    "title": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377128/nvidia-invests-3-5-billion-mediatek",
+    "timestamp": "2026-09-01T21:31:04Z",
+    "summary": "The deal, part of MediaTek's record $3.9 billion bond offering, ties Nvidia's chip ecosystem to a Taiwanese rival building its own AI accelerator business.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=377126",
+    "title": "Robinhood Chain DEX Volume Jumps to $1.6 billion",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377126/robinhood-chain-dex-volume-jumps",
+    "timestamp": "2026-09-01T21:01:04Z",
+    "summary": "Trading on the Ethereum Layer 2 climbed 61% in a matter of days as DeFi deposits and stablecoin holdings approached $800 million.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=377100",
+    "title": "What Is 'Red September'? Bitcoin's Curse, and Why Wall Street Has the Same One",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377100/what-is-red-september-bitcoin-curse",
+    "timestamp": "2026-09-01T20:31:05Z",
+    "summary": "Bitcoin has lost ground in eight of the last 13 Septembers. The stock market's had the same problem since 1928. Here's the case for the curse, what broke it last year, and what's coming in the next ro...",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=377099",
     "title": "Dropbox Security Breach: Hackers Access Accounts Through Authentication Flaw",
     "platform": "news",
@@ -257,46 +297,6 @@
     "url": "https://decrypt.co/377046/cathie-wood-ark-invest-buys-more-block",
     "timestamp": "2026-09-01T16:13:28Z",
     "summary": "The investment firm bought 456,059 Block shares across three ETFs and added $3.4 million in Circle stock.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377032",
-    "title": "Gal Gadot Defends AI Use in Bitcoin Film: 'Work With It or Be Out of the Game'",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377032/gal-gadot-defends-ai-use-in-bitcoin-film-work-with-it-or-be-out-of-the-game",
-    "timestamp": "2026-09-01T14:39:55Z",
-    "summary": "The actor\u2019s lawyers spent six months negotiating the contract for \u201cBitcoin: Killing Satoshi\u201d in order to \u201cprotect\u201d her performance.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377014",
-    "title": "Morning Minute: Saylor\u2019s Back Buying Bitcoin",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377014/morning-minute-saylors-back-buying-bitcoin",
-    "timestamp": "2026-09-01T12:21:23Z",
-    "summary": "Strategy somehow threaded the needle of buying Bitcoin and STRC while also raising cash. Now how will the market respond?",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377015",
-    "title": "South Korea Arrests Four Over Crypto Payments to Syrian Terror Group",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377015/south-korea-arrests-four-over-crypto-payments-to-syrian-terror-group",
-    "timestamp": "2026-09-01T12:16:24Z",
-    "summary": "Police say the ringleader also took crypto from the group and sent back 11 used cars and two excavators, a first for Korean investigators.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377010",
-    "title": "Saylor Urges MSCI to Drop 'Discriminatory' Rule That Would Delete Strategy",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377010/saylor-urges-msci-to-drop-discriminatory-rule-that-would-delete-strategy",
-    "timestamp": "2026-09-01T11:28:45Z",
-    "summary": "The proposed screen would cut three companies from MSCI's global indexes in November, with Strategy the largest by some distance.",
     "source": "Decrypt"
   }
 ]
