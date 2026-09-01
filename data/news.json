@@ -1,6 +1,76 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-01T16:39:12Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctm...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Ethena launches USDe payments app, offers 6% rewards",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-01T16:06:58Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethena launches USDe payments app, offers 6% rewards\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Bitcoin stays flat as global bond bear market rages on, pushing JGB to high",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-01T15:34:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin stays flat as global bond bear market rages on, pushing JGB to high\" class=\"type:primaryImage\" src=\"https://s3-images.ct...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Fake Claude desktop app spreads crypto-stealing malware",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-01T14:00:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fake Claude desktop app spreads crypto-stealing malware\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/artic...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/maga",
+    "title": "Does the Bitcoin rally mean we haven\u2019t wasted our lives in crypto?",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-01T13:30:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Does the Bitcoin rally mean we haven\u2019t wasted our lives in crypto?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Asia sees digital asset custody infrastructure deals from Ripple, Coincheck",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-01T13:13:05Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Asia sees digital asset custody infrastructure deals from Ripple, Coincheck\" class=\"type:primaryImage\" src=\"https://s3-images.ct...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Kast launches stablecoin-powered business platform after $80M raise",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-01T13:00:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kast launches stablecoin-powered business platform after $80M raise\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Lazarus Group-linked addresses move $30M through Hyperliquid",
     "platform": "news",
     "type": "news",
@@ -30,74 +100,64 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Singapore weighs recognizing some foreign-issued stablecoins",
+    "id": "news_coindesk_24912671-8b37-44be-a989-3567bb",
+    "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-01T09:55:11Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Singapore weighs recognizing some foreign-issued stablecoins\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
+    "timestamp": "2026-09-01T15:36:27Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Trump Jr.-linked 1789 Capital leads Polymarket\u2019s $1B raise: Report",
+    "id": "news_coindesk_02c02a2b-a0ea-4b5f-9a92-617bb1",
+    "title": "Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-01T07:47:13Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump Jr.-linked 1789 Capital leads Polymarket\u2019s $1B raise: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/09/01/robinhood-s-new-crypto-network-is-printing-cash-and-it-s-sending-arbitrum-s-token-soaring",
+    "timestamp": "2026-09-01T15:28:29Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
+    "id": "news_coindesk_4b8ecf58-a6a0-45ee-9e94-b480d0",
+    "title": "Musk\u2019s X hit by wave of unsolicited password reset emails",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-01T05:58:48Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/09/01/musk-s-x-hit-by-wave-of-unsolicited-password-reset-emails",
+    "timestamp": "2026-09-01T14:59:12Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks",
+    "id": "news_coindesk_a3776ac1-9c22-4cd8-a0bd-e725ab",
+    "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-01T04:48:47Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks\" class=\"type:primaryImage\" src=\"https://s3-images.c...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/08/31/firelight-raises-usd8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-for-fintechs",
+    "timestamp": "2026-09-01T13:56:44Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
+    "id": "news_coindesk_bf02cc92-6648-4f6d-b285-3de913",
+    "title": "Bitcoin enters \u2018Rektember\u2019 as rate-hike risk combines with seasonality to threaten rally",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-01T03:49:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thailand SEC proposes retail access to regulated overseas crypto derivatives\" class=\"type:primaryImage\" src=\"https://s3-images.c...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-enters-rektember-as-rate-hike-risks-threaten-its-august-rally",
+    "timestamp": "2026-09-01T13:55:26Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Ireland excludes crypto from new tax-advantaged investment accounts",
+    "id": "news_coindesk_e209306d-055d-4010-9603-76c0c0",
+    "title": "Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-31T20:25:25Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ireland excludes crypto from new tax-advantaged investment accounts\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Webull expands crypto trading into Canada through Coinbase collaboration",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-08-31T17:28:19Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Webull expands crypto trading into Canada through Coinbase collaboration\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/09/01/ethena-pushes-stablecoins-into-everyday-banking-with-high-yield-savings-cards-and-payments",
+    "timestamp": "2026-09-01T13:15:35Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_8d7530ef-1f53-48b6-87a9-1e3bb2",
@@ -140,64 +200,34 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_61aa4d63-3c77-48d8-b4bb-2418a8",
-    "title": "Bitcoin consolidates near $78,000 as Arbitrum surges 30% on Robinhood Chain revenue",
+    "id": "news_decrypt_https://decrypt.co/?p=377048",
+    "title": "X Data Breach? Users Are Getting Flooded With Password Reset Emails Nobody Requested",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-consolidates-near-usd78-000-as-arbitrum-surges-30-on-robinhood-chain-revenue",
-    "timestamp": "2026-09-01T10:29:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/377048/x-data-breach-users-flooded-password-reset",
+    "timestamp": "2026-09-01T16:26:10Z",
+    "summary": "X engineers have acknowledged the issue, but have not confirmed a new data breach of its systems.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_afcad83d-310f-4a33-89ef-7c6e13",
-    "title": "Strategy spends $635M buying back STRC as perpetual preferred stock lags $100 par",
+    "id": "news_decrypt_https://decrypt.co/?p=377046",
+    "title": "Cathie Wood\u2019s Ark Invest Buys $37 Million in Bitcoin and Payments Firm Block",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/09/01/strategy-spends-usd635m-buying-back-strc-as-perpetual-preferred-stock-lags-usd100-par",
-    "timestamp": "2026-09-01T09:29:33Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/377046/cathie-wood-ark-invest-buys-more-block",
+    "timestamp": "2026-09-01T16:13:28Z",
+    "summary": "The investment firm bought 456,059 Block shares across three ETFs and added $3.4 million in Circle stock.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_ec091fab-5c61-476f-87d2-42bc75",
-    "title": "Live updates: Bitcoin trades around $78,000 as crude surges, global bond sell-off deepens",
+    "id": "news_decrypt_https://decrypt.co/?p=377032",
+    "title": "Gal Gadot Defends AI Use in Bitcoin Film: 'Work With It or Be Out of the Game'",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
-    "timestamp": "2026-09-01T08:35:57Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_8b59dcc1-0449-4d71-91e9-78e7bd",
-    "title": "London Stock Exchange to work with Payward to bring biggest UK stocks onchain",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain",
-    "timestamp": "2026-09-01T07:49:16Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_61f20afd-dbca-4443-ac7f-0af4b4",
-    "title": "OpenAI\u2019s \u2018Trust Us\u2019 TIME cover raises an old warning for AI bulls",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/09/01/time-is-putting-openai-s-founders-on-its-cover-paul-montgomery-s-contrary-indicator-says-hello",
-    "timestamp": "2026-09-01T06:52:10Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_90af9591-05c0-40e7-b842-afd482",
-    "title": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets",
-    "timestamp": "2026-09-01T04:30:28Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/377032/gal-gadot-defends-ai-use-in-bitcoin-film-work-with-it-or-be-out-of-the-game",
+    "timestamp": "2026-09-01T14:39:55Z",
+    "summary": "The actor\u2019s lawyers spent six months negotiating the contract for \u201cBitcoin: Killing Satoshi\u201d in order to \u201cprotect\u201d her performance.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=377014",
@@ -231,7 +261,7 @@
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=377006",
-    "title": "UK's National Crime Agency Freezes $13.6M of Premier League Money in Sorare Probe: Report",
+    "title": "UK's National Crime Agency Freezes $13.6M Sent by Sorare to Premier League: Report",
     "platform": "news",
     "type": "news",
     "url": "https://decrypt.co/377006/uks-national-crime-agency-freezes-13-6m-of-premier-league-money-in-sorare-probe-report",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/376985/george-santos-kalshi-lifetime-ban",
     "timestamp": "2026-08-31T20:16:03Z",
     "summary": "The exchange found the former congressman placed large trades on his own State of the Union attendance, then made false statements to move prices, profiting nearly $18,000.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376973",
-    "title": "XRP ETFs Extend Inflow Streak to 9 Days, Pulling In $1.6 Billion Since Launch",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376973/xrp-etfs-inflow-streak-9-days",
-    "timestamp": "2026-08-31T19:31:04Z",
-    "summary": "Spot XRP funds have drawn inflows for nine straight days, reaching $1.6 billion in cumulative net inflows even as the token's price cools.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376971",
-    "title": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt",
-    "timestamp": "2026-08-31T18:46:04Z",
-    "summary": "Deputy Chairman Anatoly Popov told state media that trading could hit 4 trillion rubles in its first year, as the bank prepares to broaden crypto-backed lending once regulators sign off.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=376963",
-    "title": "Hyperliquid in Talks With Kraken Parent to Bring Crypto Perps to US Traders",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/376963/hyperliquid-crypto-perps-us-kraken-parent",
-    "timestamp": "2026-08-31T17:54:15Z",
-    "summary": "A deal would route the decentralized exchange's perpetual futures through Payward's US-regulated Bitnomial, marking Hyperliquid's first US entry\u2014weeks after Trump said his administration was working t...",
     "source": "Decrypt"
   }
 ]
