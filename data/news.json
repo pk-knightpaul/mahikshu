@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Core DAO plans emergency hard fork after validators drew excess rewards",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-02T04:15:34Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Core DAO plans emergency hard fork after validators drew excess rewards\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Crypto-backed PAC scales back ad spending in Massachusetts primary",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Fake Claude desktop app spreads crypto-stealing malware",
+    "id": "news_coindesk_3c83e467-b1df-4b09-baa1-7cae3a",
+    "title": "Solana, ether, xrp lead majors slide as Iran strikes drive a broad risk selloff",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-01T14:00:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fake Claude desktop app spreads crypto-stealing malware\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/artic...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/09/02/solana-ether-xrp-lead-majors-slide-as-iran-strikes-drive-a-broad-risk-selloff",
+    "timestamp": "2026-09-02T05:01:25Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_e26d73ac-f6b4-4271-b55d-880377",
+    "title": "Bitcoin withstands $90 oil and rising yields while gold slides. A firm dollar is the catch",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-withstands-usd90-oil-and-rising-yields-as-gold-slides-a-firm-dollar-is-the-catch",
+    "timestamp": "2026-09-02T04:40:36Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_f6f2bba0-aba1-4322-a79f-a751df",
@@ -176,26 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/09/01/uk-s-crime-agency-freezes-premier-league-usd13-5-million-account-in-crypto-crime-probe",
     "timestamp": "2026-09-01T12:37:10Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_9d9de2e6-821e-44fe-89cb-83be15",
-    "title": "Hut 8's Texas power site sits inside Anthropic\u2019s $35 billion AI deal",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/09/01/hut-8-s-texas-power-site-sits-inside-anthropic-s-usd35-billion-ai-deal",
-    "timestamp": "2026-09-01T12:11:44Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_b3bef782-5d96-4165-a2c6-da5e4c",
-    "title": "U.S. looks to influence Japan's monetary policy. It couldn't do that with bitcoin",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/daybook-us/2026/09/01/u-s-looks-to-influence-japan-s-monetary-policy-it-couldn-t-do-that-with-bitcoin",
-    "timestamp": "2026-09-01T11:15:00Z",
     "summary": "",
     "source": "CoinDesk"
   },
