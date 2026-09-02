@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "US officials work with CrowdStrike to fight malware behind crypto theft",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-02T21:27:15Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US officials work with CrowdStrike to fight malware behind crypto theft\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Coinbase launches regulated crypto derivatives in Canada",
     "platform": "news",
     "type": "news",
@@ -87,16 +97,6 @@
     "url": "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-09-02T13:30:00Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Hashkey joins DTCC working group as first Asian crypto service provider",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-02T13:11:25Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hashkey joins DTCC working group as first Asian crypto service provider\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,36 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=377232",
+    "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377232/anthropic-security-claude-ai-hacks",
+    "timestamp": "2026-09-02T23:46:04Z",
+    "summary": "After Claude models accessed real systems during cyber tests, Anthropic tightened its safeguards and warned that flawed training can encourage dangerous behavior.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=377231",
+    "title": "An AI Training Data Startup Just Became Y Combinator's Fastest-Ever Unicorn",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377231/afterquery-ai-tradining-data-unicorn-y-combinator",
+    "timestamp": "2026-09-02T23:16:04Z",
+    "summary": "Afterquery's valuation jumped more than tenfold in five months, making it Y Combinator's fastest unicorn ever.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=377230",
+    "title": "FBI Seizes $560K in Crypto Bound for Hamas, Takes Over Fundraising Sites",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377230/fbi-seizes-560k-crypto-hamas",
+    "timestamp": "2026-09-02T22:47:06Z",
+    "summary": "Agents seized digital assets, domains, and servers allegedly used by Hamas\u2019 military wing to collect donations and recruit supporters.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=377228",
     "title": "Japan\u2019s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury",
     "platform": "news",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/377180/openai-astra-first-ai-model-critical-hacking",
     "timestamp": "2026-09-02T16:43:53Z",
     "summary": "The unreleased model can find zero-day vulnerabilities and chain them into working exploits without a human walking it through each step, and access to that capability is starting with a small group o...",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377171",
-    "title": "Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377171/tether-sued-freeze-42-4-million-usdt",
-    "timestamp": "2026-09-02T15:42:13Z",
-    "summary": "Two Thai businessmen claim Tether blocked access to their stablecoins months before federal authorities secured a seizure warrant.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377169",
-    "title": "Norway Moves to Regulate 'Pervert Glasses,' Weighs Facial Recognition Ban",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377169/norway-moves-to-regulate-pervert-glasses-weighs-facial-recognition-ban",
-    "timestamp": "2026-09-02T15:18:44Z",
-    "summary": "The country's consumer watchdog went further, urging retailers to stop selling the devices until the law is clear.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377162",
-    "title": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377162/ai-billionaires-fund-ad-blitz-as-data-center-opposition-hits-61",
-    "timestamp": "2026-09-02T14:16:44Z",
-    "summary": "Marc Andreessen, Ben Horowitz and OpenAI's Greg Brockman have backed the super PAC behind the campaign, which faces surging opposition.",
     "source": "Decrypt"
   }
 ]
