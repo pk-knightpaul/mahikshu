@@ -1,5 +1,55 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/pencil-finance-1m-onchain-lending-cycle-students?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-03T10:59:34Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia\" class=\"type:primaryImage\" src=\"https://s...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Standard Chartered launches spot Bitcoin and Ether trading in UAE",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-03T10:15:34Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered launches spot Bitcoin and Ether trading in UAE\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Coldcard hacker swaps stolen Bitcoin for ETH via THORChain",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-03T09:31:07Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard hacker swaps stolen Bitcoin for ETH via THORChain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Kalshi seeks CFTC approval for WTI crude perpetual futures: Report",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-03T09:28:34Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi seeks CFTC approval for WTI crude perpetual futures: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Australia warns unlicensed crypto firms of fines up to 10% of annual turnover",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-03T07:47:54Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia warns unlicensed crypto firms of fines up to 10% of annual turnover\" class=\"type:primaryImage\" src=\"https://s3-images....",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "Ether, XRP ETF inflow streaks end as Bitcoin funds rebound",
     "platform": "news",
@@ -7,16 +57,6 @@
     "url": "https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-09-03T07:22:00Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether, XRP ETF inflow streaks end as Bitcoin funds rebound\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-03T06:10:27Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
     "source": "CoinTelegraph"
   },
   {
@@ -60,44 +100,84 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Wyoming adds Chainlink reserve verification to state-issued stable token",
+    "id": "news_coindesk_68a4ce6d-ff55-4c86-8148-e94d97",
+    "title": "SoFi, Kraken tie up as crypto and banking push into each other's turf",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-02T18:38:18Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Wyoming adds Chainlink reserve verification to state-issued stable token\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf",
+    "timestamp": "2026-09-03T12:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Ondo urges SEC, CFTC to bring US stock perpetuals onshore",
+    "id": "news_coindesk_9d40a18a-972c-4258-a755-e0b478",
+    "title": "FX has stopped reading bond yields the old way. Bitcoin should too.",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-02T16:39:22Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ondo urges SEC, CFTC to bring US stock perpetuals onshore\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/art...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/daybook-us/2026/09/03/fx-has-stopped-reading-bond-yields-the-old-way-bitcoin-should-too",
+    "timestamp": "2026-09-03T11:26:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin\u2019s apparent demand turns negative as price struggles with $77K",
+    "id": "news_coindesk_e52f03fe-9a41-47af-aaad-f23137",
+    "title": "The yen is surging and it\u2019s helping bitcoin, for now",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-02T16:35:56Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin\u2019s apparent demand turns negative as price struggles with $77K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/09/03/the-yen-is-surging-and-it-s-helping-bitcoin-for-now",
+    "timestamp": "2026-09-03T11:19:56Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "G20 members tout \u2018clear pathways\u2019 for digital asset innovation",
+    "id": "news_coindesk_5d2d0bb5-f0ff-40bd-859c-5367a3",
+    "title": "Live updates: Bitcoin shrugs off higher oil prices as Japanese yen rallies",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/g20-members-clear-pathways-digital-asset-innovation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-02T15:34:06Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"G20 members tout \u2018clear pathways\u2019 for digital asset innovation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015",
+    "timestamp": "2026-09-03T10:42:15Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_54b4c2bf-54c5-4db9-9881-4cab92",
+    "title": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-recovers-toward-usd78-000-as-pons-and-arbitrum-extend-robinhood-chain-rally",
+    "timestamp": "2026-09-03T10:29:52Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_7e62ae97-0f33-4393-a84a-0b03ac",
+    "title": "Australia is cracking down on crypto businesses as its strict new regulatory deadline nears",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears",
+    "timestamp": "2026-09-03T10:09:31Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_4894555a-9df7-46c9-ab53-918182",
+    "title": "CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/09/03/cftc-asks-judge-to-dismiss-cme-lawsuit-over-crypto-perpetual-futures",
+    "timestamp": "2026-09-03T09:13:40Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_a07e0716-54ac-4f69-a136-502c03",
+    "title": "Catastrophe bonds may join tokenization rush, with plans for test issuance in 2027",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/09/03/catastrophe-bonds-may-join-tokenization-rush-with-plans-for-test-issuance-in-2027",
+    "timestamp": "2026-09-03T08:30:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_a0d7b1db-db69-413e-af47-f6d62e",
@@ -120,84 +200,44 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_6a71229a-3c63-4487-84f9-9765d2",
-    "title": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
+    "id": "news_decrypt_https://decrypt.co/?p=377264",
+    "title": "Morning Minute: Strategy CEO Says Selling The Bottom Was Correct Move",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66",
-    "timestamp": "2026-09-03T04:22:40Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/377264/morning-minute-strategy-ceo-says-selling-the-bottom-was-correct-move",
+    "timestamp": "2026-09-03T11:43:14Z",
+    "summary": "Strategy sold millions in Bitcoin in the low $60k range and just rebought at $80k. Now they\u2019re sharing the rationale behind the moves.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_d273f06a-5a4e-43ea-9a4d-30dbab",
-    "title": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
+    "id": "news_decrypt_https://decrypt.co/?p=377253",
+    "title": "Mamdani Imposes One-Year Moratorium on Generative AI in NYC Schools",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites",
-    "timestamp": "2026-09-02T21:24:26Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/377253/mamdani-imposes-one-year-moratorium-on-generative-ai-in-nyc-schools",
+    "timestamp": "2026-09-03T11:36:41Z",
+    "summary": "Nearly 600,000 students lose access to generative AI tools, while five named vendors keep metered pilots running in high schools.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_79e3eb77-1d65-40d7-8a6c-bba5c9",
-    "title": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
+    "id": "news_decrypt_https://decrypt.co/?p=377245",
+    "title": "Ukraine Busts Kyiv Crypto Drainer Ring Moving Up to $1M Monthly",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/09/02/kraken-parent-payward-pushes-ipo-back-to-mid-2027-at-earliest",
-    "timestamp": "2026-09-02T20:08:34Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/377245/ukraine-busts-kyiv-crypto-drainer-ring-moving-up-to-1m-monthly",
+    "timestamp": "2026-09-03T09:53:41Z",
+    "summary": "Fake investment ads on Telegram channels funneled EU victims to a lookalike exchange that emptied their wallets.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_6fe4ce7c-7f69-478e-93ab-2ee75b",
-    "title": "Crypto made new friends in U.S. primaries, but focus now shifts to general election",
+    "id": "news_decrypt_https://decrypt.co/?p=377238",
+    "title": "Michigan Judge Bars Kalshi Sports Bets, Threatens $500K Daily Fine",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/news-analysis/2026/09/02/crypto-made-new-friends-in-u-s-primaries-but-focus-now-shifts-to-general-election",
-    "timestamp": "2026-09-02T17:39:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_9ff82f36-11cf-4129-8728-448cc3",
-    "title": "New Jersey becomes first state to ask Supreme Court to weigh in on prediction markets",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/09/02/new-jersey-becomes-first-state-to-ask-supreme-court-to-weigh-in-on-prediction-markets",
-    "timestamp": "2026-09-02T17:23:48Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_1a8ede8c-f834-4774-8af2-9b1b9d",
-    "title": "Crypto Long & Short: Crypto VCs are mistaking consensus for discipline",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/09/02/crypto-long-and-short-crypto-vcs-are-mistaking-consensus-for-discipline",
-    "timestamp": "2026-09-02T15:15:02Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_091ead47-c8fc-4862-9330-36e5e1",
-    "title": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years",
-    "timestamp": "2026-09-02T13:14:47Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_a504fd6a-9162-48b0-b211-2bae31",
-    "title": "The token supercycle: everything of value is becoming programmable",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/opinion/2026/09/02/the-token-supercycle-everything-of-value-is-becoming-programmable",
-    "timestamp": "2026-09-02T13:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/377238/michigan-judge-bars-kalshi-sports-bets-threatens-500k-daily-fine",
+    "timestamp": "2026-09-03T08:47:34Z",
+    "summary": "The order calls the prediction market platform a sports betting operation \"masquerading as an investment opportunity.\"",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=377232",
@@ -257,46 +297,6 @@
     "url": "https://decrypt.co/377216/goldman-sachs-bofa-banks-stablecoin",
     "timestamp": "2026-09-02T20:01:04Z",
     "summary": "The bank-led consortium wants a U.S. dollar token live by the first half of 2027, with a euro version queued up next.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377215",
-    "title": "'The Right Trade': Strategy CEO Has No Regrets Selling Bitcoin at $60K Before Buying Back Higher",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377215/right-trade-strategy-no-regrets-selling-bitcoin",
-    "timestamp": "2026-09-02T19:15:06Z",
-    "summary": "Phong Le said Strategy\u2019s cost of capital\u2014not Bitcoin\u2019s price\u2014drove its decision to sell nearly 7,000 BTC before resuming purchases above $80,000.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377185",
-    "title": "Is Bitcoin About to Flash Crash? What a 'Bart Simpson' Pattern Would Actually Take",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377185/bitcoin-flash-crash-real-bart-simpson-pattern",
-    "timestamp": "2026-09-02T18:30:06Z",
-    "summary": "Bitcoin traders are calling August's spike-and-fade a Bart Simpson hairline. Here's what separates an actual flash crash from an ordinary correction.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377184",
-    "title": "Crypto Groups Push SEC for Tailored Rules on Novel ETFs",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377184/crypto-groups-sec-novel-etfs",
-    "timestamp": "2026-09-02T17:41:04Z",
-    "summary": "Groups including The Crypto Council for Innovation, Grayscale, and a16z urged the regulator to preserve existing fund classifications and streamline reviews for new exchange-traded products.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377180",
-    "title": "OpenAI's Astra Becomes Its First AI Model With 'Critical' Hacking Abilities",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377180/openai-astra-first-ai-model-critical-hacking",
-    "timestamp": "2026-09-02T16:43:53Z",
-    "summary": "The unreleased model can find zero-day vulnerabilities and chain them into working exploits without a human walking it through each step, and access to that capability is starting with a small group o...",
     "source": "Decrypt"
   }
 ]
