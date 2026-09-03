@@ -1,6 +1,36 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "CFTC files to dismiss CME lawsuit over crypto perpetual futures",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-03T21:09:13Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC files to dismiss CME lawsuit over crypto perpetual futures\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-03T20:30:14Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Mantle adds Paxos\u2019 USDG stablecoin, joins Global Dollar Network",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-03T19:36:56Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mantle adds Paxos\u2019 USDG stablecoin, joins Global Dollar Network\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms",
     "platform": "news",
     "type": "news",
@@ -67,36 +97,6 @@
     "url": "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-09-03T13:00:00Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"VARA, Securitize sign MoU for tokenization innovation in Dubai\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-03T13:00:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Nvidia buys Hugging Face for $12.9B in push into AI software",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-03T12:41:11Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nvidia buys Hugging Face for $12.9B in push into AI software\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/pencil-finance-1m-onchain-lending-cycle-students?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-03T10:59:34Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia\" class=\"type:primaryImage\" src=\"https://s...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,36 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=377363",
+    "title": "Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377363/bitcoin-mine-ai-deal-1-2-billion",
+    "timestamp": "2026-09-03T21:31:05Z",
+    "summary": "The projected revenue requires two contract extensions, while an option for more computing capacity could bring the total above $3 billion.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=377349",
+    "title": "What Is Pons? The Robinhood Chain Meme Coin Factory Token Up 18,000% Since July",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377349/pons-robinhood-chain-meme-coin-token-factory",
+    "timestamp": "2026-09-03T20:46:04Z",
+    "summary": "PONS, the token behind Robinhood Chain's biggest meme coin factory, flipped CASHCAT to become the chain's largest cryptocurrency by market cap\u2014and its chart looks like a hockey stick.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=377340",
+    "title": "Bernie Sanders Pushes Bill to Ban Advanced AI Development",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377340/bernie-sanders-ban-advanced-ai",
+    "timestamp": "2026-09-03T20:16:04Z",
+    "summary": "The forthcoming bill would pause advanced AI development, create a federal regulator, and threaten violators with up to 20 years in prison.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=377341",
     "title": "OpenAI Releases GPT-6 Astra: The Closest AI Model Yet to AGI",
     "platform": "news",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/377283/sofi-banking-network-stablecoin-kraken",
     "timestamp": "2026-09-03T15:40:08Z",
     "summary": "Kraken will list SoFiUSD and gain access to SoFi\u2019s round-the-clock dollar settlement network, while Kraken Prime will execute trades for SoFi\u2019s crypto customers.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377264",
-    "title": "Morning Minute: Strategy CEO Says Selling The Bottom Was Correct Move",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377264/morning-minute-strategy-ceo-says-selling-the-bottom-was-correct-move",
-    "timestamp": "2026-09-03T11:43:14Z",
-    "summary": "Strategy sold millions in Bitcoin in the low $60k range and just rebought at $80k. Now they\u2019re sharing the rationale behind the moves.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377253",
-    "title": "Mamdani Imposes One-Year Moratorium on Generative AI in NYC Schools",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377253/mamdani-imposes-one-year-moratorium-on-generative-ai-in-nyc-schools",
-    "timestamp": "2026-09-03T11:36:41Z",
-    "summary": "Nearly 600,000 students lose access to generative AI tools, while five named vendors keep metered pilots running in high schools.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377245",
-    "title": "Ukraine Busts Kyiv Crypto Drainer Ring Moving Up to $1M Monthly",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377245/ukraine-busts-kyiv-crypto-drainer-ring-moving-up-to-1m-monthly",
-    "timestamp": "2026-09-03T09:53:41Z",
-    "summary": "Fake investment ads on Telegram channels funneled EU victims to a lookalike exchange that emptied their wallets.",
     "source": "Decrypt"
   }
 ]
