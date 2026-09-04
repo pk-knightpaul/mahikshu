@@ -1,5 +1,15 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "US, UK launch joint alliance targeting crypto scam centers",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/us-uk-joint-alliance-crypto-scam-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-04T04:33:55Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US, UK launch joint alliance targeting crypto scam centers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/maga",
     "title": "Tether sued over frozen \u2018pig butcher\u2019 coins, 6,600 students get crypto loans: Asia Express",
     "platform": "news",
@@ -90,14 +100,44 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/maga",
-    "title": "Recovery specialists crack $1B crypto wallet... but find just $10",
+    "id": "news_coindesk_b3f824e7-55b4-4f3b-8b28-696f55",
+    "title": "One full bitcoin now buys a little more than 18 ounces of gold, the most since January",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-03T13:30:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Recovery specialists crack $1B crypto wallet... but find just $10 \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/09/04/one-full-bitcoin-now-buys-a-little-more-than-18-ounces-of-gold-the-most-since-january",
+    "timestamp": "2026-09-04T05:10:34Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_8230e766-0722-4ebb-8cfe-5af34e",
+    "title": "Bitcoin back above $81,000 as hike odds fade, Zcash leads with 15% jump",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/09/04/bitcoin-back-above-usd81-000-as-hike-odds-fade-zcash-leads-with-15-jump",
+    "timestamp": "2026-09-04T04:22:01Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_1714fe94-5177-41bc-806a-579b17",
+    "title": "U.S. banking agency gives blockchain bank OpenReserve initial OK to operate",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/09/03/u-s-banking-agency-gives-blockchain-bank-openreserve-initial-ok-to-operate",
+    "timestamp": "2026-09-04T03:26:50Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_a72c73d8-eb4c-4e3d-9bc0-749083",
+    "title": "AMC CEO blasts Robinhood for stock token, putting synthetic shares in spotlight",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/09/03/amc-ceo-blasts-robinhood-for-stock-token-putting-synthetic-shares-in-spotlight",
+    "timestamp": "2026-09-04T03:03:25Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_9f697010-b149-42d6-a2e0-2e25c2",
@@ -156,46 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/daybook-us/2026/09/03/fx-has-stopped-reading-bond-yields-the-old-way-bitcoin-should-too",
     "timestamp": "2026-09-03T11:26:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_e52f03fe-9a41-47af-aaad-f23137",
-    "title": "The yen is surging and it\u2019s helping bitcoin, for now",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/09/03/the-yen-is-surging-and-it-s-helping-bitcoin-for-now",
-    "timestamp": "2026-09-03T11:19:56Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_5d2d0bb5-f0ff-40bd-859c-5367a3",
-    "title": "Live updates: Bitcoin jumps above $81,000 as rates fall, dollar weakens",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015",
-    "timestamp": "2026-09-03T10:42:15Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_54b4c2bf-54c5-4db9-9881-4cab92",
-    "title": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-recovers-toward-usd78-000-as-pons-and-arbitrum-extend-robinhood-chain-rally",
-    "timestamp": "2026-09-03T10:29:52Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_7e62ae97-0f33-4393-a84a-0b03ac",
-    "title": "Australia is cracking down on crypto businesses as its strict new regulatory deadline nears",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears",
-    "timestamp": "2026-09-03T10:09:31Z",
     "summary": "",
     "source": "CoinDesk"
   },
