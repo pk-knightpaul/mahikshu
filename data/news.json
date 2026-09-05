@@ -100,6 +100,16 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_80b5e112-1340-41b3-a0f6-1dc80a",
+    "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
+    "timestamp": "2026-09-05T12:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_bc221e41-f2eb-4337-86b6-1b0295",
     "title": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
     "platform": "news",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_afc739be-106c-45d4-a434-1722f4",
-    "title": "IMF confirms El Salvador\u2019s bitcoin growth was funded by private donations, not public money",
+    "id": "news_decrypt_https://decrypt.co/?p=377491",
+    "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/09/04/imf-confirms-el-salvador-s-bitcoin-growth-was-funded-by-private-donations-not-public-money",
-    "timestamp": "2026-09-04T09:47:15Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/377491/ai-solved-350-year-old-math-problem",
+    "timestamp": "2026-09-05T13:01:03Z",
+    "summary": "Anthropic says Claude spent 11 days turning Fermat's Last Theorem into 13 million lines of code a computer can check itself, no human trust required",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=377489",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/377414/bitcoin-slides-blowout-jobs-report-fed-hike-odds",
     "timestamp": "2026-09-04T15:13:28Z",
     "summary": "The Dow dropped 226 points and Bitcoin erased some of its gains after August payrolls tripled estimates, pushing September rate-hike odds to 58%.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377411",
-    "title": "BitMEX Co-Founder Ben Delo Gives Farage's Reform UK Another \u00a34 Million",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377411/bitmex-co-founder-ben-delo-gives-farages-reform-uk-another-4-million",
-    "timestamp": "2026-09-04T15:10:00Z",
-    "summary": "Two April payments supplied three-quarters of the party's donations for the quarter, where the next largest single gift was \u00a3180,000.",
     "source": "Decrypt"
   }
 ]
