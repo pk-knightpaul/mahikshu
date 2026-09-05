@@ -100,6 +100,16 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_c01369ee-3741-4357-8476-75e343",
+    "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
+    "timestamp": "2026-09-05T16:43:13Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_80b5e112-1340-41b3-a0f6-1dc80a",
     "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
     "platform": "news",
@@ -190,14 +200,34 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_5c9b46a5-5441-4fda-b78e-796730",
-    "title": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
+    "id": "news_decrypt_https://decrypt.co/?p=377510",
+    "title": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/09/04/bitcoin-clears-usd81-000-as-privacy-coins-lead-a-broad-crypto-rally",
-    "timestamp": "2026-09-04T09:57:01Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up",
+    "timestamp": "2026-09-05T17:01:04Z",
+    "summary": "At least four more decade-old wallets moved a combined $15.7 million between Aug. 29 and Sept. 4, with one batch of coins sent to Coinbase in a likely sign of a sale.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=373351",
+    "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+    "timestamp": "2026-09-05T16:06:41Z",
+    "summary": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=377501",
+    "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377501/google-chrome-zero-day-exploited",
+    "timestamp": "2026-09-05T15:01:04Z",
+    "summary": "The update fixes a high-severity flaw in Chrome\u2019s V8 engine, but Google has not revealed who is using it or whom they targeted.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=377491",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/377458/openreserve-occ-approval-full-service-national-bank",
     "timestamp": "2026-09-04T17:19:55Z",
     "summary": "The a16z-backed startup chose a full national charter over the trust-bank route most crypto firms have taken, clearing a path toward insured deposits and conventional lending alongside stablecoin issu...",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377445",
-    "title": "Zcash Hits Highest Price in Nearly a Decade, Crushing Short Bets",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377445/zcash-price-high-decade-shorts-rekt",
-    "timestamp": "2026-09-04T16:24:46Z",
-    "summary": "The privacy coin's squeeze rode a Fed-driven crypto rally that reversed hours later, when a stronger-than-expected jobs report sent Bitcoin back under $80,000.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377412",
-    "title": "OpenAI Agents Hack German Website to Share Rule-Breaking Tactics: Report",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377412/openai-agents-hack-german-website",
-    "timestamp": "2026-09-04T15:36:04Z",
-    "summary": "The activity began in May and remained undisclosed until Friday, a day after OpenAI launched Astra and U.S. lawmakers proposed restrictions on advanced AI.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377414",
-    "title": "Bitcoin Slides as Blowout Jobs Report Revives Fed Hike Odds",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377414/bitcoin-slides-blowout-jobs-report-fed-hike-odds",
-    "timestamp": "2026-09-04T15:13:28Z",
-    "summary": "The Dow dropped 226 points and Bitcoin erased some of its gains after August payrolls tripled estimates, pushing September rate-hike odds to 58%.",
     "source": "Decrypt"
   }
 ]
