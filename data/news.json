@@ -100,6 +100,16 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_fee118ef-31af-4127-ba4c-4f4eff",
+    "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
+    "timestamp": "2026-09-06T16:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_bbd31537-0f44-40bd-8b4d-975efd",
     "title": "Better and Coinbase\u2019s bitcoin-backed mortgages can reuse borrowers\u2019 collateral",
     "platform": "news",
@@ -190,14 +200,34 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_d5e498bd-d1c3-4c7a-8f9f-c57e97",
-    "title": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
+    "id": "news_decrypt_https://decrypt.co/?p=377514",
+    "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/09/04/u-s-added-stronger-than-expected-162-000-jobs-in-august-as-labor-market-bounced-back",
-    "timestamp": "2026-09-04T12:31:47Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/377514/openai-gpt-6-astra-review-shockingly-good",
+    "timestamp": "2026-09-06T17:01:04Z",
+    "summary": "Early testers spent OpenAI's launch weekend pushing Astra through 3D cities, playable games, Bach chorales and research papers.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=377512",
+    "title": "XRP Gets Another Boost Through Ripple Deal With Florida Athletics",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377512/xrp-boost-ripple-florida-athletics",
+    "timestamp": "2026-09-06T16:01:03Z",
+    "summary": "The multi-year deal will place the XRP logo on the field at Ben Hill Griffin Stadium starting this season, extending Ripple's push into college athletics.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=377280",
+    "title": "Stablecoins Won't Scale Without Banks",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377280/stablecoins-wont-scale-without-banks",
+    "timestamp": "2026-09-06T15:01:03Z",
+    "summary": "With a growing number of institutions exploring stablecoins, the bottleneck is regulated infrastructure they can trust.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=377494",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/377486/g7-warns-quantum-threat-crypto-fixes",
     "timestamp": "2026-09-04T21:16:04Z",
     "summary": "The group is urging organizations to adopt post-quantum security before powerful computers can compromise today\u2019s encryption and digital signatures.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377483",
-    "title": "Polymarket Launches Crypto Perpetual Futures With Up to 20x Leverage",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377483/polymarket-crypto-perpetual-futures",
-    "timestamp": "2026-09-04T20:31:03Z",
-    "summary": "The prediction market platform's new Perps product scaled from 10 markets to 67 on its first day\u2014though the 20x leverage ceiling only applies to some of them, and none of it reaches U.S. traders.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377463",
-    "title": "Crypto Traders Are Pairing Meme Coins With Stocks on Robinhood\u2014And It's Working (Sort Of)",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377463/crypto-meme-coin-stock-pairs-robinhood",
-    "timestamp": "2026-09-04T19:16:03Z",
-    "summary": "A meme coin called BONER cornered half of Hims &amp; Hers Health's tokenized shares on Robinhood's new blockchain. It started a new trend that's spreading fast.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377461",
-    "title": "'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377461/send-your-lawyers-robinhood-not-backing-down-amc",
-    "timestamp": "2026-09-04T18:36:41Z",
-    "summary": "Lawyers question AMC\u2019s grounds for a securities-law challenge, but say the tokens\u2019 branding and marketing could leave room for a dispute.",
     "source": "Decrypt"
   }
 ]
