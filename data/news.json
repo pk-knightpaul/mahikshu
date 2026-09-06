@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-06T13:24:43Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-06T13:03:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
     "platform": "news",
     "type": "news",
@@ -11,21 +31,11 @@
   },
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-05T11:16:19Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
     "platform": "news",
     "type": "news",
     "url": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-05T10:44:29Z",
+    "timestamp": "2026-09-05T10:46:00Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Poland upholds crypto bill veto as Zondacrypto scandal widens\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media...",
     "source": "CoinTelegraph"
   },
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "US law enforcement group moves to \u2018neutral\u2019 position on CLARITY Act",
+    "id": "news_coindesk_bbd31537-0f44-40bd-8b4d-975efd",
+    "title": "Better and Coinbase\u2019s bitcoin-backed mortgages can reuse borrowers\u2019 collateral",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-04T17:05:34Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US law enforcement group moves to \u2018neutral\u2019 position on CLARITY Act\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
+    "timestamp": "2026-09-06T14:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_44bc58c0-87ed-4803-8981-e8a728",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_c6aa824b-a682-498d-a503-870719",
-    "title": "We checked 6 years of bitcoin data. The NFP report isn't big price mover",
+    "id": "news_decrypt_https://decrypt.co/?p=377494",
+    "title": "This Crypto Project Just Funded 1,000 Student Loans Entirely On-Chain",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/daybook-us/2026/09/04/we-checked-6-years-of-bitcoin-data-the-nfp-report-isn-t-big-price-mover",
-    "timestamp": "2026-09-04T11:29:05Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/377494/pencil-finance-1-million-student-loan",
+    "timestamp": "2026-09-06T13:01:04Z",
+    "summary": "The team behind Pencil Finance says the financing supported thousands of Southeast Asian students, but it did not disclose borrower costs, defaults, or investor returns.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=377510",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/377461/send-your-lawyers-robinhood-not-backing-down-amc",
     "timestamp": "2026-09-04T18:36:41Z",
     "summary": "Lawyers question AMC\u2019s grounds for a securities-law challenge, but say the tokens\u2019 branding and marketing could leave room for a dispute.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377458",
-    "title": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377458/openreserve-occ-approval-full-service-national-bank",
-    "timestamp": "2026-09-04T17:19:55Z",
-    "summary": "The a16z-backed startup chose a full national charter over the trust-bank route most crypto firms have taken, clearing a path toward insured deposits and conventional lending alongside stablecoin issu...",
     "source": "Decrypt"
   }
 ]
