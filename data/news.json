@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "New York town weighs crypto mining and AI data center ban",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-08T21:33:49Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New York town weighs crypto mining and AI data center ban\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/art...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Franklin Templeton digital asset veteran takes helm at StablecoinX",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-08T20:59:20Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Franklin Templeton digital asset veteran takes helm at StablecoinX\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Here\u2019s what happened in crypto today",
     "platform": "news",
     "type": "news",
@@ -77,26 +97,6 @@
     "url": "https://cointelegraph.com/news/strategy-skips-bitcoin-buy-repurchase-176m-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-09-08T12:51:00Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy skips Bitcoin buy to repurchase $176M of STRC preferred shares\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Mexico quadruple homicide tied to alleged Bitcoin robbery attempt",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/mexico-quadruple-homicide-alleged-bitcoin-robbery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-08T12:41:14Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mexico quadruple homicide tied to alleged Bitcoin robbery attempt\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Circle to acquire Tazapay to expand USDC cross-border payments",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-08T11:33:14Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle to acquire Tazapay to expand USDC cross-border payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=377725",
+    "title": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
+    "timestamp": "2026-09-08T21:38:34Z",
+    "summary": "NYU's Tristan Buckmaster accuses OpenAI's S\u00e9bastien Bubeck of racing to claim credit for a Navier-Stokes proof after learning about his unpublished work with Anthropic's Levent Alp\u00f6ge.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=377723",
+    "title": "$47M Still Missing After Liquid Hack as Blockstream Bargains With 'White Hats'",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat",
+    "timestamp": "2026-09-08T20:46:34Z",
+    "summary": "The hackers have returned 3,400 of the roughly 4,000 BTC drained from the sidechain, but about 600 BTC remains outstanding\u2014and some doubt the actors' \"white hat\" claims.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=377705",
     "title": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/377664/strategys-return-to-bitcoin-buying-lasted-exactly-one-week",
     "timestamp": "2026-09-08T13:57:16Z",
     "summary": "The Bitcoin treasury firm spent $176.3 million on its own preferred stock, and doubled the buyback program's authorization to $2 billion.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377661",
-    "title": "Morning Minute: The Trenches Just Had Their Biggest Week Since TRUMP",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377661/morning-minute-the-trenches-just-had-their-biggest-week-since-trump",
-    "timestamp": "2026-09-08T13:06:33Z",
-    "summary": "Is it a warning sign for a local top? Or is the onchain party just getting started?",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377653",
-    "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
-    "timestamp": "2026-09-08T11:33:50Z",
-    "summary": "The LAPTOP token launches in September on Base, with a fifth of the supply earmarked for traders who lost money on TRUMP.",
     "source": "Decrypt"
   }
 ]
