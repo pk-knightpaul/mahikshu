@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Consensys to split into MetaMask and institutional blockchain company",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-09T18:47:32Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Consensys to split into MetaMask and institutional blockchain company\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "TRM Labs doubles valuation to $2B in Series C expansion",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-09T17:30:06Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"TRM Labs doubles valuation to $2B in Series C expansion \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
     "platform": "news",
     "type": "news",
@@ -77,26 +97,6 @@
     "url": "https://cointelegraph.com/news/bitmart-misses-roadmap-deadline-appoints-financial-adviser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-09-09T13:04:28Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMart misses roadmap deadline, appoints financial adviser\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Italy\u2019s central bank orders sanctions screening for crypto transfers",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/italys-central-bank-orders-sanctions-screening-for-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-09T12:20:33Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Italy\u2019s central bank orders sanctions screening for crypto transfers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "What could happen if the CLARITY Act fails to pass in 2026",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/clarity-act-fails-passage-next-session-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-09T11:54:41Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"What could happen if the CLARITY Act fails to pass in 2026\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,36 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=377810",
+    "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
+    "timestamp": "2026-09-09T18:56:58Z",
+    "summary": "Crypto advocates and community bankers are targeting lawmakers in their home states as the Senate prepares for a September 15 procedural vote.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=377807",
+    "title": "Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip",
+    "timestamp": "2026-09-09T17:50:14Z",
+    "summary": "The company's first fall keynote under new leadership paired a Gemini-powered Siri overhaul with Apple's first 2-nanometer chip, plus a $1,999 foldable iPhone that won't ship until October.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=377804",
+    "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
+    "timestamp": "2026-09-09T17:16:08Z",
+    "summary": "Blockchain sleuths at Elliptic traced the money, Treasury sanctioned the marketplace, and Xinbi\u2014which ran $24 billion through a Telegram scam bazaar\u2014called the freeze unfair.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=377737",
     "title": "While Bitcoin Devs Debate Next Moves, IonQ Unveils Superion 256 Quantum Computer",
     "platform": "news",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
     "timestamp": "2026-09-09T14:37:18Z",
     "summary": "Anything bought before 2027 keeps the twelve-month exemption, so the change lands only on Germany's future crypto buyers.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377761",
-    "title": "Morning Minute: Venice\u2019s VVV Token Soars After OpenAI Dispute",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377761/morning-minute-venices-vvv-token-soars-after-openai-dispute",
-    "timestamp": "2026-09-09T13:28:52Z",
-    "summary": "Concerns over frontier AI labs stealing user data has driven demand for private inference (or at least tokens tied to private inference).",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377757",
-    "title": "UK Crime Agency Warns of 'Innovative Use' of Crypto by Launderers",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377757/uk-crime-agency-warns-of-innovative-use-of-crypto-by-launderers",
-    "timestamp": "2026-09-09T11:43:53Z",
-    "summary": "The agency ranks cryptoassets third among nine economic crime priorities, and says it wants to generate its own targets.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377748",
-    "title": "Mexico Seizes 300 Crypto Mining Rigs Wired Into a Hydroelectric Dam",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377748/mexico-seizes-300-crypto-mining-rigs-wired-into-a-hydroelectric-dam",
-    "timestamp": "2026-09-09T09:28:29Z",
-    "summary": "Forensic accountants are tracing who paid for the mining hardware, and money laundering has not been ruled out.",
     "source": "Decrypt"
   }
 ]
