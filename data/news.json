@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-09T21:30:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "DoubleZero adds Kalshi election market data ahead of US midterms",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-09T20:08:09Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DoubleZero adds Kalshi election market data ahead of US midterms \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Consensys to split into MetaMask and institutional blockchain company",
     "platform": "news",
     "type": "news",
@@ -80,28 +100,8 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/maga",
-    "title": "10 of the greatest unsolved crypto mysteries",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-09T13:30:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"10 of the greatest unsolved crypto mysteries\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "BitMart misses roadmap deadline, appoints financial adviser",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/bitmart-misses-roadmap-deadline-appoints-financial-adviser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-09T13:04:28Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMart misses roadmap deadline, appoints financial adviser\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a...",
-    "source": "CoinTelegraph"
-  },
-  {
     "id": "news_coindesk_83d1fd19-d1f7-4e3c-9a83-27a4fe",
-    "title": "Robinhood\u2019s CEO Vlad Tenev fires back at AMC CEO in escalating fight over stock tokens",
+    "title": "Robinhood CEO Vlad Tenev fires back at AMC's Aron in escalating fight over stock tokens",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=377818",
+    "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377818/ai-math-best-problems-terence-tao",
+    "timestamp": "2026-09-09T20:31:29Z",
+    "summary": "The Fields medalist points to a real race between OpenAI and Anthropic as proof: AI can now flatten a hard problem the moment someone starts working on it.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=377810",
     "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
     "timestamp": "2026-09-09T15:07:24Z",
     "summary": "Consensys Software Inc. will become MetaMask, while a newly formed Consensys will take over the firm's Ethereum protocols and institutional blockchain infrastructure business.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377764",
-    "title": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
-    "timestamp": "2026-09-09T14:37:18Z",
-    "summary": "Anything bought before 2027 keeps the twelve-month exemption, so the change lands only on Germany's future crypto buyers.",
     "source": "Decrypt"
   }
 ]
