@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-10T20:10:29Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ESMA warns growing crypto ties could amplify risks to traditional finance\" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-10T17:54:12Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK House of Lords backs mandatory digital asset strategy over Labour position\" class=\"type:primaryImage\" src=\"https://s3-images....",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Liquid Network resumes block production after $320M exploit",
     "platform": "news",
     "type": "news",
@@ -80,24 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Nasdaq invests $100M in Kraken parent at $21B valuation: Report",
+    "id": "news_coindesk_ed4e247c-74df-40f2-b243-0e8ae8",
+    "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-10T11:41:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nasdaq invests $100M in Kraken parent at $21B valuation: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
+    "timestamp": "2026-09-10T20:21:57Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
+    "id": "news_coindesk_095cc163-38fa-4b4c-b3cb-feba4f",
+    "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-10T10:20:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Treasury Secretary Bessent urges CLARITY Act passage after Senate returns\" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
+    "timestamp": "2026-09-10T19:01:30Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_0c44709c-b112-458b-aa4a-c1955c",
@@ -180,24 +200,64 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_3d802502-375c-4a31-b784-682a31",
-    "title": "Threatened with arrest online? Recognizing a law enforcement impersonation scam",
+    "id": "news_decrypt_https://decrypt.co/?p=377928",
+    "title": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/opinion/2026/09/10/threatened-with-arrest-online-recognizing-a-law-enforcement-impersonation-scam",
-    "timestamp": "2026-09-10T13:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft",
+    "timestamp": "2026-09-10T21:18:48Z",
+    "summary": "The draft adds registration requirements for controlled trading protocols and leaves its ethics provisions largely unchanged.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_bb9f9993-3f4b-42d9-980f-3ed31b",
-    "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
+    "id": "news_decrypt_https://decrypt.co/?p=377917",
+    "title": "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design\u2014at 1.4% of the Cost",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
-    "timestamp": "2026-09-10T13:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/377917/deepseek-openai-gpt-6-astra-design-benchmark",
+    "timestamp": "2026-09-10T21:16:03Z",
+    "summary": "OpenDesign put 13 AI models through the same design tasks. DeepSeek V4.1 Flash landed a point and a half behind GPT-6 Astra and roughly 70 times cheaper.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=377925",
+    "title": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin",
+    "timestamp": "2026-09-10T20:34:50Z",
+    "summary": "The ECDSA.Fail challenge cut a resource benchmark for one component of a potential quantum attack by 86%.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=377601",
+    "title": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
+    "timestamp": "2026-09-10T18:51:04Z",
+    "summary": "Head of Product Ryan Kass says the return to Coinbase Wallet reflects a broader trading strategy, with the self-custody app serving as a testing ground for new assets and experiences.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=377903",
+    "title": "Bitcoin Rally Cools, But a Golden Cross Is Coming",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377903/bitcoin-price-golden-cross-coming",
+    "timestamp": "2026-09-10T18:46:04Z",
+    "summary": "Bitcoin couldn't escape today's inflation-driven selloff, but a bearish pattern on its chart is about to flip for the first time since November.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=377902",
+    "title": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377902/ai-hacks-shrinking-bank-time-fix-flaws-bis",
+    "timestamp": "2026-09-10T18:13:13Z",
+    "summary": "The Bank for International Settlements says routine patching schedules are increasingly inadequate and cites guidance urging banks to accept planned downtime for urgent fixes.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=377898",
@@ -237,66 +297,6 @@
     "url": "https://decrypt.co/377867/morning-minute-hunter-bidens-laptop-crashes",
     "timestamp": "2026-09-10T12:10:48Z",
     "summary": "The meme coin plunged on its debut, as recent alt leaders and many onchain darlings slipped in a nasty day for crypto.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377864",
-    "title": "Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377864/nasdaq-invests-100m-in-kraken-parent-payward-at-21b-valuation",
-    "timestamp": "2026-09-10T11:28:55Z",
-    "summary": "Deutsche B\u00f6rse's April stake implied a $13.3 billion valuation. Five months on, Nasdaq is paying at $21 billion.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377857",
-    "title": "Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377857/vitalik-buterin-pushes-ethereum-plan-to-slash-quantum-safe-privacy-costs",
-    "timestamp": "2026-09-10T10:11:52Z",
-    "summary": "Buterin wants EIP-8288 in I-star, the upgrade after Hegota, and adopting it would make RISC-V Ethereum's canonical instruction set.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377831",
-    "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
-    "timestamp": "2026-09-09T23:02:23Z",
-    "summary": "The hardware wallet maker said a fake security alert claimed a hardware flaw could expose users\u2019 recovery phrases.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377818",
-    "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377818/ai-math-best-problems-terence-tao",
-    "timestamp": "2026-09-09T20:31:29Z",
-    "summary": "The Fields medalist points to a real race between OpenAI and Anthropic as proof: AI can now flatten a hard problem the moment someone starts working on it.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377810",
-    "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
-    "timestamp": "2026-09-09T18:56:58Z",
-    "summary": "Crypto advocates and community bankers are targeting lawmakers in their home states as the Senate prepares for a September 15 procedural vote.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377807",
-    "title": "Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip",
-    "timestamp": "2026-09-09T17:50:14Z",
-    "summary": "The company's first fall keynote under new leadership paired a Gemini-powered Siri overhaul with Apple's first 2-nanometer chip, plus a $1,999 foldable iPhone that won't ship until October.",
     "source": "Decrypt"
   }
 ]
