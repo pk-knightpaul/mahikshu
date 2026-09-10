@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "US sanctions Xinbi scam marketplace, restrains $52M in crypto",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/us-sanctions-xinbi-restrains-52m-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-10T04:05:03Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US sanctions Xinbi scam marketplace, restrains $52M in crypto\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Here\u2019s what happened in crypto today",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "German finance ministry proposes 25% crypto tax starting 2028: Report",
+    "id": "news_coindesk_3d762448-3283-44fa-a8ec-77f3c1",
+    "title": "Dogecoin sinks 5% to lead majors losses, with bitcoin holding $78,000 level",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-09T13:49:55Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"German finance ministry proposes 25% crypto tax starting 2028: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level",
+    "timestamp": "2026-09-10T05:30:15Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_a0098857-10e3-4bb6-beaf-25cab3",
+    "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says",
+    "timestamp": "2026-09-10T05:05:41Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_83d1fd19-d1f7-4e3c-9a83-27a4fe",
@@ -176,26 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
     "timestamp": "2026-09-09T14:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_88f55305-9afa-473a-b855-02115f",
-    "title": "Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/09/09/hunter-biden-s-laptop-memecoin-debuts-at-usd1-6-billion-market-cap",
-    "timestamp": "2026-09-09T13:57:57Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_9c3d0678-25f6-447f-a313-437f74",
-    "title": "KYC data is an irresistible honeypot for hackers, and we must change how it is collected",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/opinion/2026/09/09/kyc-data-is-an-irresistible-honeypot-for-hackers-and-we-must-change-how-it-is-collected",
-    "timestamp": "2026-09-09T13:02:49Z",
     "summary": "",
     "source": "CoinDesk"
   },
