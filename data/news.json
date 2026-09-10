@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=377831",
+    "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
+    "timestamp": "2026-09-09T23:02:23Z",
+    "summary": "The hardware wallet maker said a fake security alert claimed a hardware flaw could expose users\u2019 recovery phrases.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=377818",
     "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100",
     "timestamp": "2026-09-09T15:15:01Z",
     "summary": "Myriad's $120 side overtook $55 at the start of September, while Polymarket puts WTI reaching $100 this month at 59%.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377768",
-    "title": "Consensys Is Splitting in Two as MetaMask Goes Its Own Way",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
-    "timestamp": "2026-09-09T15:07:24Z",
-    "summary": "Consensys Software Inc. will become MetaMask, while a newly formed Consensys will take over the firm's Ethereum protocols and institutional blockchain infrastructure business.",
     "source": "Decrypt"
   }
 ]
