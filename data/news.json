@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Hyperliquid\u2019s biggest risk is regulation, says Ran Neuner",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-11T18:45:15Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperliquid\u2019s biggest risk is regulation, says Ran Neuner\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/art...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Anchorage Digital adds institutional access to Frgmnt\u2019s fUSD stablecoin",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028",
+    "id": "news_coindesk_6d16117c-9167-4cde-ac88-1b425b",
+    "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/sky-value-token-holders-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-11T10:44:28Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
+    "timestamp": "2026-09-11T17:12:45Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_bf29c3af-e8dd-4685-bb2f-05a9af",
@@ -161,7 +171,7 @@
   },
   {
     "id": "news_coindesk_8311aa6c-2aee-4e26-a163-74bbf6",
-    "title": "Live updates: Bitcoin gives up early gains as markets fully price in Fed rate hike",
+    "title": "Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
@@ -190,14 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_f805e7f2-d36b-4fb9-b37d-5b05d1",
-    "title": "Kalshi wants 24/7 Tesla and Nvidia perps as Wall Street fights over who regulates them",
+    "id": "news_decrypt_https://decrypt.co/?p=377990",
+    "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/09/11/kalshi-wants-24-7-tesla-and-nvidia-perps-as-wall-street-fights-over-who-regulates-them",
-    "timestamp": "2026-09-11T06:17:31Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/377990/openai-congress-ai-slowdown-legal",
+    "timestamp": "2026-09-11T18:16:04Z",
+    "summary": "The company is seeking clarity on antitrust rules as researchers call for restraint and experts warn that competition encourages companies to overlook risks.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=377982",
+    "title": "Robinhood Crypto Trading Volume Jumps 61% in August",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/377982/robinhoods-crypto-volume-jumps-august",
+    "timestamp": "2026-09-11T17:22:39Z",
+    "summary": "Fresh operating data shows crypto trading bouncing back, but the company's fastest-growing business these days isn't traditional trading at all.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=377973",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft",
     "timestamp": "2026-09-10T21:18:48Z",
     "summary": "The draft adds registration requirements for controlled trading protocols and leaves its ethics provisions largely unchanged.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377917",
-    "title": "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design\u2014at 1.4% of the Cost",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377917/deepseek-openai-gpt-6-astra-design-benchmark",
-    "timestamp": "2026-09-10T21:16:03Z",
-    "summary": "OpenDesign put 13 AI models through the same design tasks. DeepSeek V4.1 Flash landed a point and a half behind GPT-6 Astra and roughly 70 times cheaper.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377925",
-    "title": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin",
-    "timestamp": "2026-09-10T20:34:50Z",
-    "summary": "The ECDSA.Fail challenge cut a resource benchmark for one component of a potential quantum attack by 86%.",
     "source": "Decrypt"
   }
 ]
