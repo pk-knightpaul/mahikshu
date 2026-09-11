@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-11T21:30:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-11T19:46:24Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin Suisse to shift up to half of Swiss jobs abroad\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/artic...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Hyperliquid\u2019s biggest risk is regulation, says Ran Neuner",
     "platform": "news",
     "type": "news",
@@ -50,16 +70,6 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-11T12:57:24Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
-  },
-  {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "Bitcoin ETF outflows accelerate as investors pull $449M in three days",
     "platform": "news",
@@ -87,16 +97,6 @@
     "url": "https://cointelegraph.com/news/unicredit-infrastructure-partners-crypto-trading-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-09-11T11:35:27Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UniCredit seeks infrastructure partner for crypto trading, custody: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctm...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin buyers wary of July sub-$58K floor amid onchain data \u2018anomaly\u2019",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-buyers-wary-of-july-sub-58k-floor-amid-onchain-data-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-11T10:53:55Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin buyers wary of July sub-$58K floor amid onchain data \u2018anomaly\u2019\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=378094",
+    "title": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web",
+    "timestamp": "2026-09-11T21:45:05Z",
+    "summary": "Greenberg Traurig said documents were posted to the dark web, while BakerHostetler recorded a near-doubling of law-firm incidents in 2025.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=378081",
+    "title": "Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
+    "timestamp": "2026-09-11T20:53:39Z",
+    "summary": "A rapidly changing interest rates market has changed the near-term outlook on the Bitcoin chart. Here\u2019s why.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=377990",
     "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/377939/albuquerque-bans-bitcoin-atms-giving-operators-45-days-to-remove-them",
     "timestamp": "2026-09-11T10:10:41Z",
     "summary": "A councilor said 90% of crypto kiosk transactions in the city are tied to fraud, calling the machines a conduit for crime.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377931",
-    "title": "Sam Bankman-Fried Asks Supreme Court to Overturn FTX Fraud Conviction",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377931/sam-bankman-fried-asks-supreme-court-to-overturn-ftx-fraud-conviction",
-    "timestamp": "2026-09-11T09:04:11Z",
-    "summary": "SBF\u2019s lawyers say he was barred from arguing customers lost nothing, and call the $11 billion forfeiture an \"crushing fine.\"",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377928",
-    "title": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft",
-    "timestamp": "2026-09-10T21:18:48Z",
-    "summary": "The draft adds registration requirements for controlled trading protocols and leaves its ethics provisions largely unchanged.",
     "source": "Decrypt"
   }
 ]
