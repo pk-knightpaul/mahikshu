@@ -100,6 +100,16 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_410dc8a7-4307-414f-9500-85998b",
+    "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+    "timestamp": "2026-09-12T10:11:01Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_8d303925-0854-4fed-a2b0-268387",
     "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
     "platform": "news",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_6c7de980-ff9a-4a3b-a6c4-6a0109",
-    "title": "Bitcoin recovers toward $77,300 as zcash leverage unwinds",
+    "id": "news_decrypt_https://decrypt.co/?p=377998",
+    "title": "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/09/11/bitcoin-recovers-toward-usd77-300-as-zcash-leverage-unwinds",
-    "timestamp": "2026-09-11T10:50:47Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/377998/chatgpt-images-2-5-vs-nano-banana-2-review",
+    "timestamp": "2026-09-12T13:01:03Z",
+    "summary": "OpenAI's new image model promises sharper detail and more precise editing. We ran it against Google's Nano Banana 2 across six categories to see how it compares.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=378094",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/377947/eu-regulator-says-prediction-markets-are-rife-with-inside-trading",
     "timestamp": "2026-09-11T12:06:24Z",
     "summary": "ESMA also asks why Kalshi and Polymarket block some EU countries but not others, and notes VPNs get around the blocks.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377939",
-    "title": "Albuquerque Bans Bitcoin ATMs, Giving Operators 45 Days to Remove Them",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377939/albuquerque-bans-bitcoin-atms-giving-operators-45-days-to-remove-them",
-    "timestamp": "2026-09-11T10:10:41Z",
-    "summary": "A councilor said 90% of crypto kiosk transactions in the city are tied to fraud, calling the machines a conduit for crime.",
     "source": "Decrypt"
   }
 ]
