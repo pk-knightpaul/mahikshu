@@ -21,12 +21,12 @@
   },
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Farage\u2019s Reform UK gets biggest donation ever from crypto billionaire: Reports",
+    "title": "Farage\u2019s Reform UK gets $97M from two crypto billionaires",
     "platform": "news",
     "type": "news",
     "url": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-09-12T15:50:14Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Farage\u2019s Reform UK gets biggest donation ever from crypto billionaire: Reports\" class=\"type:primaryImage\" src=\"https://s3-images...",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Farage\u2019s Reform UK gets $97M from two crypto billionaires\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/art...",
     "source": "CoinTelegraph"
   },
   {
@@ -98,6 +98,26 @@
     "timestamp": "2026-09-11T13:30:00Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trading stocks against BONER is the latest trend for DeFi degens\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
     "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_coindesk_d2de1932-af21-4267-b10a-06a8b0",
+    "title": "Nigel Farage\u2019s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
+    "timestamp": "2026-09-12T18:51:04Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_3dfe9d7d-bb1d-437a-ac2e-895ef3",
+    "title": "Anthropic CEO calls for AI race to slow down. Musk and OpenAI's Altman agrees",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
+    "timestamp": "2026-09-12T18:43:33Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_8e8abd43-f7ba-4803-acfc-0a22f1",
@@ -180,24 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_26719a24-0467-43d9-a51f-7ec134",
-    "title": "Metaplanet cuts executive reward pool by 41%, extinguishes $220 million in value",
+    "id": "news_decrypt_https://decrypt.co/?p=378114",
+    "title": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/09/11/metaplanet-cuts-executive-reward-pool-by-41-extinguishes-usd220-million-in-value",
-    "timestamp": "2026-09-11T13:46:51Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_2044eb31-d861-4b75-ba31-e9c821",
-    "title": "Zodia Custody CEO Julian Sawyer steps down, becomes adviser",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/09/11/zodia-custody-ceo-julian-sawyer-steps-down-becomes-adviser",
-    "timestamp": "2026-09-11T13:32:52Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach",
+    "timestamp": "2026-09-12T17:01:04Z",
+    "summary": "The fintech company fulfilled a fraudulent information request sent from a government agency's own email domain, exposing ID documents and full crypto transaction histories for a \"limited\" number of u...",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=378101",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/377973/bitwise-shuts-dogecoin-etf",
     "timestamp": "2026-09-11T16:16:05Z",
     "summary": "BWOW will stop trading October 14, with cash payments to remaining shareholders expected October 22.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=377962",
-    "title": "Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/377962/bitcoin-price-cpi-inflation-fed-rate-decision",
-    "timestamp": "2026-09-11T15:32:08Z",
-    "summary": "Inflation held at 3.4% and core cooled annually, but a hot monthly core reading kept Fed hike odds near 62% while crypto markets rallied broadly.",
     "source": "Decrypt"
   }
 ]
