@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "USDT payments feature in Polish energy giant\u2019s failed $230M oil deal: FT",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-15T13:37:31Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"USDT payments feature in Polish energy giant\u2019s failed $230M oil deal: FT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "US House crypto tax package omits mining, staking reward deferral",
     "platform": "news",
     "type": "news",
@@ -55,7 +65,7 @@
     "platform": "news",
     "type": "news",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-15T05:39:15Z",
+    "timestamp": "2026-09-15T05:50:00Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
     "source": "CoinTelegraph"
   },
@@ -90,14 +100,84 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Democrats push back on GOP\u2019s \u2018final\u2019 CLARITY offer with counterproposal: Politico",
+    "id": "news_coindesk_9141fc76-89e7-4f12-b379-c9eca3",
+    "title": "European Central Bank calls for merchants to participate in digital euro pilot",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/democrats-push-back-on-gops-final-clarity-offer-with-counterproposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-15T00:46:15Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Democrats push back on GOP\u2019s \u2018final\u2019 CLARITY offer with counterproposal: Politico\" class=\"type:primaryImage\" src=\"https://s3-ima...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/policy/2026/09/15/european-central-bank-calls-for-merchants-to-participate-in-digital-euro-pilot",
+    "timestamp": "2026-09-15T14:15:06Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_4d5c83db-1ac0-4d54-afda-f230f3",
+    "title": "Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/09/15/clarity-act-s-odds-of-passing-plunge-as-republicans-reject-democrats-counter-proposal",
+    "timestamp": "2026-09-15T14:13:44Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_5fa13fb5-191d-40b9-803d-7ed36f",
+    "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
+    "timestamp": "2026-09-15T13:43:50Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_3b8b7d5f-dfc2-4c2b-a976-9480a6",
+    "title": "Standard Chartered predicts Arbitrum's ARB to rise 70-fold to $10, citing Robinhood Chain revenue",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/09/15/standard-chartered-expects-arbitrum-s-arb-rising-70-fold-to-usd10-as-robinhood-boosts-its-revenue",
+    "timestamp": "2026-09-15T13:25:52Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_da026753-05f1-4839-aafd-0b9900",
+    "title": "To ensure permanent economic innovation, we must pass the Clarity Act now",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/opinion/2026/09/15/to-ensure-permanent-economic-innovation-we-must-pass-the-clarity-act-now",
+    "timestamp": "2026-09-15T12:00:06Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_fc76d519-28c4-4150-ba25-935834",
+    "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
+    "timestamp": "2026-09-15T11:15:44Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_494f04fe-ed16-48d3-9bb4-a75f26",
+    "title": "Why banks should stop worrying and learn to love the Clarity Act",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/opinion/2026/09/15/why-banks-should-stop-worrying-and-learn-to-love-the-clarity-act",
+    "timestamp": "2026-09-15T11:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_ec775a09-346e-48c6-9f9f-7f6193",
+    "title": "Velocity extends Series A to $48M at $200M valuation with backing from Visa, Circle, and Ripple",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/09/10/velocity-extends-series-a-to-usd48m-at-usd200m-valuation-with-backing-from-visa-circle-and-ripple",
+    "timestamp": "2026-09-15T11:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_1472cc9a-239b-4bd4-9044-a6f308",
@@ -120,84 +200,54 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_2c0315fa-2589-411b-ac97-1db93d",
-    "title": "Nigel Farage-backed Stack BTC eyes $16 million gold dealer deal to fund bitcoin buy",
+    "id": "news_decrypt_https://decrypt.co/?p=378246",
+    "title": "Democrats 'Move the Goalposts' on Clarity Act Hours Before Key Senate Vote",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/09/15/nigel-farage-backed-stack-btc-eyes-usd16-million-gold-dealer-deal-to-fund-bitcoin-buy",
-    "timestamp": "2026-09-15T10:06:40Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/378246/democrats-goalposts-clarity-act-key-senate-vote",
+    "timestamp": "2026-09-15T15:08:07Z",
+    "summary": "Democrats are pushing for further concessions as Republicans insist their latest text is their final offer ahead of today\u2019s 60-vote test.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_48bd98f0-8fd3-4b91-9b72-d4445e",
-    "title": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
+    "id": "news_decrypt_https://decrypt.co/?p=378233",
+    "title": "Bitcoin Sinks as the Senate's Clarity Act Showdown Looms",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business",
-    "timestamp": "2026-09-15T09:30:58Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/378233/bitcoin-sinks-senate-clarity-act-showdown",
+    "timestamp": "2026-09-15T14:58:57Z",
+    "summary": "Bitcoin just gave back its entire post-golden-cross rally in one red candle, with a make-or-break Senate vote landing this afternoon and the Fed staring down a rate hike.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_1dce478a-6810-4a5b-b5d1-a5c4c1",
-    "title": "Live updates: Bitcoin slides to $77,000 as Senate votes on Clarity Act",
+    "id": "news_decrypt_https://decrypt.co/?p=378230",
+    "title": "Morning Minute: Clarity Act Odds Slump After Democrat Pushback",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
-    "timestamp": "2026-09-15T06:37:24Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/378230/morning-minute-clarity-act-odds-slump-after-democrat-pushback",
+    "timestamp": "2026-09-15T14:05:47Z",
+    "summary": "The odds of the Clarity Act passing have fully reversed their recent move, and crypto majors have reversed alongside. Is there any hope left for the bill to pass?",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_5d4601ef-1a27-478d-8302-3f81ce",
-    "title": "XRP Ledger is one vote away from starting its next big payments upgrade",
+    "id": "news_decrypt_https://decrypt.co/?p=378203",
+    "title": "Why an AI Slowdown Could Collapse Under Commercial and US-China Pressure",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/09/15/xrp-ledger-is-one-vote-away-from-starting-its-next-big-payments-upgrade",
-    "timestamp": "2026-09-15T05:58:41Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/378203/ai-slowdown-us-china-pressure",
+    "timestamp": "2026-09-15T13:00:05Z",
+    "summary": "Atlantic Council experts argue corporate pledges need enforceable safety standards, while U.S.\u2013China distrust limits prospects for an international agreement.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_d6162874-8e51-43cf-8fe5-80cbde",
-    "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
+    "id": "news_decrypt_https://decrypt.co/?p=378183",
+    "title": "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
-    "timestamp": "2026-09-15T05:12:06Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_8cbe20a6-56ef-484f-adbd-ff88f2",
-    "title": "Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
-    "timestamp": "2026-09-15T04:34:10Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_aaeedda9-7a5a-4bcd-a756-ea22cb",
-    "title": "Democrats send counteroffer to Republicans over Clarity Act provisions",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/09/15/democrats-send-counteroffer-to-republicans-over-clarity-act-provisions",
-    "timestamp": "2026-09-15T04:09:01Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_b646c87b-9678-45ec-b4c8-5cc21b",
-    "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week",
-    "timestamp": "2026-09-15T03:27:38Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/378183/solana-defi-development-corp-chad",
+    "timestamp": "2026-09-15T11:01:04Z",
+    "summary": "DeFi Development Corp added another 55,491 SOL and opened a CHAD at-the-market program for its preferred stock, extending a fast-moving three-week run of capital markets activity.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=378190",
@@ -247,56 +297,6 @@
     "url": "https://decrypt.co/378168/microsoft-humanist-ai-code-of-conduct",
     "timestamp": "2026-09-14T19:07:28Z",
     "summary": "Mustafa Suleyman's AI unit wants feedback for six weeks before the document guides model training in 2027.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378166",
-    "title": "Trump Says He\u2019s the Only \u2018Guardrails\u2019 AI Needs, Attacks Anthropic and Defends Data Centers",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378166/trump-ai-guardrails-attacks-anthropic",
-    "timestamp": "2026-09-14T18:26:04Z",
-    "summary": "The president dismissed calls for tighter AI controls as industry leaders push to slow development and address safety failures.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378157",
-    "title": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378157/bitcoin-climbs-ai-slowdown-nvidia-chip-stocks",
-    "timestamp": "2026-09-14T17:40:04Z",
-    "summary": "AI CEOs want the industry to pump the brakes on capability gains. Nvidia, Intel, and AMD didn't like the sound of that. Bitcoin didn't seem to mind.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378155",
-    "title": "Crypto Market Has 'Definitely Not Priced In' Clarity Act Surprise, Says Bernstein",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378155/crypto-not-priced-in-clarity-act-surprise-bernstein",
-    "timestamp": "2026-09-14T17:25:06Z",
-    "summary": "Ethics and banking concessions have improved the crypto bill\u2019s prospects, analysts say, but Democratic support remains uncertain.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378132",
-    "title": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
-    "timestamp": "2026-09-14T16:02:25Z",
-    "summary": "The purchase brings the company closer to its goal of owning 5% of Ethereum\u2019s supply, with most of its tokens earning staking rewards.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378134",
-    "title": "Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378134/strategy-buys-139-million-strc-bitcoin-frozen",
-    "timestamp": "2026-09-14T15:41:46Z",
-    "summary": "The Bitcoin treasury firm slowed its preferred-stock buyback from last week's $176 million pace and left its 845,050 BTC untouched, per a Monday SEC filing.",
     "source": "Decrypt"
   }
 ]
