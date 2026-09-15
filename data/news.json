@@ -100,6 +100,36 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_9ce678d1-0577-4847-b046-89efc6",
+    "title": "Even if Clarity fails, Wall Street\u2019s crypto push is unlikely to stop",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/09/14/even-if-clarity-fails-wall-street-s-crypto-push-is-unlikely-to-stop",
+    "timestamp": "2026-09-14T23:43:28Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_e65deafa-e0a6-41d8-8478-86131a",
+    "title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
+    "timestamp": "2026-09-14T23:30:40Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_78ca3b91-c983-4ab2-a0b7-7a9959",
+    "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act",
+    "timestamp": "2026-09-14T22:34:18Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_67880df7-920d-4c7c-852d-b12f44",
     "title": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
     "platform": "news",
@@ -170,34 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_291bbc52-ba9f-4f7d-b8c9-8c1993",
-    "title": "Don\u2019t let perfect be the enemy of Clarity",
+    "id": "news_decrypt_https://decrypt.co/?p=378181",
+    "title": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/opinion/2026/09/14/don-t-let-perfect-be-the-enemy-of-clarity",
-    "timestamp": "2026-09-14T14:34:56Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_b13472b9-ac88-442b-9b98-5dfed8",
-    "title": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/09/14/here-is-the-revised-clarity-act-ethics-provision-donald-trump-has-agreed-to",
-    "timestamp": "2026-09-14T14:27:48Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_b2382fe0-df17-4dae-9e96-55e4e5",
-    "title": "Kaiko extends Series B funding round to $110 million with S&P Global, BNP Paribas",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/09/14/kaiko-extends-series-b-funding-round-to-usd110-million-with-s-and-p-global-bnp-paribas",
-    "timestamp": "2026-09-14T14:06:28Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/378181/banks-senate-clarity-act-stablecoin-rules-key-vote",
+    "timestamp": "2026-09-14T21:46:04Z",
+    "summary": "Eight trade associations say exceptions for interest-like rewards could pull deposits from banks and reduce lending.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=378179",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/378125/clarity-act-crypto-ethics-trump-key-vote",
     "timestamp": "2026-09-14T15:22:51Z",
     "summary": "Republicans' \"last, best and final offer\" wins Trump's backing on stronger ethics rules and concedes on DeFi and stablecoin sticking points, but it's unclear if enough Democrats will cross over Tuesda...",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378122",
-    "title": "Morning Minute: Clarity Act Odds Soar as Trump Agrees to Ethics Provisions",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378122/morning-minute-clarity-act-odds-soar-trump-ethics",
-    "timestamp": "2026-09-14T14:37:21Z",
-    "summary": "What had been written off is now very back alive ahead of a key vote on Tuesday, followed by a pivotal FOMC on Wednesday. Big week ahead...",
     "source": "Decrypt"
   }
 ]
