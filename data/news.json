@@ -1,6 +1,36 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-16T19:25:46Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "UK FCA sets crypto authorization guidance ahead of September application window",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-16T19:19:23Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK FCA sets crypto authorization guidance ahead of September application window\" class=\"type:primaryImage\" src=\"https://s3-image...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "US House tax committee advances crypto tax overhaul in 38\u20135 vote",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-16T18:01:55Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US House tax committee advances crypto tax overhaul in 38\u20135 vote\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
     "platform": "news",
     "type": "news",
@@ -70,34 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
+    "id": "news_coindesk_f99e5165-9ac5-4bb2-8926-b38d01",
+    "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-16T10:33:12Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions\" class=\"type:primaryImage\" src=\"https://s3-...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
+    "timestamp": "2026-09-16T19:07:34Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Ethiopia cuts Bitcoin miners\u2019 power by 77% amid hydropower shortage: Report",
+    "id": "news_coindesk_d90d5b56-5dea-4b96-b4f4-46a3e9",
+    "title": "Fed raises rates by 25 basis points in first hike since July 2023",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/ethiopia-bitcoin-mining-power-cut-hydro-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-16T10:11:39Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethiopia cuts Bitcoin miners\u2019 power by 77% amid hydropower shortage: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ct...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Italy investigates government email breach linked to Revolut data leak",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/italy-government-email-breach-revolut-data-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-16T09:58:48Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Italy investigates government email breach linked to Revolut data leak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
+    "timestamp": "2026-09-16T17:54:55Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_f5ac0a24-bc8a-4c6a-9878-c411e2",
@@ -121,7 +141,7 @@
   },
   {
     "id": "news_coindesk_2df95d50-44e0-4057-a280-3d6055",
-    "title": "Hamas\u2019 military wing told donors to avoid Binance. Use Bybit, OKX and others instead",
+    "title": "Hamas military wing told donors to avoid sending crypto directly from Binance, DOJ filing shows",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
@@ -180,24 +200,44 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_6cc290e6-ace1-44cd-adc3-94bf6a",
-    "title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
+    "id": "news_decrypt_https://decrypt.co/?p=378446",
+    "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
-    "timestamp": "2026-09-16T12:00:41Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/378446/openai-rogue-agents-hugging-face-two-months-before-hack",
+    "timestamp": "2026-09-16T20:31:03Z",
+    "summary": "An independent researcher found the agents hijacked Hugging Face accounts and mapped the platform's defenses as early as May 13\u2014activity OpenAI's own incident report never fully described.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_1a69f590-afbb-44f3-9374-3a0d0e",
-    "title": "Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed",
+    "id": "news_decrypt_https://decrypt.co/?p=378433",
+    "title": "Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed",
-    "timestamp": "2026-09-16T11:16:51Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right",
+    "timestamp": "2026-09-16T19:43:24Z",
+    "summary": "Chair Kevin Warsh credited Trump's economy, then ignored his rate-cut wishes entirely.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=378430",
+    "title": "Bitcoin Core Software Update Aims for Speed and Security Patches",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/378430/bitcoin-core-software-october-update",
+    "timestamp": "2026-09-16T18:53:48Z",
+    "summary": "Bitcoin Core 32.0 has entered final testing, bringing faster block checks and changes to how wallets prepare payments.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=378417",
+    "title": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/378417/fed-hikes-rates-first-time-since-2023-bitcoin",
+    "timestamp": "2026-09-16T18:15:38Z",
+    "summary": "The Federal Reserve delivered the hike Wall Street had almost unanimously priced in.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=378408",
@@ -257,46 +297,6 @@
     "url": "https://decrypt.co/378323/ai-pause-protect-giants-not-safety-cato-jack-dorsey",
     "timestamp": "2026-09-16T14:36:29Z",
     "summary": "Cato favors voluntary safeguards, while Block Chairman Jack Dorsey backs independent testing and narrowly justified restrictions.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378363",
-    "title": "FCA Guidance Lands Two Weeks Before UK Crypto Authorization Window Opens",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378363/fca-guidance-lands-two-weeks-before-uk-crypto-authorization-window-opens",
-    "timestamp": "2026-09-16T13:12:33Z",
-    "summary": "Overseas firms serving UK retail customers need authorization too, and nobody trades under the new rules before October 2027.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378352",
-    "title": "Morning Minute: Clarity Act Vote Falls Short as Democrats All Vote \u2018No\u2019",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378352/morning-minute-clarity-act-vote-falls-short-as-democrats-all-vote-no",
-    "timestamp": "2026-09-16T12:17:50Z",
-    "summary": "It should not have come as a surprise given the odds, but crypto majors, alts and memes all sold off anyway in the wake.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378351",
-    "title": "Bitcoin Hovers at $76K as Analysts Argue the Fed Matters More Than Clarity Act",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378351/bitcoin-hovers-at-76k-as-analysts-argue-the-fed-matters-more-than-clarity-act",
-    "timestamp": "2026-09-16T12:12:21Z",
-    "summary": "With Bitcoin sitting around $76,000, the argument from analysts is that dollar liquidity, not Congress, sets the floor from here.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378337",
-    "title": "UK Backs Money Laundering Crackdown With $676M and 500 New Officers",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378337/uk-backs-money-laundering-crackdown-with-676m-and-500-new-officers",
-    "timestamp": "2026-09-16T09:41:53Z",
-    "summary": "The Home Office names crypto alongside fintech and AI as drivers of a threat the NCA puts at \u00a3100 billion a year in the UK.",
     "source": "Decrypt"
   }
 ]
