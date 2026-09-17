@@ -1,5 +1,35 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-17T06:01:31Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "BitMEX faces Celsius lawsuit ahead of exchange closure",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-17T05:55:18Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMEX faces Celsius lawsuit ahead of exchange closure\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "OpenAI discloses 6 new cases of \u2018misaligned\u2019 AI behavior",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-17T05:49:06Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OpenAI discloses 6 new cases of \u2018misaligned\u2019 AI behavior\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
     "platform": "news",
@@ -27,16 +57,6 @@
     "url": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-09-16T20:51:38Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY Act could get another shot during lame-duck session, policy advocate says\" class=\"type:primaryImage\" src=\"https://s3-ima...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-16T19:25:46Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
     "source": "CoinTelegraph"
   },
   {
@@ -80,24 +100,54 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin awaits Fed rate decision below $76K as analysis discounts \u2018dovish surprise\u2019 odds",
+    "id": "news_coindesk_611bcb04-49f2-4703-af94-6136af",
+    "title": "Bitcoin faces 2022 parallels as federal reserve resumes rate hikes",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-16T15:30:49Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin awaits Fed rate decision below $76K as analysis discounts \u2018dovish surprise\u2019 odds\" class=\"type:primaryImage\" src=\"https:/...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
+    "timestamp": "2026-09-17T08:41:48Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/maga",
-    "title": "Revolut ID thefts highlight KYC\u2019s dangers: Here\u2019s how to fix it",
+    "id": "news_coindesk_879185aa-9211-4a4d-bd5c-d6c331",
+    "title": "Ripple adds XRP payments to Stripe and Tempo\u2019s AI standard in new developer kit",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/magazine/revolut-id-thefts-highlight-kycs-dangers-heres-how-to-fix-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-16T13:30:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut ID thefts highlight KYC\u2019s dangers: Here\u2019s how to fix it\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
+    "timestamp": "2026-09-17T07:54:33Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_6aafa13d-e731-4c23-9fce-5a2fc3",
+    "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
+    "timestamp": "2026-09-17T07:27:07Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_231dcce4-9383-42ac-ab8c-be556f",
+    "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed\u2019s first hike since 2023",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
+    "timestamp": "2026-09-17T04:47:27Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_d2c5b595-8af4-4dc8-9fbc-06cd5d",
+    "title": "Goldman pivots, now forecasts Fed rate hike in October",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
+    "timestamp": "2026-09-17T04:17:55Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_f99e5165-9ac5-4bb2-8926-b38d01",
@@ -146,56 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
     "timestamp": "2026-09-16T15:25:41Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_0bd6977d-737a-45c8-891b-456004",
-    "title": "Crypto Long & Short: Six signs a crypto winter is ending",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/09/15/crypto-long-and-short-six-signs-a-crypto-winter-is-ending",
-    "timestamp": "2026-09-16T14:59:34Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_95ce05cb-998e-468d-8201-f94c69",
-    "title": "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
-    "timestamp": "2026-09-16T14:35:43Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_2a26fb98-9e5f-4792-bb0a-50080e",
-    "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases",
-    "timestamp": "2026-09-16T14:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_2a9dba72-fa94-45aa-b17c-5d1e19",
-    "title": "A LatAm telecom operator is putting part of its finances on Avalanche",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/09/15/a-latam-telecom-operator-is-putting-part-of-its-finances-on-avalanche",
-    "timestamp": "2026-09-16T14:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_abded994-c176-4cbe-b925-7ffed3",
-    "title": "A stolen coin can be returned. A leaked identity cannot.",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/opinion/2026/09/16/a-stolen-coin-can-be-returned-a-leaked-identity-cannot",
-    "timestamp": "2026-09-16T13:00:00Z",
     "summary": "",
     "source": "CoinDesk"
   },
