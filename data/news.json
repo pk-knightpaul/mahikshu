@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-17T20:44:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "CFTC expands regulatory relief for passive trading software providers",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-17T19:30:48Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC expands regulatory relief for passive trading software providers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
     "platform": "news",
     "type": "news",
@@ -37,16 +57,6 @@
     "url": "https://cointelegraph.com/news/former-hut-8-ceo-jaime-leverton-to-lead-zcash-miner-fortitude-ahead-of-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-09-17T15:58:33Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing\" class=\"type:primaryImage\" src=\"https://s3-images.ct...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-17T13:53:14Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
     "source": "CoinTelegraph"
   },
   {
@@ -90,18 +100,28 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Crypto adoption blooming in Germany, while UK is falling \u2018behind,\u2019 says CoinShares researcher",
+    "id": "news_coindesk_a9da6545-a214-45af-8a20-641cd4",
+    "title": "Real stocks are finally coming on blockchain. Here\u2019s how the SEC wants it to work",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/crypto-adoption-blooming-germany-uk-behind-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-17T12:34:11Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto adoption blooming in Germany, while UK is falling \u2018behind,\u2019 says CoinShares researcher\" class=\"type:primaryImage\" src=\"ht...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
+    "timestamp": "2026-09-17T21:47:22Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_73e9de07-a6a2-413f-94d2-c4c2fa",
+    "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman\u2019s daughter alleges \u2018dementia\u2019, alcoholism and reckless spending",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
+    "timestamp": "2026-09-17T21:28:35Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_6d3779cf-288d-4b36-9ba1-29ff13",
-    "title": "Kevin O\u2019Leary says Congress will revisit CLARITY early next year as crypto tax bill advances",
+    "title": "Kevin O\u2019Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
@@ -180,24 +200,64 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_d322fc22-ed4d-4277-9d3a-a5517a",
-    "title": "Ethereum\u2019s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity",
+    "id": "news_decrypt_https://decrypt.co/?p=378575",
+    "title": "Security Experts Want the US and China to Promise Never to Let AI Control Nukes",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity",
-    "timestamp": "2026-09-17T12:37:21Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/378575/us-china-never-let-ai-control-nukes",
+    "timestamp": "2026-09-17T21:46:03Z",
+    "summary": "Brookings researchers in the US and China are urging Washington and Beijing to agree to keep humans in control of nuclear weapons.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_8d55bac5-c26c-463a-b524-ce10d5",
-    "title": "Zcash miner Fortitude names former Hut 8 chief Jaime Leverton CEO ahead of Nasdaq deal",
+    "id": "news_decrypt_https://decrypt.co/?p=378573",
+    "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/09/17/zcash-miner-fortitude-names-former-hut-8-chief-jaime-leverton-ceo-ahead-of-nasdaq-deal",
-    "timestamp": "2026-09-17T12:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai",
+    "timestamp": "2026-09-17T21:16:03Z",
+    "summary": "SpaceX's AI division has held internal talks about buying customer records from dead startups\u2014cheap fuel for Grok, no questions asked, because there's nobody left to ask them.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=378553",
+    "title": "Why Is Chipotle Now Working With the CIA-Funded Palantir?",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/378553/why-chipotle-working-with-palantir",
+    "timestamp": "2026-09-17T20:46:03Z",
+    "summary": "Chipotle is piloting a Palantir-built food safety dashboard after a summer of outbreaks, putting employee data in the hands of a company seeded by the CIA's venture arm.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=378560",
+    "title": "CFTC Opens Door for Crypto Apps to Offer Regulated Derivatives Access",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/378560/cftc-crypto-apps-regulated-derivatives-access",
+    "timestamp": "2026-09-17T20:16:04Z",
+    "summary": "In a no-action letter, the CFTC said certain software providers can connect users to regulated derivatives markets without registering as brokers.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=378551",
+    "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/378551/openai-progress-second-millennium-prize-math-problem",
+    "timestamp": "2026-09-17T19:32:22Z",
+    "summary": "Days after its disputed Navier-Stokes claim, OpenAI says it's made \"substantial progress\" on another Millennium Prize math problem\u2014and won't say which one yet.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=378544",
+    "title": "Ethereum Founder Vitalik Buterin Says AI Won\u2019t Doom Crypto Security",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/378544/ethereum-vitalik-buterin-ai-crypto-security",
+    "timestamp": "2026-09-17T19:01:05Z",
+    "summary": "The Ethereum co-founder said AI could help developers mathematically verify entire software systems, turning the same technology powering new attacks into a tool for defense.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=378522",
@@ -237,66 +297,6 @@
     "url": "https://decrypt.co/378505/sp-global-acquire-crypto-openzeppelin",
     "timestamp": "2026-09-17T16:33:12Z",
     "summary": "S&#038;P Global is expanding into the technology risks underpinning stablecoins, tokenized funds, and other onchain financial products.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378495",
-    "title": "FCA Targets Three More London Sites Over Unregistered P2P Crypto Trading",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378495/fca-targets-three-more-london-sites-over-unregistered-p2p-crypto-trading",
-    "timestamp": "2026-09-17T15:21:19Z",
-    "summary": "\"Anyone running an unregistered peer-to-peer crypto business should assume we are looking at them,\" the FCA's enforcement chief said.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378492",
-    "title": "SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378492/sec-innovation-exemption-tokenized-stocks-clarity-act",
-    "timestamp": "2026-09-17T14:52:03Z",
-    "summary": "The \"innovation exemption\" lets qualifying venues trade tokenized versions of U.S. stocks on public blockchains without registering as exchanges\u2014though it excludes price-tracking \"synthetics\" and lets...",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=340212",
-    "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
-    "timestamp": "2026-09-17T14:40:07Z",
-    "summary": "Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378472",
-    "title": "Revolut Hackers Demand $3M Monero Ransom, Threaten to Sell Customer Data: Report",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378472/revolut-hackers-demand-3m-monero-ransom-threaten-to-sell-customer-data-report",
-    "timestamp": "2026-09-17T12:53:01Z",
-    "summary": "The group says it chose whom to target by scanning the blockchain for Revolut accounts holding significant crypto.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378462",
-    "title": "Morning Minute: Crypto Rebounds After The Fed\u2019s First Hike Since 2023",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378462/morning-minute-crypto-rebounds-after-the-feds-first-hike-since-2023",
-    "timestamp": "2026-09-17T12:13:20Z",
-    "summary": "The Clarity Act failed to pass and FOMC hiked rates, and yet, crypto majors are green and alt leaders are flying. What does it mean?",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378460",
-    "title": "Zcash Closes On $1,400 After Coinholders Vote to Keep Bitcoin-Style Halvings",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378460/zcash-closes-on-1400-after-coinholders-vote-to-keep-bitcoin-style-halvings",
-    "timestamp": "2026-09-17T12:05:13Z",
-    "summary": "The privacy coin rose double digits Thursday and 168% over the past month in the wake of the NU7 upgrade vote.",
     "source": "Decrypt"
   }
 ]
