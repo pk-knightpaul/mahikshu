@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=378582",
+    "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions\u2014And Sometimes Obeying Them",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying",
+    "timestamp": "2026-09-17T22:31:03Z",
+    "summary": "OpenAI's new transparency framework reveals AI models that invented fake \"breach alerts,\" coached themselves to hide mistakes, and smuggled a file onto the public internet to talk to each other.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=378575",
     "title": "Security Experts Want the US and China to Promise Never to Let AI Control Nukes",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/378506/bitcoin-bounces-wall-street-fed-next-move",
     "timestamp": "2026-09-17T17:01:03Z",
     "summary": "The Federal Reserve's first rate increase since 2023 barely dented crypto prices, but what comes next could change calculations on Wall Street.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378505",
-    "title": "Financial Data Giant S&#038;P Global Moves Deeper Into Crypto With OpenZeppelin Deal",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378505/sp-global-acquire-crypto-openzeppelin",
-    "timestamp": "2026-09-17T16:33:12Z",
-    "summary": "S&#038;P Global is expanding into the technology risks underpinning stablecoins, tokenized funds, and other onchain financial products.",
     "source": "Decrypt"
   }
 ]
