@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Binance launches 24/7 FX perps with weekend pricing system",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-18T19:06:30Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance launches 24/7 FX perps with weekend pricing system\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Crypto stocks rebound after CLARITY Act selloff",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-18T17:55:57Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto stocks rebound after CLARITY Act selloff\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cover...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "CFTC submits crypto market regulation plan for White House review",
     "platform": "news",
     "type": "news",
@@ -77,26 +97,6 @@
     "url": "https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-09-18T10:46:17Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross\" class=\"type:primaryImage\" src=\"https://s3-im...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-18T09:14:03Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin payments firm dtcpay closes $25M round with SBI backing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-18T08:50:38Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment\" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
     "source": "CoinTelegraph"
   },
   {
@@ -181,7 +181,7 @@
   },
   {
     "id": "news_coindesk_6ea9e791-bca9-4566-a868-a229b2",
-    "title": "Live updates: Bitcoin climbs over $80,000 as rally accelerates at U.S. market open",
+    "title": "Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
@@ -198,6 +198,26 @@
     "timestamp": "2026-09-18T07:37:32Z",
     "summary": "",
     "source": "CoinDesk"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=378667",
+    "title": "Zcash Is Running\u2014Devs Want to Make It Faster",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
+    "timestamp": "2026-09-18T19:16:03Z",
+    "summary": "A new upgrade would cut Zcash block time from 75 seconds to 25, while quietly rewriting how the network pays for its own security after 2031.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=378664",
+    "title": "Bitcoin Will Hit $1 Million, Says Kevin O\u2019Leary\u2014But There\u2019s a Quantum Catch",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch",
+    "timestamp": "2026-09-18T18:35:54Z",
+    "summary": "Kevin O'Leary believes Bitcoin could hit $1 million if crypto beats its quantum computing problem, and explained why he's ditching Ethereum.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=378641",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying",
     "timestamp": "2026-09-17T22:31:03Z",
     "summary": "OpenAI's new transparency framework reveals AI models that invented fake \"breach alerts,\" coached themselves to hide mistakes, and smuggled a file onto the public internet to talk to each other.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378575",
-    "title": "Security Experts Want the US and China to Promise Never to Let AI Control Nukes",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378575/us-china-never-let-ai-control-nukes",
-    "timestamp": "2026-09-17T21:46:03Z",
-    "summary": "Brookings researchers in the US and China are urging Washington and Beijing to agree to keep humans in control of nuclear weapons.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378573",
-    "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai",
-    "timestamp": "2026-09-17T21:16:03Z",
-    "summary": "SpaceX's AI division has held internal talks about buying customer records from dead startups\u2014cheap fuel for Grok, no questions asked, because there's nobody left to ask them.",
     "source": "Decrypt"
   }
 ]
