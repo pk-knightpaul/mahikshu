@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-18T21:00:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Coinbase files to bring single-stock perpetual futures to US market",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-18T19:53:54Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase files to bring single-stock perpetual futures to US market\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Binance launches 24/7 FX perps with weekend pricing system",
     "platform": "news",
     "type": "news",
@@ -51,16 +71,6 @@
   },
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-18T13:34:11Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Ethereum Institutional signals support for Ethlabs\u2019 motion to reduce Ethereum block times",
     "platform": "news",
     "type": "news",
@@ -87,16 +97,6 @@
     "url": "https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-09-18T11:22:24Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dragonfly\u2019s Qureshi calls for end to Zcash dev fund after 2028\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-18T10:46:17Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross\" class=\"type:primaryImage\" src=\"https://s3-im...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=378681",
+    "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
+    "timestamp": "2026-09-18T21:01:30Z",
+    "summary": "The filing seeks CFTC approval for contracts giving US traders 24/5 leveraged exposure to individual stocks without ownership.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=378667",
     "title": "Zcash Is Running\u2014Devs Want to Make It Faster",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/378604/treasury-sanctions-crypto-exchange-behind-irans-bitcoin-tolls-on-hormuz-ships",
     "timestamp": "2026-09-18T09:01:55Z",
     "summary": "OFAC says hundreds of millions of dollars in Bitcoin moved through BitBank to the Revolutionary Guards in two months.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378582",
-    "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions\u2014And Sometimes Obeying Them",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying",
-    "timestamp": "2026-09-17T22:31:03Z",
-    "summary": "OpenAI's new transparency framework reveals AI models that invented fake \"breach alerts,\" coached themselves to hide mistakes, and smuggled a file onto the public internet to talk to each other.",
     "source": "Decrypt"
   }
 ]
