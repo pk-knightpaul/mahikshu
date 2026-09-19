@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "VanEck criticizes Metaplanet over executive dilution despite compensation cuts",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-19T16:15:27Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"VanEck criticizes Metaplanet over executive dilution despite compensation cuts\" class=\"type:primaryImage\" src=\"https://s3-images...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Bastion wins conditional OCC approval for national trust bank charter",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Ethereum Institutional signals support for Ethlabs\u2019 motion to reduce Ethereum block times",
+    "id": "news_coindesk_cbea7a9a-be9e-4077-a4d1-2c99e1",
+    "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/ethereum-institutional-support-ethlabs-reduce-ethereum-block-times?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-18T12:40:04Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum Institutional signals support for Ethlabs\u2019 motion to reduce Ethereum block times\" class=\"type:primaryImage\" src=\"https:...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
+    "timestamp": "2026-09-19T16:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_ff3bb4f6-46a0-464f-90d5-29c5d4",
@@ -190,14 +200,34 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_5770a488-05dd-4a28-bb15-de65dc",
-    "title": "Zcash targets November upgrade to make private payments up to three times faster",
+    "id": "news_decrypt_https://decrypt.co/?p=378688",
+    "title": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
-    "timestamp": "2026-09-18T12:50:01Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/378688/how-clarity-act-defeat-sec-cftc-wheel-crypto",
+    "timestamp": "2026-09-19T17:01:03Z",
+    "summary": "The Clarity Act failed to advance in the Senate, shifting the industry\u2019s focus to a new wave of action from the SEC and CFTC.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=378686",
+    "title": "Bitcoin's Sharpest Rally in Two Years Ran Almost Entirely on Short Liquidations",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations",
+    "timestamp": "2026-09-19T16:01:03Z",
+    "summary": "A Glassnode and Bybit report found Bitcoin climbed 24.6% in five August days even as active leverage fell, with short positions supplying 89% of every liquidated dollar.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=378675",
+    "title": "Grayscale Is Making Its Red-Hot Zcash ETF More Affordable",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/378675/grayscale-zcash-etf-more-affordable-split",
+    "timestamp": "2026-09-19T15:01:03Z",
+    "summary": "The Zcash ETF is splitting its shares three ways after pulling in more than $233 million in under a month, as Wall Street piles into crypto's hottest privacy trade.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=378674",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/378630/bitcoin-blasts-short-squeeze-crypto-liquidations",
     "timestamp": "2026-09-18T15:22:49Z",
     "summary": "Bitcoin just ripped 5.88% higher in a single session, tearing back toward its 2026 highs. The charts say the move is real, but they also say it's gotten ahead of itself.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378622",
-    "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history",
-    "timestamp": "2026-09-18T12:52:03Z",
-    "summary": "Internal memos warned of a \"doom loop\" threatening the quality of the very models it was building with OpenAI.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378619",
-    "title": "Morning Minute: SEC Approves \u2018Innovation Exemption\u2019 Moving Tokenized Stocks Forward",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378619/morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward",
-    "timestamp": "2026-09-18T12:34:50Z",
-    "summary": "It came just hours after S&#038;P Global announced its acquisition of OpenZeppelin, as everything TradFi moves onchain.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378611",
-    "title": "UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Killings",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378611/uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings",
-    "timestamp": "2026-09-18T09:57:33Z",
-    "summary": "Investigators say tracing the network's crypto transactions exposed links to organized crime and murder-for-hire.",
     "source": "Decrypt"
   }
 ]
