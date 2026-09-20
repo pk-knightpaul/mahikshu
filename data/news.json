@@ -100,6 +100,16 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_4f23dcc6-9b15-467a-ac58-345c84",
+    "title": "Crypto platform Gemini\u2019s stock is down 80% from its IPO. That\u2019s reviving takeover speculation",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
+    "timestamp": "2026-09-20T14:54:48Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_2fa40f0a-0ec7-47a1-a78f-2c40fc",
     "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
     "platform": "news",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_339f1c4b-4138-48ef-a028-312829",
-    "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
+    "id": "news_decrypt_https://decrypt.co/?p=378697",
+    "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
-    "timestamp": "2026-09-18T15:06:31Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
+    "timestamp": "2026-09-20T16:01:03Z",
+    "summary": "After banks lost their push for tighter stablecoin rules in the failed Clarity Act, JP Morgan scored a narrower win as Visa moves to stop meme coin purchases from being coded as ordinary \"digital medi...",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=378695",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
     "timestamp": "2026-09-18T16:42:32Z",
     "summary": "XRP is roaring back as Bitcoin claws its way above $800,000 again, but the charts continue to give traders mixed signals.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378638",
-    "title": "CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act",
-    "timestamp": "2026-09-18T16:08:13Z",
-    "summary": "The agency submitted a prerule on crypto asset transactions and markets to the White House for review, signaling it will build a derivatives framework on its own authority after the Clarity Act's coll...",
     "source": "Decrypt"
   }
 ]
