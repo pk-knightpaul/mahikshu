@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Trump says US will form \u2018AI Force\u2019 and appoint AI czar: Reports",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-20T12:00:52Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump says US will form \u2018AI Force\u2019 and appoint AI czar: Reports\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Grayscale\u2019s Zcash ETF files for 3-for-1 forward share split",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Binance launches 24/7 FX perps with weekend pricing system",
+    "id": "news_coindesk_2fa40f0a-0ec7-47a1-a78f-2c40fc",
+    "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-18T19:06:30Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance launches 24/7 FX perps with weekend pricing system\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
+    "timestamp": "2026-09-20T12:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_8f30bfdc-d65d-43bf-ad75-3d8859",
+    "title": "Crypto traders braced for a total wipeout this week but Bitcoin had other plans",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
+    "timestamp": "2026-09-20T12:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_cbea7a9a-be9e-4077-a4d1-2c99e1",
@@ -180,24 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_54a28713-7f5e-4975-bb47-42f52b",
-    "title": "DHS\u2019s predictive policing is unconstitutional, un-American and should be stopped",
+    "id": "news_decrypt_https://decrypt.co/?p=378695",
+    "title": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
-    "timestamp": "2026-09-18T13:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_a4a12840-34de-450d-beb6-87365e",
-    "title": "ECB President Christine Lagarde intervened to block Binance\u2019s EU MiCA license: WSJ",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
-    "timestamp": "2026-09-18T12:57:06Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet",
+    "timestamp": "2026-09-20T14:01:03Z",
+    "summary": "A Glassnode and Bybit report frames the divergence as the defining feature of this cycle, with froth pooling in the market's riskiest corners even as Bitcoin does the heavy lifting.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=378688",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act",
     "timestamp": "2026-09-18T16:08:13Z",
     "summary": "The agency submitted a prerule on crypto asset transactions and markets to the White House for review, signaling it will build a derivatives framework on its own authority after the Clarity Act's coll...",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378630",
-    "title": "Bitcoin Blasts Past $80K and a Fresh Short Squeeze Is On",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378630/bitcoin-blasts-short-squeeze-crypto-liquidations",
-    "timestamp": "2026-09-18T15:22:49Z",
-    "summary": "Bitcoin just ripped 5.88% higher in a single session, tearing back toward its 2026 highs. The charts say the move is real, but they also say it's gotten ahead of itself.",
     "source": "Decrypt"
   }
 ]
