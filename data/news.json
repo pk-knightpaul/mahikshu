@@ -200,6 +200,36 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=378900",
+    "title": "Google Admits Gemini AI Hacked Three Companies\u2014It Stayed Silent for 7 Weeks",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent",
+    "timestamp": "2026-09-21T22:46:03Z",
+    "summary": "Google learned in late July that Gemini had breached three real companies during a May security test, but said nothing publicly for seven weeks.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=378891",
+    "title": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million",
+    "timestamp": "2026-09-21T22:16:03Z",
+    "summary": "The Ohio spending comes days after the Senate blocked the crypto industry\u2019s Clarity Act.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=378889",
+    "title": "Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
+    "timestamp": "2026-09-21T21:46:03Z",
+    "summary": "Robinhood CEO Vlad Tenev says crypto event contracts are already outpacing sports bets, and could become the platform's dominant category within a few years.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=378877",
     "title": "X Sues Two Bitcoin Influencers Over Bot Army That Milked Creator Payouts",
     "platform": "news",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/378745/sony-dont-own-games-you-bought-crypto-fix-that",
     "timestamp": "2026-09-21T16:46:03Z",
     "summary": "Crypto advocates argue that NFTs can deliver real digital ownership, but privacy gaps and integration hurdles have held the tech back.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378811",
-    "title": "Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378811/apple-google-crypto-talent-stablecoin",
-    "timestamp": "2026-09-21T16:16:03Z",
-    "summary": "The senior roles cover Apple\u2019s consumer payment products and Google Cloud\u2019s institutional blockchain business in Asia.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378767",
-    "title": "Bitcoin Is Rallying Again\u2014What Happens Next?",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378767/bitcoin-rally-what-happens-next",
-    "timestamp": "2026-09-21T15:45:35Z",
-    "summary": "The rally cleared an eight-month ceiling on a short squeeze and falling oil prices. The next three weeks will decide if it sticks.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=378754",
-    "title": "Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/378754/tom-lee-bitmine-adds-ethereum-crypto-bull-market",
-    "timestamp": "2026-09-21T15:00:49Z",
-    "summary": "The purchase lifts Bitmine's stash to nearly 5.99 million ETH\u20144.9% of supply\u2014as chairman Tom Lee argues Ethereum's outperformance signals a stronger move ahead and institutions remain underweight.",
     "source": "Decrypt"
   }
 ]
