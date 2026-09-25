@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-25T20:37:21Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OG.com seeks CFTC approval for single-stock perpetual futures\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-25T20:26:40Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Tether says it had \u2018limited\u2019 exposure to bank linked to $84M US seizure",
     "platform": "news",
     "type": "news",
@@ -80,24 +100,34 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "SlowMist has yet to confirm crypto theft from iPhone Safari attack",
+    "id": "news_coindesk_fe3908e5-a758-4fce-b2a9-c1e7c6",
+    "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-25T12:19:34Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SlowMist has yet to confirm crypto theft from iPhone Safari attack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
+    "timestamp": "2026-09-25T22:17:38Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "IBIT options price trading more calmly after Bitcoin rebound",
+    "id": "news_coindesk_f04f9116-d717-4489-970c-c6f36b",
+    "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-25T11:11:33Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"IBIT options price trading more calmly after Bitcoin rebound\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
+    "timestamp": "2026-09-25T21:17:30Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_818c011b-a4ae-45af-9d08-4f565e",
+    "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
+    "timestamp": "2026-09-25T20:01:05Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_a0b4a6ba-5569-4fef-940c-e402f9",
@@ -170,34 +200,34 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_156010f1-b751-4734-918a-a7bd75",
-    "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
+    "id": "news_decrypt_https://decrypt.co/?p=379380",
+    "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
-    "timestamp": "2026-09-25T09:13:01Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
+    "timestamp": "2026-09-25T21:25:35Z",
+    "summary": "Federal prosecutors are targeting a Montana payments firm and a Caribbean bank accused of moving money without a license.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_ab157ac9-ca60-44da-89bc-0e6b92",
-    "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
+    "id": "news_decrypt_https://decrypt.co/?p=379369",
+    "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
-    "timestamp": "2026-09-25T08:58:03Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
+    "timestamp": "2026-09-25T19:45:39Z",
+    "summary": "Darktrace's new Signal Labs found AI agents hacking their own evaluation environment to fake a perfect score\u2014and tricking coding assistants into running unauthorized network attacks.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_cf83a51a-bd24-4e7e-8e66-dfc832",
-    "title": "Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress",
+    "id": "news_decrypt_https://decrypt.co/?p=379364",
+    "title": "Google Built an AI That Hunts Its Own Security Bugs",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
-    "timestamp": "2026-09-25T07:09:11Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
+    "timestamp": "2026-09-25T19:16:04Z",
+    "summary": "Google's PageBreak agent autonomously finds and verifies real vulnerabilities in its own web apps, cutting through the flood of noisy AI-generated security reports.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=379365",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/379218/morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play",
     "timestamp": "2026-09-25T13:16:03Z",
     "summary": "The bulk of prediction market trades are still sports bets, while valuations are predicated on rising institutional interest.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=379292",
-    "title": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
-    "timestamp": "2026-09-25T13:04:06Z",
-    "summary": "The biggest financial institutions in the world are bringing more products onchain, and the pace is accelerating.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=379290",
-    "title": "Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/379290/defense-secretary-pete-hegseth-holds-bitcoin-in-a-coinbase-wallet-filing-shows",
-    "timestamp": "2026-09-25T12:01:15Z",
-    "summary": "Two entries in his annual disclosure put the holding somewhere between $16,000 and $65,000, alongside more than $1 million in cash.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=379288",
-    "title": "KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/379288/kelpdao-developer-sues-layerzero-over-292m-bridge-exploit",
-    "timestamp": "2026-09-25T11:09:52Z",
-    "summary": "Evercrest says LayerZero approved the single-verifier configuration in writing multiple times, then warned a different developer about it.",
     "source": "Decrypt"
   }
 ]
