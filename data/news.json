@@ -200,6 +200,36 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=379391",
+    "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
+    "timestamp": "2026-09-26T17:01:03Z",
+    "summary": "Bitcoin ETFs have drawn nearly $3 billion over seven straight sessions, erasing post-Clarity Act losses and pushing 2026 flows back into positive territory.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=379383",
+    "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
+    "timestamp": "2026-09-26T16:06:03Z",
+    "summary": "After the Clarity Act failed in the Senate, the SEC, CFTC, and the Fed moved within days to write crypto's rules themselves. Will it be enough?",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=379378",
+    "title": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap\u2014And Winning",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap",
+    "timestamp": "2026-09-26T15:01:05Z",
+    "summary": "An open competition run by StarkWare, Yukon Research, and Eigen Labs drove the estimated cost of building a quantum-safe Bitcoin transaction from about $320 to roughly $67, with AI models topping the ...",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=379353",
     "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
     "platform": "news",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
     "timestamp": "2026-09-25T17:08:57Z",
     "summary": "An attacker faked internal transfer requests to drain $387.5 million from Bitget's hot and warm wallets, and the exchange's CEO says the fingerprints look like Pyongyang's.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=379342",
-    "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
-    "timestamp": "2026-09-25T16:17:19Z",
-    "summary": "A flaw in Limit Break's Payment Processor V2 put old Magic Eden Ethereum listings at risk, prompting a whitehat rescue of more than 23,000 NFTs.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=379319",
-    "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits\u2014XRP and Solana Keep Climbing",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana",
-    "timestamp": "2026-09-25T16:06:23Z",
-    "summary": "Pullback or reversal? Here's what the charts suggest for BTC.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=379309",
-    "title": "Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/379309/strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year",
-    "timestamp": "2026-09-25T13:22:00Z",
-    "summary": "STRF, STRC, STRK and STRD would accrue dividends on weekends and holidays, in a move Strategy says will dampen volatility.",
     "source": "Decrypt"
   }
 ]
