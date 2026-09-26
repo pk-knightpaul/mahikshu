@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-26T06:59:29Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC sues Cash FX, alleges $950M crypto-linked forex scheme\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,34 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "CoinMarketCap buys CoinGlass to expand crypto derivatives data",
+    "id": "news_coindesk_100b2cba-7e49-4f89-8113-588b5b",
+    "title": "Solana\u2019s 150-millisecond settlement upgrade reaches second public test network",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/coinmarketcap-coinglass-expand-crypto-derivatives-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-25T12:44:30Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CoinMarketCap buys CoinGlass to expand crypto derivatives data\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+    "timestamp": "2026-09-26T05:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_4e3afdfc-0e98-4569-adc2-020b57",
+    "title": "XRP Ledger\u2019s Batch upgrade slips to Oct. 9 after validator support resets",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+    "timestamp": "2026-09-26T04:30:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_a5ca0471-ae18-4e87-b3eb-2470ed",
+    "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+    "timestamp": "2026-09-26T04:02:13Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_fe3908e5-a758-4fce-b2a9-c1e7c6",
@@ -166,36 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100",
     "timestamp": "2026-09-25T14:22:07Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_abfa70b3-385c-498f-b0db-a1c64c",
-    "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
-    "timestamp": "2026-09-25T11:54:28Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_36dd3e4f-3ef0-47ae-8722-03380d",
-    "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
-    "timestamp": "2026-09-25T11:29:04Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_5b41c565-bbfd-4841-976b-123c6a",
-    "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
-    "timestamp": "2026-09-25T09:59:45Z",
     "summary": "",
     "source": "CoinDesk"
   },
