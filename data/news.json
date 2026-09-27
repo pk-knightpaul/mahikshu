@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-27T12:46:28Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report \u00a0\" class=\"type:primaryImage\" src=\"https://s3-ima...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Riot Platforms repays $200M credit facility, releases collateral",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Former Hack VC partner Hsin-Ju Chuang\u2019s death ruled a suicide",
+    "id": "news_coindesk_2949ba44-07ce-4e89-a4d1-6a27bd",
+    "title": "Vitalik Buterin maps Ethereum\u2019s shift beyond a blockchain in sweeping 2030 vision",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-25T18:33:49Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Former Hack VC partner Hsin-Ju Chuang\u2019s death ruled a suicide\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+    "timestamp": "2026-09-27T14:29:13Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_12b2d9e7-cec7-4730-a3a0-e83c7f",
@@ -190,14 +200,34 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_818c011b-a4ae-45af-9d08-4f565e",
-    "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
+    "id": "news_decrypt_https://decrypt.co/?p=379402",
+    "title": "AI Agents Keep Escaping Their Creators' Control\u2014Here's What We Know",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
-    "timestamp": "2026-09-25T20:01:05Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/379402/ai-agents-keep-escaping-creators-control",
+    "timestamp": "2026-09-27T16:01:03Z",
+    "summary": "An OpenAI agent's breach of an Australian government website is the starkest example yet of a pattern building for months\u2014and of how hard autonomous AI is to contain.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=379400",
+    "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
+    "timestamp": "2026-09-27T15:01:03Z",
+    "summary": "Three developments this week\u2014a cost breakthrough, a new privacy design, and a custody playbook\u2014show a field moving from theory to logistics, even as \"Q-Day\" remains hypotheti",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=379398",
+    "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security\u2014If the Network Works",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
+    "timestamp": "2026-09-27T13:01:03Z",
+    "summary": "New SEC staff guidance says announcing a token buyback on a functional network isn't a promise that turns the token into a security, a shift one attorney says makes securities laws look \"opt-in.\"",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=379391",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
     "timestamp": "2026-09-25T19:16:04Z",
     "summary": "Google's PageBreak agent autonomously finds and verifies real vulnerabilities in its own web apps, cutting through the flood of noisy AI-generated security reports.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=379365",
-    "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack\u2014But Most Funds Slip Away",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
-    "timestamp": "2026-09-25T18:42:51Z",
-    "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT\u2014but the attacker swapped most funds into unfreezable ETH before they could act.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=379359",
-    "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan",
-    "timestamp": "2026-09-25T17:46:05Z",
-    "summary": "Leaked code strings and screenshots point to a new tier that would cost 25 times more than ChatGPT Plus, aimed at people who need the bot to work faster, not just longer.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=379350",
-    "title": "Bitget Hack Losses Climb to $387M: Here\u2019s What Happened, and Why North Korea Is a Suspect",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
-    "timestamp": "2026-09-25T17:08:57Z",
-    "summary": "An attacker faked internal transfer requests to drain $387.5 million from Bitget's hot and warm wallets, and the exchange's CEO says the fingerprints look like Pyongyang's.",
     "source": "Decrypt"
   }
 ]
