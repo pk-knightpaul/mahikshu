@@ -1,42 +1,12 @@
 [
   {
-    "id": "coingecko_quant-network",
-    "title": "\ud83d\udd25 Trending: Quant (QNT)",
+    "id": "coingecko_lighter",
+    "title": "\ud83d\udd25 Trending: Lighter (LIT)",
     "platform": "coingecko",
     "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/quant-network",
-    "timestamp": "2026-09-29T21:13:59.792258Z",
-    "summary": "Market cap rank #33. Price: $0.00318659 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_concordium",
-    "title": "\ud83d\udd25 Trending: Concordium (CCD)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/concordium",
-    "timestamp": "2026-09-29T21:13:59.792295Z",
-    "summary": "Market cap rank #511. Price: $0.00000004 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_grass",
-    "title": "\ud83d\udd25 Trending: Grass (GRASS)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/grass",
-    "timestamp": "2026-09-29T21:13:59.792301Z",
-    "summary": "Market cap rank #113. Price: $0.00000859 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_official-trump",
-    "title": "\ud83d\udd25 Trending: Official Trump (TRUMP)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/official-trump",
-    "timestamp": "2026-09-29T21:13:59.792308Z",
-    "summary": "Market cap rank #106. Price: $0.00002440 BTC. Trending on CoinGecko.",
+    "url": "https://www.coingecko.com/en/coins/lighter",
+    "timestamp": "2026-09-30T00:59:27.674357Z",
+    "summary": "Market cap rank #82. Price: $0.00004682 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
@@ -45,98 +15,18 @@
     "platform": "coingecko",
     "type": "trending",
     "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-    "timestamp": "2026-09-29T21:13:59.792311Z",
-    "summary": "Market cap rank #101. Price: $0.00000012 BTC. Trending on CoinGecko.",
+    "timestamp": "2026-09-30T00:59:27.674392Z",
+    "summary": "Market cap rank #100. Price: $0.00000012 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
-    "id": "coingecko_ribbita-by-virtuals",
-    "title": "\ud83d\udd25 Trending: Ribbita by Virtuals (TIBBIR)",
+    "id": "coingecko_quant-network",
+    "title": "\ud83d\udd25 Trending: Quant (QNT)",
     "platform": "coingecko",
     "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/ribbita-by-virtuals",
-    "timestamp": "2026-09-29T21:13:59.792315Z",
-    "summary": "Market cap rank #127. Price: $0.00000482 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_hedera-hashgraph",
-    "title": "\ud83d\udd25 Trending: Hedera (HBAR)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/hedera-hashgraph",
-    "timestamp": "2026-09-29T21:13:59.792319Z",
-    "summary": "Market cap rank #30. Price: $0.00000124 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_zcash",
-    "title": "\ud83d\udd25 Trending: Zcash (ZEC)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/zcash",
-    "timestamp": "2026-09-29T21:13:59.792322Z",
-    "summary": "Market cap rank #9. Price: $0.01673285 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_pump-fun",
-    "title": "\ud83d\udd25 Trending: Pump.fun (PUMP)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pump-fun",
-    "timestamp": "2026-09-29T21:13:59.792328Z",
-    "summary": "Market cap rank #40. Price: $0.00000007 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_stonk-3",
-    "title": "\ud83d\udd25 Trending: STONK (STONK)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/stonk-3",
-    "timestamp": "2026-09-29T21:13:59.792333Z",
-    "summary": "Market cap rank #176. Price: $0.00000350 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_aave",
-    "title": "\ud83d\udd25 Trending: Aave (AAVE)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/aave",
-    "timestamp": "2026-09-29T21:13:59.792337Z",
-    "summary": "Market cap rank #42. Price: $0.00198425 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_near",
-    "title": "\ud83d\udd25 Trending: NEAR Protocol (NEAR)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/near",
-    "timestamp": "2026-09-29T21:13:59.792340Z",
-    "summary": "Market cap rank #21. Price: $0.00005917 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_pearl-2",
-    "title": "\ud83d\udd25 Trending: Pearl (PRL)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pearl-2",
-    "timestamp": "2026-09-29T21:13:59.792343Z",
-    "summary": "Market cap rank #121. Price: $0.00001594 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_backpack",
-    "title": "\ud83d\udd25 Trending: Backpack (BP)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/backpack",
-    "timestamp": "2026-09-29T21:13:59.792346Z",
-    "summary": "Market cap rank #151. Price: $0.00001464 BTC. Trending on CoinGecko.",
+    "url": "https://www.coingecko.com/en/coins/quant-network",
+    "timestamp": "2026-09-30T00:59:27.674399Z",
+    "summary": "Market cap rank #33. Price: $0.00324643 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
@@ -145,8 +35,118 @@
     "platform": "coingecko",
     "type": "trending",
     "url": "https://www.coingecko.com/en/coins/pons",
-    "timestamp": "2026-09-29T21:13:59.792349Z",
-    "summary": "Market cap rank #135. Price: $0.00000626 BTC. Trending on CoinGecko.",
+    "timestamp": "2026-09-30T00:59:27.674403Z",
+    "summary": "Market cap rank #134. Price: $0.00000611 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_official-trump",
+    "title": "\ud83d\udd25 Trending: Official Trump (TRUMP)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/official-trump",
+    "timestamp": "2026-09-30T00:59:27.674407Z",
+    "summary": "Market cap rank #107. Price: $0.00002442 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_grass",
+    "title": "\ud83d\udd25 Trending: Grass (GRASS)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/grass",
+    "timestamp": "2026-09-30T00:59:27.674411Z",
+    "summary": "Market cap rank #112. Price: $0.00000875 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_near",
+    "title": "\ud83d\udd25 Trending: NEAR Protocol (NEAR)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/near",
+    "timestamp": "2026-09-30T00:59:27.674415Z",
+    "summary": "Market cap rank #21. Price: $0.00005958 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_concordium",
+    "title": "\ud83d\udd25 Trending: Concordium (CCD)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/concordium",
+    "timestamp": "2026-09-30T00:59:27.674420Z",
+    "summary": "Market cap rank #507. Price: $0.00000004 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_ribbita-by-virtuals",
+    "title": "\ud83d\udd25 Trending: Ribbita by Virtuals (TIBBIR)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/ribbita-by-virtuals",
+    "timestamp": "2026-09-30T00:59:27.674426Z",
+    "summary": "Market cap rank #156. Price: $0.00000366 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_hyperliquid",
+    "title": "\ud83d\udd25 Trending: Hyperliquid (HYPE)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/hyperliquid",
+    "timestamp": "2026-09-30T00:59:27.674429Z",
+    "summary": "Market cap rank #11. Price: $0.00103158 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_chainlink",
+    "title": "\ud83d\udd25 Trending: Chainlink (LINK)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/chainlink",
+    "timestamp": "2026-09-30T00:59:27.674433Z",
+    "summary": "Market cap rank #13. Price: $0.00017302 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_uniswap",
+    "title": "\ud83d\udd25 Trending: Uniswap (UNI)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/uniswap",
+    "timestamp": "2026-09-30T00:59:27.674438Z",
+    "summary": "Market cap rank #23. Price: $0.00010576 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_marscoin-4",
+    "title": "\ud83d\udd25 Trending: MarsCoin (MARSCOIN)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/marscoin-4",
+    "timestamp": "2026-09-30T00:59:27.674441Z",
+    "summary": "Market cap rank #230. Price: $0.00000174 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_bitcoin",
+    "title": "\ud83d\udd25 Trending: Bitcoin (BTC)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "timestamp": "2026-09-30T00:59:27.674444Z",
+    "summary": "Market cap rank #1. Price: $0.99953736 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_internet-computer",
+    "title": "\ud83d\udd25 Trending: Internet Computer (ICP)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/internet-computer",
+    "timestamp": "2026-09-30T00:59:27.674448Z",
+    "summary": "Market cap rank #54. Price: $0.00004137 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   }
 ]

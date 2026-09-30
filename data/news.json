@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Trump accord calls for tech firms to \u2018self police\u2019 their own frontier AI",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-09-30T00:28:38Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump accord calls for tech firms to \u2018self police\u2019 their own frontier AI\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "ECB puts AI agent payments on the digital euro drawing board",
+    "id": "news_coindesk_c7345e2a-ef6e-4b64-b607-345dbe",
+    "title": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/ecb-private-firms-ai-agents-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-09-29T12:00:45Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ECB puts AI agent payments on the digital euro drawing board\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
+    "timestamp": "2026-09-29T23:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_c789785b-dc80-432a-aac6-aaadfc",
@@ -190,14 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_b92bd567-0d32-42e1-a02f-166325",
-    "title": "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic",
+    "id": "news_decrypt_https://decrypt.co/?p=379621",
+    "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
-    "timestamp": "2026-09-29T09:06:11Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
+    "timestamp": "2026-09-29T21:46:03Z",
+    "summary": "Aztec Labs relaunched its self-custodial zk.money wallet on Aztec Network, letting users make private stablecoin payments using readable tags.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=379619",
+    "title": "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options",
+    "timestamp": "2026-09-29T21:16:04Z",
+    "summary": "The renewed agreement preserves Cboe's exclusive rights to S&amp;P 500 index options through 2051 while opening the door to pairing the flagship benchmark with blockchain infrastructure.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=379612",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/379541/bitcoin-hovers-at-84k-as-treasury-yields-hold-near-multi-year-highs",
     "timestamp": "2026-09-29T14:07:44Z",
     "summary": "Analysts point to crude prices capping non-yielding assets, while spot ETFs have taken money in for eight sessions running.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=379526",
-    "title": "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/379526/morning-minute-citi-and-coinbase-just-made-stablecoins-invisible",
-    "timestamp": "2026-09-29T12:05:18Z",
-    "summary": "Plus, crypto majors rebound as oil and yields fall and Saylor\u2019s Strategy returns to buying Bitcoin.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=379523",
-    "title": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/379523/canadas-crypto-king-aiden-pleterski-to-represent-himself-at-fraud-trial",
-    "timestamp": "2026-09-29T10:38:29Z",
-    "summary": "The judge has told Pleterski he will raise objections on his behalf, to keep inadmissible evidence away from the jury.",
     "source": "Decrypt"
   }
 ]
