@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-02T20:46:58Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "European crypto users have \u2018more faith\u2019 in regulated firms under MiCA: Bitpanda co-CEO",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-02T20:40:47Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"European crypto users have \u2018more faith\u2019 in regulated firms under MiCA: Bitpanda co-CEO\" class=\"type:primaryImage\" src=\"https://s...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
     "platform": "news",
     "type": "news",
@@ -71,16 +91,6 @@
   },
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-02T13:00:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
+    "id": "news_coindesk_df62f6d6-07a7-4ca7-b760-b4e373",
+    "title": "Bank group sues U.S. regulator over granting crypto trust charters",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-02T11:40:21Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
+    "timestamp": "2026-10-02T21:23:20Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_b69aa3c1-3224-4765-aa53-cb977c",
@@ -190,14 +200,44 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_26731399-afe0-4f6c-8ca8-a5a2dd",
-    "title": "Tether's USDT is 'coming home' to Bitcoin after more than a decade",
+    "id": "news_decrypt_https://decrypt.co/?p=379998",
+    "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
-    "timestamp": "2026-10-02T08:28:19Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
+    "timestamp": "2026-10-02T21:16:04Z",
+    "summary": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face\u2014and whether the company can be held legally accountable.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=379991",
+    "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
+    "timestamp": "2026-10-02T20:16:04Z",
+    "summary": "Ethereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=379984",
+    "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
+    "timestamp": "2026-10-02T19:46:03Z",
+    "summary": "The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter\u2014siding with the ECB in calling for more ...",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=379975",
+    "title": "This AI Is Already Fooling People on Video Calls Into Thinking It's Human, Company Says",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/379975/tavus-griffin-ai-fools-people-video-thinking-human",
+    "timestamp": "2026-10-02T19:05:35Z",
+    "summary": "Tavus says 26 of 54 people on a one-minute video call thought its new Griffin model was human. The results are the company's own, and the model isn't going to retail customers yet.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=379972",
@@ -257,46 +297,6 @@
     "url": "https://decrypt.co/379921/us-designates-russias-a7-network-as-transnational-criminal-organization",
     "timestamp": "2026-10-02T11:28:41Z",
     "summary": "Treasury's proposed rule aims to cut A7's front companies off from U.S. finance\u2014including crypto, where its ruble token moved $179 billion.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=379913",
-    "title": "Spanish Police Arrest 16-Year-Old Accused of Running KillSec Ransomware Group",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/379913/spanish-police-arrest-16-year-old-accused-of-running-killsec-ransomware-group",
-    "timestamp": "2026-10-02T09:12:54Z",
-    "summary": "A second suspect faces extradition to Puerto Rico, while Investigators are tracing the proceeds of ransoms the group demanded in crypto.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=379901",
-    "title": "Zcash Drops 21% From Recent High\u2014Here\u2019s Why the Rally May Not Be Over",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
-    "timestamp": "2026-10-01T21:31:03Z",
-    "summary": "ZEC is 21% off its $1,698 peak after ETF outflows and a suspected North Korean heist routed money through its shielded pool. Is the run over, or will traders buy the dip?",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=379899",
-    "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
-    "timestamp": "2026-10-01T20:46:03Z",
-    "summary": "The proposal would let advisers and funds use state trust companies as custodians and permit self-custody under certain conditions, aiming to replace years of ambiguity with a clear compliance path.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=379892",
-    "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/379892/reddit-killing-rss-feeds-public-api-access-ai-scrapers",
-    "timestamp": "2026-10-01T20:31:03Z",
-    "summary": "Reddit RSS dies November 13 and outside apps lose their data pipeline by March 2027. Reddit blames scraping bots, though it licenses its own content to AI companies.",
     "source": "Decrypt"
   }
 ]
