@@ -1,5 +1,35 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/maga",
+    "title": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-01T23:17:47Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"China warns foreign spies about crypto, Singapore dominates Asia: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-01T21:07:45Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury\" class=\"type:primaryImage\" src=\"https://s3-images...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Trump to host 3rd \u2018exclusive\u2019 memecoin event amid corruption claims",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-01T21:00:11Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump to host 3rd \u2018exclusive\u2019 memecoin event amid corruption claims\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Here\u2019s what happened in crypto today",
     "platform": "news",
@@ -70,38 +100,8 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "LATAM stablecoin liquidity may depend on few providers, investor says",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/latam-stablecoin-liquidity-may-depend-on-few-providers-investor-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-01T13:30:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"LATAM stablecoin liquidity may depend on few providers, investor says \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/maga",
-    "title": "Stablecoins can drain from banks and nations at lightning speed",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/magazine/stablecoins-can-drain-from-banks-and-nations-at-lightning-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-01T13:30:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoins can drain from banks and nations at lightning speed\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Tokenized assets don\u2019t always mirror traditional markets, Dune finds",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/tokenized-assets-traditional-markets-dune-rwa-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-01T10:50:24Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tokenized assets don\u2019t always mirror traditional markets, Dune finds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
-  },
-  {
     "id": "news_coindesk_6a44c07b-4032-42eb-967d-d79f50",
-    "title": "U.S. SEC maps out crypto custody in new proposal that furthers its digital assets agenda",
+    "title": "SEC proposes new crypto custody rules for investment advisers and funds",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=379901",
+    "title": "Zcash Drops 21% From Recent High\u2014Here\u2019s Why the Rally May Not Be Over",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
+    "timestamp": "2026-10-01T21:31:03Z",
+    "summary": "ZEC is 21% off its $1,698 peak after ETF outflows and a suspected North Korean heist routed money through its shielded pool. Is the run over, or will traders buy the dip?",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=379899",
     "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker",
     "timestamp": "2026-10-01T15:43:27Z",
     "summary": "Near Intents froze its cross-chain swaps after a bug let an attacker drain about $3.8 million. The company promised to repay every user.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=379813",
-    "title": "Minecraft, Candy Crush Among 11 Games in EU Virtual Currency Crackdown",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/379813/minecraft-candy-crush-among-11-games-in-eu-virtual-currency-crackdown",
-    "timestamp": "2026-10-01T13:22:58Z",
-    "summary": "The guidelines exclude cryptocurrencies, leaving tokens outside a regime written for currencies bought with real money inside games.",
     "source": "Decrypt"
   }
 ]
