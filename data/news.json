@@ -100,6 +100,56 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_81095c8a-ed91-4e91-9c0c-c85c83",
+    "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+    "timestamp": "2026-10-03T16:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_9e758b83-a1e1-4ad5-8c5b-759946",
+    "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+    "timestamp": "2026-10-03T16:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_ecb3ed09-8960-4340-9ba8-3ed632",
+    "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
+    "timestamp": "2026-10-03T15:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_2436bfb1-684c-4422-b89c-9cd7eb",
+    "title": "Crypto's Sisyphean struggle",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
+    "timestamp": "2026-10-03T13:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_5d8599a9-5574-45da-b2c5-6302ff",
+    "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
+    "timestamp": "2026-10-03T13:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_df62f6d6-07a7-4ca7-b760-b4e373",
     "title": "Bank group sues U.S. regulator over granting crypto trust charters",
     "platform": "news",
@@ -150,54 +200,44 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_a2305041-eb99-4205-8c7a-0d5f0e",
-    "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
+    "id": "news_decrypt_https://decrypt.co/?p=380005",
+    "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
-    "timestamp": "2026-10-02T12:31:53Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
+    "timestamp": "2026-10-03T17:01:03Z",
+    "summary": "The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past $1 billion, and detailed how it used in-house AI to trace the stolen funds across four blockchains in a race against the at...",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_fbd0c6dd-34d3-45dc-ae88-fc2e8a",
-    "title": "Cboe wants to turn VIX into a never-ending trade",
+    "id": "news_decrypt_https://decrypt.co/?p=380001",
+    "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
-    "timestamp": "2026-10-02T11:30:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
+    "timestamp": "2026-10-03T16:01:03Z",
+    "summary": "The YouTuber says OpenAI suspended his account twice while he trained a small, uncensored model built to run on your own computer.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_fd7e28fa-2b6e-4335-a513-55e0fb",
-    "title": "Live updates: Bitcoin reverses big early gains following soft U.S. jobs data",
+    "id": "news_decrypt_https://decrypt.co/?p=380002",
+    "title": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
-    "timestamp": "2026-10-02T11:22:40Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
+    "timestamp": "2026-10-03T15:01:03Z",
+    "summary": "The TRUMP meme coin project is inviting its top 185 holders to a Nov. 22 gala dinner with President Trump two weeks after ethics disputes over his crypto interests helped stall the Clarity Act in the ...",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_da31ac5a-3a27-4234-84ff-fcacdf",
-    "title": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
+    "id": "news_decrypt_https://decrypt.co/?p=379983",
+    "title": "The Pope Has Thoughts on AI Art\u2014And They're Not Flattering",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
-    "timestamp": "2026-10-02T10:31:16Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_36f6b207-5449-47ee-b294-f781cb",
-    "title": "Bitcoin open interest jumps $2.3 billion as traders pay more for bullish positions",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
-    "timestamp": "2026-10-02T09:14:21Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
+    "timestamp": "2026-10-03T13:01:04Z",
+    "summary": "The pontiff says algorithms \"lack the spark of humanity,\" and the Vatican wants to renew an alliance with artists and cultural institutions to protect it.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=379998",
@@ -257,46 +297,6 @@
     "url": "https://decrypt.co/379959/nvidia-hits-record-high-market-value-5-7-trillion",
     "timestamp": "2026-10-02T17:30:40Z",
     "summary": "The AI chipmaker's stock topped its May peak on Friday, helped by a record $150 billion buyback and a weak jobs report that cooled bets on Fed rate hikes.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=379936",
-    "title": "Bitcoin Heads Higher on Macro Moves: Where Does BTC Go Next?",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/379936/bitcoin-heads-higher-fed-jobs-where-does-btc-go-next",
-    "timestamp": "2026-10-02T16:45:52Z",
-    "summary": "A jobs report miss just erased the odds of an October rate hike, and BTC is now knocking on the door of its yearly ceiling.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=379932",
-    "title": "'Uptober' Off With a Bang as Bitcoin Surges to $86K",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/379932/uptober-off-with-a-bang-as-bitcoin-surges-to-86k",
-    "timestamp": "2026-10-02T12:58:25Z",
-    "summary": "Cooler inflation and two dovish Fed speakers have shifted the odds toward a rate hold, with payrolls due and CPI landing on October 14.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=379929",
-    "title": "Morning Minute: NEAR Intents Hacked for $3.8M - Was It A Bullish Hack?",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/379929/morning-minute-near-intents-hacked-for-3-8m-was-it-a-bullish-hack",
-    "timestamp": "2026-10-02T12:19:00Z",
-    "summary": "Hacks are never good, but a rapid response, user compensation and 1-hour bug fixing seems to top the spectrum of team reactions.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=379921",
-    "title": "US Designates Russia's A7 Network as Transnational Criminal Organization",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/379921/us-designates-russias-a7-network-as-transnational-criminal-organization",
-    "timestamp": "2026-10-02T11:28:41Z",
-    "summary": "Treasury's proposed rule aims to cut A7's front companies off from U.S. finance\u2014including crypto, where its ruble token moved $179 billion.",
     "source": "Decrypt"
   }
 ]
