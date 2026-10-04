@@ -5,58 +5,8 @@
     "platform": "coingecko",
     "type": "trending",
     "url": "https://www.coingecko.com/en/coins/super-iguana",
-    "timestamp": "2026-10-04T15:37:44.779840Z",
-    "summary": "Market cap rank #969. Price: $0.00000020 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_fetch-ai",
-    "title": "\ud83d\udd25 Trending: Artificial Superintelligence Alliance (FET)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/fetch-ai",
-    "timestamp": "2026-10-04T15:37:44.779868Z",
-    "summary": "Market cap rank #111. Price: $0.00000281 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_starknet",
-    "title": "\ud83d\udd25 Trending: Starknet (STRK)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/starknet",
-    "timestamp": "2026-10-04T15:37:44.779874Z",
-    "summary": "Market cap rank #126. Price: $0.00000067 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_pudgy-penguins",
-    "title": "\ud83d\udd25 Trending: Pudgy Penguins (PENGU)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-    "timestamp": "2026-10-04T15:37:44.779878Z",
-    "summary": "Market cap rank #106. Price: $0.00000011 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_quant-network",
-    "title": "\ud83d\udd25 Trending: Quant (QNT)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/quant-network",
-    "timestamp": "2026-10-04T15:37:44.779884Z",
-    "summary": "Market cap rank #33. Price: $0.00301703 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_pons",
-    "title": "\ud83d\udd25 Trending: Pons (PONS)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pons",
-    "timestamp": "2026-10-04T15:37:44.779889Z",
-    "summary": "Market cap rank #163. Price: $0.00000462 BTC. Trending on CoinGecko.",
+    "timestamp": "2026-10-04T18:58:50.147566Z",
+    "summary": "Market cap rank #956. Price: $0.00000020 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
@@ -65,18 +15,18 @@
     "platform": "coingecko",
     "type": "trending",
     "url": "https://www.coingecko.com/en/coins/near",
-    "timestamp": "2026-10-04T15:37:44.779893Z",
-    "summary": "Market cap rank #22. Price: $0.00005699 BTC. Trending on CoinGecko.",
+    "timestamp": "2026-10-04T18:58:50.147598Z",
+    "summary": "Market cap rank #21. Price: $0.00005871 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
-    "id": "coingecko_pump-fun",
-    "title": "\ud83d\udd25 Trending: Pump.fun (PUMP)",
+    "id": "coingecko_grass",
+    "title": "\ud83d\udd25 Trending: Grass (GRASS)",
     "platform": "coingecko",
     "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pump-fun",
-    "timestamp": "2026-10-04T15:37:44.779898Z",
-    "summary": "Market cap rank #40. Price: $0.00000007 BTC. Trending on CoinGecko.",
+    "url": "https://www.coingecko.com/en/coins/grass",
+    "timestamp": "2026-10-04T18:58:50.147609Z",
+    "summary": "Market cap rank #120. Price: $0.00000810 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
@@ -85,8 +35,38 @@
     "platform": "coingecko",
     "type": "trending",
     "url": "https://www.coingecko.com/en/coins/sui",
-    "timestamp": "2026-10-04T15:37:44.779902Z",
-    "summary": "Market cap rank #25. Price: $0.00001447 BTC. Trending on CoinGecko.",
+    "timestamp": "2026-10-04T18:58:50.147614Z",
+    "summary": "Market cap rank #26. Price: $0.00001441 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_pudgy-penguins",
+    "title": "\ud83d\udd25 Trending: Pudgy Penguins (PENGU)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+    "timestamp": "2026-10-04T18:58:50.147619Z",
+    "summary": "Market cap rank #105. Price: $0.00000011 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_fetch-ai",
+    "title": "\ud83d\udd25 Trending: Artificial Superintelligence Alliance (FET)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/fetch-ai",
+    "timestamp": "2026-10-04T18:58:50.147623Z",
+    "summary": "Market cap rank #108. Price: $0.00000297 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_ethena",
+    "title": "\ud83d\udd25 Trending: Ethena (ENA)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/ethena",
+    "timestamp": "2026-10-04T18:58:50.147627Z",
+    "summary": "Market cap rank #45. Price: $0.00000282 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
@@ -95,48 +75,28 @@
     "platform": "coingecko",
     "type": "trending",
     "url": "https://www.coingecko.com/en/coins/aerodrome-finance",
-    "timestamp": "2026-10-04T15:37:44.779905Z",
+    "timestamp": "2026-10-04T18:58:50.147631Z",
     "summary": "Market cap rank #85. Price: $0.00001013 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
-    "id": "coingecko_solana",
-    "title": "\ud83d\udd25 Trending: Solana (SOL)",
+    "id": "coingecko_uniswap",
+    "title": "\ud83d\udd25 Trending: Uniswap (UNI)",
     "platform": "coingecko",
     "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/solana",
-    "timestamp": "2026-10-04T15:37:44.779908Z",
-    "summary": "Market cap rank #7. Price: $0.00142655 BTC. Trending on CoinGecko.",
+    "url": "https://www.coingecko.com/en/coins/uniswap",
+    "timestamp": "2026-10-04T18:58:50.147634Z",
+    "summary": "Market cap rank #23. Price: $0.00010554 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
-    "id": "coingecko_iota",
-    "title": "\ud83d\udd25 Trending: IOTA (IOTA)",
+    "id": "coingecko_pons",
+    "title": "\ud83d\udd25 Trending: Pons (PONS)",
     "platform": "coingecko",
     "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/iota",
-    "timestamp": "2026-10-04T15:37:44.779911Z",
-    "summary": "Market cap rank #160. Price: $0.00000071 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_chainlink",
-    "title": "\ud83d\udd25 Trending: Chainlink (LINK)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/chainlink",
-    "timestamp": "2026-10-04T15:37:44.779915Z",
-    "summary": "Market cap rank #13. Price: $0.00016624 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_bitcoin",
-    "title": "\ud83d\udd25 Trending: Bitcoin (BTC)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "timestamp": "2026-10-04T15:37:44.779920Z",
-    "summary": "Market cap rank #1. Price: $1.00022715 BTC. Trending on CoinGecko.",
+    "url": "https://www.coingecko.com/en/coins/pons",
+    "timestamp": "2026-10-04T18:58:50.147637Z",
+    "summary": "Market cap rank #166. Price: $0.00000449 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
@@ -145,8 +105,48 @@
     "platform": "coingecko",
     "type": "trending",
     "url": "https://www.coingecko.com/en/coins/layerzero",
-    "timestamp": "2026-10-04T15:37:44.779923Z",
-    "summary": "Market cap rank #98. Price: $0.00002338 BTC. Trending on CoinGecko.",
+    "timestamp": "2026-10-04T18:58:50.147641Z",
+    "summary": "Market cap rank #98. Price: $0.00002316 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_stonk-3",
+    "title": "\ud83d\udd25 Trending: STONK (STONK)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/stonk-3",
+    "timestamp": "2026-10-04T18:58:50.147645Z",
+    "summary": "Market cap rank #209. Price: $0.00000248 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_venice-token",
+    "title": "\ud83d\udd25 Trending: Venice Token (VVV)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/venice-token",
+    "timestamp": "2026-10-04T18:58:50.147648Z",
+    "summary": "Market cap rank #67. Price: $0.00033834 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_lighter",
+    "title": "\ud83d\udd25 Trending: Lighter (LIT)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/lighter",
+    "timestamp": "2026-10-04T18:58:50.147651Z",
+    "summary": "Market cap rank #83. Price: $0.00004286 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_arbitrum",
+    "title": "\ud83d\udd25 Trending: Arbitrum (ARB)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/arbitrum",
+    "timestamp": "2026-10-04T18:58:50.147656Z",
+    "summary": "Market cap rank #69. Price: $0.00000238 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   }
 ]
