@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-07T01:48:53Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin.de trading remains halted as German regulator rejects MiCA application\" class=\"type:primaryImage\" src=\"https://s3-images...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Pudgy Penguins-backed Abstract to shut down after \u2018tens of millions\u2019 in losses",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-07T00:01:40Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pudgy Penguins-backed Abstract to shut down after \u2018tens of millions\u2019 in losses\" class=\"type:primaryImage\" src=\"https://s3-images...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
     "platform": "news",
     "type": "news",
@@ -77,26 +97,6 @@
     "url": "https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-10-06T17:19:58Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin grinds toward $87K as US equities hit new record highs \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Securitize stock jumps 8% amid South Korea tokenization push",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/securitize-lg-cns-south-korea-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-06T17:04:41Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize stock jumps 8% amid South Korea tokenization push \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "ECB policymaker warns of fragmentation without digital euro",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-06T16:32:57Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ECB policymaker warns of fragmentation without digital euro\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=380257",
+    "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
+    "timestamp": "2026-10-06T22:46:03Z",
+    "summary": "Google's new image model, Nano Banana 2.1, is live. It costs about half as much as its predecessor, but the performance claims come from Google's own tests.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=380240",
+    "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
+    "timestamp": "2026-10-06T22:16:03Z",
+    "summary": "Nothing in Circle's posts announces a sponsorship, but replies dug up Khaled's 2018 SEC settlement over a crypto fraud he promoted. The internet never forgets.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=380229",
     "title": "Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study",
     "timestamp": "2026-10-06T15:26:41Z",
     "summary": "Attacks grew more sophisticated and less predictable over the period, according to researchers who scanned more than 20 billion transactions.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=380157",
-    "title": "Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/380157/circle-ripple-and-standard-chartered-back-okx-at-flat-25b-valuation",
-    "timestamp": "2026-10-06T12:53:04Z",
-    "summary": "A London quantitative hedge fund joins the round too, seven months after the NYSE's owner bought in at exactly the same price.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=380146",
-    "title": "Morning Minute: The CFTC Reveals Plan to Regulate Crypto Exchanges",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/380146/morning-minute-the-cftc-reveals-plan-to-regulate-crypto-exchanges",
-    "timestamp": "2026-10-06T12:27:11Z",
-    "summary": "Clear rules of the road are here. So what does it all mean and what is the overall impact?",
     "source": "Decrypt"
   }
 ]
