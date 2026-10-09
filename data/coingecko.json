@@ -5,8 +5,18 @@
     "platform": "coingecko",
     "type": "trending",
     "url": "https://www.coingecko.com/en/coins/super-intelligent-identity",
-    "timestamp": "2026-10-08T22:47:29.295427Z",
-    "summary": "Market cap rank #812. Price: $0.00000027 BTC. Trending on CoinGecko.",
+    "timestamp": "2026-10-09T02:42:44.682688Z",
+    "summary": "Market cap rank #844. Price: $0.00000026 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_starknet",
+    "title": "\ud83d\udd25 Trending: Starknet (STRK)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/starknet",
+    "timestamp": "2026-10-09T02:42:44.682717Z",
+    "summary": "Market cap rank #123. Price: $0.00000074 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
@@ -15,48 +25,8 @@
     "platform": "coingecko",
     "type": "trending",
     "url": "https://www.coingecko.com/en/coins/quantus",
-    "timestamp": "2026-10-08T22:47:29.295454Z",
-    "summary": "Market cap rank #502. Price: $0.00207241 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_derive",
-    "title": "\ud83d\udd25 Trending: Derive (DRV)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/derive",
-    "timestamp": "2026-10-08T22:47:29.295460Z",
-    "summary": "Market cap rank #124. Price: $0.00000541 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_near",
-    "title": "\ud83d\udd25 Trending: NEAR Protocol (NEAR)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/near",
-    "timestamp": "2026-10-08T22:47:29.295464Z",
-    "summary": "Market cap rank #21. Price: $0.00005556 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_official-trump",
-    "title": "\ud83d\udd25 Trending: Official Trump (TRUMP)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/official-trump",
-    "timestamp": "2026-10-08T22:47:29.295468Z",
-    "summary": "Market cap rank #112. Price: $0.00002236 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_zcash",
-    "title": "\ud83d\udd25 Trending: Zcash (ZEC)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/zcash",
-    "timestamp": "2026-10-08T22:47:29.295472Z",
-    "summary": "Market cap rank #10. Price: $0.01450667 BTC. Trending on CoinGecko.",
+    "timestamp": "2026-10-09T02:42:44.682724Z",
+    "summary": "Market cap rank #508. Price: $0.00204795 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
@@ -65,48 +35,28 @@
     "platform": "coingecko",
     "type": "trending",
     "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-    "timestamp": "2026-10-08T22:47:29.295475Z",
-    "summary": "Market cap rank #115. Price: $0.00000010 BTC. Trending on CoinGecko.",
+    "timestamp": "2026-10-09T02:42:44.682728Z",
+    "summary": "Market cap rank #113. Price: $0.00000010 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
-    "id": "coingecko_pearl-2",
-    "title": "\ud83d\udd25 Trending: Pearl (PRL)",
+    "id": "coingecko_derive",
+    "title": "\ud83d\udd25 Trending: Derive (DRV)",
     "platform": "coingecko",
     "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pearl-2",
-    "timestamp": "2026-10-08T22:47:29.295481Z",
-    "summary": "Market cap rank #121. Price: $0.00001652 BTC. Trending on CoinGecko.",
+    "url": "https://www.coingecko.com/en/coins/derive",
+    "timestamp": "2026-10-09T02:42:44.682732Z",
+    "summary": "Market cap rank #119. Price: $0.00000570 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
-    "id": "coingecko_bitcoin",
-    "title": "\ud83d\udd25 Trending: Bitcoin (BTC)",
+    "id": "coingecko_near",
+    "title": "\ud83d\udd25 Trending: NEAR Protocol (NEAR)",
     "platform": "coingecko",
     "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "timestamp": "2026-10-08T22:47:29.295484Z",
-    "summary": "Market cap rank #1. Price: $1.00008135 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_sui",
-    "title": "\ud83d\udd25 Trending: Sui (SUI)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/sui",
-    "timestamp": "2026-10-08T22:47:29.295488Z",
-    "summary": "Market cap rank #29. Price: $0.00001285 BTC. Trending on CoinGecko.",
-    "source": "CoinGecko"
-  },
-  {
-    "id": "coingecko_pyth-network",
-    "title": "\ud83d\udd25 Trending: Pyth Network (PYTH)",
-    "platform": "coingecko",
-    "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pyth-network",
-    "timestamp": "2026-10-08T22:47:29.295491Z",
-    "summary": "Market cap rank #97. Price: $0.00000102 BTC. Trending on CoinGecko.",
+    "url": "https://www.coingecko.com/en/coins/near",
+    "timestamp": "2026-10-09T02:42:44.682735Z",
+    "summary": "Market cap rank #21. Price: $0.00005659 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
@@ -115,8 +65,38 @@
     "platform": "coingecko",
     "type": "trending",
     "url": "https://www.coingecko.com/en/coins/pons",
-    "timestamp": "2026-10-08T22:47:29.295494Z",
-    "summary": "Market cap rank #165. Price: $0.00000428 BTC. Trending on CoinGecko.",
+    "timestamp": "2026-10-09T02:42:44.682738Z",
+    "summary": "Market cap rank #166. Price: $0.00000429 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_official-trump",
+    "title": "\ud83d\udd25 Trending: Official Trump (TRUMP)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/official-trump",
+    "timestamp": "2026-10-09T02:42:44.682744Z",
+    "summary": "Market cap rank #111. Price: $0.00002240 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_sui",
+    "title": "\ud83d\udd25 Trending: Sui (SUI)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/sui",
+    "timestamp": "2026-10-09T02:42:44.682747Z",
+    "summary": "Market cap rank #29. Price: $0.00001276 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_hyperliquid",
+    "title": "\ud83d\udd25 Trending: Hyperliquid (HYPE)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/hyperliquid",
+    "timestamp": "2026-10-09T02:42:44.682750Z",
+    "summary": "Market cap rank #11. Price: $0.00103128 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
@@ -125,28 +105,48 @@
     "platform": "coingecko",
     "type": "trending",
     "url": "https://www.coingecko.com/en/coins/quant-network",
-    "timestamp": "2026-10-08T22:47:29.295498Z",
-    "summary": "Market cap rank #34. Price: $0.00292711 BTC. Trending on CoinGecko.",
+    "timestamp": "2026-10-09T02:42:44.682753Z",
+    "summary": "Market cap rank #34. Price: $0.00291789 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
-    "id": "coingecko_ethereum",
-    "title": "\ud83d\udd25 Trending: Ethereum (ETH)",
+    "id": "coingecko_backpack",
+    "title": "\ud83d\udd25 Trending: Backpack (BP)",
     "platform": "coingecko",
     "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/ethereum",
-    "timestamp": "2026-10-08T22:47:29.295501Z",
-    "summary": "Market cap rank #2. Price: $0.03022366 BTC. Trending on CoinGecko.",
+    "url": "https://www.coingecko.com/en/coins/backpack",
+    "timestamp": "2026-10-09T02:42:44.682756Z",
+    "summary": "Market cap rank #153. Price: $0.00001403 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   },
   {
-    "id": "coingecko_jupiter-exchange-solana",
-    "title": "\ud83d\udd25 Trending: Jupiter (JUP)",
+    "id": "coingecko_venice-token",
+    "title": "\ud83d\udd25 Trending: Venice Token (VVV)",
     "platform": "coingecko",
     "type": "trending",
-    "url": "https://www.coingecko.com/en/coins/jupiter-exchange-solana",
-    "timestamp": "2026-10-08T22:47:29.295506Z",
-    "summary": "Market cap rank #72. Price: $0.00000415 BTC. Trending on CoinGecko.",
+    "url": "https://www.coingecko.com/en/coins/venice-token",
+    "timestamp": "2026-10-09T02:42:44.682759Z",
+    "summary": "Market cap rank #74. Price: $0.00027600 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_bittensor",
+    "title": "\ud83d\udd25 Trending: Bittensor (TAO)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/bittensor",
+    "timestamp": "2026-10-09T02:42:44.682762Z",
+    "summary": "Market cap rank #38. Price: $0.00332917 BTC. Trending on CoinGecko.",
+    "source": "CoinGecko"
+  },
+  {
+    "id": "coingecko_lighter",
+    "title": "\ud83d\udd25 Trending: Lighter (LIT)",
+    "platform": "coingecko",
+    "type": "trending",
+    "url": "https://www.coingecko.com/en/coins/lighter",
+    "timestamp": "2026-10-09T02:42:44.682765Z",
+    "summary": "Market cap rank #82. Price: $0.00004493 BTC. Trending on CoinGecko.",
     "source": "CoinGecko"
   }
 ]
