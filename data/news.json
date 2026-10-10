@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-10T07:10:43Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,44 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Dragonfly partner rejects \u2018bunker mode\u2019 doomerism, calls for proactive blockchain measures",
+    "id": "news_coindesk_eb73c451-b452-42ab-af11-68d167",
+    "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-09T13:49:22Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dragonfly partner rejects \u2018bunker mode\u2019 doomerism, calls for proactive blockchain measures \" class=\"type:primaryImage\" src=\"http...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+    "timestamp": "2026-10-10T05:43:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_d490ec0d-e8cb-4e21-9872-10e761",
+    "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+    "timestamp": "2026-10-10T04:44:35Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_5b66c6bb-e6a9-4b0f-b645-4d6e5b",
+    "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+    "timestamp": "2026-10-10T04:20:07Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_3ad98db0-4f90-46a3-ad33-d7d38f",
+    "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+    "timestamp": "2026-10-10T03:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_2ae93f2b-3de3-4b2f-842a-a5f511",
@@ -156,46 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
     "timestamp": "2026-10-09T11:39:05Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_2555b0d5-5f30-4722-8dca-494568",
-    "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
-    "timestamp": "2026-10-09T11:09:04Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_f2c8c240-7326-4959-905c-b8fb38",
-    "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
-    "timestamp": "2026-10-09T10:44:22Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_a47b365a-c336-4cc9-a4e4-d1c72b",
-    "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-    "timestamp": "2026-10-09T10:16:55Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_27f930f1-35ad-4ef3-9db0-a971ea",
-    "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
-    "timestamp": "2026-10-09T10:14:59Z",
     "summary": "",
     "source": "CoinDesk"
   },
