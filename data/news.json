@@ -200,6 +200,36 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=380635",
+    "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+    "timestamp": "2026-10-10T17:01:03Z",
+    "summary": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the \u201cswap\u201d definition, while an interim rule excludes casino-style gambling\u2014sharpening the agenc...",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=380633",
+    "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+    "timestamp": "2026-10-10T16:01:04Z",
+    "summary": "The Bermuda-based insurer, which runs entirely on Bitcoin, drew the funding from existing backers led by Bain Capital Crypto after a record year driven by demand from wealthy families in Asia, Europe ...",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=380624",
+    "title": "Here\u2019s a Way to Predict When AI Chatbots Will Turn Bad",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
+    "timestamp": "2026-10-10T15:01:03Z",
+    "summary": "Physicists at George Washington University say a formula can estimate when an AI chatbot will flip from good answers to bad ones, and early tests on small models back it up.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=380630",
     "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
     "platform": "news",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
     "timestamp": "2026-10-09T16:08:23Z",
     "summary": "The DWF Labs-linked firms allege in London\u2019s High Court that BitGo sold discounted Falcon Finance and ESPORTS tokens roughly two months before their lock-up expired, cratering the value of their remai...",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=380592",
-    "title": "New York AG Secures Up to $35M and Industry Ban From Ex-Celsius CEO Alex Mashinsky",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
-    "timestamp": "2026-10-09T16:07:07Z",
-    "summary": "Mashinsky owes New York $25 million if he fails to forfeit another $10 million, and $10 million more if he doesn't serve his full sentence.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=380582",
-    "title": "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
-    "timestamp": "2026-10-09T15:30:36Z",
-    "summary": "Ledger asked reseller CryptoBilis to pause sales and urged recent buyers not to set up their devices, as an onchain investigator tracked more than $86 million in suspected thefts.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=380574",
-    "title": "Bitcoin Bleeds in Uptober\u2014How Low Can It Go? Experts Weigh In",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/380574/bitcoin-bleeds-in-uptober-how-low-can-it-go-experts-weigh-in",
-    "timestamp": "2026-10-09T13:20:12Z",
-    "summary": "Experts highlight several support levels, from $83,000 down to $72,000, that Bitcoin may need to test in a bearish start to Uptober.",
     "source": "Decrypt"
   }
 ]
