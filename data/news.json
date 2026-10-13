@@ -1,6 +1,36 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-13T02:41:30Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea moves to block 27 crypto websites, including KuCoin, MEXC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-13T01:54:31Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Meta claims new Muse Wonder AI models rival OpenAI, Anthropic\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-13T00:52:52Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "FTX\u2019s crypto mining venture is now used to advance AI",
     "platform": "news",
     "type": "news",
@@ -70,34 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
+    "id": "news_coindesk_2e26fc78-749a-4054-827b-2b2e2a",
+    "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-12T14:07:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets \" class=\"type:primaryImage\" src=\"https://s3...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
+    "timestamp": "2026-10-13T04:43:18Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
+    "id": "news_coindesk_24eb6f9b-4621-4365-8d12-918a11",
+    "title": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-12T12:31:51Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy adds 250 Bitcoin as holdings reach 848,250 BTC \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Australia proposes leverage caps for crypto-settled derivatives",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-12T11:41:58Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia proposes leverage caps for crypto-settled derivatives\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
+    "timestamp": "2026-10-13T04:18:20Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_8e9c7ba4-a3bc-48e1-8105-898a1e",
@@ -176,26 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
     "timestamp": "2026-10-12T10:57:37Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_23ff164d-cfe9-4bc6-abde-9a171a",
-    "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
-    "timestamp": "2026-10-12T10:27:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_14618517-c7cb-4c70-994c-766e85",
-    "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
-    "timestamp": "2026-10-12T10:20:54Z",
     "summary": "",
     "source": "CoinDesk"
   },
