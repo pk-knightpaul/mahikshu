@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-14T20:56:22Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Organizations join forces to fight Illinois crypto tax, after 6-month pause \" class=\"type:primaryImage\" src=\"https://s3-images.c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Here\u2019s what happened in crypto today",
     "platform": "news",
     "type": "news",
@@ -87,16 +97,6 @@
     "url": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-10-14T12:53:41Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Qivalis wins Dutch e-money license for euro stablecoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/krakens-parent-buy-lithuanian-saldo-bank-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-14T12:26:05Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=380998",
+    "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
+    "timestamp": "2026-10-14T21:46:04Z",
+    "summary": "After a summer of AI models escaping test environments and hacking real companies, hundreds of researchers say the internet itself should be treated as a security boundary.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=380991",
+    "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
+    "timestamp": "2026-10-14T21:16:03Z",
+    "summary": "Developer Brandon Thomas used Anthropic's Claude to build free, open-source replicas of Word, Excel and PowerPoint. They're rough, but they show how cheap cloning software has become.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=380989",
     "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
     "timestamp": "2026-10-14T13:47:44Z",
     "summary": "European electronics chain MediaMarkt Saturn has also halted Ledger sales after a customer in Germany reported finding an implant.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=380928",
-    "title": "Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/380928/notorious-crypto-celeb-meme-coin-promoter-plots-second-wave-on-new-launchpad",
-    "timestamp": "2026-10-14T13:41:21Z",
-    "summary": "Sahil Arora says he's not done with celebrity meme coins, and that Fomo presents new possible strategies for his controversial schemes.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=380920",
-    "title": "Morning Minute: Move Over, Saylor, There\u2019s a New Top Buyer in Town",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/380920/morning-minute-move-over-saylor-theres-a-new-top-buyer-in-town",
-    "timestamp": "2026-10-14T12:11:35Z",
-    "summary": "With Strategy's preferred stock STRC closing in on $100 par, Saylor might not be the number two buyer for long...",
     "source": "Decrypt"
   }
 ]
