@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-13T23:28:19Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger asks resellers to halt sales in Southeast Asia and Hong Kong\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Russia clears Sberbank for crypto trading ahead of December launch",
+    "id": "news_coindesk_7cd06237-b0bf-44e8-a2ee-f4718e",
+    "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-13T12:22:24Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia clears Sberbank for crypto trading ahead of December launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+    "timestamp": "2026-10-13T23:23:05Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_0874f231-f93c-4d90-9563-9fbbe0",
+    "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+    "timestamp": "2026-10-13T21:52:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_c1f7b49a-eb39-4760-ad08-d31428",
@@ -180,24 +200,34 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_eb328654-8c22-4f46-a2ad-4992ce",
-    "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
+    "id": "news_decrypt_https://decrypt.co/?p=380896",
+    "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
-    "timestamp": "2026-10-13T10:38:51Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
+    "timestamp": "2026-10-13T21:46:04Z",
+    "summary": "A Saudi national working at OpenAI allegedly hid an encrypted audio recorder behind a TV in an executive meeting room. OpenAI says its own models helped trace it back to him.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_48250d8b-5695-409c-ba5f-6ae1d5",
-    "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
+    "id": "news_decrypt_https://decrypt.co/?p=380894",
+    "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million\u2014And Users Get Grief Resources",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
-    "timestamp": "2026-10-13T09:27:47Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/380894/character-ai-bankruptcy-disney-users-grief-resources",
+    "timestamp": "2026-10-13T21:16:04Z",
+    "summary": "The chatbot app once valued at $1 billion is up for sale in a Delaware court, two weeks after launching new models. If nobody buys it, it shuts down.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=380870",
+    "title": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
+    "timestamp": "2026-10-13T20:16:03Z",
+    "summary": "Binance will discontinue Binance Pool, Pool Savings, Cloud Mining, and other related services in a retreat from mining infrastructure.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=380867",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
     "timestamp": "2026-10-13T11:53:15Z",
     "summary": "Ledger says the hidden chip reads the 24-word phrase off the screen during setup, leaving the Secure Element and its software untouched.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=380828",
-    "title": "Morning Minute: Bitcoin Gets Spooked as \u2018Uptober\u2019 Lets Down",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/380828/morning-minute-bitcoin-gets-spooked-as-uptober-lets-down",
-    "timestamp": "2026-10-13T11:40:51Z",
-    "summary": "Crypto majors are red, alts are down bad and onchain is facing capitulation. This was not the \u2018Uptober\u2019 that was promised\u2026",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=380818",
-    "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling",
-    "timestamp": "2026-10-13T10:51:33Z",
-    "summary": "A judge ruled that Chinese law should govern fraud victims' claims to the 61,000 BTC seized from Zhimin Qian, in a blow to the claimants.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=380808",
-    "title": "\u2018Leave\u2019: Crypto Backlash Over French Proposal to Report Wallets Over $112K",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
-    "timestamp": "2026-10-13T10:30:37Z",
-    "summary": "The proposal would require crypto owners to report holdings over \u20ac100,000, sparking concerns following a wave of \"wrench attacks\" in France.",
     "source": "Decrypt"
   }
 ]
