@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-15T20:21:11Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance.US seeks $1B valuation in potential $100M funding round: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-15T19:37:27Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
     "platform": "news",
     "type": "news",
@@ -71,16 +91,6 @@
   },
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-15T13:17:45Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "HEX token sellers erase $160M following reports of founder Richard Schueler arrest",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Ledger\u2019s answer to wallet tampering costs $849 and ships next year",
+    "id": "news_coindesk_f791d75f-ea39-43e0-99bc-a8769c",
+    "title": "At the White House, crypto policy vacancy looms large",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-15T12:00:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger\u2019s answer to wallet tampering costs $849 and ships next year\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
+    "timestamp": "2026-10-15T18:48:02Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_5113f828-17c1-487e-ba9b-e2a7ce",
@@ -151,7 +161,7 @@
   },
   {
     "id": "news_coindesk_422c4d36-8184-46da-b11c-576d88",
-    "title": "Live updates: Bitcoin bounces after first fall below $80,000 in one month",
+    "title": "Live updates: Bitcoin bounces back to $82,000 after first fall below $80,000 in one month",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
@@ -190,14 +200,34 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_b94f8196-a076-4370-a121-fa231c",
-    "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
+    "id": "news_decrypt_https://decrypt.co/?p=381079",
+    "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai",
-    "timestamp": "2026-10-15T06:17:58Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
+    "timestamp": "2026-10-15T20:31:04Z",
+    "summary": "Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved by the Bank of Russia.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=381077",
+    "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
+    "timestamp": "2026-10-15T19:16:04Z",
+    "summary": "In a note to investors, Matt Hougan used a \u201cChoose Your Own Adventure\u201d framework to argue that superabundance, an AI bust or a muddle-through economy all ultimately funnel to the same place: Bitcoin h...",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=381068",
+    "title": "BlackRock\u2019s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession",
+    "timestamp": "2026-10-15T18:16:04Z",
+    "summary": "Speaking after BlackRock\u2019s Q3 earnings, Fink said AI infrastructure spending has become so central to growth that a construction halt would be dangerous\u2014calling the backlash \u201cmisinformation\u201d as data c...",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=381061",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/381018/morning-minute-solana-is-about-to-get-faster",
     "timestamp": "2026-10-15T12:07:08Z",
     "summary": "Alpenglow is coming next week, slashing Solana finality from 12.8 seconds to a target of about 150 milliseconds\u2014some 85 times faster.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381008",
-    "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381008/bitcoin-tests-81000-as-rate-hike-fears-linger-after-hot-inflation-data",
-    "timestamp": "2026-10-15T11:48:42Z",
-    "summary": "Odds of an October Fed hike have climbed to 29% from 18% a week ago, and analysts see Bitcoin range-bound until the picture clears.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381000",
-    "title": "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers",
-    "timestamp": "2026-10-15T10:01:21Z",
-    "summary": "The scammers also ran a fake recovery service, contacting victims weeks later with promises to get their stolen crypto back.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=380998",
-    "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
-    "timestamp": "2026-10-14T21:46:04Z",
-    "summary": "After a summer of AI models escaping test environments and hacking real companies, hundreds of researchers say the internet itself should be treated as a security boundary.",
     "source": "Decrypt"
   }
 ]
