@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-16T19:17:04Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
     "platform": "news",
     "type": "news",
@@ -47,16 +57,6 @@
     "url": "https://cointelegraph.com/news/strategy-daily-dividends-strc-hovers-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-10-16T14:11:03Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy conditionally declares daily dividends as STRC hovers below $100\" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-16T13:56:15Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
     "source": "CoinTelegraph"
   },
   {
@@ -171,7 +171,7 @@
   },
   {
     "id": "news_coindesk_243f1e25-08ee-4879-81bb-4de837",
-    "title": "Live updates: Crypto gives up more ground as AI selloff picks up steam",
+    "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
@@ -198,6 +198,26 @@
     "timestamp": "2026-10-16T08:34:48Z",
     "summary": "",
     "source": "CoinDesk"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=381184",
+    "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can\u2019t Have",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
+    "timestamp": "2026-10-16T20:16:04Z",
+    "summary": "Tesla's new Roadster flips through the air, jumps a row of Teslas and lands on SpaceX thrusters. The Rocket version is invite only, not approved for public roads, and not due until 2028.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=381177",
+    "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
+    "timestamp": "2026-10-16T19:36:04Z",
+    "summary": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1 at Hexacon in Paris. It survived a reboot, but no tool or bug details are public yet.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=381178",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/381138/morning-minute-google-clears-a-major-quantum-hurdle-bitcoin-still-safe",
     "timestamp": "2026-10-16T11:46:54Z",
     "summary": "Plus, crypto majors rebound despite hot PPI and Saylor\u2019s Strategy is at risk of removal from a major index.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381123",
-    "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
-    "timestamp": "2026-10-16T10:39:08Z",
-    "summary": "The internal model derived keys from public developer recovery phrases, spent another account's test ETH, and left it out of its report.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381122",
-    "title": "GTA 6 Trailer Features Meme Coin\u2014And Solana Copycat Soars 2,900%",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381122/gta-6-trailer-features-meme-coin-and-solana-copycat-soars-2900",
-    "timestamp": "2026-10-16T10:16:06Z",
-    "summary": "Rockstar released the launch trailer for GTA VI, revealing a potential meme coin in the upcoming game and sending degens wild.",
     "source": "Decrypt"
   }
 ]
