@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-15T23:34:19Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia releases draft bill to adopt OECD crypto tax reporting framework \" class=\"type:primaryImage\" src=\"https://s3-images.ct...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/maga",
+    "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-15T22:42:58Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Scammer loses $4.8M stored on tampered Ledgers: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
     "platform": "news",
     "type": "news",
@@ -77,26 +97,6 @@
     "url": "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-10-15T14:16:55Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions\" class=\"type:primaryImage\" src=\"https://s3-images.c...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/maga",
-    "title": "Can the SEC and CFTC\u2019s pro-crypto rules be overturned? Legal opinion",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-15T13:30:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Can the SEC and CFTC\u2019s pro-crypto rules be overturned? Legal opinion\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "HEX token sellers erase $160M following reports of founder Richard Schueler arrest",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/hex-token-erases-160m-reports-founder-schuelers-arrest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-15T12:12:57Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HEX token sellers erase $160M following reports of founder Richard Schueler arrest \" class=\"type:primaryImage\" src=\"https://s3-i...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,26 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=381109",
+    "title": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
+    "timestamp": "2026-10-15T22:16:03Z",
+    "summary": "Researchers added hidden text to contact AI agents probing Alibaba\u2019s map service, getting replies about their tasks as investigators traced activity to Tencent Cloud infrastructure.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=381102",
+    "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
+    "timestamp": "2026-10-15T21:46:04Z",
+    "summary": "Google's Willow chip cut errors 40x on the scarce \u201cmagic states\u201d quantum computers burn through, a step toward smaller, useful machines\u2014and toward ones that could threaten today's encryption.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=381079",
     "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
     "platform": "news",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/381023/ledger-announces-atom-touchscreen-android-device",
     "timestamp": "2026-10-15T13:32:21Z",
     "summary": "Ledger says the Android-based Atom will carry anti-tamper protections and be sold only on its site, as it probes tampered resold wallets.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381015",
-    "title": "Zcash Tanks Double Digits After 'Meteoric Rise' Sees Leverage Build Up",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381015/zcash-tanks-double-digits-after-meteoric-rise-sees-leverage-build-up",
-    "timestamp": "2026-10-15T12:42:30Z",
-    "summary": "Experts blame a build up in leverage for Zcash's drop in value, as well as growing concerns about AI breaking crypto encryption.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381018",
-    "title": "Morning Minute: Solana Is About To Get Faster",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381018/morning-minute-solana-is-about-to-get-faster",
-    "timestamp": "2026-10-15T12:07:08Z",
-    "summary": "Alpenglow is coming next week, slashing Solana finality from 12.8 seconds to a target of about 150 milliseconds\u2014some 85 times faster.",
     "source": "Decrypt"
   }
 ]
