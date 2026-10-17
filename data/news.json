@@ -100,6 +100,26 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_e3e952c1-a946-4698-8a9a-9ab401",
+    "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
+    "timestamp": "2026-10-17T17:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_84377f49-3727-43be-9113-da4e20",
+    "title": "Citrini sees a tokenization boom. The harder question is who profits",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
+    "timestamp": "2026-10-17T15:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_343f70ed-3190-4565-9247-298807",
     "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
     "platform": "news",
@@ -180,24 +200,34 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_a1fcc27e-bf96-4edb-aa42-c3ea04",
-    "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
+    "id": "news_decrypt_https://decrypt.co/?p=381238",
+    "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
-    "timestamp": "2026-10-16T10:48:49Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
+    "timestamp": "2026-10-17T17:01:03Z",
+    "summary": "An FEC filing shows the Fairshake affiliate Defend American Jobs disclosed roughly $7 million more in ads against the Ohio Democrat, pushing its total past $46 million\u2014days after the PAC expanded its ...",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_b2216c3e-0e4d-4840-8578-a947a4",
-    "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
+    "id": "news_decrypt_https://decrypt.co/?p=381236",
+    "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
-    "timestamp": "2026-10-16T10:41:03Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
+    "timestamp": "2026-10-17T16:01:03Z",
+    "summary": "The nine-member group, modeled on the Internet Engineering Task Force, aims to set open standards for testing quantum-resistance claims as forecasts place the first practical attack in the late 2020s.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=381202",
+    "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
+    "timestamp": "2026-10-17T15:01:03Z",
+    "summary": "StepFun's STEPX Neo opened for pre-orders in China on Oct. 13 at 3,999 yuan, with an AI agent built into the operating system instead of bolted on as an app.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=381213",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no",
     "timestamp": "2026-10-16T16:36:04Z",
     "summary": "The judge ruled that a shift in the CFTC\u2019s enforcement priorities and misconduct allegations against its enforcement division weren\u2019t enough to reopen a deal Gemini signed weeks before trial.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381150",
-    "title": "Bitcoin Bounces, But Where Does It Go Next? Here\u2019s What the Charts Say",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381150/bitcoin-price-rebounds-where-next-charts",
-    "timestamp": "2026-10-16T16:06:05Z",
-    "summary": "Technical indicators suggest the bullish trend remains intact, but prediction market traders are sending mix signals.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381148",
-    "title": "Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381148/three-canadian-armed-forces-members-charged-in-kidnapping-of-crypto-exchange-owner",
-    "timestamp": "2026-10-16T15:43:58Z",
-    "summary": "Police seized guns, silencers and more than 2,000 rounds of ammunition, nearly all of it allegedly stolen from the Canadian military.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381141",
-    "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis",
-    "timestamp": "2026-10-16T12:22:18Z",
-    "summary": "The funds came from a task scam that paid people to fake product sales and reviews, then demanded deposits before releasing their pay.",
     "source": "Decrypt"
   }
 ]
