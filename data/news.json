@@ -1,6 +1,36 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-17T13:29:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-17T12:58:03Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana shows resilience, but some areas need continued observation, Fidelity says\" class=\"type:primaryImage\" src=\"https://s3-ima...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Circle\u2019s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-17T10:00:07Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle\u2019s Allaire says stablecoin issuer looking to enter 40 developing markets: Report\" class=\"type:primaryImage\" src=\"https://s...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
     "platform": "news",
     "type": "news",
@@ -17,16 +47,6 @@
     "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-10-17T07:26:57Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget to discontinue services for some users in one-off exercise \u00a0 \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-16T19:17:04Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
     "source": "CoinTelegraph"
   },
   {
@@ -80,24 +100,24 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Ledger\u2019s early implant warnings deserved more action, Karpel\u00e8s says",
+    "id": "news_coindesk_343f70ed-3190-4565-9247-298807",
+    "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-16T13:51:35Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger\u2019s early implant warnings deserved more action, Karpel\u00e8s says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
+    "timestamp": "2026-10-17T14:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
+    "id": "news_coindesk_a3cda781-8f38-4500-82a6-e60cfa",
+    "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-16T13:33:40Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Deutsche Bank prepares German crypto custody launch, eyes Asia: Report \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+    "timestamp": "2026-10-17T12:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_93336604-2bdb-49b0-abe8-cb04f4",
@@ -180,24 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_7c135d0e-26ad-420b-af9d-e867e0",
-    "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
+    "id": "news_decrypt_https://decrypt.co/?p=381213",
+    "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
-    "timestamp": "2026-10-16T10:24:30Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_243f1e25-08ee-4879-81bb-4de837",
-    "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
-    "timestamp": "2026-10-16T09:48:14Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
+    "timestamp": "2026-10-17T13:01:04Z",
+    "summary": "AI companies charge by the token, and most people burn them on jobs a cheap model could do. Here's how to spend less and get better results, from your first prompt to your first agent.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=381184",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis",
     "timestamp": "2026-10-16T12:22:18Z",
     "summary": "The funds came from a task scam that paid people to fake product sales and reviews, then demanded deposits before releasing their pay.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381138",
-    "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381138/morning-minute-google-clears-a-major-quantum-hurdle-bitcoin-still-safe",
-    "timestamp": "2026-10-16T11:46:54Z",
-    "summary": "Plus, crypto majors rebound despite hot PPI and Saylor\u2019s Strategy is at risk of removal from a major index.",
     "source": "Decrypt"
   }
 ]
