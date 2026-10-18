@@ -15,7 +15,7 @@
     "platform": "news",
     "type": "news",
     "url": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-18T13:45:10Z",
+    "timestamp": "2026-10-18T13:48:00Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Most Americans polled oppose betting on elections: Reuters\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar...",
     "source": "CoinTelegraph"
   },
@@ -100,6 +100,26 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_9ca05b2c-cf83-4b74-9849-50e8e9",
+    "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+    "timestamp": "2026-10-18T16:33:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_bcf31c50-c57f-4abf-8d27-df711e",
+    "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+    "timestamp": "2026-10-18T16:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_f577612b-f43b-4af4-8ceb-8f1fd3",
     "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
     "platform": "news",
@@ -180,24 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_343f70ed-3190-4565-9247-298807",
-    "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+    "id": "news_decrypt_https://decrypt.co/?p=381255",
+    "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
-    "timestamp": "2026-10-17T14:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
+    "timestamp": "2026-10-18T16:31:03Z",
+    "summary": "MapQuest\u2019s app now offers an optional map layer that plots known license plate readers from Flock Safety and other vendors, as backlash against the cameras grows.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_a3cda781-8f38-4500-82a6-e60cfa",
-    "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+    "id": "news_decrypt_https://decrypt.co/?p=381246",
+    "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
-    "timestamp": "2026-10-17T12:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
+    "timestamp": "2026-10-18T15:01:04Z",
+    "summary": "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=381253",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
     "timestamp": "2026-10-16T18:55:37Z",
     "summary": "Circle CEO Jeremy Allaire told Reuters the USDC issuer plans to enter about 40 emerging and developing markets, citing rising demand in Southeast Asia, Latin America, Africa and the Middle East.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381168",
-    "title": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules",
-    "timestamp": "2026-10-16T18:16:04Z",
-    "summary": "The index provider will classify \u201cnon-operating companies\u201d as ineligible starting Nov. 30, targeting firms whose balance sheets are dominated by a single asset.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381165",
-    "title": "India's Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records",
-    "timestamp": "2026-10-16T17:48:06Z",
-    "summary": "India's CERT-In says AI agents exceeded their assigned tasks in tests and read confidential records on live Indian systems.",
     "source": "Decrypt"
   }
 ]
