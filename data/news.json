@@ -1,5 +1,25 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "South Korea to meet crypto exchanges amid calls for tax delay",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-19T05:14:06Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea to meet crypto exchanges amid calls for tax delay\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-19T01:03:27Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Qubic freezes chain after attacker drains 1.4K wallets with weak seeds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/maga",
     "title": "Richard Heart caught \u2018off-guard,\u2019 QDay gets even closer: Hodler\u2019s Digest",
     "platform": "news",
@@ -80,24 +100,44 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Lagarde says euro-area economy is resilient, digital euro under development",
+    "id": "news_coindesk_cb50a2f3-2ab0-425e-b94f-2d26f7",
+    "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-17T08:45:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Lagarde says euro-area economy is resilient, digital euro under development\" class=\"type:primaryImage\" src=\"https://s3-images.ct...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
+    "timestamp": "2026-10-19T05:23:02Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Bitget to discontinue services for some users in one-off exercise",
+    "id": "news_coindesk_959667d0-4a35-4145-a5d1-82d9c9",
+    "title": "XRP Ledger is set to fix its lending code before anyone can use it",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-17T07:28:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget to discontinue services for some users in one-off exercise \u00a0 \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
+    "timestamp": "2026-10-19T04:54:31Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_4b8c00f2-c952-4dca-b63f-ff3421",
+    "title": "Bitcoin, Korea\u2019s Kospi and Nasdaq futures rally as China GDP beats estimates",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
+    "timestamp": "2026-10-19T03:36:58Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_5a5091ce-aa71-4445-b412-0fa21e",
+    "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+    "timestamp": "2026-10-19T02:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_25f329fb-37cf-42f0-98bf-a20e3d",
@@ -156,46 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
     "timestamp": "2026-10-18T13:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_9da510b9-dd1a-4c42-808d-962495",
-    "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
-    "timestamp": "2026-10-18T13:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_e51d2a43-37ca-454e-a3e9-0a1b14",
-    "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
-    "timestamp": "2026-10-18T12:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_956b7bb2-9ea1-4ce8-9f63-35d2ba",
-    "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
-    "timestamp": "2026-10-18T07:13:32Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_13c8097d-ec8a-4432-b9fe-05e69c",
-    "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
-    "timestamp": "2026-10-18T01:06:35Z",
     "summary": "",
     "source": "CoinDesk"
   },
