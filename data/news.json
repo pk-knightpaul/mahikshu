@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "PHP Foundation admits \u2018structural failure\u2019 delayed critical security fix",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-22T00:44:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"PHP Foundation admits \u2018structural failure\u2019 delayed critical security fix \" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "American Bankers Association: OCC\u2019s GENIUS rules \u2018undermine\u2019 US Congress",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,44 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Solana\u2019s Alpenglow launches on mainnet, targets 99% faster finality",
+    "id": "news_coindesk_a9c94dd4-9dfd-4df7-a12e-8b431a",
+    "title": "Solana\u2019s biggest network change since 2020 is live. Here\u2019s how users benefit",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-21T13:57:14Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana\u2019s Alpenglow launches on mainnet, targets 99% faster finality \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
+    "timestamp": "2026-10-22T05:24:58Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_921575eb-f92a-4d58-80ef-7a98bd",
+    "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+    "timestamp": "2026-10-22T04:41:59Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_1741cbc6-5f57-43a6-afa0-10b489",
+    "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
+    "timestamp": "2026-10-22T04:36:20Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_025972e1-a400-49fd-9d68-02bc4b",
+    "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
+    "timestamp": "2026-10-22T03:51:34Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_1f4749ee-8df5-4c6f-b5eb-0c42b7",
@@ -156,46 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
     "timestamp": "2026-10-21T12:10:39Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_c074a787-1d94-4be3-9664-7d0db8",
-    "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
-    "timestamp": "2026-10-21T12:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_715fef4a-c2cd-4f08-917c-82589f",
-    "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
-    "timestamp": "2026-10-21T11:15:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_feea366e-35fe-47b0-89eb-1c9432",
-    "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
-    "timestamp": "2026-10-21T11:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_f6e707ea-fef9-4d44-afaf-cc7b8a",
-    "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date",
-    "timestamp": "2026-10-21T10:34:37Z",
     "summary": "",
     "source": "CoinDesk"
   },
