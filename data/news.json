@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "American Bankers Association: OCC\u2019s GENIUS rules \u2018undermine\u2019 US Congress",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-21T21:53:48Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"American Bankers Association: OCC\u2019s GENIUS rules \u2018undermine\u2019 US Congress \" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
     "platform": "news",
     "type": "news",
@@ -87,16 +97,6 @@
     "url": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-10-21T13:57:14Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana\u2019s Alpenglow launches on mainnet, targets 99% faster finality \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Big Tech\u2019s eMudhra fixes may leave crypto bots exposed, CertiK warns",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-21T13:31:39Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Big Tech\u2019s eMudhra fixes may leave crypto bots exposed, CertiK warns\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,16 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=381578",
+    "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble\u2014And Compares GPUs to Airline Seats",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
+    "timestamp": "2026-10-21T21:31:02Z",
+    "summary": "Citadel's founder says investors are almost certainly in an AI bubble, warns a chip glut could crash prices like empty airline seats, yet expects the survivors to lead for decades.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=381570",
     "title": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
     "platform": "news",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
     "timestamp": "2026-10-21T14:24:25Z",
     "summary": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381511",
-    "title": "GTA 6 Trailer Features 'Dacity' Meme Coin\u2014Here's What Traders Think It'll Do",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381511/gta-6-trailer-features-dacity-meme-coin-heres-what-traders-think-itll-do",
-    "timestamp": "2026-10-21T13:16:04Z",
-    "summary": "Grand Theft Auto 6 is rumoured to feature a meme coin, and crypto traders are speculating on how prominently Rockstar will integrate it.",
     "source": "Decrypt"
   }
 ]
