@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-23T21:32:16Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report\" class=\"type:primaryImage\" src=\"https://s3-images...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-23T20:54:17Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"IRS plans lower tax disclosure penalties, including for crypto: Forbes\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
     "platform": "news",
     "type": "news",
@@ -77,26 +97,6 @@
     "url": "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-10-23T12:23:58Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness\" class=\"type:primaryImage\" src=\"https://s3-imag...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Was crypto self-custody ever designed for beginners?",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-23T11:47:47Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Was crypto self-custody ever designed for beginners?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-23T10:13:06Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,46 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=381758",
+    "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
+    "timestamp": "2026-10-23T21:16:03Z",
+    "summary": "Days before Israel\u2019s election, Netanyahu said he has asked for a blockchain plan in case banks are hit with sanctions, and told Israelis to prepare for a rainy day after Trump.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=381755",
+    "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser\u2019s Firm",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+    "timestamp": "2026-10-23T20:16:02Z",
+    "summary": "Sen. Richard Blumenthal demanded Tether\u2019s records on payments to Nxum, a firm co-owned by former White House crypto adviser Bo Hines.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=381753",
+    "title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He\u2019s Staying Out Of",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/381753/spacex-filing-elon-musk-final-word-tesla-merger",
+    "timestamp": "2026-10-23T19:36:02Z",
+    "summary": "SpaceX\u2019s latest 10-Q filing quietly confirms any Tesla combination requires sign-off from its \u201ccontrolling shareholder.\u201d",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=381745",
+    "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+    "timestamp": "2026-10-23T18:54:55Z",
+    "summary": "The regulator's Division of Examinations named \"super intelligence and other advanced technologies\" as a focus area alongside tokenization risks.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=381717",
     "title": "How I Vibe Coded My Smart TV\u2014And Claude Killed It",
     "platform": "news",
@@ -257,46 +297,6 @@
     "url": "https://decrypt.co/381690/interpol-recovers-105m-in-african-cybercrime-sweep-that-shut-illegal-crypto-mines",
     "timestamp": "2026-10-23T13:18:18Z",
     "summary": "Operation Serengeti III led to 1,462 arrests across 21 countries, while Angolan police seized more than 2,000 crypto mining devices.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381681",
-    "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
-    "timestamp": "2026-10-23T11:49:37Z",
-    "summary": "The Hoodi testnet fork is off after ChainSecurity found gas changes that could let contracts lock in failures, citing 13 real-world cases.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381665",
-    "title": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank",
-    "timestamp": "2026-10-23T10:54:35Z",
-    "summary": "The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381666",
-    "title": "Bitcoin in 'Wait and See Mode'\u2014And That Might Be a Good Thing",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
-    "timestamp": "2026-10-23T08:55:35Z",
-    "summary": "The crypto market has been quiet as of late. Market analysts think that might actually be a good sign and that a bull market might be near.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381662",
-    "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know",
-    "timestamp": "2026-10-22T22:21:46Z",
-    "summary": "PHP shipped its fix, attackers launched millions of attempts, and governments say no one has broken in yet. Here's what that means for your passwords, your crypto, and your browsing.",
     "source": "Decrypt"
   }
 ]
