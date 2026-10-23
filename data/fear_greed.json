@@ -1,14 +1,14 @@
 [
   {
     "id": "fear_greed_latest",
-    "title": "Fear & Greed: Greed (68)",
+    "title": "Fear & Greed: Neutral (50)",
     "platform": "fear_greed",
     "type": "sentiment",
     "url": "https://alternative.me/crypto/fear-and-greed-index/",
-    "timestamp": "2026-10-22T23:50:36.873763Z",
-    "summary": "Crypto Fear & Greed Index is Greed at 68/100. Market sentiment indicator.",
+    "timestamp": "2026-10-23T03:07:37.241775Z",
+    "summary": "Crypto Fear & Greed Index is Neutral at 50/100. Market sentiment indicator.",
     "source": "Alternative.me",
-    "value": 68,
-    "label": "Greed"
+    "value": 50,
+    "label": "Neutral"
   }
 ]
