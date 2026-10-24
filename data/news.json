@@ -100,6 +100,36 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_61f72b7d-e41e-48b8-84c8-c6246c",
+    "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
+    "timestamp": "2026-10-24T14:06:24Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_d336a08e-0f52-4648-8468-6541e4",
+    "title": "Bitcoin\u2019s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/",
+    "timestamp": "2026-10-24T14:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_6fb281fd-4811-43a3-b88f-aa268a",
+    "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
+    "timestamp": "2026-10-24T12:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_b24fbb6b-1b18-40ef-9b52-f4b292",
     "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
     "platform": "news",
@@ -170,34 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_0b403cee-7435-4b53-9961-042332",
-    "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
+    "id": "news_decrypt_https://decrypt.co/?p=381760",
+    "title": "Hong Kong\u2019s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
-    "timestamp": "2026-10-23T10:22:56Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_2b912c38-1dcf-49f8-b05c-bdbbc5",
-    "title": "Sweden\u2019s central bank revives e-krona debate as stablecoins and digital euro loom",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
-    "timestamp": "2026-10-23T08:57:34Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_3e09de10-7193-4b81-a541-985d84",
-    "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
-    "timestamp": "2026-10-23T08:02:35Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+    "timestamp": "2026-10-24T13:01:02Z",
+    "summary": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=381758",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/381691/morning-minute-a16z-drops-crypto-from-its-fund",
     "timestamp": "2026-10-23T13:29:21Z",
     "summary": "The name change is symbolic of the fund\u2019s future investing focus, though the firm will continue investing in crypto.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381690",
-    "title": "Interpol Recovers $105M in African Cybercrime Sweep That Shut Illegal Crypto Mines",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381690/interpol-recovers-105m-in-african-cybercrime-sweep-that-shut-illegal-crypto-mines",
-    "timestamp": "2026-10-23T13:18:18Z",
-    "summary": "Operation Serengeti III led to 1,462 arrests across 21 countries, while Angolan police seized more than 2,000 crypto mining devices.",
     "source": "Decrypt"
   }
 ]
