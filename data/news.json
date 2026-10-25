@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "ECB official sees digital euro as key to protecting EU \u2018sovereignty\u2019",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-25T15:11:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ECB official sees digital euro as key to protecting EU \u2018sovereignty\u2019\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
     "platform": "news",
     "type": "news",
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
+    "id": "news_coindesk_b01e607f-b51e-4cf9-802c-193744",
+    "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-23T12:33:37Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New York AG seeks $1.37B from NovaTech founders over Ponzi scheme\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus",
+    "timestamp": "2026-10-25T15:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_c82550a1-cd38-40ed-bc8b-778cab",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_b24fbb6b-1b18-40ef-9b52-f4b292",
-    "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+    "id": "news_decrypt_https://decrypt.co/?p=381784",
+    "title": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
-    "timestamp": "2026-10-24T04:45:43Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks",
+    "timestamp": "2026-10-25T16:01:03Z",
+    "summary": "Twenty-two companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, after Wells Fargo, Cisco, Marvell, Arm, Moderna. and Intuit joined the list.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=381777",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
     "timestamp": "2026-10-23T18:54:55Z",
     "summary": "The regulator's Division of Examinations named \"super intelligence and other advanced technologies\" as a focus area alongside tokenization risks.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381717",
-    "title": "How I Vibe Coded My Smart TV\u2014And Claude Killed It",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381717/how-vibe-coded-my-smart-tv-claude-killed-it",
-    "timestamp": "2026-10-23T17:53:29Z",
-    "summary": "Vibe coding your TV is impressive. Doing it without knowing exactly what you're touching is how you lose a rooted LG set and get a very sincere apology from an AI.",
     "source": "Decrypt"
   }
 ]
