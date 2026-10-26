@@ -1,5 +1,45 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-26T08:20:49Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs break 2-week outflow streak with $301M comeback\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-26T05:44:44Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Musk warns over 200 AI neoclouds face \u2018guppy-level death\u2019",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-26T05:13:33Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Musk warns over 200 AI neoclouds face \u2018guppy-level death\u2019\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/art...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-26T03:21:26Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hong Kong names Nasdaq-listed Solana Company a strategic enterprise\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Keystone says website breach exposed hardware wallet buyers\u2019 addresses",
     "platform": "news",
@@ -60,44 +100,54 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+    "id": "news_coindesk_943453b7-c269-491a-bb80-fdb811",
+    "title": "Over 11 million bitcoin has no known owner. Here's what it means",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-23T20:54:17Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"IRS plans lower tax disclosure penalties, including for crypto: Forbes\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
+    "timestamp": "2026-10-26T07:18:24Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+    "id": "news_coindesk_a17506fe-aff2-4130-8f14-31325e",
+    "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-23T18:39:02Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Initia halts blockchain after exploit reportedly drains over $2.6M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
+    "timestamp": "2026-10-26T05:39:17Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+    "id": "news_coindesk_5d50d425-f8d9-49c1-a54c-a54473",
+    "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-23T17:42:12Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US senator probes Tether after reported deal with ex-Trump crypto adviser\" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
+    "timestamp": "2026-10-26T05:15:20Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
+    "id": "news_coindesk_ebf37010-7126-43df-ae53-852951",
+    "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-23T16:08:40Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC flags tokenization as high-risk area in 2027 market examinations\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+    "timestamp": "2026-10-26T04:37:02Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_27f9f1cb-00fe-4ac3-9060-faadbe",
+    "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
+    "timestamp": "2026-10-26T03:11:39Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_b01e607f-b51e-4cf9-802c-193744",
@@ -146,56 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
     "timestamp": "2026-10-24T15:11:24Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_10eb526a-067f-4fe9-a6ed-f34625",
-    "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
-    "timestamp": "2026-10-24T15:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_52a45aad-f51f-4727-8a01-016a3a",
-    "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
-    "timestamp": "2026-10-24T14:38:47Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_61f72b7d-e41e-48b8-84c8-c6246c",
-    "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
-    "timestamp": "2026-10-24T14:06:24Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_d336a08e-0f52-4648-8468-6541e4",
-    "title": "Bitcoin\u2019s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
-    "timestamp": "2026-10-24T14:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_6fb281fd-4811-43a3-b88f-aa268a",
-    "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
-    "timestamp": "2026-10-24T12:00:00Z",
     "summary": "",
     "source": "CoinDesk"
   },
