@@ -1,6 +1,36 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-27T04:26:51Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"RedotPay weighs confidential US IPO filing by year-end: Bloomberg\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-27T01:55:03Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Keystone breach deepens: Hackers stole key used to verify wallets as genuine\" class=\"type:primaryImage\" src=\"https://s3-images.c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Ripple wins final US approval for national trust bank",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-27T00:06:41Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ripple wins final US approval for national trust bank\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "US OCC calls on community banks to become payment stablecoin issuers",
     "platform": "news",
     "type": "news",
@@ -70,34 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "PHP flaw shows AI \u2018vulnerability apocalypse\u2019 is on schedule: Immunefi CEO",
+    "id": "news_coindesk_7539c5a8-0d1d-4359-b986-a96c22",
+    "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-26T14:25:22Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"PHP flaw shows AI \u2018vulnerability apocalypse\u2019 is on schedule: Immunefi CEO \" class=\"type:primaryImage\" src=\"https://s3-images.ctm...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-26T13:27:38Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy skips Bitcoin purchases, spends $205M on STRC buybacks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-26T13:26:47Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+    "timestamp": "2026-10-27T04:28:49Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_ab48f700-3ebb-46de-910e-20ac93",
@@ -186,16 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
     "timestamp": "2026-10-26T11:05:31Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_0e30b705-e367-4887-b0d3-4a2738",
-    "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
-    "timestamp": "2026-10-26T10:33:00Z",
     "summary": "",
     "source": "CoinDesk"
   },
