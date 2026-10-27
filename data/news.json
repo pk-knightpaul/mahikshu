@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "US OCC calls on community banks to become payment stablecoin issuers",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-26T21:38:30Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US OCC calls on community banks to become payment stablecoin issuers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-26T21:23:32Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Injective launches onchain futures market tracking Nvidia GPU rental costs \" class=\"type:primaryImage\" src=\"https://s3-images.ct...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
     "platform": "news",
     "type": "news",
@@ -77,26 +97,6 @@
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-10-26T13:26:47Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "HOOD\u2019s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-26T13:12:41Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HOOD\u2019s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein\" class=\"type:primaryImage\" src=\"https://s3-i...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-26T11:39:27Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger \" class=\"type:primaryImage\" src=\"https://s3-i...",
     "source": "CoinTelegraph"
   },
   {
@@ -200,6 +200,36 @@
     "source": "CoinDesk"
   },
   {
+    "id": "news_decrypt_https://decrypt.co/?p=381889",
+    "title": "Canada\u2019s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
+    "timestamp": "2026-10-26T22:16:03Z",
+    "summary": "Ottawa opened a 60-day consultation on draft rules requiring one-to-one reserves and fast redemption from stablecoin issuers, while keeping the ban on paying holders interest.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=381883",
+    "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price",
+    "timestamp": "2026-10-26T21:46:02Z",
+    "summary": "OpenAI's mid-tier model now operates apps and screens more like a person would, with API prices 50% below GPT-5.6 Terra and an error rate that OpenAI says fell sharply.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=381871",
+    "title": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/381871/unitree-stock-jumps-investors-bet-chatbot-ai-robots-brain",
+    "timestamp": "2026-10-26T21:16:03Z",
+    "summary": "Unitree's shares have jumped about 60% in under two weeks as investors bet OpenAI's GPT-6 Astra will give robots the brains they lack, turning the stock into an AI proxy.",
+    "source": "Decrypt"
+  },
+  {
     "id": "news_decrypt_https://decrypt.co/?p=381864",
     "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
     "platform": "news",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/381834/india-coindcx-confirms-16-million-loss-ceo-called-false-alarm",
     "timestamp": "2026-10-26T16:36:03Z",
     "summary": "The Mumbai-based exchange says 15.99 million USDT was drained from wallets it retired after last year\u2019s $44 million hack, bringing its combined losses to nearly $60 million\u2014and it\u2019s absorbing the hit.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381828",
-    "title": "Brazil\u2019s Stock Market Crashes After Lula\u2019s Upset Victory",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381828/brazil-stock-market-crashes-lula-upset-victory",
-    "timestamp": "2026-10-26T16:04:51Z",
-    "summary": "The iShares Brazil ETF fell as much as 26% after Lula da Silva beat Fl\u00e1vio Bolsonaro, who prediction markets had at 80%, while the dollar jumped as much as 12% against the real.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381826",
-    "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
-    "timestamp": "2026-10-26T15:36:03Z",
-    "summary": "The firm added 10,452 ETH to reach 4.95% of supply, but its bigger move was repurchasing 2.04 million of its own shares\u2014part of what it calls the largest equity buyback any crypto treasury company has...",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=381801",
-    "title": "'Privacy Horror\u2019: Researcher Uncovers Extent of Samsung Smart TV User Tracking",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/381801/privacy-horror-researcher-uncovers-extent-of-samsung-smart-tv-user-tracking",
-    "timestamp": "2026-10-26T15:00:02Z",
-    "summary": "AI-powered reverse engineering could make it \"easier and faster\" for researchers to uncover and explain how devices collect and share data.",
     "source": "Decrypt"
   }
 ]
