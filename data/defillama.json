@@ -1,15 +1,28 @@
 [
   {
+    "id": "defillama_747c1d2a-c668-4682-b9f9-296708",
+    "title": "High Yield: STETH on lido",
+    "platform": "defillama",
+    "type": "high_yield",
+    "url": "https://defillama.com/yields",
+    "timestamp": "2026-10-30T21:20:34.230870Z",
+    "summary": "APY: 15.07% | TVL: $21671.4M | Chain: Ethereum | Pool: 747c1d2a-c668-4682-b9f9-296708a3dd90...",
+    "source": "DeFiLlama",
+    "apy": 15.07,
+    "tvl": 21671422385,
+    "chain": "Ethereum"
+  },
+  {
     "id": "defillama_43641cf5-a92e-416b-bce9-27113d",
     "title": "High Yield: USDC on maple",
     "platform": "defillama",
     "type": "high_yield",
     "url": "https://defillama.com/yields",
-    "timestamp": "2026-10-30T16:29:32.416817Z",
-    "summary": "APY: 5.09% | TVL: $2492.0M | Chain: Ethereum | Pool: 43641cf5-a92e-416b-bce9-27113d3c0db6...",
+    "timestamp": "2026-10-30T21:20:34.230920Z",
+    "summary": "APY: 5.09% | TVL: $2480.4M | Chain: Ethereum | Pool: 43641cf5-a92e-416b-bce9-27113d3c0db6...",
     "source": "DeFiLlama",
     "apy": 5.09,
-    "tvl": 2491983404,
+    "tvl": 2480432202,
     "chain": "Ethereum"
   },
   {
@@ -18,11 +31,11 @@
     "platform": "defillama",
     "type": "high_yield",
     "url": "https://defillama.com/yields",
-    "timestamp": "2026-10-30T16:29:32.416865Z",
-    "summary": "APY: 5.04% | TVL: $1176.1M | Chain: Ethereum | Pool: 66985a81-9c51-46ca-9977-42b4fe7bc6df...",
+    "timestamp": "2026-10-30T21:20:34.230929Z",
+    "summary": "APY: 5.05% | TVL: $1174.0M | Chain: Ethereum | Pool: 66985a81-9c51-46ca-9977-42b4fe7bc6df...",
     "source": "DeFiLlama",
-    "apy": 5.04,
-    "tvl": 1176109269,
+    "apy": 5.05,
+    "tvl": 1174004677,
     "chain": "Ethereum"
   }
 ]
