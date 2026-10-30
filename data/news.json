@@ -1,12 +1,42 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Binance hacked for over $5.8B in massive crypto exploit",
+    "title": "Binance hack drained billions through private key \u2018misuse\u2019: Blockaid CEO",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-30T00:11:26Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance hack drained billions through private key \u2018misuse\u2019: Blockaid CEO \" class=\"type:primaryImage\" src=\"https://s3-images.ctme...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-29T23:24:21Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/maga",
+    "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-10-29T22:31:07Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tampered Ledger reported in Singapore a month before news broke: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images....",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Live updates: Binance says $3B in crypto frozen in connection to hack",
     "platform": "news",
     "type": "news",
     "url": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-10-29T21:24:36Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance hacked for over $5.8B in massive crypto exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/artic...",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Live updates: Binance says $3B in crypto frozen in connection to hack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
     "source": "CoinTelegraph"
   },
   {
@@ -70,38 +100,18 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B",
+    "id": "news_coindesk_5c6a3f8f-92bf-4156-9478-7da886",
+    "title": "Binance hack drained wallets backing customer assets, reserve data shows",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/kalshi-closes-1b-funding-round-at-40b-valuation-as-non-sports-revenue-run-rate-tops-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-29T15:52:43Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B\" class=\"type:primaryImage\" src=\"https://s3-images.ct...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-29T15:39:54Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price jumps to $81.5K as US GDP data beats expectations\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "French Senate adopts bill for automatic sharing of crypto tax data",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/french-senate-adopts-bill-automatic-crypto-tax-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-29T15:00:02Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"French Senate adopts bill for automatic sharing of crypto tax data \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+    "timestamp": "2026-10-30T00:17:10Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_0e3dce2a-f056-4c74-87b0-4ad505",
-    "title": "Binance loses $5.7 billion in largest crypto hack to date",
+    "title": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_10c5b71e-27df-4963-8760-e5d228",
-    "title": "Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner",
+    "id": "news_decrypt_https://decrypt.co/?p=382194",
+    "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner",
-    "timestamp": "2026-10-29T14:15:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
+    "timestamp": "2026-10-29T22:57:48Z",
+    "summary": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=382191",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us",
     "timestamp": "2026-10-29T15:59:48Z",
     "summary": "Intercontinental Exchange signed a deal with Trade[XYZ] to launch regulated perpetual futures built on Hyperliquid in the United States, sending HYPE soaring.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=382145",
-    "title": "Walmart Blocks Its Stock From OKX-ICE Tokenized Trading Venue",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/382145/walmart-blocks-stock-okx-ice-tokenized-trading-venue",
-    "timestamp": "2026-10-29T15:07:15Z",
-    "summary": "Walmart, Eli Lilly, Cigna, Carniva,l and Arcos Dorados objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 38.",
     "source": "Decrypt"
   }
 ]
