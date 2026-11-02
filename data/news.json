@@ -1,6 +1,36 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-11-02T05:34:02Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTCPay Server warns of hot wallet thefts running on outdated software\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Bank of Korea probes financial firms\u2019 exposure to crypto risks",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-11-02T03:55:50Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bank of Korea probes financial firms\u2019 exposure to crypto risks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-11-02T01:51:48Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"THORChain halts swaps after block reorg bug, slowing Binance hackers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
     "platform": "news",
     "type": "news",
@@ -11,12 +41,12 @@
   },
   {
     "id": "news_cointelegraph_https://cointelegraph.com/maga",
-    "title": "$3.64B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler\u2019s Digest",
+    "title": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler\u2019s Digest",
     "platform": "news",
     "type": "news",
     "url": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-11-01T23:09:13Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"$3.64B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler\u2019s Digest\" class=\"type:primaryImage\" src=\"https:...",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler\u2019s Digest\" class=\"type:primaryImage\" src=\"https://s3-i...",
     "source": "CoinTelegraph"
   },
   {
@@ -70,34 +100,44 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+    "id": "news_coindesk_d71137a9-593e-4af9-89f9-252367",
+    "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-31T15:26:46Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin held up better than expected after Binance hack, Strive CEO says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
+    "timestamp": "2026-11-02T06:46:41Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/maga",
-    "title": "Bitcoin turns 18: Has the original rebel grown up?",
+    "id": "news_coindesk_bda8dfee-4a58-43cc-93ea-790fac",
+    "title": "Strangers are begging the Binance hacker for bitcoin, one \u2018help me bro\u2019 at a time",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-31T14:27:52Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin turns 18: Has the original rebel grown up?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+    "timestamp": "2026-11-02T05:18:12Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
+    "id": "news_coindesk_a5495700-b0da-4a42-a75e-bbb298",
+    "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-10-31T13:37:49Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping\" class=\"type:primaryImage\" src=\"https://s3-i...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+    "timestamp": "2026-11-02T04:42:22Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_22fee8c9-31a5-4ed4-8ed6-609fc7",
+    "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
+    "timestamp": "2026-11-02T04:41:16Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_212b4a37-d843-4b6b-ad4c-85c682",
@@ -156,46 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year",
     "timestamp": "2026-11-01T13:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_c4b93198-1e58-46a9-9a7c-9ab736",
-    "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
-    "timestamp": "2026-11-01T10:35:42Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_34bf6cb5-4f6a-47d0-b7a2-256421",
-    "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-    "timestamp": "2026-11-01T01:10:05Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_a2e20bd5-79a4-4c29-9d82-50005d",
-    "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
-    "timestamp": "2026-10-31T18:00:00Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_89afe742-7855-4fa9-b229-7241ba",
-    "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
-    "timestamp": "2026-10-31T16:09:30Z",
     "summary": "",
     "source": "CoinDesk"
   },
