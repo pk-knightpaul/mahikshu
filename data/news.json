@@ -100,6 +100,36 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_89ed2b5b-6c87-4b4b-ada6-ece119",
+    "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+    "timestamp": "2026-11-07T19:13:16Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_fca5b3a9-d4b8-4007-ae74-ed8c0b",
+    "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+    "timestamp": "2026-11-07T17:36:46Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_de7a6efe-7d79-42c8-9cc2-09c1e1",
+    "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+    "timestamp": "2026-11-07T16:51:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_5dfa2541-3949-4457-90b6-fe54b2",
     "title": "Apple, Meta reject OKX\u2013ICE tokenized stock plans, leaving crypto firms as the ones to watch",
     "platform": "news",
@@ -170,34 +200,24 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_316fd3f0-8eff-43cc-a171-d63957",
-    "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
+    "id": "news_decrypt_https://decrypt.co/?p=382768",
+    "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
-    "timestamp": "2026-11-06T11:49:35Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
+    "timestamp": "2026-11-07T17:01:03Z",
+    "summary": "Apple and Meta\u2019s objections mean all seven of the biggest U.S. tech companies have now asked to keep their shares off the planned OKX-ICE venue.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_65a8ba49-bdb7-4c5f-82d1-ef9eea",
-    "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+    "id": "news_decrypt_https://decrypt.co/?p=382770",
+    "title": "AI Chip Stocks Bounce After Global Rout\u2014But Is the Bubble Starting to Burst?",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
-    "timestamp": "2026-11-06T09:53:27Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_523926d2-838e-4b5e-8f67-efe069",
-    "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-    "timestamp": "2026-11-06T08:47:42Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/382770/ai-chip-stocks-bounce-global-rout-bubble-starting-burst",
+    "timestamp": "2026-11-07T16:01:02Z",
+    "summary": "A Friday rebound offered relief after a historic selloff. The question now is whether politics and mounting debt could turn an AI correction into something much worse.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=382714",
@@ -277,26 +297,6 @@
     "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
     "timestamp": "2026-11-06T16:41:29Z",
     "summary": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren\u2019t affected and its enterprise card platform was untouched.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=382717",
-    "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
-    "timestamp": "2026-11-06T16:34:07Z",
-    "summary": "Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the crypto derivatives market has been wiped out.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=382716",
-    "title": "Anthropic IPO Valuation Could Be Slashed in Half to $1T After AI Stock Rout: Report",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/382716/anthropic-ipo-valuation-could-fall-to-1-trillion-after-ai-stock-rout-report",
-    "timestamp": "2026-11-06T16:28:58Z",
-    "summary": "Investors told The Wall Street Journal that the $1.5 trillion target now looks too high, as prediction markets bet on a December listing.",
     "source": "Decrypt"
   }
 ]
