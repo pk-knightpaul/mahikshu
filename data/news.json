@@ -1,6 +1,26 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-11-08T13:33:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Binance France emails announce closure of its users\u2019 accounts on Dec. 31",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-11-08T12:57:51Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance France emails announce closure of its users\u2019 accounts on Dec. 31\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
     "platform": "news",
     "type": "news",
@@ -17,16 +37,6 @@
     "url": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-11-08T08:12:56Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance\u2019s  finance chief Kaiser Ng to leave company, report says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-11-07T14:22:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
     "source": "CoinTelegraph"
   },
   {
@@ -90,14 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+    "id": "news_coindesk_7226ed40-8b46-45e2-a8ad-b6a6c4",
+    "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-11-06T20:51:23Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gnosis Pay breach exposes card details, personal data and crypto wallet information\" class=\"type:primaryImage\" src=\"https://s3-i...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
+    "timestamp": "2026-11-08T12:55:59Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_89ed2b5b-6c87-4b4b-ada6-ece119",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_86f02e90-36bc-4034-81b3-49812f",
-    "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
+    "id": "news_decrypt_https://decrypt.co/?p=382761",
+    "title": "This Bitcoin Developer\u2019s Idea Would Make Quantum Attacks a Losing Bet",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
-    "timestamp": "2026-11-06T11:58:40Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
+    "timestamp": "2026-11-08T14:01:03Z",
+    "summary": "Cory Fields wants future quantum attackers to post Bitcoin as collateral before touching vulnerable wallets, giving prepared owners a chance to recover their coins and collect a potentially costly pen...",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=382768",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group",
     "timestamp": "2026-11-06T17:42:31Z",
     "summary": "OFAC targeted offshore companies and associates it says helped Prince Group executives hide assets and dodge earlier sanctions.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=382718",
-    "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
-    "timestamp": "2026-11-06T16:41:29Z",
-    "summary": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren\u2019t affected and its enterprise card platform was untouched.",
     "source": "Decrypt"
   }
 ]
