@@ -5,24 +5,11 @@
     "platform": "defillama",
     "type": "high_yield",
     "url": "https://defillama.com/yields",
-    "timestamp": "2026-11-09T01:23:49.858510Z",
-    "summary": "APY: 5.08% | TVL: $2396.9M | Chain: Ethereum | Pool: 43641cf5-a92e-416b-bce9-27113d3c0db6...",
+    "timestamp": "2026-11-09T09:00:10.210480Z",
+    "summary": "APY: 5.08% | TVL: $2387.8M | Chain: Ethereum | Pool: 43641cf5-a92e-416b-bce9-27113d3c0db6...",
     "source": "DeFiLlama",
     "apy": 5.08,
-    "tvl": 2396943349,
-    "chain": "Ethereum"
-  },
-  {
-    "id": "defillama_66985a81-9c51-46ca-9977-42b4fe",
-    "title": "High Yield: SUSDE on ethena-usde",
-    "platform": "defillama",
-    "type": "high_yield",
-    "url": "https://defillama.com/yields",
-    "timestamp": "2026-11-09T01:23:49.858579Z",
-    "summary": "APY: 5.02% | TVL: $1204.3M | Chain: Ethereum | Pool: 66985a81-9c51-46ca-9977-42b4fe7bc6df...",
-    "source": "DeFiLlama",
-    "apy": 5.02,
-    "tvl": 1204302019,
+    "tvl": 2387836270,
     "chain": "Ethereum"
   }
 ]
