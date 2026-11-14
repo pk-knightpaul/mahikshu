@@ -100,6 +100,36 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_cb982b52-ddb8-4db1-b1d6-45321b",
+    "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+    "timestamp": "2026-11-14T16:33:29Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_0b8df1d1-4ac4-418e-aa37-4d0f94",
+    "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+    "timestamp": "2026-11-14T16:33:23Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_6bb7183e-803c-4a11-97b5-e49bd6",
+    "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
+    "timestamp": "2026-11-14T15:38:27Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_8a9d870f-8a89-486f-82e4-08fcf6",
     "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
     "platform": "news",
@@ -170,34 +200,34 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_ff22a9f4-376b-4060-837a-b40f77",
-    "title": "Bitcoin heads for sixth weekly loss as Anthropic\u2019s blockbuster IPO looms",
+    "id": "news_decrypt_https://decrypt.co/?p=383280",
+    "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia\u2019s CEO",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
-    "timestamp": "2026-11-13T16:01:27Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
+    "timestamp": "2026-11-14T18:01:02Z",
+    "summary": "In a matter of days, the executive synonymous with the AI boom resigned after 33 years amid reports of affairs and suspected Chinese intelligence ties\u2014sending Nvidia\u2019s stock reeling and leaving the ch...",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_dbe8d728-57ca-4b7e-94cb-c57266",
-    "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
+    "id": "news_decrypt_https://decrypt.co/?p=383270",
+    "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
-    "timestamp": "2026-11-13T14:02:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
+    "timestamp": "2026-11-14T17:01:02Z",
+    "summary": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_ded660e1-16b7-45d4-a83a-418485",
-    "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
+    "id": "news_decrypt_https://decrypt.co/?p=383183",
+    "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
-    "timestamp": "2026-11-13T12:14:22Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
+    "timestamp": "2026-11-14T16:01:02Z",
+    "summary": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=383278",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
     "timestamp": "2026-11-13T18:36:02Z",
     "summary": "The Federal Reserve is examining whether AI will lower prices or keep inflation elevated, a question that could shape interest rates and the outlook for crypto.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=383260",
-    "title": "Trump\u2019s First Democratic Picks for SEC and CFTC Could Reshape Crypto\u2019s Regulators",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/383260/trump-first-democratic-picks-sec-cftc-could-reshape-crypto",
-    "timestamp": "2026-11-13T17:56:03Z",
-    "summary": "The bipartisan slate\u2014two Republicans and two Democrats, Trump\u2019s first Democratic picks for either agency\u2014would refill commissions that have driven crypto policy since the Clarity Act\u2019s collapse.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=383231",
-    "title": "Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/383231/bitcoin-hits-12-week-low-fed-rate-fears-undo-summer-rally",
-    "timestamp": "2026-11-13T17:22:54Z",
-    "summary": "Bitcoin is back near August levels as persistent inflation, growing expectations of another interest-rate hike and ETF withdrawals pressure prices.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=383227",
-    "title": "Crypto Laundering a 'Material Risk' for UK Ahead of FATF Review: RUSI",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/383227/crypto-laundering-a-material-risk-for-uk-ahead-of-fatf-review-rusi",
-    "timestamp": "2026-11-13T13:55:25Z",
-    "summary": "Assessors visit in June 2027, months before full crypto rules take effect, leaving the UK to prove it can enforce against crypto laundering.",
     "source": "Decrypt"
   }
 ]
