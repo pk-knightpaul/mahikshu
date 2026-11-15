@@ -1,6 +1,16 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-11-15T06:27:26Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"RWA protocol stUSDT winds down three years after $2.3B TVL peak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Here\u2019s what happened in crypto today",
     "platform": "news",
     "type": "news",
@@ -90,18 +100,18 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
+    "id": "news_coindesk_8dd3e265-033e-4c68-84a6-9f4605",
+    "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-11-13T16:39:11Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin holds below $70K as stocks slip despite a cooler US PPI print\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+    "timestamp": "2026-11-15T02:50:57Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_cb982b52-ddb8-4db1-b1d6-45321b",
-    "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
+    "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
@@ -186,16 +196,6 @@
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
     "timestamp": "2026-11-13T18:39:58Z",
-    "summary": "",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "news_coindesk_269d6366-dcbe-42f9-8611-2eaa52",
-    "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
-    "platform": "news",
-    "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
-    "timestamp": "2026-11-13T17:05:43Z",
     "summary": "",
     "source": "CoinDesk"
   },
