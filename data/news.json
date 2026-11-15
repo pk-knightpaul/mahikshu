@@ -100,6 +100,16 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_76a39743-2aa4-4bd6-a586-7ec4af",
+    "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+    "timestamp": "2026-11-15T19:30:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_afff7995-81bc-49b7-b103-f99e81",
     "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
     "platform": "news",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_22ee7c37-de83-49b3-bc27-2b5459",
-    "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+    "id": "news_decrypt_https://decrypt.co/?p=383284",
+    "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
-    "timestamp": "2026-11-13T23:30:00Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+    "timestamp": "2026-11-15T16:01:02Z",
+    "summary": "From Goldman and Citi\u2019s $270 million \u201cProject Faro\u201d to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=383282",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
     "timestamp": "2026-11-13T20:16:03Z",
     "summary": "The bank\u2019s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase\u2014likely over $1 billion counting Robinhood and miners.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=383264",
-    "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
-    "timestamp": "2026-11-13T19:36:03Z",
-    "summary": "Two Bitcoin mining rewards from September 2010 moved minutes apart. The coins are worth nearly 1.15 million times their original market value.",
     "source": "Decrypt"
   }
 ]
