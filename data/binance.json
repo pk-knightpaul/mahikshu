@@ -1,5 +1,25 @@
 [
   {
+    "id": "binance_693bb3ed50e2420dad614ba78a22e9ea",
+    "title": "Binance Margin Will Initiate Routine Cleanup of Small-Asset Accounts (2026-11-30)",
+    "platform": "binance",
+    "type": "announcement",
+    "url": "https://www.binance.com/en/support/announcement/693bb3ed50e2420dad614ba78a22e9ea",
+    "timestamp": "2026-11-17T10:00:03.473000Z",
+    "summary": "Binance: Binance Margin Will Initiate Routine Cleanup of Small-Asset Accounts (2026-11-30)",
+    "source": "Binance"
+  },
+  {
+    "id": "binance_77a8571f886c4f1ea665420330b96f58",
+    "title": "Updates on Tick Size for Multiple USD\u24c8-M Perpetual Futures Contracts (2026-11-18)",
+    "platform": "binance",
+    "type": "announcement",
+    "url": "https://www.binance.com/en/support/announcement/77a8571f886c4f1ea665420330b96f58",
+    "timestamp": "2026-11-17T06:00:09.330000Z",
+    "summary": "Binance: Updates on Tick Size for Multiple USD\u24c8-M Perpetual Futures Contracts (2026-11-18)",
+    "source": "Binance"
+  },
+  {
     "id": "binance_5f041987d1ca4252a3c59ad27eff3e28",
     "title": "Introducing Binance Pay Later: Spend Without Selling Your Crypto and Enjoy 0% Interest Until the First of Next Month",
     "platform": "binance",
@@ -477,26 +497,6 @@
     "url": "https://www.binance.com/en/support/announcement/7d76e6a921024e09a91523f983503014",
     "timestamp": "2026-10-20T12:00:07.019000Z",
     "summary": "Binance: Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-10-23)",
-    "source": "Binance"
-  },
-  {
-    "id": "binance_dfdb6d70a9c24ba19b814fbd92b516d4",
-    "title": "Update on the Margin Tiers of USD\u24c8-M Perpetual Contracts (2026-10-30)",
-    "platform": "binance",
-    "type": "announcement",
-    "url": "https://www.binance.com/en/support/announcement/dfdb6d70a9c24ba19b814fbd92b516d4",
-    "timestamp": "2026-10-20T09:30:07.731000Z",
-    "summary": "Binance: Update on the Margin Tiers of USD\u24c8-M Perpetual Contracts (2026-10-30)",
-    "source": "Binance"
-  },
-  {
-    "id": "binance_1a5f87ab3b77476b9ad0177b560e3054",
-    "title": "Binance to Support 24/7 Dynamic Updates of the bStocks Collateral Index Price",
-    "platform": "binance",
-    "type": "announcement",
-    "url": "https://www.binance.com/en/support/announcement/1a5f87ab3b77476b9ad0177b560e3054",
-    "timestamp": "2026-10-20T08:00:06.609000Z",
-    "summary": "Binance: Binance to Support 24/7 Dynamic Updates of the bStocks Collateral Index Price",
     "source": "Binance"
   }
 ]
