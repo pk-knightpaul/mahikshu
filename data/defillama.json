@@ -5,11 +5,11 @@
     "platform": "defillama",
     "type": "high_yield",
     "url": "https://defillama.com/yields",
-    "timestamp": "2026-11-19T09:47:19.227578Z",
-    "summary": "APY: 5.36% | TVL: $1172.7M | Chain: Ethereum | Pool: 66985a81-9c51-46ca-9977-42b4fe7bc6df...",
+    "timestamp": "2026-11-19T18:48:04.996957Z",
+    "summary": "APY: 5.37% | TVL: $1171.2M | Chain: Ethereum | Pool: 66985a81-9c51-46ca-9977-42b4fe7bc6df...",
     "source": "DeFiLlama",
-    "apy": 5.36,
-    "tvl": 1172686671,
+    "apy": 5.37,
+    "tvl": 1171187023,
     "chain": "Ethereum"
   },
   {
@@ -18,11 +18,24 @@
     "platform": "defillama",
     "type": "high_yield",
     "url": "https://defillama.com/yields",
-    "timestamp": "2026-11-19T09:47:19.227648Z",
-    "summary": "APY: 5.23% | TVL: $856.8M | Chain: Ethereum | Pool: 43641cf5-a92e-416b-bce9-27113d3c0db6...",
+    "timestamp": "2026-11-19T18:48:04.997010Z",
+    "summary": "APY: 5.23% | TVL: $855.9M | Chain: Ethereum | Pool: 43641cf5-a92e-416b-bce9-27113d3c0db6...",
     "source": "DeFiLlama",
     "apy": 5.23,
-    "tvl": 856785985,
+    "tvl": 855933394,
     "chain": "Ethereum"
+  },
+  {
+    "id": "defillama_0e7d0722-9054-4907-8593-567b35",
+    "title": "High Yield: JITOSOL on jito-liquid-staking",
+    "platform": "defillama",
+    "type": "high_yield",
+    "url": "https://defillama.com/yields",
+    "timestamp": "2026-11-19T18:48:04.997019Z",
+    "summary": "APY: 5.14% | TVL: $735.5M | Chain: Solana | Pool: 0e7d0722-9054-4907-8593-567b353c0900...",
+    "source": "DeFiLlama",
+    "apy": 5.14,
+    "tvl": 735538049,
+    "chain": "Solana"
   }
 ]
