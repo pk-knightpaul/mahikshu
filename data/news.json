@@ -1,5 +1,25 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-11-20T19:37:27Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-11-20T18:37:10Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims\" class=\"type:primaryImage\" src=\"https://s3-...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/mark",
     "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
     "platform": "news",
@@ -80,24 +100,34 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin nears repeat of chart pattern that preceded 2023\u2019s $25K retest",
+    "id": "news_coindesk_bb74b2cc-a153-481b-b273-06d8d8",
+    "title": "Kalshi races to get ahead of New York order that could shut down exchange",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-11-20T10:29:10Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin nears repeat of chart pattern that preceded 2023\u2019s $25K retest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+    "timestamp": "2026-11-20T22:51:14Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "BlackRock\u2019s IBIT loses record $541M amid Anthropic market debut",
+    "id": "news_coindesk_704ae44c-3f58-4f72-966d-8a9d73",
+    "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-11-20T08:18:42Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock\u2019s IBIT loses record $541M amid Anthropic market debut\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+    "timestamp": "2026-11-20T22:05:31Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_99184b72-b40c-48d0-a1c5-31252f",
+    "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+    "timestamp": "2026-11-20T18:13:52Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_daf3de9f-3254-4566-9424-a0e276",
@@ -131,7 +161,7 @@
   },
   {
     "id": "news_coindesk_c5db2309-b9b1-4e06-89e0-ae5e8a",
-    "title": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
+    "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
@@ -170,34 +200,64 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_50b979ea-f28b-4c59-a106-89db43",
-    "title": "Bitcoin drops for third straight day as Asian tech shares slide",
+    "id": "news_decrypt_https://decrypt.co/?p=383747",
+    "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
-    "timestamp": "2026-11-20T11:42:02Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
+    "timestamp": "2026-11-20T21:36:02Z",
+    "summary": "Levent Alp\u00f6ge claims Claude helped prove a 167-year-old math conjecture, but independent checks remain pending, and the release just after Anthropic\u2019s IPO has prompted questions about its unusual publ...",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_a6ee60e7-fc00-4cc5-81fc-35c1b6",
-    "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
+    "id": "news_decrypt_https://decrypt.co/?p=383744",
+    "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
-    "timestamp": "2026-11-20T10:48:04Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
+    "timestamp": "2026-11-20T20:36:54Z",
+    "summary": "Nvidia shares fell about 13% to a 52-week low after reports that SEC enforcement staff are examining potential accounting issues, adding to pressure on the chipmaker after Jensen Huang\u2019s resignation.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_3770363e-03e5-41a9-81fd-1147a2",
-    "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
+    "id": "news_decrypt_https://decrypt.co/?p=383739",
+    "title": "SBF\u2019s 'The Altruists' Plot Twist: FTX\u2019s Anthropic Shares Would Be Worth $43 Billion",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
-    "timestamp": "2026-11-20T10:02:03Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
+    "timestamp": "2026-11-20T19:36:03Z",
+    "summary": "Anthropic\u2019s IPO made FTX\u2019s liquidated AI bet a $43 billion what-if, just as Netflix premiered its Sam Bankman-Fried drama.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=383737",
+    "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
+    "timestamp": "2026-11-20T18:46:03Z",
+    "summary": "The firm bought 934,968 Anthropic shares across six ETFs on the Claude maker\u2019s Nasdaq debut while trimming a combined $4.1 million from its Ethereum and Solana staking ETFs.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=383733",
+    "title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
+    "timestamp": "2026-11-20T18:16:02Z",
+    "summary": "Gemini's new Mac computer-use feature navigates apps, files, and websites in a separate window, but Google's own documentation warns about prompt injection.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=383732",
+    "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
+    "timestamp": "2026-11-20T17:41:45Z",
+    "summary": "Wagyu\u2019s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=383702",
@@ -237,66 +297,6 @@
     "url": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
     "timestamp": "2026-11-20T12:10:14Z",
     "summary": "The crypto payments firm joins a rush of crypto companies seeking federal trust charters, which face growing political scrutiny.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=383685",
-    "title": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
-    "timestamp": "2026-11-20T11:50:51Z",
-    "summary": "Thursday's ETF outflow was the funds' biggest in three weeks, as rising Treasury yields and Fed rate hike bets weigh on crypto.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=383682",
-    "title": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report",
-    "timestamp": "2026-11-20T11:23:00Z",
-    "summary": "The exchange offers event contracts through Kalshi, but running its own would give it more control and a bigger share of trading revenue.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=383679",
-    "title": "CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default",
-    "timestamp": "2026-11-20T10:07:46Z",
-    "summary": "The UK crypto trade group broadly backed the regulator's proposed perimeter guidance, but warned that parts of it go further than the law.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=383677",
-    "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue\u2014Even After a Hack",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
-    "timestamp": "2026-11-19T22:36:02Z",
-    "summary": "Citibank\u2019s updated terms put customers on the hook for outside AI agents, including leaked logins.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=383669",
-    "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
-    "timestamp": "2026-11-19T21:12:06Z",
-    "summary": "Anthropic shares opened 34% above their $83 IPO price before giving up much of the gain, while Nvidia, AMD and other AI stocks slid across Wall Street.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=383666",
-    "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
-    "timestamp": "2026-11-19T20:46:02Z",
-    "summary": "A new post-quantum signature proposal aims to secure Bitcoin\u2019s future, but balancing user safety and efficiency comes with hurdles.",
     "source": "Decrypt"
   }
 ]
