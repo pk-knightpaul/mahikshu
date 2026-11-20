@@ -1,6 +1,66 @@
 [
   {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-11-19T23:44:02Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger CTO Charles Guillemet to leave after nine years at company\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/maga",
+    "title": "Binance\u2019s $6.5B freeze order, Hong Kong \u2018suspicious\u2019 of HYPE: Asia Express",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-11-19T22:25:18Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance\u2019s $6.5B freeze order, Hong Kong \u2018suspicious\u2019 of HYPE: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctm...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-11-19T21:42:20Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-11-19T21:01:42Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MoonPay seeks US bank charter for stablecoin, custody services\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/mark",
+    "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-11-19T20:33:24Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Trump\u2019s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-11-19T20:06:34Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump\u2019s SEC nominee Johnson backs formal rulemaking for tokenized stock trading\" class=\"type:primaryImage\" src=\"https://s3-image...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "Ethereum\u2019s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
     "platform": "news",
     "type": "news",
@@ -40,64 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
+    "id": "news_coindesk_c4e393c3-c981-4caa-9469-99cd85",
+    "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-11-19T13:48:14Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/maga",
-    "title": "Ethereum\u2019s new DeFi security tool raises questions over censorship",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-11-19T13:30:00Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum\u2019s new DeFi security tool raises questions over censorship\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Hong Kong adds Hyperliquid to list of \u2018suspicious\u2019 crypto platforms",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-11-19T12:44:06Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hong Kong adds Hyperliquid to list of \u2018suspicious\u2019 crypto platforms\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "GTA VI publisher racks up nearly 3x Nvidia\u2019s tokenized stock volume",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-11-19T12:33:46Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"GTA VI publisher racks up nearly 3x Nvidia\u2019s tokenized stock volume\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Sweden\u2019s H100 could tap Bitcoin trading pool to fund share buybacks",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-11-19T11:19:58Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sweden\u2019s H100 could tap Bitcoin trading pool to fund share buybacks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-11-19T10:32:05Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"IOSCO warns quantum upgrades could slow blockchains, leave security gaps\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed...",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+    "timestamp": "2026-11-19T19:53:42Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_ff85d1c2-f6b5-4ff8-9362-c579ce",
@@ -111,7 +121,7 @@
   },
   {
     "id": "news_coindesk_ccbbc1b5-409d-46e3-a399-e4c466",
-    "title": "Anthropic opens for trade at $111.50, up 34% from IPO price",
+    "title": "Anthropic gains after IPO, but pulls off highest levels",
     "platform": "news",
     "type": "news",
     "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
@@ -190,14 +200,54 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_91ca66db-24cf-4b83-9c86-0b40ff",
-    "title": "Anthropic\u2019s $107 billion sale set to top SpaceX\u2019s IPO as tokenized stocks gain traction",
+    "id": "news_decrypt_https://decrypt.co/?p=383677",
+    "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue\u2014Even After a Hack",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul",
-    "timestamp": "2026-11-19T11:06:13Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
+    "timestamp": "2026-11-19T22:36:02Z",
+    "summary": "Citibank\u2019s updated terms put customers on the hook for outside AI agents, including leaked logins.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=383669",
+    "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
+    "timestamp": "2026-11-19T21:12:06Z",
+    "summary": "Anthropic shares opened 34% above their $83 IPO price before giving up much of the gain, while Nvidia, AMD and other AI stocks slid across Wall Street.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=383666",
+    "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
+    "timestamp": "2026-11-19T20:46:02Z",
+    "summary": "A new post-quantum signature proposal aims to secure Bitcoin\u2019s future, but balancing user safety and efficiency comes with hurdles.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=383663",
+    "title": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
+    "timestamp": "2026-11-19T20:15:32Z",
+    "summary": "A ransomware group breached third-party vendors, not the companies\u2019 own systems. Visa said no card data was affected while Mastercard cited a limited cardholder subset.",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=383655",
+    "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
+    "timestamp": "2026-11-19T19:08:24Z",
+    "summary": "Anthropic shares surged on their Nasdaq debut, but stocks slid and Bitcoin fell lower. Its daily chart shows deeply oversold momentum, a strong downtrend, and fragile support.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=383642",
@@ -247,56 +297,6 @@
     "url": "https://decrypt.co/383589/gen-z-embraces-crypto-most-americans-side-quest",
     "timestamp": "2026-11-19T14:01:02Z",
     "summary": "A SoFi and YouGov survey found that 21% of Gen Z adults own crypto, more than hold employer retirement plans, even as only 13% of all Americans own it and most remain skeptical.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=383613",
-    "title": "Quantum Upgrade Could Be 'Particularly Challenging' for Blockchains: IOSCO",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/383613/quantum-upgrade-could-be-particularly-challenging-for-blockchains-iosco",
-    "timestamp": "2026-11-19T13:47:00Z",
-    "summary": "The global securities watchdog said markets shouldn't wait for quantum computers to arrive, flagging bulkier signatures and harder upgrades.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=383609",
-    "title": "Morning Minute: Google\u2019s Newest AI Model Tops Benchmarks Ahead of Anthropic IPO",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/383609/morning-minute-googles-newest-ai-model-tops-benchmarks-ahead-of-anthropic-ipo",
-    "timestamp": "2026-11-19T13:05:28Z",
-    "summary": "Anthropic bulls seem to be shrugging off the news, as ANT pops 25% over IPO price on Hyperliquid pre-debut.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=383608",
-    "title": "Binance Wins $6.5B Freezing Order Over Hack That Can Be Served via the Blockchain",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain",
-    "timestamp": "2026-11-19T12:59:14Z",
-    "summary": "An Abu Dhabi court's worldwide injunction targets the unknown hackers, backed by a \"living list\" of 26,000 wallets holding stolen funds.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=383600",
-    "title": "GameStop CEO Says Digital-Only Games Have \u2018Hurt Consumers\u2019 as GTA 6 Skips Discs",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/383600/gamestop-ceo-says-digital-only-games-have-hurt-consumers-as-gta-6-skips-discs",
-    "timestamp": "2026-11-19T11:15:08Z",
-    "summary": "Ryan Cohen said publishers are cutting out trade-ins, as he backs a U.S. bill that would guarantee gamers keep access to games they buy.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=383597",
-    "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
-    "timestamp": "2026-11-19T10:25:05Z",
-    "summary": "Bitcoin is down 13% in a week as investors pull money from spot ETFs and brace for another Federal Reserve rate hike.",
     "source": "Decrypt"
   }
 ]
