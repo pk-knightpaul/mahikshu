@@ -100,6 +100,26 @@
     "source": "CoinTelegraph"
   },
   {
+    "id": "news_coindesk_5dd63840-00fd-4b09-82a6-ff9776",
+    "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+    "timestamp": "2026-11-21T17:50:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "news_coindesk_534efbfb-a1fb-4e36-9931-ef398f",
+    "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+    "platform": "news",
+    "type": "news",
+    "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+    "timestamp": "2026-11-21T16:41:00Z",
+    "summary": "",
+    "source": "CoinDesk"
+  },
+  {
     "id": "news_coindesk_7af3f917-e163-4f72-ab50-233d58",
     "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
     "platform": "news",
@@ -180,24 +200,34 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_4942d150-53dc-4b7b-83a2-1948aa",
-    "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
+    "id": "news_decrypt_https://decrypt.co/?p=383756",
+    "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
-    "timestamp": "2026-11-20T14:38:30Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+    "timestamp": "2026-11-21T18:01:02Z",
+    "summary": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million.",
+    "source": "Decrypt"
   },
   {
-    "id": "news_coindesk_dbfc158e-a3de-440b-b7c5-bdcabb",
-    "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
+    "id": "news_decrypt_https://decrypt.co/?p=383752",
+    "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
-    "timestamp": "2026-11-20T14:25:57Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+    "timestamp": "2026-11-21T17:01:02Z",
+    "summary": "The agency says eight Colorado-registered entities, likely run from overseas, posed as legitimate advisers and crypto platforms\u2014even faking SEC certificates and filings\u2014to defraud U.S. investors of mo...",
+    "source": "Decrypt"
+  },
+  {
+    "id": "news_decrypt_https://decrypt.co/?p=383750",
+    "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
+    "platform": "news",
+    "type": "news",
+    "url": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
+    "timestamp": "2026-11-21T16:01:02Z",
+    "summary": "The encrypted-messaging app will restrict screenshots on iOS 27 and auto-enable screen security on Android when it detects an AI assistant reading a chat.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=383754",
@@ -267,36 +297,6 @@
     "url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
     "timestamp": "2026-11-20T17:41:45Z",
     "summary": "Wagyu\u2019s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=383702",
-    "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
-    "timestamp": "2026-11-20T16:35:59Z",
-    "summary": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic\u2019s IPO.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=383700",
-    "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
-    "timestamp": "2026-11-20T15:42:51Z",
-    "summary": "Sen. Adam Schiff's DEATH BETS Act would bar U.S.-regulated exchanges from listing contracts tied to war, assassinations or deaths.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=383691",
-    "title": "Morning Minute: Anthropic IPO Pops, Sinks Markets",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets",
-    "timestamp": "2026-11-20T13:23:01Z",
-    "summary": "A (brief) win for Anthropic's ANT stock on IPO day meant a loss for just about every other major asset class.",
     "source": "Decrypt"
   }
 ]
