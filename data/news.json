@@ -1,5 +1,35 @@
 [
   {
+    "id": "news_cointelegraph_https://cointelegraph.com/opin",
+    "title": "The future of onchain FX could start with users, not institutional liquidity",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-11-22T14:30:00Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The future of onchain FX could start with users, not institutional liquidity\" class=\"type:primaryImage\" src=\"https://s3-images.c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Here\u2019s what happened in crypto today",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-11-22T11:25:27Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
+    "source": "CoinTelegraph"
+  },
+  {
+    "id": "news_cointelegraph_https://cointelegraph.com/news",
+    "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+    "platform": "news",
+    "type": "news",
+    "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "timestamp": "2026-11-22T09:33:06Z",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin briefly drops to $17K on Kraken, exchange upholds trades\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me...",
+    "source": "CoinTelegraph"
+  },
+  {
     "id": "news_cointelegraph_https://cointelegraph.com/news",
     "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
     "platform": "news",
@@ -17,16 +47,6 @@
     "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "timestamp": "2026-11-22T05:28:43Z",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chainflip confirms $12M hack, offers attacker 10% bounty\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "Here\u2019s what happened in crypto today",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-11-21T11:18:52Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c...",
     "source": "CoinTelegraph"
   },
   {
@@ -80,24 +100,14 @@
     "source": "CoinTelegraph"
   },
   {
-    "id": "news_cointelegraph_https://cointelegraph.com/mark",
-    "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
+    "id": "news_coindesk_f761552b-7843-4b58-b5f4-cffcc5",
+    "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
     "platform": "news",
     "type": "news",
-    "url": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-11-20T16:55:51Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin falls below $60K for first time since July amid broader market selloff\" class=\"type:primaryImage\" src=\"https://s3-images...",
-    "source": "CoinTelegraph"
-  },
-  {
-    "id": "news_cointelegraph_https://cointelegraph.com/news",
-    "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
-    "platform": "news",
-    "type": "news",
-    "url": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "timestamp": "2026-11-20T15:55:22Z",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate advances prediction market restrictions with DEATH BETS Act\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia....",
-    "source": "CoinTelegraph"
+    "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+    "timestamp": "2026-11-22T14:00:00Z",
+    "summary": "",
+    "source": "CoinDesk"
   },
   {
     "id": "news_coindesk_5dd63840-00fd-4b09-82a6-ff9776",
@@ -190,14 +200,14 @@
     "source": "CoinDesk"
   },
   {
-    "id": "news_coindesk_daf3de9f-3254-4566-9424-a0e276",
-    "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
+    "id": "news_decrypt_https://decrypt.co/?p=383743",
+    "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
     "platform": "news",
     "type": "news",
-    "url": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
-    "timestamp": "2026-11-20T14:54:30Z",
-    "summary": "",
-    "source": "CoinDesk"
+    "url": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
+    "timestamp": "2026-11-22T14:01:02Z",
+    "summary": "Google\u2019s Willow quantum processor beat the classical ceiling in a four-qubit coordination game, revealing a promising hardware test rather than commercial quantum computing.",
+    "source": "Decrypt"
   },
   {
     "id": "news_decrypt_https://decrypt.co/?p=383756",
@@ -287,16 +297,6 @@
     "url": "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
     "timestamp": "2026-11-20T18:16:02Z",
     "summary": "Gemini's new Mac computer-use feature navigates apps, files, and websites in a separate window, but Google's own documentation warns about prompt injection.",
-    "source": "Decrypt"
-  },
-  {
-    "id": "news_decrypt_https://decrypt.co/?p=383732",
-    "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
-    "platform": "news",
-    "type": "news",
-    "url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
-    "timestamp": "2026-11-20T17:41:45Z",
-    "summary": "Wagyu\u2019s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million.",
     "source": "Decrypt"
   }
 ]
