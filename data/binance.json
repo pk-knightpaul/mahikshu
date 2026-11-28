@@ -1,5 +1,15 @@
 [
   {
+    "id": "binance_33056fdf133147dd9bcae473ad6623cc",
+    "title": "SAFU Update: Adjusting Fund Holdings",
+    "platform": "binance",
+    "type": "announcement",
+    "url": "https://www.binance.com/en/support/announcement/33056fdf133147dd9bcae473ad6623cc",
+    "timestamp": "2026-11-28T06:00:02.545000Z",
+    "summary": "Binance: SAFU Update: Adjusting Fund Holdings",
+    "source": "Binance"
+  },
+  {
     "id": "binance_b3fb3864ae1743ce8a2c4eb3417e09f4",
     "title": "Binance Will Support the Cash Dividend Distribution of SK hynix Inc. (SKHY), The Goldman Sachs Group, Inc (GS) and Zoom Communications, Inc. (ZM) via bStocks",
     "platform": "binance",
@@ -487,16 +497,6 @@
     "url": "https://www.binance.com/en/support/announcement/a225a3b6084c41dc8c8dfb33f4de5872",
     "timestamp": "2026-11-05T03:04:49.654000Z",
     "summary": "Binance: Security Incident | Recovery Update #8: Withdrawals for More Assets to Reopen (2026-11-05)",
-    "source": "Binance"
-  },
-  {
-    "id": "binance_c6ba9aa726974fc6b9332a2c8f63b405",
-    "title": "Security Incident | Recovery Update #7: 98% of Stolen Assets Replenished and New PoR Snapshot With Expanded Coverage (2026-11-04)",
-    "platform": "binance",
-    "type": "announcement",
-    "url": "https://www.binance.com/en/support/announcement/c6ba9aa726974fc6b9332a2c8f63b405",
-    "timestamp": "2026-11-04T15:23:54.250000Z",
-    "summary": "Binance: Security Incident | Recovery Update #7: 98% of Stolen Assets Replenished and New PoR Snapshot With Expanded Coverage (2026-11-04)",
     "source": "Binance"
   }
 ]
